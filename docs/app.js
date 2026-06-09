@@ -447,6 +447,186 @@ function resetProg() {
   if (confirm('Gesamten Lernfortschritt löschen?')) { S.cards = {}; S.stats = {}; save(); learnQueue = []; updateHeader(); renderSettings(); toast('Zurückgesetzt'); }
 }
 
+/* ================= AUTO / FAHRT-MODUS (Audio) ================= */
+let autoState = { list: [], idx: 0, playing: false, answerShown: false, seq: 0 };
+let autoSettings = { source: 'wichtig', gap: 4000, voice: true };
+let wakeLock = null, recog = null, voiceActive = false, autoTimer = null;
+
+function renderAutoSetup() {
+  setTab('auto'); view.innerHTML = '';
+  const bopts = boegen.map(b => `<option value="b${b}">Nur Bogen ${b}</option>`).join('');
+  view.append(el(`
+    <div class="card"><h2 style="margin-top:0">🚗 Auto-Modus (Audio)</h2>
+      <p class="muted">Hände frei lernen: Fragen &amp; Kurzantworten werden vorgelesen. Bitte Gerät ins <b>Querformat</b> drehen. Große Buttons, optional Sprachbefehle.</p>
+      <div class="label">Was lernen?</div>
+      <select id="autoSrc">
+        <option value="wichtig">⭐ Wichtigste zuerst</option>
+        <option value="schwach">Nur Schwächen (Box 1–2)</option>
+        <option value="faellig">Fällige (Wiederholung)</option>
+        <option value="alle">Alle 450 (zufällig)</option>
+        ${bopts}
+      </select>
+      <div class="label">Denkpause (Zeit zum Selbstbeantworten)</div>
+      <select id="autoGap"><option value="2500">kurz (2,5s)</option><option value="4000" selected>normal (4s)</option><option value="6500">lang (6,5s)</option></select>
+      <label class="row" style="margin-top:12px;justify-content:flex-start;gap:8px">
+        <input type="checkbox" id="autoVoice" style="width:auto" ${autoSettings.voice ? 'checked' : ''}>
+        <span>Sprachbefehle versuchen („gewusst", „nicht", „weiter", „antwort")</span></label>
+      <div style="height:14px"></div>
+      <button class="btn-primary" onclick="startAuto()">▶︎ Losfahren</button>
+      <p class="muted" style="font-size:13px;margin-top:10px">Hinweis: Sprachsteuerung &amp; Lenkrad-Tasten sind je nach iPhone eingeschränkt – die großen Buttons funktionieren immer. Fahr sicher: im Zweifel nur zuhören.</p>
+    </div>`));
+}
+
+function buildAutoList(src) {
+  if (src && src[0] === 'b') { const b = +src.slice(1); return DATA.filter(q => q.bogen === b).sort((a, c) => a.num - c.num); }
+  if (src === 'schwach') { let p = DATA.filter(q => { const c = S.cards[q.id]; return c && c.box <= 2; }); if (p.length < 5) p = DATA.filter(q => !mastered(q.id)); return shuffle(p); }
+  if (src === 'faellig') return shuffle(DATA.filter(q => isDue(q.id)));
+  if (src === 'alle') return shuffle(DATA.slice());
+  // wichtig (default)
+  return DATA.filter(q => !mastered(q.id)).sort((a, c) => (c.wichtigkeit - a.wichtigkeit) || ((a.kurzantwort || a.antwort).length - (c.kurzantwort || c.antwort).length));
+}
+
+function startAuto() {
+  const srcEl = document.getElementById('autoSrc'), gapEl = document.getElementById('autoGap'), vEl = document.getElementById('autoVoice');
+  if (srcEl) autoSettings.source = srcEl.value;
+  if (gapEl) autoSettings.gap = +gapEl.value;
+  if (vEl) autoSettings.voice = vEl.checked;
+  autoState.list = buildAutoList(autoSettings.source);
+  if (!autoState.list.length) autoState.list = buildAutoList('alle');
+  autoState.idx = 0; autoState.playing = true;
+  buildAutoView();
+  requestWake(); lockLandscape(); setupMediaSession();
+  if (autoSettings.voice) setupRecog();
+  playCurrent();
+}
+function buildAutoView() {
+  let v = document.getElementById('autoView'); if (v) v.remove();
+  v = el(`<div class="auto-view" id="autoView">
+    <div class="auto-rotate"><div class="big">🔄</div><div>Bitte ins <b>Querformat</b> drehen</div></div>
+    <div class="auto-top"><span id="autoMeta"></span><button class="x" onclick="stopAuto()">✕</button></div>
+    <div class="auto-mid">
+      <div class="auto-tag" id="autoTag">Frage</div>
+      <div class="auto-q" id="autoQ"></div>
+      <div class="auto-a hidden" id="autoA"></div>
+      <div class="auto-listen" id="autoListen"></div>
+    </div>
+    <div class="auto-rate">
+      <button class="nope" onclick="autoRate('bad')">👎 Nicht gewusst</button>
+      <button class="yep" onclick="autoRate('good')">👍 Gewusst</button>
+    </div>
+    <div class="auto-ctl">
+      <button onclick="autoPrev()">⏮</button>
+      <button class="mid" id="autoPlayBtn" onclick="autoTogglePlay()">⏸</button>
+      <button onclick="autoSpeakAnswer()">📜</button>
+      <button onclick="autoNext()">⏭</button>
+    </div>
+    <div class="auto-hint" id="autoHint"></div></div>`);
+  document.body.append(v);
+}
+function speak(text, onend) {
+  if (typeof speechSynthesis === 'undefined' || typeof SpeechSynthesisUtterance === 'undefined') { if (onend) setTimeout(onend, 0); return; }
+  try { speechSynthesis.cancel(); } catch (e) { }
+  const u = new SpeechSynthesisUtterance(text); u.lang = 'de-DE'; u.rate = 1; if (onend) u.onend = onend;
+  speechSynthesis.speak(u);
+}
+function setHint() {
+  const h = document.getElementById('autoHint'); if (!h) return;
+  h.textContent = voiceActive ? 'Sprachbefehle aktiv · oder große Buttons' : 'Steuerung über die großen Buttons';
+}
+function playCurrent() {
+  clearTimeout(autoTimer);
+  const v = document.getElementById('autoView'); if (!v) return;
+  const seq = ++autoState.seq;
+  const q = autoState.list[autoState.idx]; if (!q) return;
+  autoState.answerShown = false;
+  document.getElementById('autoMeta').textContent = `Bogen ${q.bogen} · Frage ${q.num} · ${autoState.idx + 1}/${autoState.list.length}`;
+  document.getElementById('autoTag').textContent = 'Frage';
+  document.getElementById('autoQ').textContent = q.frage;
+  const a = document.getElementById('autoA'); a.textContent = ''; a.classList.add('hidden');
+  setHint();
+  if (!autoState.playing) return;
+  speak(q.frage, () => {
+    if (seq !== autoState.seq || !autoState.playing) return;
+    autoTimer = setTimeout(() => revealAnswer(seq), autoSettings.gap);
+  });
+}
+function revealAnswer(seq) {
+  if (seq !== autoState.seq || !autoState.playing) return;
+  const q = autoState.list[autoState.idx]; autoState.answerShown = true;
+  document.getElementById('autoTag').textContent = 'Kurzantwort';
+  const a = document.getElementById('autoA'); a.textContent = q.kurzantwort || q.antwort; a.classList.remove('hidden');
+  // als gehört markieren
+  const c = card(q.id); c.seen++; c.last = Date.now(); S.cards[q.id] = c; save();
+  speak(q.kurzantwort || q.antwort, () => {
+    if (seq !== autoState.seq || !autoState.playing) return;
+    if (voiceActive) startListening();
+    autoTimer = setTimeout(() => { if (seq === autoState.seq && autoState.playing) autoNext(); }, Math.max(5000, autoSettings.gap + 2500));
+  });
+}
+function autoNext() { clearTimeout(autoTimer); autoState.idx = (autoState.idx + 1) % autoState.list.length; playCurrent(); }
+function autoPrev() { clearTimeout(autoTimer); autoState.idx = (autoState.idx - 1 + autoState.list.length) % autoState.list.length; playCurrent(); }
+function autoTogglePlay() {
+  autoState.playing = !autoState.playing;
+  const btn = document.getElementById('autoPlayBtn'); if (btn) btn.textContent = autoState.playing ? '⏸' : '▶︎';
+  if (!autoState.playing) { clearTimeout(autoTimer); try { speechSynthesis.cancel(); } catch (e) { } }
+  else playCurrent();
+}
+function autoSpeakAnswer() {
+  const q = autoState.list[autoState.idx]; if (!q) return;
+  autoState.answerShown = true;
+  document.getElementById('autoTag').textContent = 'Musterantwort';
+  const a = document.getElementById('autoA'); a.textContent = q.antwort; a.classList.remove('hidden');
+  speak(q.antwort);
+}
+function autoRate(r) {
+  const q = autoState.list[autoState.idx]; if (!q) return;
+  applyRating(q.id, r); updateHeader(); autoNext();
+}
+function stopAuto() {
+  autoState.playing = false; clearTimeout(autoTimer);
+  try { speechSynthesis.cancel(); } catch (e) { }
+  stopListening(); releaseWake(); unlockOrientation();
+  const v = document.getElementById('autoView'); if (v) v.remove();
+  renderLearn();
+}
+/* Geräte-APIs (alle defensiv) */
+async function requestWake() { try { if ('wakeLock' in navigator) wakeLock = await navigator.wakeLock.request('screen'); } catch (e) { } }
+async function releaseWake() { try { if (wakeLock) { await wakeLock.release(); wakeLock = null; } } catch (e) { } }
+function lockLandscape() { try { if (screen.orientation && screen.orientation.lock) screen.orientation.lock('landscape').catch(() => { }); } catch (e) { } }
+function unlockOrientation() { try { if (screen.orientation && screen.orientation.unlock) screen.orientation.unlock(); } catch (e) { } }
+function setupMediaSession() {
+  try {
+    if (!('mediaSession' in navigator)) return;
+    navigator.mediaSession.metadata = new window.MediaMetadata({ title: 'SKS Auto-Lernen', artist: 'SKS Trainer' });
+    navigator.mediaSession.setActionHandler('play', () => autoTogglePlay());
+    navigator.mediaSession.setActionHandler('pause', () => autoTogglePlay());
+    navigator.mediaSession.setActionHandler('nexttrack', () => autoNext());
+    navigator.mediaSession.setActionHandler('previoustrack', () => autoPrev());
+  } catch (e) { }
+}
+function setupRecog() {
+  const SR = window.SpeechRecognition || window.webkitSpeechRecognition;
+  if (!SR) { voiceActive = false; setHint(); return; }
+  try {
+    recog = new SR(); recog.lang = 'de-DE'; recog.continuous = true; recog.interimResults = false;
+    recog.onresult = e => {
+      const t = (e.results[e.results.length - 1][0].transcript || '').toLowerCase();
+      if (/(gewusst|wusste|richtig|\bja\b|kann ich)/.test(t)) autoRate('good');
+      else if (/(nicht|\bnein\b|falsch|keine ahnung|weiss nicht|weiß nicht)/.test(t)) autoRate('bad');
+      else if (/(weiter|n(ä|ae)chste|skip|vor)/.test(t)) autoNext();
+      else if (/(zur(ü|ue)ck|vorherige|davor)/.test(t)) autoPrev();
+      else if (/(nochmal|wiederhol)/.test(t)) playCurrent();
+      else if (/(antwort|muster|l(ö|oe)sung)/.test(t)) autoSpeakAnswer();
+      else if (/(pause|stop|halt)/.test(t)) autoTogglePlay();
+    };
+    recog.onerror = () => { };
+    recog.onend = () => { if (voiceActive && autoState.playing) { try { recog.start(); } catch (e) { } } };
+    recog.start(); voiceActive = true; setHint();
+  } catch (e) { voiceActive = false; setHint(); }
+}
+function startListening() { if (recog && voiceActive) { try { recog.start(); } catch (e) { } } }
+function stopListening() { voiceActive = false; if (recog) { try { recog.stop(); } catch (e) { } recog = null; } }
+
 /* ================= Navigation ================= */
 function setTab(t) { document.querySelectorAll('.nav button').forEach(b => b.classList.toggle('active', b.dataset.tab === t)); }
 document.querySelectorAll('.nav button').forEach(b => {
@@ -454,6 +634,7 @@ document.querySelectorAll('.nav button').forEach(b => {
     const t = b.dataset.tab;
     if (t === 'learn') { learnQueue = []; renderLearn(); }
     else if (t === 'exam') renderExamSetup();
+    else if (t === 'auto') renderAutoSetup();
     else if (t === 'browse') renderBrowse();
     else if (t === 'stats') renderStats();
     else renderSettings();
@@ -472,7 +653,8 @@ if ('serviceWorker' in navigator && location.protocol.startsWith('http')) {
 }
 
 // expose für inline-onclick
-Object.assign(window, { setLearnMode, revealLearn, rate, toggleMuster, toggleErkl, renderExamSetup, startExam, checkChunk, setScore, renderExamResult, reviewExam, renderBrowse, syncPush, syncPull, saveSettings, resetProg, chunkQs, totalChunks, checkAnswer, exam: null });
+Object.assign(window, { setLearnMode, revealLearn, rate, toggleMuster, toggleErkl, renderExamSetup, startExam, checkChunk, setScore, renderExamResult, reviewExam, renderBrowse, syncPush, syncPull, saveSettings, resetProg, chunkQs, totalChunks, checkAnswer,
+  renderAutoSetup, startAuto, stopAuto, autoNext, autoPrev, autoTogglePlay, autoSpeakAnswer, autoRate, buildAutoList });
 
 // Start
 if (!TOTAL) view.innerHTML = '<div class="card">⚠️ Keine Daten geladen (data.js fehlt).</div>';

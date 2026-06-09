@@ -20,6 +20,10 @@ Kernpunkt-Prüfung, Erklärungen und Lernkurve. Läuft am PC und auf dem iPhone.
   Schnelltest (5), Schwächen-Test. Antwort eintippen → automatische Bewertung über
   hinterlegte **Kernpunkte/Synonyme** (Treffer/Lücken, 0/1/2-Vorschlag, manuell überschreibbar).
 - **Bögen** – alle 15 Bögen durchblättern.
+- **Auto** – Audio-Modus fürs Autofahren: Querformat-Vollbild, große Buttons, liest
+  Frage + Kurzantwort vor (Button für volle Musterantwort), Leitner-Bewertung per
+  großen Buttons oder – wenn das Gerät es unterstützt – per Sprachbefehl
+  („gewusst" / „nicht" / „weiter" / „antwort"). Wake-Lock hält den Bildschirm an.
 - **Status** – Fortschritt, Box-Verteilung, **Lernkurve** (14 Tage).
 - **Sync** – manueller Upload/Download des Fortschritts über einen privaten GitHub-Gist
   (Token nur lokal im Browser gespeichert, nie im Repo).

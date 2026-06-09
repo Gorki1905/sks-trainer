@@ -67,3 +67,31 @@ a{color:var(--accent)}
 .row{display:flex;gap:10px;align-items:center}
 .row>*{flex:1}
 small{color:var(--muted)}
+
+/* ===== Auto-/Fahrt-Modus (Vollbild, Querformat, kein Scroll) ===== */
+.auto-view{position:fixed;inset:0;z-index:100;background:#0b101a;display:flex;flex-direction:column;
+  overflow:hidden;padding:env(safe-area-inset-top) env(safe-area-inset-right) env(safe-area-inset-bottom) env(safe-area-inset-left)}
+.auto-top{display:flex;justify-content:space-between;align-items:center;padding:8px 14px;color:var(--muted);font-size:13px;flex:0 0 auto}
+.auto-top .x{background:transparent;border:none;color:var(--muted);font-size:22px;padding:4px 10px}
+.auto-mid{flex:1 1 auto;display:flex;flex-direction:column;justify-content:center;align-items:center;
+  text-align:center;padding:0 4vw;overflow:hidden;gap:2vh}
+.auto-tag{font-size:clamp(13px,2.2vh,20px);color:var(--accent);text-transform:uppercase;letter-spacing:.06em}
+.auto-q{font-size:clamp(20px,4.4vh,40px);font-weight:700;line-height:1.25;
+  max-height:46vh;overflow:hidden;display:-webkit-box;-webkit-line-clamp:5;-webkit-box-orient:vertical}
+.auto-a{font-size:clamp(18px,3.6vh,32px);color:#bfe6d4;line-height:1.25;font-weight:600;
+  max-height:34vh;overflow:hidden;display:-webkit-box;-webkit-line-clamp:5;-webkit-box-orient:vertical}
+.auto-a.hidden{display:none}
+.auto-listen{font-size:clamp(12px,2vh,16px);color:var(--muted)}
+.auto-rate{flex:0 0 auto;display:flex;gap:10px;padding:10px 12px}
+.auto-rate button{flex:1;min-height:18vh;border-radius:18px;font-size:clamp(18px,4vh,30px);font-weight:800;border:2px solid var(--line)}
+.auto-rate .nope{background:rgba(239,111,108,.18);border-color:var(--bad);color:#ffd5d3}
+.auto-rate .yep{background:rgba(62,207,142,.18);border-color:var(--good);color:#c4f5e0}
+.auto-ctl{flex:0 0 auto;display:flex;gap:10px;padding:0 12px 12px}
+.auto-ctl button{flex:1;min-height:11vh;border-radius:16px;font-size:clamp(22px,4.5vh,34px);background:var(--panel2)}
+.auto-ctl button.mid{flex:1.4}
+.auto-hint{position:absolute;bottom:2px;left:0;right:0;text-align:center;font-size:11px;color:#5e7188}
+@media (orientation:portrait){ .auto-rotate{display:flex} }
+@media (orientation:landscape){ .auto-rotate{display:none} }
+.auto-rotate{display:none;position:absolute;inset:0;z-index:5;background:#0b101a;
+  flex-direction:column;align-items:center;justify-content:center;gap:14px;color:var(--muted);text-align:center;padding:24px}
+.auto-rotate .big{font-size:60px}
