@@ -475,6 +475,31 @@ function renderAutoSetup() {
       <button class="btn-primary" onclick="startAuto()">▶︎ Losfahren</button>
       <p class="muted" style="font-size:13px;margin-top:10px">Hinweis: Sprachsteuerung &amp; Lenkrad-Tasten sind je nach iPhone eingeschränkt – die großen Buttons funktionieren immer. Fahr sicher: im Zweifel nur zuhören.</p>
     </div>`));
+  // Stimme & Tempo
+  loadVoices();
+  const de = germanVoices();
+  const cur = currentVoice();
+  const vopts = de.length
+    ? de.map(v => `<option value="${esc(v.name)}" ${cur && v.name === cur.name ? 'selected' : ''}>${esc(v.name)}${v.localService ? '' : ' (online)'}</option>`).join('')
+    : '<option value="">Standard (Gerätestimme)</option>';
+  const rate = S.settings.rate || 0.95;
+  view.append(el(`
+    <div class="card"><h2 style="margin-top:0">🔊 Stimme &amp; Tempo</h2>
+      <div class="label">Stimme</div>
+      <select id="voiceSel" onchange="saveAutoVoice()">${vopts}</select>
+      <div class="label">Tempo: <span id="rateVal">${rate.toFixed(2)}×</span></div>
+      <input id="rateSel" type="range" min="0.7" max="1.3" step="0.05" value="${rate}"
+        oninput="document.getElementById('rateVal').textContent=(+this.value).toFixed(2)+'×'" onchange="saveAutoVoice()">
+      <div style="height:10px"></div>
+      <button class="btn-ghost" onclick="testVoice()">🔊 Stimme testen</button>
+      <p class="muted" style="font-size:13px;margin-top:10px">Tipp fürs iPhone: Unter <b>Einstellungen → Bedienungshilfen → Gesprochene Inhalte → Stimmen → Deutsch</b> eine <b>„Premium/Erweitert"-Stimme</b> (z. B. Anna oder eine Siri-Stimme) laden – die erscheint dann hier und klingt deutlich natürlicher.</p>
+    </div>`));
+}
+function saveAutoVoice() {
+  const vs = document.getElementById('voiceSel'), rs = document.getElementById('rateSel');
+  if (vs) S.settings.voiceName = vs.value;
+  if (rs) S.settings.rate = +rs.value;
+  save();
 }
 
 function buildAutoList(src) {
@@ -523,12 +548,56 @@ function buildAutoView() {
     <div class="auto-hint" id="autoHint"></div></div>`);
   document.body.append(v);
 }
+/* --- Stimmen-Auswahl --- */
+let voices = [];
+function loadVoices() { try { voices = (speechSynthesis.getVoices() || []).slice(); } catch (e) { voices = []; } }
+if (typeof speechSynthesis !== 'undefined') {
+  loadVoices();
+  try { speechSynthesis.onvoiceschanged = loadVoices; } catch (e) { }
+}
+function germanVoices() { return voices.filter(v => /^de/i.test(v.lang || '')); }
+function voiceScore(v) {
+  let s = 0;
+  if (/(siri|enhanced|premium|natural|neural)/i.test(v.name)) s += 4;
+  if (/google/i.test(v.name)) s += 3;
+  if (v.localService) s += 1;
+  if (/(anna|markus|petra|viktor|helena)/i.test(v.name)) s += 1;
+  if (/eloquence|compact/i.test(v.name)) s -= 3; // alte Roboterstimmen abwerten
+  return s;
+}
+function pickDefaultVoice() { const de = germanVoices(); return de.length ? de.slice().sort((a, b) => voiceScore(b) - voiceScore(a))[0] : null; }
+function currentVoice() {
+  const de = germanVoices();
+  return de.find(v => v.name === S.settings.voiceName) || pickDefaultVoice();
+}
+/* --- Abkürzungen für klareres Vorlesen ausschreiben --- */
+const ABBR = [
+  [/\bz\.\s?B\./gi, 'zum Beispiel'], [/\bu\.\s?a\./gi, 'unter anderem'], [/\bd\.\s?h\./gi, 'das heißt'],
+  [/\bu\.\s?U\./gi, 'unter Umständen'], [/\bz\.\s?T\./gi, 'zum Teil'], [/\bbzw\./gi, 'beziehungsweise'],
+  [/\bca\./gi, 'circa'], [/\busw\./gi, 'und so weiter'], [/\bggf\./gi, 'gegebenenfalls'],
+  [/\bevtl\./gi, 'eventuell'], [/\binkl\./gi, 'inklusive'], [/\bmind\./gi, 'mindestens'],
+  [/\bmax\./gi, 'maximal'], [/\bNr\./gi, 'Nummer'], [/\bggü\./gi, 'gegenüber'],
+  [/\bm\/s\b/gi, 'Meter pro Sekunde'], [/\bkm\/h\b/gi, 'Kilometer pro Stunde'],
+  [/\bhPa\b/g, 'Hektopascal'], [/(\d)\s?°/g, '$1 Grad'], [/\s?%/g, ' Prozent'],
+  [/(\d)\s?kn\b/gi, '$1 Knoten'], [/(\d)\s?sm\b/g, '$1 Seemeilen'], [/(\d)\s?Ah\b/g, '$1 Amperestunden']
+];
+function expandForSpeech(text) {
+  let t = ' ' + (text || '') + ' ';
+  for (const [re, rep] of ABBR) t = t.replace(re, rep);
+  return t.replace(/\s+/g, ' ').trim();
+}
 function speak(text, onend) {
   if (typeof speechSynthesis === 'undefined' || typeof SpeechSynthesisUtterance === 'undefined') { if (onend) setTimeout(onend, 0); return; }
   try { speechSynthesis.cancel(); } catch (e) { }
-  const u = new SpeechSynthesisUtterance(text); u.lang = 'de-DE'; u.rate = 1; if (onend) u.onend = onend;
+  const u = new SpeechSynthesisUtterance(expandForSpeech(text));
+  const v = currentVoice();
+  if (v) { u.voice = v; u.lang = v.lang; } else { u.lang = 'de-DE'; }
+  u.rate = S.settings.rate || 0.95;
+  u.pitch = S.settings.pitch || 1;
+  if (onend) u.onend = onend;
   speechSynthesis.speak(u);
 }
+function testVoice() { speak('Dies ist ein Test der Sprachausgabe für deinen SKS Trainer. Frage: Was bedeutet die Backbordlaterne?'); }
 function setHint() {
   const h = document.getElementById('autoHint'); if (!h) return;
   h.textContent = voiceActive ? 'Sprachbefehle aktiv · oder große Buttons' : 'Steuerung über die großen Buttons';
@@ -654,7 +723,7 @@ if ('serviceWorker' in navigator && location.protocol.startsWith('http')) {
 
 // expose für inline-onclick
 Object.assign(window, { setLearnMode, revealLearn, rate, toggleMuster, toggleErkl, renderExamSetup, startExam, checkChunk, setScore, renderExamResult, reviewExam, renderBrowse, syncPush, syncPull, saveSettings, resetProg, chunkQs, totalChunks, checkAnswer,
-  renderAutoSetup, startAuto, stopAuto, autoNext, autoPrev, autoTogglePlay, autoSpeakAnswer, autoRate, buildAutoList });
+  renderAutoSetup, startAuto, stopAuto, autoNext, autoPrev, autoTogglePlay, autoSpeakAnswer, autoRate, buildAutoList, testVoice, saveAutoVoice, expandForSpeech });
 
 // Start
 if (!TOTAL) view.innerHTML = '<div class="card">⚠️ Keine Daten geladen (data.js fehlt).</div>';
