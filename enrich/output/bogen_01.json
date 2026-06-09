@@ -1,0 +1,321 @@
+[
+  {
+    "id": "1-1",
+    "kurzantwort": "World Geodetic System 1984: weltweites geodätisches Bezugssystem, Referenzellipsoid für GPS, optimale Anpassung an die reale Erdform.",
+    "erklaerung": "WGS 84 ist das einheitliche weltweite Bezugssystem, auf dem GPS und moderne Seekarten beruhen. Es bildet die Erde durch einen Referenzellipsoiden so nach, dass Positionsangaben global möglichst genau passen. Deshalb sollten Karte und GPS auf demselben Bezugssystem stehen.",
+    "kernpunkte": [
+      { "punkt": "World Geodetic System 1984 (weltweites Bezugssystem)", "synonyme": ["WGS 84", "WGS84", "World Geodetic System", "weltweites Bezugssystem", "globales Bezugssystem", "Referenzellipsoid"] },
+      { "punkt": "optimale Anpassung an die reale Erdform / Grundlage für GPS", "synonyme": ["GPS", "Erdkörper", "reale Erdform", "weltweit gültig", "Geoid", "Ellipsoid"] }
+    ],
+    "wichtigkeit": 3
+  },
+  {
+    "id": "1-2",
+    "kurzantwort": "Mehrere, möglichst verschiedene Anker: Ersatz bei Verlust, zum Verwarpen/Verkatten, für unterschiedliche Ankergründe, für Liegen vor 2 Ankern bei schwerem Wetter/Tide.",
+    "erklaerung": "Kein Anker hält auf jedem Grund gleich gut, und ein Anker kann verloren gehen oder ausbrechen. Ein zweiter, anders gebauter Anker erhöht die Sicherheit, erlaubt Manöver wie Verwarpen und das Liegen vor zwei Ankern bei Sturm oder in Tidengewässern.",
+    "kernpunkte": [
+      { "punkt": "Ersatz bei Verlust", "synonyme": ["Ersatz", "Reserve", "Verlust", "falls Anker verloren geht", "Ankerverlust"] },
+      { "punkt": "Verwarpen oder Verkatten", "synonyme": ["Verwarpen", "Verkatten", "Manöver", "Warpanker"] },
+      { "punkt": "unterschiedliche Ankergründe berücksichtigen", "synonyme": ["Ankergrund", "verschiedene Böden", "Sand", "Schlick", "Untergrund", "Grundbeschaffenheit"] },
+      { "punkt": "vor 2 Ankern liegen bei schwerem Wetter / Tide", "synonyme": ["zwei Anker", "vor 2 Ankern", "schweres Wetter", "Sturm", "Tidengewässer", "Tide", "Strom"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "1-3",
+    "kurzantwort": "Einzelnes rotes Licht = Backbordlaterne eines Segelfahrzeugs. Das andere (Luv) Fahrzeug weicht aus (hat Wind von Backbord bzw. steht luvwärts).",
+    "erklaerung": "Ein einzelnes rotes Seitenlicht zeigt dir die Backbordseite eines anderen Segelfahrzeugs. Stehende Peilung bedeutet Kollisionsgefahr. Nach den KVR-Segelregeln weicht das Fahrzeug aus, das den Wind von Backbord hat; haben beide den Wind von derselben Seite, weicht das luvwärtige aus.",
+    "kernpunkte": [
+      { "punkt": "Backbordlicht eines Segelfahrzeugs in Fahrt", "synonyme": ["Backbordlicht", "Backbordlaterne", "rotes Seitenlicht", "Segelfahrzeug", "Segler"] },
+      { "punkt": "das Fahrzeug in Luv muss ausweichen", "synonyme": ["Luv", "luvwärts", "in Luv", "der andere weicht aus", "Luvfahrzeug ausweichpflichtig"] },
+      { "punkt": "Begründung: Wind von Backbord bzw. luvwärts stehend", "synonyme": ["Wind von Backbord", "Backbordbug", "luvwärts", "Luvgrundsatz", "Segelregel KVR"] }
+    ],
+    "wichtigkeit": 3
+  },
+  {
+    "id": "1-4",
+    "kurzantwort": "Windstärke nach der 12-teiligen Beaufortskala. Mäßiger Wind = 4 Bft, Starkwind = 6-7 Bft.",
+    "erklaerung": "Die Beaufortskala schätzt die Windstärke anhand der Wirkung des Windes auf See (Wellen, Schaum) in 12 Stufen. Begriffe wie 'mäßig' und 'Starkwind' sind festen Bft-Stufen zugeordnet, damit Wettermeldungen eindeutig sind.",
+    "kernpunkte": [
+      { "punkt": "12-teilige Beaufortskala", "synonyme": ["Beaufort", "Beaufortskala", "Bft", "12-teilig", "Windskala"] },
+      { "punkt": "mäßiger Wind = 4 Beaufort", "synonyme": ["mäßiger Wind", "4 Bft", "Stärke 4", "Windstärke 4"] },
+      { "punkt": "Starkwind = 6 und 7 Beaufort", "synonyme": ["Starkwind", "6 Bft", "7 Bft", "6 und 7 Beaufort", "Stärke 6 und 7"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "1-5",
+    "kurzantwort": "BfS werden von den zuständigen Behörden der Wasser- und Schifffahrtsverwaltung (Bund/Länder) herausgegeben; sie enthalten wichtige Maßnahmen/Ereignisse auf den Seeschifffahrtsstraßen und in der AWZ.",
+    "erklaerung": "Die Bekanntmachungen für Seefahrer informieren über aktuelle, regional begrenzte Maßnahmen und Ereignisse, z. B. Sperrungen oder Bauarbeiten. Sie werden von den zuständigen Behörden der WSV von Bund und Ländern herausgegeben, damit die Schifffahrt zeitnah informiert ist.",
+    "kernpunkte": [
+      { "punkt": "Herausgeber: Behörden der Wasser- und Schifffahrtsverwaltung des Bundes/der Länder", "synonyme": ["Wasser- und Schifffahrtsverwaltung", "WSV", "WSA", "Behörden", "Bund und Länder"] },
+      { "punkt": "wichtige Maßnahmen und Ereignisse auf den Seeschifffahrtsstraßen und in der AWZ", "synonyme": ["Seeschifffahrtsstraßen", "ausschließliche Wirtschaftszone", "AWZ", "Maßnahmen", "Ereignisse", "Deutschland"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "1-6",
+    "kurzantwort": "Kette: fördert Eingraben, kleinerer Schwojeraum, ruckdämpfend, scheuert nicht durch, höhere Haltekraft. Auf Yachten oft 3-5 m Kettenvorlauf zwischen Anker und Leine.",
+    "erklaerung": "Das Gewicht der Kette zieht den Ankerschaft flach und unterstützt das Eingraben, dämpft Rucke und ist gegen Steine unempfindlich. Reine Kette ist schwer, daher kombiniert man auf Yachten einen kurzen Kettenvorlauf (3-5 m) mit einer leichteren Ankerleine.",
+    "kernpunkte": [
+      { "punkt": "Vorteile der Kette: Eingraben, kleinerer Schwojeraum, ruckdämpfend, scheuert nicht durch, mehr Haltekraft", "synonyme": ["Eingraben", "Schwojeraum", "ruckdämpfend", "Haltekraft", "durchscheuern", "Steine", "Gewicht"] },
+      { "punkt": "Kombination: Kettenvorlauf 3-5 m zwischen Anker und Leine", "synonyme": ["Kettenvorlauf", "3 bis 5 m", "Kette und Leine", "Vorlauf", "Kombination Kette Leine"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "1-7",
+    "kurzantwort": "Zwei Grundformen: Haufenwolken und Schichtwolken. 10 Haupttypen, z. B. Cirrus, Cirrostratus, Altocumulus, Nimbostratus, Stratus, Cumulonimbus.",
+    "erklaerung": "Wolken werden nach Form (Haufen/Schicht) und nach Höhe (hoch, mittel, tief) in 10 Hauptgattungen eingeteilt. Die Vorsilben 'Cirro' (hoch) und 'Alto' (mittel) sowie die Begriffe 'Cumulus' (Haufen) und 'Stratus' (Schicht) helfen beim Einordnen.",
+    "kernpunkte": [
+      { "punkt": "Formen: Haufenwolken und Schichtwolken", "synonyme": ["Haufenwolken", "Schichtwolken", "Cumulus", "Stratus", "Haufen und Schicht"] },
+      { "punkt": "6 von 10 Haupttypen (z. B. Cirrus, Cirrostratus, Altocumulus, Nimbostratus, Stratus, Cumulonimbus)", "synonyme": ["Cirrus", "Cirrostratus", "Cirrocumulus", "Altostratus", "Altocumulus", "Nimbostratus", "Stratocumulus", "Stratus", "Cumulus", "Cumulonimbus"] }
+    ],
+    "wichtigkeit": 1
+  },
+  {
+    "id": "1-8",
+    "kurzantwort": "z. B. rote Handfackeln, rote Fallschirm-/Handraketen, orange Rauchsignale, Signalpistole, Seewasserfärber, Signalflaggen N+C, Signallampe, Seenotfunkboje (EPIRB).",
+    "erklaerung": "Seenotsignalmittel dienen dazu, im Notfall auf sich aufmerksam zu machen - optisch bei Tag (Rauch, Flaggen) und Nacht (rote Lichter), elektronisch über Funkbaken. Eine Mischung verschiedener Mittel erhöht die Chance, gesehen bzw. geortet zu werden.",
+    "kernpunkte": [
+      { "punkt": "pyrotechnische Mittel: rote Handfackeln, rote Raketen, orange Rauchsignale", "synonyme": ["Handfackeln", "rote Fackeln", "Handraketen", "Fallschirmraketen", "Rauchfackel", "Rauchtopf", "Pyrotechnik", "rote Raketen"] },
+      { "punkt": "Signalpistole mit Munition", "synonyme": ["Signalpistole", "Leuchtpistole", "Munition"] },
+      { "punkt": "weitere: Seewasserfärber, Signalflaggen N und C, Signallampe", "synonyme": ["Seewasserfärber", "Signalflaggen", "Flagge N", "Flagge C", "NC", "Signallampe"] },
+      { "punkt": "Seenotfunkboje (EPIRB)", "synonyme": ["Seenotfunkboje", "EPIRB", "Funkbake", "Notfunkboje"] }
+    ],
+    "wichtigkeit": 3
+  },
+  {
+    "id": "1-9",
+    "kurzantwort": "Gezeitenströme stehen in Gezeitenstromatlanten, Seehandbüchern und in Seekarten (Gezeitenstromtabellen, bezogen auf die HW-Zeit eines Bezugsortes).",
+    "erklaerung": "Für die sichere Navigation in Tidengewässern muss man Richtung und Stärke des Stroms kennen. Diese findet man in speziellen Stromatlanten, in Seehandbüchern und in Tabellen auf der Seekarte, deren Werte sich auf die Hochwasserzeit eines Bezugsortes beziehen.",
+    "kernpunkte": [
+      { "punkt": "Gezeitenstromatlanten und Seehandbücher", "synonyme": ["Gezeitenstromatlas", "Stromatlas", "Seehandbuch", "Atlas"] },
+      { "punkt": "Seekarte / Gezeitenstromtabellen, bezogen auf Hochwasserzeit des Bezugsortes", "synonyme": ["Seekarte", "Gezeitenstromtabellen", "Stromtabellen", "Bezugsort", "Hochwasserzeit", "HW-Zeit"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "1-10",
+    "kurzantwort": "Abends abflauender Wind: meist gutes Wetter. Abends zunehmender Wind: oft Starkwind, Sturm und Regen.",
+    "erklaerung": "Normalerweise schläft der Wind abends mit der nachlassenden Sonneneinstrahlung ein - das spricht für stabiles, gutes Wetter. Nimmt der Wind dagegen gegen Abend zu, deutet das auf ein herannahendes Tief mit Verschlechterung hin.",
+    "kernpunkte": [
+      { "punkt": "abflauender Wind am Abend = gutes Wetter", "synonyme": ["abflauen", "nachlassen", "einschlafen", "gutes Wetter", "schönes Wetter", "stabil"] },
+      { "punkt": "zunehmender Wind am Abend = Starkwind/Sturm/Regen", "synonyme": ["zunehmen", "auffrischen", "Starkwind", "Sturm", "Regen", "Schlechtwetter", "Verschlechterung"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "1-11",
+    "kurzantwort": "Luftmassengrenzen = Fronten; sie trennen Luftmassen unterschiedlicher Temperatur und Feuchtigkeit. Beispiele: Kaltfront, Warmfront, Okklusion.",
+    "erklaerung": "An einer Front stoßen Luftmassen mit verschiedener Temperatur und Feuchte aufeinander, weshalb sich dort das Wetter ändert (Bewölkung, Niederschlag, Winddrehung). Je nachdem, welche Luftmasse vordringt, spricht man von Kaltfront, Warmfront oder - wenn sich beide vereinen - Okklusion.",
+    "kernpunkte": [
+      { "punkt": "Luftmassengrenzen sind Fronten zwischen Luftmassen unterschiedlicher Temperatur/Feuchte", "synonyme": ["Front", "Fronten", "Luftmassengrenze", "Temperatur", "Luftfeuchtigkeit", "Luftmassen"] },
+      { "punkt": "Beispiele: Kaltfront, Warmfront, Okklusion", "synonyme": ["Kaltfront", "Warmfront", "Okklusion", "Mischfront"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "1-12",
+    "kurzantwort": "Vor/beim Dieseltanken: Maschine abstellen, offenes Feuer löschen/Rauchverbot, Überlaufen verhindern.",
+    "erklaerung": "Auch Diesel und seine Dämpfe können sich entzünden und die Umwelt belasten. Daher Motor aus, keine Zündquellen, und beim Tanken auf Überlaufen achten, um Brand- und Verschmutzungsgefahr zu vermeiden.",
+    "kernpunkte": [
+      { "punkt": "Maschine/Motor abstellen", "synonyme": ["Maschine abstellen", "Motor aus", "Motor abstellen", "Maschine aus"] },
+      { "punkt": "offenes Feuer löschen / Rauchen einstellen", "synonyme": ["offenes Feuer", "Feuer löschen", "Rauchverbot", "nicht rauchen", "Zündquellen", "Rauchen einstellen"] },
+      { "punkt": "Überlaufen verhindern", "synonyme": ["Überlaufen", "nicht überfüllen", "Überlaufschutz", "Maßnahmen gegen Überlaufen"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "1-13",
+    "kurzantwort": "Bei Leck: Notmeldung absetzen, Fahrt rausnehmen, lenzen + Lecksuche + abdichten, flaches Wasser/Küste ansteuern, Schiff so trimmen dass das Leck aus dem Wasser kommt.",
+    "erklaerung": "Ein Leck ist lebensbedrohlich, deshalb zuerst Hilfe rufen. Dann das eindringende Wasser bekämpfen (Lenzpumpen, Leck suchen und abdichten) und die Lage entschärfen, indem man flaches Wasser ansteuert und das Schiff so trimmt, dass die Leckstelle möglichst aus dem Wasser kommt.",
+    "kernpunkte": [
+      { "punkt": "Notmeldung absetzen", "synonyme": ["Meldung", "Notruf", "Mayday", "Hilfe rufen", "Meldung abgeben"] },
+      { "punkt": "Fahrt aus dem Schiff nehmen", "synonyme": ["Fahrt rausnehmen", "Geschwindigkeit verringern", "langsamer", "Fahrt aus dem Schiff"] },
+      { "punkt": "Lenzpumpen, Lecksuche, Leck mit Bordmitteln abdichten", "synonyme": ["Lenzpumpe", "lenzen", "Lecksuche", "abdichten", "Leck stopfen", "Bordmittel"] },
+      { "punkt": "Küste/flaches Wasser ansteuern und Schiff trimmen, Leck aus dem Wasser bringen", "synonyme": ["flaches Wasser", "Küste ansteuern", "trimmen", "Leck über Wasser", "auf Grund setzen"] }
+    ],
+    "wichtigkeit": 3
+  },
+  {
+    "id": "1-14",
+    "kurzantwort": "Seeunfall nach SUG u. a. bei: Schiffsverlust/Aufgrundlaufen/Kollision, Tod/Vermissen/schwere Verletzung, Umwelt-/Sachschaden, Gefahr für Mensch/Schiff/Umwelt.",
+    "erklaerung": "Das SUG definiert Seeunfälle, damit sie untersucht und künftig vermieden werden können. Maßgeblich sind eingetretene oder drohende schwere Folgen für Schiff, Menschen oder Umwelt - es reicht bereits die ernsthafte Gefahr eines solchen Schadens.",
+    "kernpunkte": [
+      { "punkt": "Schiffsverlust, Aufgrundlaufen, Kollision", "synonyme": ["Schiffsverlust", "Aufgrundlaufen", "Strandung", "Kollision", "Zusammenstoß"] },
+      { "punkt": "Tod, Verschollenheit oder schwere Verletzung einer Person", "synonyme": ["Tod", "Verschollenheit", "vermisst", "schwere Verletzung", "Personenschaden"] },
+      { "punkt": "Umweltschaden oder sonstiger Sachschaden", "synonyme": ["Umweltschaden", "maritimer Umweltschaden", "Sachschaden", "Verschmutzung"] },
+      { "punkt": "Gefahr für Mensch, Schiff oder Meeresumwelt", "synonyme": ["Gefahr", "drohender Schaden", "Gefährdung", "Bauwerk", "Meeresumwelt"] }
+    ],
+    "wichtigkeit": 1
+  },
+  {
+    "id": "1-15",
+    "kurzantwort": "Bindereff: Baum durch Dirk/Niederholer stützen, Fall fieren, Reffhals in Reffhaken am Lümmel einhängen, Fall dichtholen, Reffkausch achtern auf den Baum holen, loses Tuch mit Reffbändseln einbinden.",
+    "erklaerung": "Beim Bindereff verkleinert man die Segelfläche, indem man das Segel ein Stück herunterlässt und am Baum festsetzt. Wichtig ist, den Baum vorher abzustützen, dann vorne (Hals) und hinten (Schothorn) festzusetzen und das überschüssige Tuch zu sichern.",
+    "kernpunkte": [
+      { "punkt": "Baum durch Dirk oder Baumniederholer abstützen", "synonyme": ["Dirk", "Baumniederholer", "Baum stützen", "Baum halten"] },
+      { "punkt": "Fall fieren und Segel etwas herunterholen", "synonyme": ["Fall fieren", "Fall lösen", "Segel herunterholen", "fieren"] },
+      { "punkt": "Segelhals in Reffhaken am Lümmelbeschlag einhängen, dann Fall dichtholen", "synonyme": ["Segelhals", "Reffhaken", "Lümmelbeschlag", "einhaken", "Fall dichtholen"] },
+      { "punkt": "Reffkausch/Schothorn achtern auf den Baum holen und loses Tuch einbinden", "synonyme": ["Schothorn", "Reffkausch", "Schmeerreep", "Reffleine", "Reffbändsel", "auftuchen", "einbinden"] }
+    ],
+    "wichtigkeit": 1
+  },
+  {
+    "id": "1-16",
+    "kurzantwort": "Navigatorische Mindestausrüstung u. a.: Steuerkompass, Peileinrichtung, GPS/Funknavigation, Log, Lot, Fernglas, Barometer, berichtigte Seekarten/Seebücher, Logbuch, Uhr.",
+    "erklaerung": "Für sichere Küstennavigation braucht man Mittel zum Kurssteuern (Kompass), zur Positionsbestimmung (Peilung, GPS, Log, Lot), zur Wetterbeobachtung (Barometer) und aktuelle Unterlagen (berichtigte Seekarten, Seebücher, Logbuch). Diese Ausstattung ist die navigatorische Mindestausrüstung.",
+    "kernpunkte": [
+      { "punkt": "Steuerkompass und Peileinrichtung", "synonyme": ["Steuerkompass", "Kompass", "Peileinrichtung", "Peilkompass", "Handpeilkompass"] },
+      { "punkt": "satelliten-/funkgestütztes Navigationsgerät (GPS)", "synonyme": ["GPS", "Funknavigationsgerät", "Satellitennavigation", "GNSS"] },
+      { "punkt": "Log, Lot, Fernglas, Barometer", "synonyme": ["Log", "Lot", "Echolot", "Fernglas", "Barometer"] },
+      { "punkt": "berichtigte Seekarten und Seebücher, Logbuch, Uhr", "synonyme": ["Seekarten", "Seebücher", "berichtigte Karten", "Logbuch", "Uhr", "Zeitmesser", "Weltempfänger"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "1-17",
+    "kurzantwort": "AIS sendet automatisch und regelmäßig Identität und Schiffsdaten aller ausgerüsteten Schiffe; zusätzlich können sicherheitsrelevante Nachrichten gesendet werden.",
+    "erklaerung": "Das Automatic Identification System tauscht selbsttätig Schiffsdaten (Identität, Position, Kurs, Geschwindigkeit) aus, sodass Schiffe und Landstationen sich gegenseitig erkennen. Das verbessert die Verkehrssicherheit; bei Bedarf lassen sich auch Sicherheitsmeldungen versenden.",
+    "kernpunkte": [
+      { "punkt": "automatisches, regelmäßiges Senden von Identität und Schiffsdaten", "synonyme": ["automatisch", "Identität", "Schiffsdaten", "Position", "Kurs", "Geschwindigkeit", "ohne Aufforderung"] },
+      { "punkt": "sicherheitsrelevante Nachrichten (safety related messages) von Bord/Landstationen", "synonyme": ["safety related messages", "sicherheitsrelevante Nachrichten", "Sicherheitsmeldungen", "Landstationen"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "1-18",
+    "kurzantwort": "Hilfsmittel zum Anbordholen: Badeleiter, Großschot, beschwerte Trittschlinge, Rettungstalje, Unterfangen mit kleinem Segel, Bergegurt, Dingi.",
+    "erklaerung": "Einen Überbordgefallenen aus dem Wasser zu hieven ist schwer, besonders wenn er erschöpft ist. Je nach Lage nutzt man eine Leiter, vorhandene Schoten/Taljen zum Hochziehen, eine Trittschlinge oder ein untergefahrenes Segel als 'Wanne'.",
+    "kernpunkte": [
+      { "punkt": "Badeleiter (beweglich und gesichert)", "synonyme": ["Badeleiter", "Leiter", "Einstiegsleiter"] },
+      { "punkt": "Großschot / Rettungstalje / Trittschlinge zum Hochziehen", "synonyme": ["Großschot", "Rettungstalje", "Talje", "Trittschlinge", "Flaschenzug"] },
+      { "punkt": "Unterfangen mit kleinem Segel, Bergegurt", "synonyme": ["Unterfangen", "kleines Segel", "Bergegurt", "Bergeschlinge", "Bergenetz"] },
+      { "punkt": "Dingi / Beiboot", "synonyme": ["Dingi", "Dinghi", "Beiboot", "Schlauchboot"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "1-19",
+    "kurzantwort": "'Alter der Gezeit' gibt an, in welcher Phase (Nipp-, Mitt-, Springzeit) sich das aktuelle Tidengeschehen befindet.",
+    "erklaerung": "Spring- und Nipptiden treten erst einige Tage nach Voll-/Neumond bzw. Halbmond auf - diese Verzögerung beschreibt das 'Alter der Gezeit'. Es ordnet die aktuelle Tide in den Zyklus zwischen Nipp und Spring ein und hilft, den Tidenhub abzuschätzen.",
+    "kernpunkte": [
+      { "punkt": "Phase des Tidengeschehens: Nippzeit, Mittzeit, Springzeit", "synonyme": ["Nippzeit", "Mittzeit", "Springzeit", "Nipp", "Spring", "Tidenphase", "Phase der Tide"] },
+      { "punkt": "Verzögerung der Tide gegenüber der Mondphase", "synonyme": ["Verzögerung", "Mondphase", "zeitlicher Versatz", "Tidengeschehen"] }
+    ],
+    "wichtigkeit": 1
+  },
+  {
+    "id": "1-20",
+    "kurzantwort": "MARPOL soll die Verschmutzung der Meere (durch Schiffe) verhindern.",
+    "erklaerung": "MARPOL ist das internationale Übereinkommen zur Verhütung der Meeresverschmutzung durch Schiffe. Es regelt u. a., dass Öl, Müll, Abwasser und schädliche Stoffe nicht einfach ins Meer gelangen dürfen.",
+    "kernpunkte": [
+      { "punkt": "Verhütung der Meeresverschmutzung durch Schiffe", "synonyme": ["Meeresverschmutzung", "Verschmutzung der Meere", "Umweltschutz", "Verhütung", "verhindern", "Schiffe", "Öl", "Müll"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "1-21",
+    "kurzantwort": "Durchgehende Schifffahrt = alle Fahrzeuge, die deutlich dem Fahrwasserverlauf folgen (Abweichung max. ±10°), unabhängig vom Zweck der Fahrt.",
+    "erklaerung": "Der Begriff regelt Vorrechte im Fahrwasser: Wer dem Verlauf des Fahrwassers folgt (höchstens ±10° Abweichung), gehört zur durchgehenden Schifffahrt - egal ob Berufs- oder Sportschiff. Querende oder stark abweichende Fahrzeuge zählen nicht dazu.",
+    "kernpunkte": [
+      { "punkt": "Fahrzeuge, die deutlich dem Fahrwasserverlauf folgen", "synonyme": ["Fahrwasserverlauf folgen", "dem Fahrwasser folgen", "in Fahrwasserrichtung", "längs Fahrwasser"] },
+      { "punkt": "Abweichung höchstens ±10° von der Fahrwasserrichtung", "synonyme": ["10 Grad", "±10°", "höchstens 10 Grad", "Abweichung", "zehn Grad"] },
+      { "punkt": "unabhängig vom Zweck der Fahrt", "synonyme": ["unabhängig vom Zweck", "egal welcher Zweck", "gleichgültig", "jede Nutzung"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "1-22",
+    "kurzantwort": "Die für ein Bezugsjahr angegebene Missweisung muss mit der jährlichen Änderung auf das aktuelle Jahr berichtigt werden.",
+    "erklaerung": "Die Missweisung (Deklination) ändert sich mit der Zeit, weil der magnetische Pol wandert. In der Seekarte steht ein Wert für ein bestimmtes Jahr plus die jährliche Änderung - diese muss man auf das laufende Jahr umrechnen, sonst stimmt der Kurs nicht.",
+    "kernpunkte": [
+      { "punkt": "angegebene Missweisung gilt für ein bestimmtes Jahr", "synonyme": ["Missweisung", "Ortsmissweisung", "Deklination", "Bezugsjahr", "angegebenes Jahr"] },
+      { "punkt": "mit jährlicher Änderung auf das aktuelle Jahr berichtigen", "synonyme": ["jährliche Änderung", "berichtigen", "umrechnen", "aktuelles Jahr", "anpassen", "fortschreiben"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "1-23",
+    "kurzantwort": "Die KVR-Verordnung (Alkohol) gilt auf Seeschifffahrtsstraßen und für Schiffe unter Bundesflagge weltweit (seewärts des Küstenmeeres), soweit andere Staaten nichts Abweichendes regeln.",
+    "erklaerung": "Das Verbot, ein Fahrzeug alkoholbeeinträchtigt zu führen, gilt nicht nur in deutschen Gewässern, sondern für deutschflaggige Schiffe praktisch weltweit. In fremden Hoheitsgewässern gehen jedoch dort geltende Regeln vor.",
+    "kernpunkte": [
+      { "punkt": "gilt auf den Seeschifffahrtsstraßen", "synonyme": ["Seeschifffahrtsstraßen", "deutsche Gewässer", "Küstengewässer"] },
+      { "punkt": "für Schiffe unter Bundesflagge weltweit (seewärts des Küstenmeeres)", "synonyme": ["Bundesflagge", "deutsche Flagge", "weltweit", "seewärts des Küstenmeeres", "Hohe See"] },
+      { "punkt": "soweit fremde Staaten keine abweichenden Regeln haben", "synonyme": ["andere Staaten", "fremde Hoheitsgewässer", "abweichende Regelungen", "ausländische Regeln"] }
+    ],
+    "wichtigkeit": 1
+  },
+  {
+    "id": "1-24",
+    "kurzantwort": "Sicherheitseinweisung u. a.: Rettungswesten/Sicherheitsgurte, Rettungsfloß, Signalmittel, Lenzpumpen, Seeventile/Bord-WC, Feuerlöscher, Funk/UKW, Verhalten bei MOB.",
+    "erklaerung": "Vor der Reise muss jedes Crewmitglied wissen, wo die Sicherheits- und Rettungsausrüstung ist und wie sie funktioniert, damit im Notfall alle handeln können. Dazu gehören auch Verhaltensregeln wie das Vorgehen bei 'Mensch über Bord' und Seekrankheit.",
+    "kernpunkte": [
+      { "punkt": "Rettungswesten und Sicherheitsgurte, Rettungsfloß", "synonyme": ["Rettungsweste", "Sicherheitsgurt", "Lifebelt", "Rettungsinsel", "Rettungsfloß"] },
+      { "punkt": "Signalmittel, Lenzpumpen, Feuerlöscher", "synonyme": ["Signalmittel", "Seenotsignale", "Lenzpumpe", "Feuerlöscher"] },
+      { "punkt": "Seeventile/Bord-WC, Kocher, Motor-/Elektroanlage, Funk/UKW", "synonyme": ["Seeventile", "Bord-WC", "Toilette", "Kocher", "Motoranlage", "Elektroanlage", "UKW", "Seefunk", "Funkgerät"] },
+      { "punkt": "Verhalten bei Mensch über Bord und Seekrankheit", "synonyme": ["Mensch über Bord", "MOB", "Überbordgehen", "Seekrankheit"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "1-25",
+    "kurzantwort": "Fahrzeuge < 20 m und Segelfahrzeuge dürfen Schiffe, die nur im engen Fahrwasser/in der Fahrrinne sicher fahren können, nicht behindern und müssen rechtzeitig genügend Raum lassen.",
+    "erklaerung": "Große Schiffe sind an die tiefe Fahrrinne gebunden und können nicht ausweichen. Deshalb müssen kleine (< 20 m) Fahrzeuge und Segler ihnen die Durchfahrt freihalten - frühzeitig und so, dass für das große Schiff genug Raum bleibt.",
+    "kernpunkte": [
+      { "punkt": "dürfen die Durchfahrt eines an die Fahrrinne gebundenen Fahrzeugs nicht behindern", "synonyme": ["nicht behindern", "Durchfahrt freihalten", "enges Fahrwasser", "Fahrrinne", "tiefgangsbehindert"] },
+      { "punkt": "frühzeitig Maßnahmen ergreifen / genügend Raum lassen", "synonyme": ["frühzeitig", "rechtzeitig", "genügend Raum", "Platz machen", "ausweichen", "Raum lassen"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "1-26",
+    "kurzantwort": "Haufenwolke (Cumulus) am späten Vormittag über Land kündigt Seewind an.",
+    "erklaerung": "Wenn sich das Land vormittags erwärmt, steigt warme Luft auf und bildet Quellwolken (Cumulus). Diese Konvektion ist Teil des Mechanismus, der den auflandigen Seewind entstehen lässt.",
+    "kernpunkte": [
+      { "punkt": "Haufenwolke / Cumulus", "synonyme": ["Haufenwolke", "Cumulus", "Quellwolke", "Schönwetterwolke"] }
+    ],
+    "wichtigkeit": 1
+  },
+  {
+    "id": "1-27",
+    "kurzantwort": "NfS geben für die sichere Schiffsführung wichtige Maßnahmen, Ereignisse und Veränderungen auf Seeschifffahrtsstraßen, Hoher See und in fremden Hoheitsgewässern (europäischer Bereich) bekannt.",
+    "erklaerung": "Die Nachrichten für Seefahrer dienen vor allem der Berichtigung von Seekarten und Seebüchern. Sie melden Änderungen wie neue Tonnen, Feuer oder Untiefen - nicht nur in deutschen Gewässern, sondern auch auf Hoher See und im europäischen Umfeld.",
+    "kernpunkte": [
+      { "punkt": "wichtige Maßnahmen, Ereignisse und Veränderungen für die sichere Schiffsführung", "synonyme": ["Maßnahmen", "Ereignisse", "Veränderungen", "Berichtigung", "sichere Schiffsführung", "Seekartenberichtigung"] },
+      { "punkt": "Geltungsbereich: Seeschifffahrtsstraßen, Hohe See, fremde Hoheitsgewässer im europäischen Bereich", "synonyme": ["Seeschifffahrtsstraßen", "Hohe See", "Hoheitsgewässer anderer Staaten", "europäischer Bereich", "angrenzender Bereich"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "1-28",
+    "kurzantwort": "Leitfeuer sind Einzelfeuer, die durch verschiedenfarbige Sektoren (Leit-/Warnsektoren) ein Fahrwasser, eine Hafeneinfahrt oder freies Wasser zwischen Untiefen kennzeichnen.",
+    "erklaerung": "Ein Leitfeuer zeigt über die Farbe seines Sektors an, ob man sicher steht. Im weißen Leitsektor ist das Fahrwasser frei, die farbigen Warnsektoren (rot/grün) warnen vor Untiefen seitlich davon. So findet man auch nachts die sichere Route.",
+    "kernpunkte": [
+      { "punkt": "Einzelfeuer mit Sektoren verschiedener Farbe/Kennung (Leit- und Warnsektoren)", "synonyme": ["Einzelfeuer", "Sektoren", "Leitsektor", "Warnsektor", "farbige Sektoren", "Sektorenfeuer"] },
+      { "punkt": "kennzeichnet Fahrwasser, Hafeneinfahrt oder freien Seeraum zwischen Untiefen", "synonyme": ["Fahrwasser", "Hafeneinfahrt", "freier Seeraum", "Untiefen", "sichere Durchfahrt", "direction light"] }
+    ],
+    "wichtigkeit": 1
+  },
+  {
+    "id": "1-29",
+    "kurzantwort": "Manövrierbehindertes Fahrzeug bei Unterwasserarbeiten (z. B. Bagger), wohl ≥50 m, von vorn. Zwei grüne Lichter = Passierseite frei (Steuerbord), zwei rote = Behinderung (Backbord).",
+    "erklaerung": "Doppelte rote bzw. grüne Rundumlichter zeigen bei einem manövrierbehinderten Fahrzeug (z. B. Bagger) an, auf welcher Seite man gefahrlos passieren darf: Grün = freie Seite, Rot = Hindernisseite. Hier liegt das Hindernis an Backbord, die freie Seite an Steuerbord.",
+    "kernpunkte": [
+      { "punkt": "manövrierbehindertes Fahrzeug bei Unterwasserarbeiten (z. B. Bagger), von vorn", "synonyme": ["manövrierbehindert", "Bagger", "Unterwasserarbeiten", "behindertes Fahrzeug", "von vorn"] },
+      { "punkt": "zwei grüne Rundumlichter = Passierseite frei (hier Steuerbord)", "synonyme": ["zwei grüne Lichter", "grün", "Passierseite", "Steuerbord frei", "freie Seite"] },
+      { "punkt": "zwei rote Rundumlichter = Passierbehinderung (hier Backbord)", "synonyme": ["zwei rote Lichter", "rot", "Passierbehinderung", "Backbord", "Hindernis", "gesperrte Seite"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "1-30",
+    "kurzantwort": "Bei Kursänderung großer Schiffe schwenkt das Heck deutlich zur Gegenseite aus (z. B. Heck nach Backbord bei Drehung nach Steuerbord).",
+    "erklaerung": "Ein großes Schiff dreht um einen Punkt vorn im Schiff, daher schert das Heck nach außen aus. Wer dicht achteraus oder seitlich passiert, muss damit rechnen, dass das Heck plötzlich in seine Richtung schwenkt, und genügend Abstand halten.",
+    "kernpunkte": [
+      { "punkt": "das Heck schwenkt bei Kursänderung in die entgegengesetzte Richtung aus", "synonyme": ["Heck schwenkt aus", "Heck schert aus", "entgegengesetzte Richtung", "Hecksaussschwung", "Drehpunkt", "Abstand halten"] }
+    ],
+    "wichtigkeit": 2
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "id": "10-1",
+    "frage": "Wie wird ein Brand an Bord wirksam bekämpft?",
+    "musterantwort": "1. Alle Öffnungen schließen, 2. Brennstoffzufuhr (Hauptschalter) unterbrechen, 3. Feuerlöscher erst am Brandherd betätigen, 4. Feuer von unten und von vorn bekämpfen, 5. Löschdecke einsetzen, 6. Flüssigkeitsbrände nicht mit Wasser bekämpfen."
+  },
+  {
+    "id": "10-2",
+    "frage": "1. Wann werden Sturmwarnungen verbreitet? 2. Welche Bezeichnung hat die Sturmwarnung im internationalen Sprachgebrauch",
+    "musterantwort": "1. Bei zu erwartenden oder noch andauernden Windstärken von mindestens 8 Bft. 2. Gale warning."
+  },
+  {
+    "id": "10-3",
+    "frage": "Wodurch können Radarechos von kleinen Fahrzeugen und Tonnen auf den Sichtschirmen von Radargeräten \"verschwinden\"?",
+    "musterantwort": "1. Durch Seegang und/oder Niederschlag, 2. durch falsche Bedienung, 3. durch zu große Entfernung, 4. durch Gieren des eigenen Fahrzeugs bei relativ vorausorientierter Radarstellung (head up)."
+  },
+  {
+    "id": "10-4",
+    "frage": "Während Sie unter Maschine laufen, steigt plötzlich die Kühlwassertemperatur stark an. Ihre Yacht ist mit einem Saildrive-Antrieb ausgestattet. 1. Welche typische Ursache hat der Temperaturanstieg, wenn eine technische Störung unwahrscheinlich ist? 2. Wie können Sie die Störung einfach beheben?",
+    "musterantwort": "1. Fremdkörper (Folienstücke, Plastiktüten, Pflanzenteile o. Ä.) haben den Kühlwassereinlass verstopft. 2. Mehrmals abwechselnd vor- und zurückfahren, sodass sich die Fremdkörper vom Kühlwassereinlass lösen."
+  },
+  {
+    "id": "10-5",
+    "frage": "1. Wie heißen die Linien gleichen Luftdrucks? 2. In welcher Maßeinheit wird der Luftdruck angegeben?",
+    "musterantwort": "1. Isobaren. 2. Hektopascal (hPa) oder vereinzelt auch noch Millibar (mb, teilweise auch mbar)."
+  },
+  {
+    "id": "10-6",
+    "frage": "Mit welchen Hilfsmitteln können Sie den Bezugspunkt (internationaler Begriff: Datum) für die Suche nach einem Überbordgefallenen sichern?",
+    "musterantwort": "1. Markierungsblitzboje, 2. MOB-Taste eines satellitengestützten Navigationsgerätes (z. B. GPS)."
+  },
+  {
+    "id": "10-7",
+    "frage": "Welche Daten sollten an Bord mindestens im Logbuch dokumentiert werden?",
+    "musterantwort": "1. Namen und Funktionen der Crewmitglieder, 2. Beginn und Ende einer Fahrt und 3. in angemessenen Zeitabständen: Position, Kurs, Geschwindigkeit, Strömung, Wetter, Luftdruck."
+  },
+  {
+    "id": "10-8",
+    "frage": "Welche Lichter müssen manövrierbehinderte Fahrzeuge (außer Minenräumfahrzeuge) führen 1. ohne Fahrt durchs Wasser (FdW), 2. mit FdW, 3. vor Anker?",
+    "musterantwort": "1. Ohne FdW: rot-weiß-rot senkrecht übereinander. 2. Mit FdW: rot-weiß-rot senkrecht übereinander und Lichter eines Maschinenfahrzeugs (Topplicht[er]), Seitenlichter, Hecklicht. 3. Vor Anker: rot-weiß-rot senkrecht übereinander und Ankerlicht(er)."
+  },
+  {
+    "id": "10-9",
+    "frage": "1. Was sind P-Nachrichten? 2. Wie verfährt man mit diesen Nachrichten im Berichtigungsverfahren? (Begründung!)",
+    "musterantwort": "1. P-Nachrichten sind solche, die eine bevorstehende (preliminary) Maßnahme ankündigen. 2. Wegen der begrenzten Geltungsdauer werden keine Berichtigungen auf der Grundlage von P-Nachrichten vom BSH bzw. von amtlichen Seekartenberichtigungsstellen durchgeführt. Deshalb müssen vor Gebrauch jeder Seekarte die noch gültigen P- Nachrichten erfasst und in der Karte vermerkt werden."
+  },
+  {
+    "id": "10-10",
+    "frage": "Wann liegt ein schaden- oder gefahrverursachendes Vorkommnis (Seeunfall) im Sinne des Seesicherheits-Untersuchungs-Gesetzes (SUG) vor? Nennen Sie mindestens 3 Merkmale.",
+    "musterantwort": "1. Schiffsverlust, Aufgrundlaufen, Kollision eines Schiffes, 2. Tod oder Verschollenheit oder schwere Verletzung einer Person, 3. maritimer Umweltschaden oder sonstiger Sachschaden, 4. Gefahr für einen Menschen oder ein Schiff, 5. Gefahr eines schweren Schadens an einem Schiff, einem meerestechnischen Bauwerk oder an der Meeresumwelt."
+  },
+  {
+    "id": "10-11",
+    "frage": "Wie müssen sich Segelfahrzeuge ohne Radar bei verminderter Sicht verhalten? Was gehört dabei zu den Regeln guter Seemannschaft?",
+    "musterantwort": "1. Segelfahrzeuge müssen mit sicherer Geschwindigkeit fahren, die den gegebenen Umständen und Bedingungen der verminderten Sicht angepasst ist. 2. Bei Segelfahrzeugen, die eine Maschine an Bord haben, gehört das Bereithalten der Maschine zu den Regeln guter Seemannschaft."
+  },
+  {
+    "id": "10-12",
+    "frage": "Welche Sicht- und Wetterverhältnisse erwarten Sie typischerweise 1. vor oder nahe der Warmfront, 2. im Warmsektor, 3. hinter der Kaltfront?",
+    "musterantwort": "1. Sichtverschlechterung durch Niederschlag, bedeckt, länger andauernder Regen. 2. Diesig oder mäßige Sicht, Wolkenauflockerung, zeitweise Regen 3. Sichtbesserung, meist gute Sicht. Schauer mit zum Teil kräftigen Böen."
+  },
+  {
+    "id": "10-13",
+    "frage": "Was ist bei Anbringung einer GPS-Antenne zu beachten?",
+    "musterantwort": "1. Sie muss ringsum freie Sicht (ohne Abschattungen) haben. 2. Einwandfreie Erdung."
+  },
+  {
+    "id": "10-14",
+    "frage": "1. Wie entsteht Kaltwassernebel? 2. Zu welcher Jahreszeit tritt diese Nebelart in europäischen Gewässern bevorzugt auf?",
+    "musterantwort": "1. Warme und feuchte Luftmassen werden durch den kalten Untergrund (Meer) unter den Taupunkt abgekühlt. 2. Überwiegend im Frühjahr."
+  },
+  {
+    "id": "10-15",
+    "frage": "Die KVR regeln u. a. das Verhalten der Schiffsführungen bei Kollisionsgefahr. Was ist im Rahmen der Verantwortlichkeit bei der Auslegung und Befolgung der KVR zu berücksichtigen?",
+    "musterantwort": "Bei der Auslegung und Befolgung der KVR sind stets alle Gefahren der Schifffahrt und des Zusammenstoßes sowie alle besonderen Umstände einschließlich Behinderungen der betroffenen Fahrzeuge gebührend zu berücksichtigen, die zum Abwenden unmittelbarer Gefahr ggf. auch ein Abweichen von diesen Regeln erfordern können (z. B. Abweichen von der Kurshaltepflicht, wenn der Ausweichpflichtige nicht angemessen handelt)."
+  },
+  {
+    "id": "10-16",
+    "frage": "Geben Sie die benötigte Strommenge (in Amperestunden) an, um bei einer 12-Volt-Anlage zwei Verbraucher mit je 24 Watt 10 Stunden betreiben zu können (mit Angabe der Berechnung)!",
+    "musterantwort": "Benötigte Strommenge je Verbraucher: 24 : 12 = 2 Ampere mal Anzahl der Verbraucher mal Stunden ergibt: 2 x 2 A x 10 h = 40 Ah."
+  },
+  {
+    "id": "10-17",
+    "frage": "Warum sollten Vorsegel für schweres Wetter im Unterliek hoch geschnitten sein?",
+    "musterantwort": "Damit überkommende Seen nicht ins Segel schlagen und so Rigg und Segel belasten."
+  },
+  {
+    "id": "10-18",
+    "frage": "Welche Windverhältnisse erwarten Sie auf der Nordhalbkugel während der unmittelbaren Passage eines markanten Troges?",
+    "musterantwort": "Der Wind dreht recht, meist über 60 bis 90°. Winde bis Orkanstärke besonders auf der Rückseite eines Troges."
+  },
+  {
+    "id": "10-19",
+    "frage": "In welcher Sprache werden die Nachrichten für Seefahrer (NfS) verfasst?",
+    "musterantwort": "Die Angaben erfolgen in deutscher und in englischer Sprache."
+  },
+  {
+    "id": "10-20",
+    "frage": "Wo und unter welcher Bedingung gelten im Geltungsbereich der SeeSchStrO die KVR?",
+    "musterantwort": "Die KVR gelten im gesamten Geltungsbereich der SeeSchStrO innerhalb und außerhalb der Fahrwasser, soweit die SeeSchStrO nicht ausdrücklich etwas anderes bestimmt (z. B. Vorfahrt, Grundsatz des Vorranges der spezielleren Rechtsvorschrift vor der allgemeineren)."
+  },
+  {
+    "id": "10-21",
+    "frage": "Warum darf der Anker nicht zusammen mit seiner Leine am Ankerplatz über Bord geworfen werden?",
+    "musterantwort": "Die Leine könnte mit dem Anker vertörnen und dadurch das Eingraben des Ankers verhindern. Der Anker würde dann nicht halten."
+  },
+  {
+    "id": "10-22",
+    "frage": "Was müssen Sie hinsichtlich der Zeiten der Lichterführung beachten?",
+    "musterantwort": "Die Lichter müssen geführt werden 1. zwischen Sonnenuntergang und Sonnenaufgang, 2. bei verminderter Sicht auch zwischen Sonnenaufgang und Sonnenuntergang."
+  },
+  {
+    "id": "10-23",
+    "frage": "Welchen Einfluss hat zunehmende Krängung auf den Trimm eines Segelbootes? (Begründung!)",
+    "musterantwort": "Die Luvgierigkeit nimmt zu, weil der Segeldruckpunkt nach Lee auswandert."
+  },
+  {
+    "id": "10-24",
+    "frage": "Was müssen Sie beachten, wenn Sie die mit Loggen ermittelte Fahrt z. B. für das Arbeiten in Seekarten berücksichtigen wollen?",
+    "musterantwort": "Die üblichen Logmethoden liefern ausschließlich die \"Fahrt durchs Wasser (FdW)\". Um die \"Fahrt über Grund (FüG)\" zu ermitteln, müssen Stromrichtung und Stromgeschwindigkeit berücksichtigt werden."
+  },
+  {
+    "id": "10-25",
+    "frage": "Weshalb und wie können die tatsächlichen Wasserstände von den Angaben in den Gezeitentafeln teilweise erheblich abweichen?",
+    "musterantwort": "Durch Wind und/oder durch sehr hohen bzw. sehr niedrigen Luftdruck können erhebliche Wasserstandsänderungen entstehen. HWH bzw. NWH können höher oder niedriger sein als angegeben, die Hoch- und Niedrigwasserzeit kann füher oder später eintreten als angegeben."
+  },
+  {
+    "id": "10-26",
+    "frage": "Warum kann das Anlaufen eines Hafens bei auflandigem Starkwind bzw. schwerem Wetter gefährlich werden?",
+    "musterantwort": "Gefahr durch Grundseen bzw. Kreuzseen. Möglichkeit von Querstromwirbeln."
+  },
+  {
+    "id": "10-27",
+    "frage": "Was ist Kartennull?",
+    "musterantwort": "Kartennull (KN) ist die Bezugsfläche für die Tiefenangaben in einer Seekarte."
+  },
+  {
+    "id": "10-28",
+    "frage": "Wer gibt die nautischen Warnnachrichten (NWN) heraus und von wem werden sie verbreitet?",
+    "musterantwort": "Nautische Warnnachrichten (NWN) werden von den Verkehrszentralen für deren Zuständigkeitsbereich und von dem ständig besetzten Seewarndienst Emden für das gesamte deutsche Warngebiet zur Verbreitung über Funk herausgegeben. Der Rundfunksender Deutschlandfunk verbreitet alle über Funk abgegebenen NWN."
+  },
+  {
+    "id": "10-29",
+    "frage": "Worauf muss beim Ansteuern einer Küste bei der Auswahl von Seekarten geachtet werden? Begründen Sie Ihre Antwort.",
+    "musterantwort": "Seekarten mit größtmöglichem Maßstab verwenden. Nur in diesen Karten sind alle Schifffahrtszeichen und weitere für die Navigation wichtigen Informationen eingetragen."
+  },
+  {
+    "id": "10-30",
+    "frage": "Welche Atem- bzw. Blutalkoholkonzentration darf laut Verordnung zu den KVR nicht erreicht werden, damit kein Verbot für ein Führen eines Fahrzeugs oder als Mitglied der Crew für ein Ausüben des Brückendienstes besteht?",
+    "musterantwort": "0,25 mg/l oder mehr Alkohol in der Atemluft oder 0,5 Promille oder mehr Alkohol im Blut oder eine Alkoholmenge, die zu einer solchen Atem- oder Blutalkoholkonzentration führt."
+  }
+]

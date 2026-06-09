@@ -1,0 +1,311 @@
+[
+  {
+    "id": "7-1",
+    "kurzantwort": "BSH-Broschüre \"Sicherheit im See- und Küstenbereich\" und der Leitfaden \"Sicherheit auf dem Wasser\" des Bundesverkehrsministeriums.",
+    "erklaerung": "Diese amtlichen Veröffentlichungen fassen Ausrüstungs- und Sorgfaltsregeln für Wassersportler zusammen und gelten als Referenz, an der man sich auch bei der Beurteilung von Unfällen orientiert. Das BSH ist die zentrale deutsche Behörde für maritime Sicherheit.",
+    "kernpunkte": [
+      { "punkt": "BSH-Broschüre \"Sicherheit im See- und Küstenbereich, Sorgfaltsregeln für Wassersportler\"", "synonyme": ["BSH", "Bundesamt für Seeschifffahrt und Hydrographie", "Sorgfaltsregeln", "Sicherheit im See- und Küstenbereich"] },
+      { "punkt": "Leitfaden \"Sicherheit auf dem Wasser\" des Bundesverkehrsministeriums", "synonyme": ["Sicherheit auf dem Wasser", "Leitfaden für Wassersportler", "Bundesministerium für Verkehr", "BMVBS", "Verkehrsministerium"] }
+    ],
+    "wichtigkeit": 1
+  },
+  {
+    "id": "7-2",
+    "kurzantwort": "1. Wind weht rückgedreht in das Tief hinein (nicht parallel zu den Isobaren). 2. Etwa 1-2 Strich = ca. 10°-20°.",
+    "erklaerung": "Durch Reibung an der Wasseroberfläche verliert der Wind an Geschwindigkeit, dadurch verschiebt sich das Gleichgewicht der Kräfte und der Wind wird zum Tiefdruckkern hin abgelenkt. Auf der Nordhalbkugel dreht er gegen den Uhrzeigersinn ins Tief hinein.",
+    "kernpunkte": [
+      { "punkt": "Wind weht rückgedreht in das Tief hinein, nicht parallel zu den Isobaren", "synonyme": ["rückgedreht", "ins Tief hinein", "nicht parallel", "Isobaren", "zum Tiefdruckkern", "einwärts"] },
+      { "punkt": "Ablenkung ca. 1-2 Strich bzw. 10°-20°", "synonyme": ["10 bis 20 Grad", "10°-20°", "ein bis zwei Strich", "1-2 Strich", "10-20°"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "7-3",
+    "kurzantwort": "Durch Seegang/Niederschlag, falsche Bedienung, zu große Entfernung und Gieren des eigenen Schiffs bei Head-up-Darstellung.",
+    "erklaerung": "Kleine Ziele liefern nur schwache Echos, die durch See- und Regenecho überlagert oder bei falscher Geräteeinstellung weggefiltert werden. Bei vorausorientierter Darstellung (head up) verschmiert das Gieren des eigenen Schiffs das Bild zusätzlich.",
+    "kernpunkte": [
+      { "punkt": "Seegang und/oder Niederschlag (Störechos)", "synonyme": ["Seegang", "Niederschlag", "Regen", "Seeecho", "Regenecho", "Störechos", "Clutter"] },
+      { "punkt": "falsche Bedienung/Einstellung des Geräts", "synonyme": ["falsche Bedienung", "falsche Einstellung", "Bedienungsfehler", "Verstärkung", "Gain"] },
+      { "punkt": "zu große Entfernung", "synonyme": ["zu große Entfernung", "weite Entfernung", "Reichweite", "zu weit weg"] },
+      { "punkt": "Gieren bei vorausorientierter Stellung (head up)", "synonyme": ["Gieren", "head up", "vorausorientiert", "head-up", "Schlingern"] }
+    ],
+    "wichtigkeit": 1
+  },
+  {
+    "id": "7-4",
+    "kurzantwort": "Bullenstander verhindert ungewolltes Überkommen (Patenthalse) des Großbaums bei achterlichem Wind; gefahren von der Baumnock zum Vorschiff.",
+    "erklaerung": "Bei raumem bis achterlichem Wind kann der Baum bei einem Steuerfehler oder einer Welle unkontrolliert auf die andere Seite knallen (Patenthalse) - das ist gefährlich. Der Bullenstander hält den Baum nach vorne fest und verhindert das.",
+    "kernpunkte": [
+      { "punkt": "verhindert ungewolltes Überkommen des Großbaums bei achterlichem Wind", "synonyme": ["Patenthalse", "Überkommen", "Baum sichern", "achterlicher Wind", "unkontrollierte Halse", "Sonnenschuss"] },
+      { "punkt": "gefahren von der Baumnock zum Vorschiff", "synonyme": ["Baumnock zum Vorschiff", "von der Nock nach vorne", "zum Bug", "nach vorne festgesetzt"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "7-5",
+    "kurzantwort": "Bugstrahlruder nach Bb (Bug von Pier weg), gleichzeitig Ruder nach Stb und langsame Fahrt voraus (Heck nach Bb) - Schiff drückt parallel von der Pier ab.",
+    "erklaerung": "Liegt man mit Steuerbordseite an der Pier, drückt das Bugstrahlruder den Bug nach Backbord von der Pier weg. Damit das Heck nicht an der Pier hängenbleibt, schwenkt man es mit Ruder Steuerbord und Vorausfahrt ebenfalls nach Backbord aus - so kommt das Boot annähernd parallel frei.",
+    "kernpunkte": [
+      { "punkt": "Bugstrahlruder nach Backbord - Bug von der Pier wegdrücken", "synonyme": ["Bugstrahlruder", "Bug nach Backbord", "Bug wegdrücken", "Querstrahlruder", "Bug von Pier"] },
+      { "punkt": "Ruder nach Steuerbord und langsam voraus - Heck nach Backbord ausschwenken", "synonyme": ["Ruder Steuerbord", "langsame Fahrt voraus", "Heck nach Backbord", "Heck ausschwenken", "Ruderlage Steuerbord"] },
+      { "punkt": "Schiff drückt parallel von der Pier ab", "synonyme": ["parallel ablegen", "parallel abdrücken", "von der Pier weg", "gleichmäßig frei"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "7-6",
+    "kurzantwort": "1. Knoten verringern die Bruchlast einer Leine um bis zu 50 %. 2. Damit die Kette im Notfall schnell gekappt werden kann.",
+    "erklaerung": "An scharfen Umlenkungen im Knoten wird das Material stark beansprucht, daher hält geknotetes Tauwerk deutlich weniger als gespleißtes. Wird die Kette nur mit einem Taustropp befestigt, kann man sie im Notfall (z. B. plötzliches Auslaufen) mit dem Messer kappen, statt am schwer zugänglichen Schäkel zu arbeiten.",
+    "kernpunkte": [
+      { "punkt": "Knoten reduzieren die Bruchlast um bis zu 50 %", "synonyme": ["Bruchlast", "bis zu 50 %", "halbe Tragkraft", "Festigkeit reduziert", "Reißfestigkeit", "schwächt die Leine"] },
+      { "punkt": "Taustropp, damit die Kette im Notfall schnell gekappt werden kann", "synonyme": ["kappen", "im Notfall durchschneiden", "schnell lösen", "Taustropp", "Notfall", "abschneiden"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "7-7",
+    "kurzantwort": "Hecklicht/Backbord-Seitenlicht eines gierenden Segelfahrzeugs. Sie kommen aus dem Hecksektor (Sektorengrenze) - im Zweifel als Überholer ausweichpflichtig.",
+    "erklaerung": "Mal weißes Hecklicht, mal rotes Backbordlicht in gleicher Höhe zeigt: das Vorausfahrzeug giert um seine Sektorengrenze (135°-Hecklichtgrenze). Sie nähern sich von achtern, also gelten Sie als Überholer. Bei Zweifel über den Sektor muss man sich als Überholer betrachten und weicht aus.",
+    "kernpunkte": [
+      { "punkt": "Hecklicht und/oder Backbord-Seitenlicht eines gierenden Segelfahrzeugs", "synonyme": ["Hecklicht", "Backbordlicht", "Seitenlicht", "Segelfahrzeug", "gieren", "Sektorengrenze"] },
+      { "punkt": "Sie sind Überholer (aus dem Hecksektor) und müssen ausweichen", "synonyme": ["überholen", "Überholer", "ausweichen", "im Zweifel Überholer", "Hecksektor", "ausweichpflichtig"] }
+    ],
+    "wichtigkeit": 3
+  },
+  {
+    "id": "7-8",
+    "kurzantwort": "1. Besonders hohe Brecher durch Untiefen/ansteigenden Meeresboden bzw. Küstennähe. 2. Bis etwa das 2,5-fache der kennzeichnenden Wellenhöhe.",
+    "erklaerung": "Läuft eine Welle auf flacher werdendes Wasser, wird sie gebremst und steiler, bis sie bricht - das ist die gefährliche Grundsee. Sie kann ein Vielfaches der normalen Wellenhöhe erreichen und ist für kleine Boote sehr gefährlich.",
+    "kernpunkte": [
+      { "punkt": "hohe Brecher durch Untiefen/ansteigenden Meeresboden bzw. Küstennähe", "synonyme": ["Untiefe", "ansteigender Meeresboden", "Küstennähe", "Brecher", "flaches Wasser", "brechende Welle"] },
+      { "punkt": "Höhe bis etwa das 2,5-fache der kennzeichnenden Wellenhöhe", "synonyme": ["2,5-fache", "2,5fach", "2,5 mal", "kennzeichnende Wellenhöhe", "charakteristische Wellenhöhe", "zweieinhalbfach"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "7-9",
+    "kurzantwort": "Meldung absetzen, Fahrt rausnehmen, Lenzpumpen + Lecksuche + abdichten, flaches Wasser/Küste ansteuern, so trimmen dass das Leck aus dem Wasser kommt.",
+    "erklaerung": "Erst Hilfe alarmieren (man weiß nie, wie schnell es geht), dann den Wassereinbruch bekämpfen: Pumpen, Leck finden und mit Bordmitteln stopfen. Trimmen, sodass die Leckstelle möglichst über Wasser liegt, und flaches Wasser ansteuern, damit das Schiff im Notfall nicht ganz sinkt.",
+    "kernpunkte": [
+      { "punkt": "Meldung/Notruf absetzen", "synonyme": ["Meldung", "Notruf", "Mayday", "Funkspruch", "alarmieren", "Hilfe rufen"] },
+      { "punkt": "Fahrt aus dem Schiff nehmen", "synonyme": ["Fahrt rausnehmen", "Fahrt verringern", "langsamer", "Geschwindigkeit reduzieren"] },
+      { "punkt": "Lenzpumpen, Lecksuche, Leck mit Bordmitteln abdichten", "synonyme": ["Lenzpumpe", "lenzen", "Lecksuche", "abdichten", "Leck stopfen", "Bordmittel"] },
+      { "punkt": "Küste/flaches Wasser ansteuern und trimmen, dass Leck aus dem Wasser kommt", "synonyme": ["flaches Wasser", "Küste ansteuern", "trimmen", "Leck aus dem Wasser", "auf Grund setzen", "Leckstelle anheben"] }
+    ],
+    "wichtigkeit": 3
+  },
+  {
+    "id": "7-10",
+    "kurzantwort": "Nur zur Durchfahrt, ohne Lotsen nur bei Tag und nicht bei verminderter Sicht; Fahrt so planen, dass vor Tagfahrtende eine Liegestelle erreicht wird; bei Sichtverschlechterung an Dalben/Liegestellen festmachen.",
+    "erklaerung": "Der NOK ist eine stark befahrene Berufsschifffahrtsstraße. Sportboote dürfen ihn nur tagsüber bei guter Sicht durchfahren und müssen ihre Etappen so legen, dass sie rechtzeitig eine Liegestelle erreichen, um die Berufsschifffahrt nicht zu behindern.",
+    "kernpunkte": [
+      { "punkt": "nur zur Durchfahrt, ohne Lotsen nur bei Tag und nicht bei verminderter Sicht", "synonyme": ["nur Durchfahrt", "Tagfahrt", "Tagfahrtzeiten", "nicht bei verminderter Sicht", "ohne Lotsen", "nur tagsüber"] },
+      { "punkt": "Fahrt so einrichten, dass vor Tagfahrtende eine Liegestelle erreicht wird", "synonyme": ["Liegestelle erreichen", "rechtzeitig anlegen", "vor Ablauf der Tagfahrzeit", "Etappen planen"] },
+      { "punkt": "bei plötzlich verminderter Sicht in Weichengebieten hinter Dalben/an Liegestellen festmachen", "synonyme": ["Dalben", "Weichengebiet", "festmachen", "verminderte Sicht", "anlegen bei Nebel"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "7-11",
+    "kurzantwort": "1. Funk versuchen, 2. 5 kurze Töne, 3. ggf. 5 Lichtblitze, 4. Manöver des vorletzten Augenblicks, 5. Manöver des letzten Augenblicks. Zwingend: Punkt 2 und 5.",
+    "erklaerung": "Auch als Kurshalter musst du eine Kollision verhindern. Das Schallsignal (fünf kurze Töne) drückt Zweifel/Warnung aus und ist Pflicht; reagiert der andere nicht, musst du letztlich selbst alles tun, um den Zusammenstoß zu vermeiden (Manöver des letzten Augenblicks).",
+    "kernpunkte": [
+      { "punkt": "Funkversuch (KÜhle Anwarnung über UKW)", "synonyme": ["Funk", "UKW", "anrufen", "über Funk warnen"] },
+      { "punkt": "mindestens fünf kurze, rasch aufeinanderfolgende Töne (zwingend)", "synonyme": ["fünf kurze Töne", "5 kurze Pfeiftöne", "Schallsignal", "Achtungssignal", "Zweifelssignal"] },
+      { "punkt": "ggf. fünf kurze Lichtblitze", "synonyme": ["fünf Blitze", "Lichtsignal", "5 Lichtblitze", "Morselampe"] },
+      { "punkt": "Manöver des vorletzten und des letzten Augenblicks (letzter Augenblick zwingend)", "synonyme": ["letzter Augenblick", "vorletzter Augenblick", "Ausweichmanöver", "Manöver des letzten Augenblicks", "Kollisionsvermeidung"] }
+    ],
+    "wichtigkeit": 3
+  },
+  {
+    "id": "7-12",
+    "kurzantwort": "Schifffahrtswege, durch Trennlinien/-zonen in Einbahnwege geteilt. Befahren nur rechts der Trennzone in Fahrtrichtung, dabei volle Breite des Einbahnwegs nutzbar.",
+    "erklaerung": "Verkehrstrennungsgebiete (VTG) ordnen den Verkehr in viel befahrenen Bereichen wie Einbahnstraßen, um Begegnungen auf Gegenkurs zu vermeiden. Man fährt im rechten Weg, kreuzt sie möglichst rechtwinklig zur Hauptströmungsrichtung.",
+    "kernpunkte": [
+      { "punkt": "durch Trennlinien/Trennzonen in Einbahnwege geteilte Schifffahrtswege", "synonyme": ["Trennlinie", "Trennzone", "Einbahnweg", "VTG", "Verkehrstrennungsgebiet", "Einbahnstraße"] },
+      { "punkt": "nur in Fahrtrichtung rechts der Trennzone befahren, volle Breite nutzen", "synonyme": ["rechts der Trennzone", "in Fahrtrichtung", "volle Breite", "rechter Einbahnweg", "Fahrtrichtung beachten"] }
+    ],
+    "wichtigkeit": 3
+  },
+  {
+    "id": "7-13",
+    "kurzantwort": "1. Abstagen des Mastes nach achtern. 2. Vor allem bei 7/8-Takelung und anderen nicht toppgetakelten Yachten.",
+    "erklaerung": "Bei Topptakelung übernimmt das Achterstag das Abstützen nach hinten. Bei 7/8-Takelung setzt das Vorstag unterhalb des Masttopps an, daher braucht der Mast oberhalb zusätzliche achterliche Abstützung - das leisten die luvseitig gesetzten Backstagen.",
+    "kernpunkte": [
+      { "punkt": "zusätzliches Abstagen des Mastes nach achtern", "synonyme": ["Mast abstagen", "nach achtern", "Mast stützen", "achterliche Abstützung", "Mastsicherung"] },
+      { "punkt": "vor allem bei 7/8-Takelung / nicht toppgetakelten Yachten", "synonyme": ["7/8-Takelung", "Siebenachtel", "nicht toppgetakelt", "Teiltakelung", "Fraktional"] }
+    ],
+    "wichtigkeit": 1
+  },
+  {
+    "id": "7-14",
+    "kurzantwort": "Am Kartenrand unter dem Kartentitel.",
+    "erklaerung": "Im Titelfeld der Seekarte stehen die wichtigsten Metadaten wie das verwendete geodätische Bezugssystem (Datum) und nötige Korrekturhinweise. Das ist wichtig, um GPS-Positionen korrekt einzutragen.",
+    "kernpunkte": [
+      { "punkt": "am Kartenrand unter dem Titel", "synonyme": ["unter dem Titel", "Kartenrand", "Titelfeld", "Kartentitel", "im Kopf der Karte", "Titelblock"] }
+    ],
+    "wichtigkeit": 1
+  },
+  {
+    "id": "7-15",
+    "kurzantwort": "Das Bezugssystem muss übereinstimmen: Kartendatum im Empfänger einstellen, ODER GPS-Ort um die N/S- und E/W-Korrektur verschieben, ODER WGS-84-Karten verwenden.",
+    "erklaerung": "GPS arbeitet in WGS 84. Beruht die Karte auf einem anderen Datum, liegt der eingetragene Punkt sonst um etliche Meter daneben. Deshalb gleicht man die Bezugssysteme an oder korrigiert den Ort um die in der Karte angegebenen Werte.",
+    "kernpunkte": [
+      { "punkt": "Bezugssystem/Kartendatum muss übereinstimmen", "synonyme": ["Bezugssystem", "Kartendatum", "Datum", "übereinstimmen", "gleiches System"] },
+      { "punkt": "Kartenbezugssystem im Empfänger einstellen", "synonyme": ["im Empfänger einstellen", "GPS einstellen", "Kartendatum wählen", "Empfänger umstellen"] },
+      { "punkt": "GPS-Ort um angegebene N/S- und E/W-Korrektur verschieben", "synonyme": ["Korrektur verschieben", "N/S-Korrektur", "E/W-Korrektur", "manuell verschieben", "Korrekturwerte"] },
+      { "punkt": "Seekarten verwenden, die auf WGS 84 beruhen", "synonyme": ["WGS 84", "WGS84", "WGS-84-Karte", "Karte auf WGS 84"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "7-16",
+    "kurzantwort": "Es soll die Verschmutzung der Meere verhindern.",
+    "erklaerung": "MARPOL (Marine Pollution) ist das internationale Übereinkommen zur Verhütung der Meeresverschmutzung durch Schiffe - es regelt z. B. das Einleiten von Öl, Müll und Abwasser. Auch Sportboote müssen sich daran halten.",
+    "kernpunkte": [
+      { "punkt": "Verhinderung der Verschmutzung der Meere durch Schiffe", "synonyme": ["Meeresverschmutzung", "Verschmutzung verhindern", "Umweltschutz", "Verhütung der Verschmutzung", "Meeresumweltschutz", "Pollution"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "7-17",
+    "kurzantwort": "Rad dreht ein Zahnrad, dessen Kette in der Steuersäule nach unten läuft; die Kette ist mit Steuerseilen verbunden, die über Umlenkrollen zum Ruderquadranten führen.",
+    "erklaerung": "Die Drehung des Steuerrads wird über Zahnrad und Kette in einen Zug der Steuerseile umgesetzt. Diese laufen über Umlenkrollen zum Ruderquadranten und drehen so den Ruderschaft. Eine einfache, mechanische und wartbare Bauart.",
+    "kernpunkte": [
+      { "punkt": "Rad dreht Zahnrad mit Kette in der Steuersäule", "synonyme": ["Zahnrad", "Kette", "Steuersäule", "Steuerrad", "Ritzel"] },
+      { "punkt": "Kette mit Steuerseilen verbunden, über Umlenkrollen zum Ruderquadranten", "synonyme": ["Steuerseile", "Umlenkrollen", "Ruderquadrant", "Seilzug", "Quadrant", "Rollen"] }
+    ],
+    "wichtigkeit": 1
+  },
+  {
+    "id": "7-18",
+    "kurzantwort": "Der Formschwerpunkt F wandert zur geneigten Seite aus; dadurch entsteht ein Hebelarm zwischen Auftriebs- und Gewichtskraft und ein aufrichtendes Moment.",
+    "erklaerung": "Bei Krängung taucht die Leeseite tiefer ein, also verlagert sich der Auftriebsschwerpunkt (Formschwerpunkt) dorthin. Gewichtskraft (nach unten) und Auftriebskraft (nach oben) wirken nun versetzt - dieser Hebelarm erzeugt ein aufrichtendes Moment = Gewichtskraft × Hebelarm, das das Boot wieder gerade stellt.",
+    "kernpunkte": [
+      { "punkt": "Formschwerpunkt F wandert zur geneigten/eingetauchten Seite aus", "synonyme": ["Formschwerpunkt", "F wandert aus", "Auftriebsschwerpunkt", "Verdrängungsschwerpunkt", "zur Leeseite"] },
+      { "punkt": "seitlicher Abstand der Wirklinien = Hebelarm", "synonyme": ["Hebelarm", "Abstand der Wirklinien", "aufrichtender Hebel", "Hebel", "GZ"] },
+      { "punkt": "es entsteht ein aufrichtendes Moment (Gewichtskraft × Hebelarm)", "synonyme": ["aufrichtendes Moment", "Kräftepaar", "Gewichtskraft mal Hebelarm", "Rückstellmoment", "Drehmoment"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "7-19",
+    "kurzantwort": "Ungenaues Steuern/Koppeln, Kursfehler (z. B. ungenaue Steuertafel) und fehlende/unvollständige Berücksichtigung von Strom und Wind.",
+    "erklaerung": "Die Besteckversetzung ist der Unterschied zwischen Koppelort und tatsächlichem (beobachtetem) Ort. Sie entsteht aus Steuer- und Koppelungenauigkeiten, fehlerhaften Kursdaten sowie nicht (richtig) eingerechnetem Strom- und Windversatz.",
+    "kernpunkte": [
+      { "punkt": "ungenaues Steuern und Koppeln", "synonyme": ["ungenaues Steuern", "ungenaues Koppeln", "Steuerfehler", "Koppelfehler", "Rudergänger"] },
+      { "punkt": "Kursfehler, z. B. ungenaue Steuertafel/Deviation", "synonyme": ["Kursfehler", "Steuertafel", "Deviation", "Kompassfehler", "Ablenkung"] },
+      { "punkt": "fehlende/unvollständige Berücksichtigung von Strom und Wind", "synonyme": ["Strom", "Wind", "Stromversatz", "Abdrift", "nicht berücksichtigt", "Strömung"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "7-20",
+    "kurzantwort": "Durch den Düsen-/Trichtereffekt: Die Luft wird in der Enge zusammengepresst und beschleunigt.",
+    "erklaerung": "Wird die Luft durch eine Enge (z. B. zwischen Bergen, Fjord, Sund) gezwungen, muss dieselbe Luftmenge durch einen kleineren Querschnitt - sie wird zusammengedrängt und strömt schneller. Daher ist mit deutlich mehr Wind als in der Umgebung zu rechnen.",
+    "kernpunkte": [
+      { "punkt": "Düseneffekt/Trichtereffekt - Luft wird zusammengepresst und beschleunigt", "synonyme": ["Düseneffekt", "Trichtereffekt", "zusammengepresst", "beschleunigt", "Venturi", "Engpass", "Düsenwirkung"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "7-21",
+    "kurzantwort": "U. a.: Name/Aufenthalt des Meldenden; Position und Zeit; Schiffsname, Rufzeichen, Flagge, MMSI; Schiffsführer; Häfen; Personen an Bord; Schadensumfang; Unfallverlauf.",
+    "erklaerung": "Die Bundesstelle für Seeunfalluntersuchung (BSU) braucht alle Angaben, um den Unfall zu rekonstruieren. Wichtig sind daher Wer/Wo/Wann, eindeutige Schiffsidentifikation, beteiligte Personen, Schäden, Hergang und mögliche Umweltgefahren.",
+    "kernpunkte": [
+      { "punkt": "Name und Aufenthalt des Meldenden", "synonyme": ["Name des Meldenden", "Aufenthalt", "wer meldet", "Melder"] },
+      { "punkt": "Position und Zeit des Unfalls", "synonyme": ["Position", "geographische Position", "Zeit", "Ort des Unfalls", "Uhrzeit"] },
+      { "punkt": "Schiffsidentifikation: Name, Rufzeichen, Flagge, MMSI", "synonyme": ["Schiffsname", "Rufzeichen", "Flagge", "MMSI", "Schiffsdaten", "Typ"] },
+      { "punkt": "Personen an Bord, Schadensumfang und Unfallverlauf (ggf. Umweltgefahr/Wetter)", "synonyme": ["Personen an Bord", "Schaden", "Verlauf", "Hergang", "Wetterbedingungen", "Meeresverschmutzung", "Besatzung"] }
+    ],
+    "wichtigkeit": 1
+  },
+  {
+    "id": "7-22",
+    "kurzantwort": "Z. B. Rundfunk (UKW/KW/MW/LW), Küstenfunkstellen, Verkehrszentralen, NAVTEX, SafetyNet (Satcom), Online-Dienste (SEEWIS), Wetterfax, Telefonabruf.",
+    "erklaerung": "An Bord stehen viele Quellen zur Verfügung - vom klassischen Seewetterbericht im Rundfunk über NAVTEX und Satellitendienste bis zu Online-Angeboten des DWD. Wichtig ist, mehrere Quellen zu kennen, um auch bei Ausfall einer Quelle informiert zu bleiben.",
+    "kernpunkte": [
+      { "punkt": "Rundfunk/Hörfunk (UKW, KW, MW, LW)", "synonyme": ["Hörfunk", "Rundfunk", "UKW", "Radio", "Seewetterbericht"] },
+      { "punkt": "Küstenfunkstellen und Verkehrszentralen", "synonyme": ["Küstenfunkstelle", "Verkehrszentrale", "Funkstelle", "VTS"] },
+      { "punkt": "NAVTEX und SafetyNet (Satcom)", "synonyme": ["NAVTEX", "SafetyNet", "Satcom", "Satellit", "Inmarsat"] },
+      { "punkt": "Online-Dienste (SEEWIS/DWD), Wetterfax, Telefonabruf", "synonyme": ["Online", "SEEWIS", "Internet", "Wetterfax", "Faksimile", "Telefon", "DWD", "Telefonabruf"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "7-23",
+    "kurzantwort": "Meistens etwa 10 m über dem Erdboden bzw. der Wasseroberfläche.",
+    "erklaerung": "Windgeschwindigkeiten werden standardmäßig in 10 m Höhe gemessen und vorhergesagt, weil der Wind direkt an der Oberfläche durch Reibung gebremst wird. So sind Angaben international vergleichbar.",
+    "kernpunkte": [
+      { "punkt": "etwa 10 Meter über dem Boden/der Wasseroberfläche", "synonyme": ["10 Meter", "10 m", "zehn Meter", "10m Höhe", "Standardhöhe"] }
+    ],
+    "wichtigkeit": 1
+  },
+  {
+    "id": "7-24",
+    "kurzantwort": "Herausgabe durch die Verkehrszentralen (Zuständigkeitsbereich) und den Seewarndienst Emden (gesamtes deutsches Gebiet); verbreitet über Funk, u. a. durch Deutschlandfunk.",
+    "erklaerung": "Nautische Warnnachrichten melden kurzfristige Gefahren (z. B. Wracks, ausgefallene Feuer, Manöver). Lokales kommt von den Verkehrszentralen, das Gesamtgebiet betreut der Seewarndienst Emden; der Deutschlandfunk sendet alle Funk-NWN zusätzlich aus.",
+    "kernpunkte": [
+      { "punkt": "Herausgabe durch Verkehrszentralen und Seewarndienst Emden", "synonyme": ["Verkehrszentrale", "Seewarndienst Emden", "Emden", "Warndienst", "herausgegeben"] },
+      { "punkt": "Verbreitung über Funk, u. a. durch den Deutschlandfunk", "synonyme": ["Funk", "Deutschlandfunk", "Rundfunk", "über Funk verbreitet", "Sender"] }
+    ],
+    "wichtigkeit": 1
+  },
+  {
+    "id": "7-25",
+    "kurzantwort": "Position: nur so genau wie die GPS-Position des Senders - ist sie falsch, erscheint sie überall falsch. Manuelle Daten (Ziel, Tiefgang, Status) können veraltet/falsch sein.",
+    "erklaerung": "AIS überträgt die GPS-Position des fremden Schiffs samt Hinweis GPS/DGPS - ist dort ein Fehler, sieht man ihn auf allen Empfängern. Manuell eingegebene Angaben werden oft nicht aktualisiert, daher kritisch prüfen und nicht blind vertrauen.",
+    "kernpunkte": [
+      { "punkt": "Position nur so genau wie GPS/DGPS des sendenden Schiffs (Fehler wird überall angezeigt)", "synonyme": ["GPS-Position", "DGPS", "falsche Position", "ungenau", "nur so genau wie GPS", "übernommener Fehler"] },
+      { "punkt": "manuell eingegebene Daten (Ziel, Tiefgang, Status) können falsch/veraltet sein", "synonyme": ["manuelle Daten", "Zielort", "Tiefgang", "Fahrtstatus", "nicht aktualisiert", "veraltet", "Nachlässigkeit"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "7-26",
+    "kurzantwort": "Entfernung, auf die ein Feuer über die Kimm (Erdkrümmung) hinweg gesehen werden kann. Abhängig von Feuerhöhe und Augeshöhe des Beobachters.",
+    "erklaerung": "Wegen der Erdkrümmung verschwindet ein Feuer hinter der Kimm. Je höher das Feuer steht und je höher das Auge des Beobachters, desto weiter reicht der Blick - daher ist die geografische Sichtweite eine reine Geometriefrage (nicht die Leuchtkraft).",
+    "kernpunkte": [
+      { "punkt": "Entfernung, auf die das Feuer über die Kimm/Erdkrümmung hinweg gesehen wird", "synonyme": ["Kimm", "Erdkrümmung", "über die Erdkrümmung", "geografische Sichtweite", "Horizont"] },
+      { "punkt": "abhängig von Feuerhöhe und Augeshöhe des Beobachters", "synonyme": ["Feuerhöhe", "Augeshöhe", "Augenhöhe", "Höhe des Feuers", "Beobachterhöhe"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "7-27",
+    "kurzantwort": "Sonderzeichen (z. B. Sperrgebiete) und Kardinalzeichen für allgemeine Gefahrenstellen.",
+    "erklaerung": "Neben den lateralen Fahrwassertonnen warnen Sonderzeichen vor Sperr- und Schutzgebieten und Kardinalzeichen weisen die sichere Seite an Gefahrenstellen (Untiefen, Wracks). Für Sportboote, die oft außerhalb des Fahrwassers fahren, sind sie besonders wichtig.",
+    "kernpunkte": [
+      { "punkt": "Sonderzeichen zur Bezeichnung von Sperrgebieten", "synonyme": ["Sonderzeichen", "Sperrgebiet", "Sondertonne", "gelbe Tonne", "Sperrgebietstonne"] },
+      { "punkt": "Kardinalzeichen für allgemeine Gefahrenstellen", "synonyme": ["Kardinalzeichen", "Kardinaltonne", "Gefahrenstelle", "Untiefe", "Kardinalsystem"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "7-28",
+    "kurzantwort": "Ein manövrierunfähiges Fahrzeug (ohne Fahrt durchs Wasser).",
+    "erklaerung": "Zwei rote Rundumlichter senkrecht übereinander sind das Zeichen für \"manövrierunfähig\". Zeigt es nur diese beiden Lichter ohne Seiten- und Hecklicht, hat es keine Fahrt durchs Wasser. Andere Fahrzeuge müssen ihm ausweichen.",
+    "kernpunkte": [
+      { "punkt": "manövrierunfähiges Fahrzeug ohne Fahrt durchs Wasser", "synonyme": ["manövrierunfähig", "manövrierbehindert", "zwei rote Lichter", "ohne Fahrt", "nicht manövrierfähig", "führerlos"] }
+    ],
+    "wichtigkeit": 3
+  },
+  {
+    "id": "7-29",
+    "kurzantwort": "Zur Nippzeit sind besonders niedrige Hochwasser und besonders hohe Niedrigwasser zu erwarten (geringer Tidenhub).",
+    "erklaerung": "Bei Nipptide stehen Sonne und Mond im rechten Winkel zueinander, ihre Anziehungskräfte schwächen sich teilweise ab. Dadurch ist der Tidenhub gering: Das Hochwasser fällt niedriger, das Niedrigwasser höher aus als im Mittel.",
+    "kernpunkte": [
+      { "punkt": "besonders niedrige Hochwasser und besonders hohe Niedrigwasser (geringer Tidenhub)", "synonyme": ["niedriges Hochwasser", "hohes Niedrigwasser", "geringer Tidenhub", "kleiner Hub", "Nipptide", "Nipp", "geringer Tidenunterschied"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "7-30",
+    "kurzantwort": "Zur Regulierung der Vorliekspannung des Großsegels - dient dem Trimm.",
+    "erklaerung": "Der Cunningham zieht das Vorliek des Großsegels nach unten und spannt es. Damit wandert das Profilbauch nach vorne und das Segel wird bei mehr Wind flacher - ein wichtiges Trimmelement zur Anpassung der Segelform.",
+    "kernpunkte": [
+      { "punkt": "Regulierung der Vorliekspannung des Großsegels (Trimm)", "synonyme": ["Vorliekspannung", "Vorliek", "Großsegel trimmen", "Segeltrimm", "Cunningham", "Profil", "Bauch verlagern"] }
+    ],
+    "wichtigkeit": 1
+  }
+]

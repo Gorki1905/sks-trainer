@@ -1,0 +1,305 @@
+[
+  {
+    "id": "14-1",
+    "kurzantwort": "Schwarze Bälle (rot-rot-grün senkrecht) = außergewöhnliche Schifffahrtsbehinderung.",
+    "erklaerung": "Das Signal warnt vor einer besonderen Behinderung der Schifffahrt im Revier, z. B. durch Arbeiten oder Hindernisse. Tagsüber zeigen es Signalkörper, nachts die Lichterfolge rot-rot-grün senkrecht übereinander.",
+    "kernpunkte": [
+      { "punkt": "Außergewöhnliche Schifffahrtsbehinderung", "synonyme": ["Schifffahrtsbehinderung", "außergewöhnliche Behinderung", "besondere Behinderung", "Behinderung der Schifffahrt", "Warnung"] },
+      { "punkt": "Nachts rot-rot-grün senkrecht übereinander", "synonyme": ["rot-rot-grün", "rot rot grün", "Rundumlichter senkrecht", "rot-rot-grün übereinander", "drei Lichter senkrecht"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "14-2",
+    "kurzantwort": "Um ein Hoch weht der Wind rückgedreht aus dem Hoch hinaus; Abweichung ca. 10°-20° (1-2 Strich).",
+    "erklaerung": "Durch die Bodenreibung weht der Wind über See nicht parallel zu den Isobaren, sondern um etwa ein bis zwei Strich rückgedreht. Beim Hoch strömt die Luft dadurch leicht nach außen (im Tief nach innen).",
+    "kernpunkte": [
+      { "punkt": "Wind weht rückgedreht aus dem Hoch hinaus, nicht parallel zu Isobaren", "synonyme": ["rückgedreht", "aus dem Hoch hinaus", "nach außen", "nicht parallel", "Isobaren", "auswärts"] },
+      { "punkt": "Abweichung etwa 10° bis 20° (1-2 Strich)", "synonyme": ["10° bis 20°", "10-20 Grad", "ein bis zwei Strich", "1-2 Strich", "rund 15 Grad"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "14-3",
+    "kurzantwort": "Großschot/Niederholer lose, Großfall frei laufend; danach Gefahr durch schlagenden Großbaum.",
+    "erklaerung": "Damit das Großsegel ungehindert hochgezogen werden kann, müssen Schot und Niederholer Lose haben und das Fall frei laufen. Solange der Wind von vorne kommt, killt das Segel und der Baum schlägt unkontrolliert hin und her – Verletzungsgefahr.",
+    "kernpunkte": [
+      { "punkt": "Großschot und Baumniederholer ausreichend lose", "synonyme": ["Großschot lose", "Baumniederholer", "Niederholer", "Lose", "Schot lose"] },
+      { "punkt": "Großfall läuft frei, nicht vertörnt", "synonyme": ["Großfall frei", "Fall frei", "nicht vertörnt", "frei laufend", "nicht verklemmt"] },
+      { "punkt": "Verletzungsgefahr durch schlagenden Großbaum", "synonyme": ["schlagender Großbaum", "Baum schlägt", "Verletzungsgefahr", "Baumschlag", "killender Baum"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "14-4",
+    "kurzantwort": "Kühlwasserdurchlauf, Öldruck und Ladung, Motorgeräusche, Auspuffgase.",
+    "erklaerung": "Nach dem Start prüft man die wichtigsten Betriebsanzeigen, um Schäden früh zu erkennen: kommt Kühlwasser, stimmt Öldruck und Ladestrom, klingt der Motor normal und ist das Abgas unauffällig.",
+    "kernpunkte": [
+      { "punkt": "Kühlwasserdurchlauf", "synonyme": ["Kühlwasser", "Kühlwasserkontrolle", "Seewasser kommt", "Kühlung"] },
+      { "punkt": "Öldruck und Ladung/Ladestrom", "synonyme": ["Öldruck", "Ladung", "Ladestrom", "Ladekontrolle"] },
+      { "punkt": "Motorgeräusche", "synonyme": ["Motorengeräusche", "Geräusche", "Laufgeräusch", "Motorlauf"] },
+      { "punkt": "Auspuffgase", "synonyme": ["Auspuff", "Abgase", "Auspuffgas", "Rauch"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "14-5",
+    "kurzantwort": "Manövrierunfähigen, manövrierbehinderten, fischenden Fahrzeugen, Segelfahrzeugen (ggf. anderem Maschinenfahrzeug).",
+    "erklaerung": "Die KVR-Rangfolge regelt, wer wem ausweicht. Eine Motoryacht (Maschinenfahrzeug) steht weit unten und muss den höherrangigen Fahrzeugen ausweichen. Eselsbrücke: 'Manni fischt segelnd' für die Reihenfolge der Vorrangigen.",
+    "kernpunkte": [
+      { "punkt": "Manövrierunfähige Fahrzeuge", "synonyme": ["manövrierunfähig", "manövrierunfähiges Fahrzeug", "MÜ", "nicht manövrierfähig"] },
+      { "punkt": "Manövrierbehinderte Fahrzeuge", "synonyme": ["manövrierbehindert", "manövrierbehindertes Fahrzeug", "MB", "behindert"] },
+      { "punkt": "Fischende Fahrzeuge", "synonyme": ["Fischer", "fischendes Fahrzeug", "beim Fischen", "Fischerei"] },
+      { "punkt": "Segelfahrzeuge", "synonyme": ["Segler", "Segelboot", "Segelyacht", "Segelfahrzeug"] }
+    ],
+    "wichtigkeit": 3
+  },
+  {
+    "id": "14-6",
+    "kurzantwort": "Peilung + Abstand (z. B. Feuer in Kimm/Radar) oder Peilung + Lotung.",
+    "erklaerung": "Mit nur einem Objekt liefert die Peilung eine Standlinie; den zweiten Standort-Parameter ergänzt man durch den Abstand (Radar oder Feuer in der Kimm) oder durch die Wassertiefe (Lotung) an dieser Stelle.",
+    "kernpunkte": [
+      { "punkt": "Peilung und Abstand (Radar, Feuer in der Kimm)", "synonyme": ["Peilung und Abstand", "Radarabstand", "Feuer in der Kimm", "Distanz", "Abstandsmessung"] },
+      { "punkt": "Peilung und Lotung", "synonyme": ["Peilung und Lotung", "Lotung", "Wassertiefe", "Lot", "Tiefenmessung"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "14-7",
+    "kurzantwort": "Kette/Trosse auf Vibration und Einrucken prüfen, wiederholt peilen, ggf. GPS-Ankeralarm.",
+    "erklaerung": "Hält der Anker nicht, schleift er über Grund – das spürt man als Vibration der Kette und am Einrucken. Wiederholte Peilungen zu Landmarken oder Schiffen und der GPS-Ankeralarm zeigen, ob die Yacht ihre Position hält.",
+    "kernpunkte": [
+      { "punkt": "Vibration von Kette/Trosse prüfen", "synonyme": ["Vibration", "Kette zittert", "Trosse", "Vibrieren", "Kette fühlen"] },
+      { "punkt": "Einrucken des Ankers prüfen", "synonyme": ["Einrucken", "ruckt ein", "Anker greift", "einruckt"] },
+      { "punkt": "Wiederholte Peilungen / Abstand zu Marken", "synonyme": ["Peilungen", "wiederholt peilen", "Landmarken", "Abstand schätzen", "Position halten"] },
+      { "punkt": "GPS-Ankeralarm", "synonyme": ["Ankeralarm", "GPS", "Ankerwache", "Alarm"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "14-8",
+    "kurzantwort": "Nur wenn das andere Schiff AIS hat, sendet (nicht abgeschaltet), GPS aktiv ist und kein Target Overflow.",
+    "erklaerung": "AIS zeigt nur Fahrzeuge an, die selbst aktiv senden. Fehlt die Ausrüstung, ist AIS abgeschaltet, GPS inaktiv oder sind zu viele Ziele im Gebiet (Target Overflow), erscheint ein Schiff nicht – man darf sich also nie allein darauf verlassen.",
+    "kernpunkte": [
+      { "punkt": "Fahrzeug ist mit AIS ausgerüstet", "synonyme": ["AIS ausgerüstet", "hat AIS", "AIS an Bord", "Transponder vorhanden"] },
+      { "punkt": "AIS ist nicht abgeschaltet", "synonyme": ["nicht abgeschaltet", "sendet", "AIS eingeschaltet", "aktiv gesendet"] },
+      { "punkt": "GPS ist aktiv", "synonyme": ["GPS aktiv", "GPS an", "Position vorhanden", "GPS funktioniert"] },
+      { "punkt": "Kein Target Overflow / Kapazitätsgrenze", "synonyme": ["target overflow", "Kapazitätsgrenze", "zu viele Schiffe", "Überlastung", "keine Ausblendung"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "14-9",
+    "kurzantwort": "Regelmäßige Wartung; Fälligkeit an der farbigen Serviceplakette erkennbar.",
+    "erklaerung": "Automatikwesten lösen über Auslösemechanismus und CO2-Patrone aus, die altern können. Nur regelmäßige Wartung sichert die Funktion; die farbige Serviceplakette zeigt, wann die nächste Prüfung fällig ist.",
+    "kernpunkte": [
+      { "punkt": "Regelmäßige Wartung", "synonyme": ["Wartung", "regelmäßig warten", "Service", "Prüfung", "warten lassen"] },
+      { "punkt": "Serviceplakette zeigt Wartungsfälligkeit", "synonyme": ["Serviceplakette", "Plakette", "farbige Plakette", "Wartungsfälligkeit", "Aufkleber"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "14-10",
+    "kurzantwort": "Unterlagen auf Vollständigkeit und auf aktuelle Berichtigung prüfen.",
+    "erklaerung": "Seekarten und Seebücher veralten, weil sich Tonnen, Tiefen und Feuer ändern. Vor der Reise muss der Schiffsführer prüfen, dass alle nötigen Unterlagen vorhanden und mit den BfS/NfS auf den neuesten Stand berichtigt sind.",
+    "kernpunkte": [
+      { "punkt": "Vollständigkeit der Unterlagen", "synonyme": ["Vollständigkeit", "vollständig", "alle Unterlagen", "komplett"] },
+      { "punkt": "Berichtigung auf neuesten Stand", "synonyme": ["Berichtigung", "aktuell", "neuester Stand", "berichtigt", "up to date"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "14-11",
+    "kurzantwort": "Aus Seekarten, Bekanntmachungen für Seefahrer (BfS) und Nautischen Warnnachrichten (NWN).",
+    "erklaerung": "Sperr- und Verbotsgebiete sind in den Seekarten eingetragen und werden über die Bekanntmachungen für Seefahrer sowie über Nautische Warnnachrichten aktuell bekanntgemacht.",
+    "kernpunkte": [
+      { "punkt": "Seekarten", "synonyme": ["Seekarte", "Karten", "Karte"] },
+      { "punkt": "Bekanntmachungen für Seefahrer (BfS)", "synonyme": ["BfS", "Bekanntmachungen für Seefahrer", "Bekanntmachung"] },
+      { "punkt": "Nautische Warnnachrichten (NWN)", "synonyme": ["NWN", "Nautische Warnnachrichten", "Warnnachrichten", "Warnnachricht"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "14-12",
+    "kurzantwort": "So fahren, dass klar erkennbar ist, dass das Fahrwasser nicht benutzt wird.",
+    "erklaerung": "Wer außerhalb des Fahrwassers fährt, hat dort keine Vorfahrt. Man muss eindeutig erkennbar abseits bleiben, damit Fahrzeuge im Fahrwasser nicht im Zweifel über die eigene Absicht sind.",
+    "kernpunkte": [
+      { "punkt": "Erkennbar, dass das Fahrwasser nicht benutzt wird", "synonyme": ["Fahrwasser nicht benutzt", "klar erkennbar", "deutlich erkennbar", "außerhalb bleiben", "nicht im Fahrwasser"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "14-13",
+    "kurzantwort": "rot-weiß-rot = Wegerechtschiff, gilt als manövrierbehindert; ihm muss bei Kollisionsgefahr ausgewichen werden.",
+    "erklaerung": "Beim Eintritt in den Geltungsbereich der SeeSchStrO setzt der große Tanker rot-weiß-rot und kennzeichnet sich als Wegerechtsfahrzeug, das wie ein manövrierbehindertes Fahrzeug behandelt wird. Bei Kollisionsgefahr muss man ihm ausweichen.",
+    "kernpunkte": [
+      { "punkt": "Wegerechtschiff / kennzeichnet sich als manövrierbehindert", "synonyme": ["Wegerechtschiff", "Wegerecht", "manövrierbehindert", "rot-weiß-rot", "vorrangiges Fahrzeug"] },
+      { "punkt": "Ihm muss bei Kollisionsgefahr ausgewichen werden", "synonyme": ["ausweichen", "Kollisionsgefahr", "Vorfahrt geben", "ausweichpflichtig", "Weg freimachen"] }
+    ],
+    "wichtigkeit": 3
+  },
+  {
+    "id": "14-14",
+    "kurzantwort": "Damit jeder den Anker sicher ausbringen und einholen kann.",
+    "erklaerung": "Ankermanöver müssen oft schnell und auch ohne den Skipper am Geschirr klappen, etwa wenn dieser am Ruder steht. Eingewiesene Crewmitglieder vermeiden Fehler und Verletzungen und gewinnen Zeit in kritischen Situationen.",
+    "kernpunkte": [
+      { "punkt": "Jeder kann Anker sicher ausbringen und einholen", "synonyme": ["sicher ausbringen", "einholen", "Anker bedienen", "jeder kann ankern", "sicheres Ankermanöver"] }
+    ],
+    "wichtigkeit": 1
+  },
+  {
+    "id": "14-15",
+    "kurzantwort": "Ja, MARPOL gilt grundsätzlich für alle Schiffe, also auch für Sportfahrzeuge.",
+    "erklaerung": "Das MARPOL-Übereinkommen zur Verhütung der Meeresverschmutzung gilt für alle Schiffe. Auch Sportboote dürfen z. B. Öl, Müll und Abwasser nur nach den Regeln entsorgen.",
+    "kernpunkte": [
+      { "punkt": "MARPOL gilt grundsätzlich für alle Schiffe, auch Sportfahrzeuge", "synonyme": ["gilt für alle Schiffe", "auch Sportfahrzeuge", "ja", "alle Schiffe", "auch für Sportboote"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "14-16",
+    "kurzantwort": "Erfolg des Manövers laufend prüfen, bis das andere Fahrzeug klar passiert ist.",
+    "erklaerung": "Ein Ausweichmanöver ist erst beendet, wenn man sicher vorbei ist. Daher kontrolliert man fortlaufend (z. B. per Peilung), ob das andere Fahrzeug tatsächlich klar passiert wird und keine neue Gefahr entsteht.",
+    "kernpunkte": [
+      { "punkt": "Erfolg laufend überprüfen bis klar passiert", "synonyme": ["Erfolg überprüfen", "laufend kontrollieren", "bis klar passiert", "Manöver überwachen", "Peilung beobachten"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "14-17",
+    "kurzantwort": "Der Holepunkt der Schot liegt zu weit vorne.",
+    "erklaerung": "Killt das Unterliek des Vorsegels, zieht die Schot zu sehr nach unten/achtern auf das Achterliek und das Unterliek wird zu lose. Den Holepunkt nach achtern verschieben, dann trimmt das Segel wieder gleichmäßig.",
+    "kernpunkte": [
+      { "punkt": "Holepunkt der Schot zu weit vorne", "synonyme": ["Holepunkt zu weit vorne", "Holepunkt", "Schotpunkt vorne", "zu weit vorn"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "14-18",
+    "kurzantwort": "Die britischen Notices to Mariners.",
+    "erklaerung": "Britische Seekarten werden nicht von den deutschen Nachrichten für Seefahrer (NfS) berichtigt. Dafür gibt es die britischen Notices to Mariners des UKHO.",
+    "kernpunkte": [
+      { "punkt": "Britische Notices to Mariners", "synonyme": ["Notices to Mariners", "British Notices to Mariners", "NtM", "britische NtM", "UKHO Notices"] }
+    ],
+    "wichtigkeit": 1
+  },
+  {
+    "id": "14-19",
+    "kurzantwort": "Global Positioning System.",
+    "erklaerung": "GPS ist ein satellitengestütztes US-Navigationssystem zur weltweiten Positionsbestimmung. Es liefert Position, Kurs und Geschwindigkeit über Grund.",
+    "kernpunkte": [
+      { "punkt": "Global Positioning System", "synonyme": ["Global Positioning System", "globales Positionsbestimmungssystem", "satellitengestützte Ortung", "Satellitennavigation"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "14-20",
+    "kurzantwort": "In Hafen- und Revierführern sowie in Monatskarten.",
+    "erklaerung": "Hafen- und Revierführer beschreiben die typischen Windverhältnisse eines Reviers, und Monatskarten (klimatologische Karten) zeigen mittlere Wind- und Wetterbedingungen je Jahreszeit/Monat.",
+    "kernpunkte": [
+      { "punkt": "Hafen- und Revierführer", "synonyme": ["Hafenführer", "Revierführer", "Hafenhandbuch", "Revierführer", "Törnführer"] },
+      { "punkt": "Monatskarten", "synonyme": ["Monatskarten", "Monatskarte", "klimatologische Karten", "Klimakarten"] }
+    ],
+    "wichtigkeit": 1
+  },
+  {
+    "id": "14-21",
+    "kurzantwort": "In den See- und Hafenhandbüchern und in den Seekarten.",
+    "erklaerung": "Brückensignale (Durchfahrt frei/gesperrt) sind in den Seehandbüchern bzw. Hafenhandbüchern beschrieben und in den Seekarten an der jeweiligen Brücke vermerkt.",
+    "kernpunkte": [
+      { "punkt": "See- und Hafenhandbücher", "synonyme": ["Seehandbuch", "Hafenhandbuch", "Handbücher", "Hafenhandbücher", "Seehandbücher"] },
+      { "punkt": "Seekarten", "synonyme": ["Seekarte", "Karten", "Karte"] }
+    ],
+    "wichtigkeit": 1
+  },
+  {
+    "id": "14-22",
+    "kurzantwort": "Kreuzlaufende, meist kurze und kabbelige See.",
+    "erklaerung": "Hinter (in Lee) einer kleinen Insel treffen die um beide Inselseiten gelaufenen Wellen wieder aufeinander. Das ergibt eine kreuzende, kurze und kabbelige See statt glatter Abdeckung.",
+    "kernpunkte": [
+      { "punkt": "Kreuzlaufende, kurze, kabbelige See", "synonyme": ["kreuzlaufende See", "kabbelig", "kurze See", "Kreuzsee", "kabbelige See"] }
+    ],
+    "wichtigkeit": 1
+  },
+  {
+    "id": "14-23",
+    "kurzantwort": "Mindestens 1 Meter.",
+    "erklaerung": "Magnetisierbares Material erzeugt eine Deviation und lenkt die Kompassnadel ab. Ein Mindestabstand von einem Meter hält diesen Störeinfluss gering.",
+    "kernpunkte": [
+      { "punkt": "Mindestens 1 Meter", "synonyme": ["1 Meter", "ein Meter", "mind. 1 m", "1m", "mindestens einen Meter"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "14-24",
+    "kurzantwort": "Hersteller legt Fahrgebiet, max. Windstärke und max. Wellenhöhe für sicheren Betrieb fest.",
+    "erklaerung": "Die CE-Entwurfskategorie (A-D) gibt an, für welche Bedingungen das Boot gebaut ist. Sie nennt Fahrgebiet, die zulässige Windstärke und die charakteristische Wellenhöhe, bis zu der es sicher betrieben werden kann.",
+    "kernpunkte": [
+      { "punkt": "Festlegung des Fahrgebiets", "synonyme": ["Fahrgebiet", "Einsatzgebiet", "Seegebiet", "Revier"] },
+      { "punkt": "Maximale Windstärke", "synonyme": ["Windstärke", "max. Windstärke", "Windgrenze", "Beaufort"] },
+      { "punkt": "Charakteristische Wellenhöhe", "synonyme": ["Wellenhöhe", "charakteristische Wellenhöhe", "max. Wellenhöhe", "Seegang"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "14-25",
+    "kurzantwort": "Die wahre Windgeschwindigkeit bleibt unverändert.",
+    "erklaerung": "Anluven ändert nur den scheinbaren Wind an Bord; der wahre Wind hängt nicht vom eigenen Kurs ab und bleibt daher gleich. (Der scheinbare Wind würde dagegen zunehmen.)",
+    "kernpunkte": [
+      { "punkt": "Wahrer Wind bleibt unverändert", "synonyme": ["bleibt unverändert", "bleibt gleich", "unverändert", "keine Änderung", "konstant"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "14-26",
+    "kurzantwort": "Nach den Regeln der KVR, sofern sie vorfahrtberechtigte Fahrzeuge nicht gefährden/behindern.",
+    "erklaerung": "Folgen Segler nicht erkennbar der Fahrwasserrichtung, gilt unter ihnen die normale KVR-Ausweichregel (z. B. Backbordbug weicht aus). Vorrang haben jedoch die im Fahrwasser fahrenden, vorfahrtberechtigten Fahrzeuge.",
+    "kernpunkte": [
+      { "punkt": "Untereinander nach Regeln der KVR ausweichen", "synonyme": ["nach KVR", "KVR", "Kollisionsverhütungsregeln", "Lee weicht Luv", "Backbordbug weicht"] },
+      { "punkt": "Vorfahrtberechtigte Fahrzeuge nicht gefährden/behindern", "synonyme": ["nicht behindern", "nicht gefährden", "vorfahrtberechtigte Fahrzeuge", "Vorrang beachten", "Fahrwasserschiffe"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "14-27",
+    "kurzantwort": "Wenn die Yacht sich nicht freikreuzen kann, droht Strandung.",
+    "erklaerung": "Eine Leeküste liegt in Windrichtung, der Wind drückt das Schiff auf Land. Bei schwerem Wetter kann eine Segelyacht oft nicht genug Höhe laufen, um sich freizukreuzen – sie wird auf die Küste gesetzt und strandet.",
+    "kernpunkte": [
+      { "punkt": "Kann nicht freikreuzen", "synonyme": ["nicht freikreuzen", "kann nicht aufkreuzen", "keine Höhe laufen", "wird auf Land gedrückt", "abgetrieben"] },
+      { "punkt": "Gefahr der Strandung", "synonyme": ["Strandung", "stranden", "auf Grund laufen", "Auflaufen", "Schiffbruch"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "14-28",
+    "kurzantwort": "Wolkenaufzug (meist Cirrostratus), Hinweis auf Wetterverschlechterung/Niederschlag.",
+    "erklaerung": "Halo und Hof entstehen durch Lichtbrechung an Eiskristallen hoher Cirrostratus-Wolken. Solcher Wolkenaufzug kündigt oft eine herannahende Warmfront mit Niederschlag und Wetterverschlechterung an.",
+    "kernpunkte": [
+      { "punkt": "Wolkenaufzug, meist Cirrostratus", "synonyme": ["Cirrostratus", "Wolkenaufzug", "hohe Wolken", "Eiswolken", "Schleierwolken"] },
+      { "punkt": "Wetterverschlechterung / Niederschlag", "synonyme": ["Wetterverschlechterung", "Niederschlag", "schlechteres Wetter", "Warmfront", "Regen"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "14-29",
+    "kurzantwort": "Zeisinge, Bändselwerk, Tape, Reserveschäkel, Schäkelöffner, Bordmesser, Kombizange.",
+    "erklaerung": "Dieses Kleinmaterial dient zum schnellen Beheben kleiner Defekte und zum Sichern/Lösen von Beschlägen an Deck. Es sollte jederzeit griffbereit sein, um in Eile reagieren zu können.",
+    "kernpunkte": [
+      { "punkt": "Zeisinge und Bändselwerk", "synonyme": ["Zeisinge", "Bändselwerk", "Bändsel", "Tampen", "Leinen"] },
+      { "punkt": "Tape", "synonyme": ["Tape", "Klebeband", "Segeltape"] },
+      { "punkt": "Reserveschäkel und Schäkelöffner", "synonyme": ["Reserveschäkel", "Schäkel", "Schäkelöffner", "Ersatzschäkel"] },
+      { "punkt": "Bordmesser und Kombizange", "synonyme": ["Bordmesser", "Messer", "Kombizange", "Zange", "Werkzeug"] }
+    ],
+    "wichtigkeit": 1
+  },
+  {
+    "id": "14-30",
+    "kurzantwort": "Zur Springzeit setzen die Gezeitenströme deutlich stärker als zur Nippzeit.",
+    "erklaerung": "Bei Springtide (Voll-/Neumond) ist der Tidenhub am größten und damit auch die Stromgeschwindigkeit; bei Nipptide (Halbmond) sind Hub und Strom am schwächsten. Das ist wichtig für Strömungsversatz und Reiseplanung.",
+    "kernpunkte": [
+      { "punkt": "Zur Springzeit stärkere Gezeitenströme", "synonyme": ["Springzeit stärker", "Spring", "Springtide", "stärkerer Strom", "höhere Stromgeschwindigkeit"] },
+      { "punkt": "Zur Nippzeit schwächere Ströme", "synonyme": ["Nippzeit schwächer", "Nipp", "Nipptide", "schwächerer Strom", "geringer Strom"] }
+    ],
+    "wichtigkeit": 2
+  }
+]

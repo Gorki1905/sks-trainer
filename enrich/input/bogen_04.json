@@ -1,0 +1,152 @@
+[
+  {
+    "id": "4-1",
+    "frage": "Die Lichteranordnung eines Fahrzeugs ändert sich plötzlich. Was schließen Sie daraus?",
+    "musterantwort": "Ein manövrierunfähiges Fahrzeug in Fahrt ohne Fahrt durchs Wasser (FdW) hat FdW aufgenommen, da man jetzt auch das Backbord-Seitenlicht sieht."
+  },
+  {
+    "id": "4-2",
+    "frage": "Erläutern Sie den Begriff \"Vorfahrt beachten\".",
+    "musterantwort": "\"Vorfahrt beachten\" begründet eine Wartepflicht. Wer die Vorfahrt zu beachten hat, muss rechtzeitig durch sein Fahrverhalten erkennen lassen, dass er warten wird. Er darf nur weiterfahren, wenn er übersehen kann, dass die Schifffahrt im Fahrwasser nicht beeinträchtigt wird. Ggf. hat der Wartepflichtige seinen Kurs und/oder seine Geschwindigkeit zu ändern (gilt rechtlich nicht als Ausweichen!)."
+  },
+  {
+    "id": "4-3",
+    "frage": "1. Wie bestimmen Sie an Bord die Windstärke, wenn keine Windmessanlage vorhanden ist? 2. Wie bestimmen Sie an Bord die Windrichtung, wenn keine Windmessanlage vorhanden ist?",
+    "musterantwort": "1. Die Windstärke wird geschätzt mit Hilfe der Beaufortskala in Anlehnung an das Seegangsbild. 2. Die Windrichtung wird anhand der Verlagerung der Wellenkämme geschätzt."
+  },
+  {
+    "id": "4-4",
+    "frage": "Wie kann man feststellen, ob die GPS-Position genau bzw. zuverlässig ist?",
+    "musterantwort": "1. Durch den vom Empfänger angezeigten HDOP (horizontal dilution of precision = Satellitenverteilung). 2. Durch die vom Empfänger angezeigte Anzahl der getrackten Satelliten. 3. Durch Vergleich mit anderen Navigationssystemen und der Koppelposition."
+  },
+  {
+    "id": "4-5",
+    "frage": "Welche besonderen Bestimmungen gelten auf dem Nord-Ostsee-Kanal (NOK) für Sportfahrzeuge beim Schleppen?",
+    "musterantwort": "1. Ein motorbetriebenes Sportfahrzeug darf nur ein Sportfahrzeug schleppen. 2. Das geschleppte Sportfahrzeug darf nur eine Höchstlänge von weniger als 15 m haben. 3. Die Mindestgeschwindigkeit beim Schleppen muss 9 km/h betragen."
+  },
+  {
+    "id": "4-6",
+    "frage": "Wie können Sie einen Dieselmotor abstellen, wenn die vorgesehene Abstellvorrichtung defekt ist?",
+    "musterantwort": "1. Kraftstoffzufuhr unterbrechen. 2. Verschließen des Luftansaugrohres/der Luftansaugrohre."
+  },
+  {
+    "id": "4-7",
+    "frage": "Welche navigatorischen Vorbereitungen treffen Sie vor einer Fahrt in Dunkelheit?",
+    "musterantwort": "1. Kurse und Kursänderungspunkte möglichst vorausbestimmen, 2. Untiefen und Hindernisse in der Karte besonders kennzeichnen, 3. in der Seekarte markieren, welche Leuchtfeuer wann und wo in der Kimm erscheinen und 4. Wegstrecke nach unbefeuerten Tonnen absuchen."
+  },
+  {
+    "id": "4-8",
+    "frage": "Sie segeln am Wind, Krängung und Ruderdruck nehmen stark zu. 1. Wie bezeichnet man das Verhalten des Bootes? 2. Mit welchen Mitteln können Sie die Krängung und den Ruderdruck vermindern?",
+    "musterantwort": "1. Luvgierigkeit. 2. Traveller nach Lee setzen und/oder Großschot (etwas) fieren, Großsegel reffen."
+  },
+  {
+    "id": "4-9",
+    "frage": "Welche grundsätzliche Verhaltensweise sollte beachtet und welche Maßnahmen sollten ergriffen werden, wenn Ihr Schiff in Seenot kommt?",
+    "musterantwort": "1. Ruhe bewahren und überlegt handeln. 2. Notalarm abgeben, ggf. Radartransponder einschalten. 3. Rettungsfloß klarmachen. 4. Rettungsweste und Sicherheitsgurt anlegen. 5. So lange wie möglich an Bord bleiben. 6. Wärmende Kleidung anziehen."
+  },
+  {
+    "id": "4-10",
+    "frage": "Welche Verlagerungsgeschwindigkeiten haben Tiefdruckgebiete: 1. schnelle, 2. mittlere, 3. langsame?",
+    "musterantwort": "1. Schnelle: 30 bis 50 kn. 2. Mittlere: 15 bis 30 kn. 3. Langsame: bis 15 kn."
+  },
+  {
+    "id": "4-11",
+    "frage": "1. Was verstehen Sie unter einer Kreuzsee? 2. Geben Sie 3 Beispiele an, wo mit Kreuzsee zu rechnen ist.",
+    "musterantwort": "1. Windsee und Dünung laufen aus unterschiedlichen Richtungen heran. 2. Kurz vor und bei dem Durchzug einer Kaltfront oder eines Troges sowie in der Nähe des Tiefkerns."
+  },
+  {
+    "id": "4-12",
+    "frage": "Mit welchen Stoppstrecken und Stoppzeiten müssen Sie bei großen Schiffen in voller Fahrt rechnen und wovon hängen sie ab?",
+    "musterantwort": "Abhängig von Schiffstyp und -größe, Beladungszustand und Ausgangsgeschwindigkeit ist mit der 8- bis 12fachen Schiffslänge und bis zu 8 bis 12 Minuten Dauer (z. B. ein 300 m langes Containerschiff voll abgeladen mit 24 kn: Stoppstrecke ca. 2 sm, Stoppzeit ca. 12 Minuten) zu rechnen."
+  },
+  {
+    "id": "4-13",
+    "frage": "Mit welchen 4 Angaben werden Propeller auf Yachten beschrieben?",
+    "musterantwort": "Anzahl der Flügel, Größe ihrer Fläche, Durchmesser und Steigung."
+  },
+  {
+    "id": "4-14",
+    "frage": "Woraus können Sie Informationen über Entsorgungsmöglichkeiten in deutschen Sportboothäfen entnehmen?",
+    "musterantwort": "Aus der Broschüre \"Entsorgungsmöglichkeiten für Öl, Schiffsmüll und Schiffsabwässer - eine Übersicht für Sport- und Kleinschifffahrt\" des BSH."
+  },
+  {
+    "id": "4-15",
+    "frage": "Nennen Sie den Winkel zwischen den Nordrichtungen rwN und MgN",
+    "musterantwort": "Der Winkel von rwN nach MgN ist die Fehlweisung (Fw; Abl + Mw = Fw)."
+  },
+  {
+    "id": "4-16",
+    "frage": "Welche Differenzen können zwischen WGS 84 und anderen Bezugssystemen auftreten?",
+    "musterantwort": "Die Differenzen von \u0000 und \u0000 liegen im Allgemeinen in der Größenordnung von 0,1 kbl bis 1 kbl, also etwa von 20 bis 200 m. Es können größere Unterschiede auftreten"
+  },
+  {
+    "id": "4-17",
+    "frage": "Welche Wellenhöhe wird bei der Angabe des Seegangs in Seewetterberichten verwendet?",
+    "musterantwort": "Die kennzeichnende (charakteristische) Wellenhöhe."
+  },
+  {
+    "id": "4-18",
+    "frage": "Welche Grundregeln für das Verhalten im Verkehr verlangen die KVR, die ein Schiffsführer zu berücksichtigen hat, auch wenn keine konkrete Regel anwendbar ist?",
+    "musterantwort": "Die KVR befreien nicht von den Folgen, die durch unzureichende Einhaltung der KVR oder unzureichende Vorsichtsmaßnahmen entstehen, d. h., allgemeine seemännische Praxis oder besondere Umstände des Falles können über die Mindestanforderungen der KVR hinausgehende Maßnahmen erfordern."
+  },
+  {
+    "id": "4-19",
+    "frage": "Was beeinflusst die Ablenkung eines Kompasses vorübergehend?",
+    "musterantwort": "Elektronische Geräte (z. B. Radio, Handy), magnetisierte Gegenstände (z. B. Werkzeug, Peilkompass) und Gleichstromleitungen in der Nähe des Kompasses."
+  },
+  {
+    "id": "4-20",
+    "frage": "Man hört bei Nebel folgendes Schallsignal mit der Pfeife (lang-kurz-kurz), unmittelbar gefolgt von (lang-kurz-kurz-kurz) etwa jede Minute. Worum handelt es sich dabei?",
+    "musterantwort": "Es ist das Schallsignal eines Schleppverbandes in Fahrt (schleppendes Fahrzeug lang-kurz- kurz; Anhang lang-kurz-kurz-kurz)."
+  },
+  {
+    "id": "4-21",
+    "frage": "In welcher Vorschrift ist geregelt, welche Angaben der Bundesstelle für Seeunfalluntersuchung bei einem schaden- oder gefahrverursachenden Vorkommnis (Seeunfall) gemeldet werden müssen? Wer ist verantwortlich für die Meldung?",
+    "musterantwort": "Geregelt in der \"Verordnung über die Sicherung der Seefahrt\". Verantwortlich für die Meldung sind der Schiffsführer oder bei dessen Verhinderung ein anderes Besatzungsmitglied bzw. ggf. auch der Betreiber des Schiffes, falls keine der vorgenannten Personen dazu in der Lage ist."
+  },
+  {
+    "id": "4-22",
+    "frage": "Von welchen Faktoren ist die Länge eines Nahezu-Aufschießers zu einer im Wasser treibenden Person abhängig?",
+    "musterantwort": "Geschwindigkeit, Wind, Seegang, Strömung und Form und Gewicht des Bootes."
+  },
+  {
+    "id": "4-23",
+    "frage": "Wie ist Kartennull (KN) in der Ost- und Nordsee und im Englischen Kanal definiert? Wo finden Sie die entsprechenden Angaben zur Kartennullebene?",
+    "musterantwort": "In der Ostsee entspricht KN dem mittleren Wasserstand. In der Nordsee und im Englischen Kanal entspricht KN dem niedrigstmöglichen Gezeitenwasserstand (LAT = Lowest Astronomical Tide). In der jeweiligen Seekarte ist die Kartennullebene beschrieben."
+  },
+  {
+    "id": "4-24",
+    "frage": "Worauf beziehen sich die Höhenangaben der Leuchtfeuer in Leuchtfeuerverzeichnissen in der Nord- und Ostsee?",
+    "musterantwort": "In Gewässern mit Gezeiten (z. B. Nordsee) auf mittleres Hochwasser, in gezeitenlosen Gewässern (z. B. Ostsee) auf mittleren Wasserstand."
+  },
+  {
+    "id": "4-25",
+    "frage": "Welche AIS-Daten werden von Schiffen aus der Berufsschifffahrt gesendet?",
+    "musterantwort": "Statische Daten: ID, Rufzeichen, Länge und Breite des Schiffes u. a. Dynamische Daten (i. W. Sensordaten): UTC, Position, Heading, Kurs und Fahrt über Grund, ggf. Rate-of-turn, Fahrtstatus (z. B. Maschinenfahrzeug mit Fahrt durchs Wasser, Ankerlieger, manövrierbehindertes Fahrzeug). Reisebezogene Daten: Tiefgang, Zielort (Destinaton), ETA u. a."
+  },
+  {
+    "id": "4-26",
+    "frage": "Warum soll man das Schlagen eines Segels vermeiden, vor allem bei stärkerem Wind?",
+    "musterantwort": "Um Beschädigungen zu vermeiden."
+  },
+  {
+    "id": "4-27",
+    "frage": "Welche Windverhältnisse erwarten Sie in der Nähe von Steilküsten 1. bei auflandigem und 2. bei ablandigem Wind?",
+    "musterantwort": "1. Der Wind wird durch Küstenführung zum Teil beschleunigt, wenn er nahezu auflandig oder parallel zur Küste weht. 2. Weht der Wind ablandig, muss örtlich mit umlaufenden Winden und erhöhter Böigkeit (Fallwinden) gerechnet werden."
+  },
+  {
+    "id": "4-28",
+    "frage": "Was ist an Land beim Reinigen eines mit Antifouling behandelten Unterwasserschiffes zu beachten?",
+    "musterantwort": "Umweltschutzbestimmungen beachten, d. h., das Schiff nur auf einem entsprechend ausgerüsteten Reinigungsplatz abspritzen und Wasser und Schmutz auffangen, also nicht in die Kanalisation leiten."
+  },
+  {
+    "id": "4-29",
+    "frage": "Was versteht man unter der \"Stabilität\" eines Schiffes?",
+    "musterantwort": "Unter Stabilität eines Schiffes versteht man seine Eigenschaft, in aufrechter Lage zu schwimmen und sich aus einer Krängung wieder aufzurichten."
+  },
+  {
+    "id": "4-30",
+    "frage": "Welche Besonderheit bezüglich des Zusatzes \"vital\" bei einer nautischen Warnnachricht (NWN) gibt es für die Sportschifffahrt?",
+    "musterantwort": "Vitale nautische Warnnachrichten für die Sportschifffahrt werden während der Zeit vom 1. April bis zum 31. Oktober zur Verbreitung über ausgewählte private und öffentlich-rechtliche Rundfunkanstalten weitergeleitet."
+  }
+]

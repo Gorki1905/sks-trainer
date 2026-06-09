@@ -1,0 +1,152 @@
+[
+  {
+    "id": "7-1",
+    "frage": "Wo finden Sie amtliche Informationen über die Ausrüstung und Sicherheit von Sportbooten, die auch bei der Beurteilung von Sportbootunfällen herangezogen werden?",
+    "musterantwort": "1. \"Sicherheit im See- und Küstenbereich, Sorgfaltsregeln für Wassersportler\", herausgegeben vom BSH, 2. \"Sicherheit auf dem Wasser, Leitfaden für Wassersportler\", herausgegeben vom Bundesministerium für Verkehr, Bau und Stadtentwicklung."
+  },
+  {
+    "id": "7-2",
+    "frage": "1. Wie weht der Wind über See in Bodennähe um ein Tiefdruckgebiet? 2. Mit wie viel Grad Änderung in der Windrichtung müssen Sie etwa rechnen?",
+    "musterantwort": "1. Der Wind weht nicht parallel zu den Isobaren, er ist rückgedreht und weht in das Tief hinein. 2. Ein bis zwei Strich bzw. ca. 10° bis 20°."
+  },
+  {
+    "id": "7-3",
+    "frage": "Wodurch können Radarechos von kleinen Fahrzeugen und Tonnen auf den Sichtschirmen von Radargeräten \"verschwinden\"?",
+    "musterantwort": "1. Durch Seegang und/oder Niederschlag, 2. durch falsche Bedienung, 3. durch zu große Entfernung, 4. durch Gieren des eigenen Fahrzeugs bei relativ vorausorientierter Radarstellung (head up)."
+  },
+  {
+    "id": "7-4",
+    "frage": "1. Wozu dient ein \"Bullenstander\"? 2. Wie wird er gefahren?",
+    "musterantwort": "1. Er soll das ungewollte Überkommen des Großbaums bei achterlichen Winden verhindern. 2. Von der Baumnock zum Vorschiff."
+  },
+  {
+    "id": "7-5",
+    "frage": "Sie liegen längsseits mit der Steuerbordseite an einer Pier. Beschreiben Sie ein Ablegemanöver unter gleichzeitigem Einsatz von Bugstrahlruder und Maschine.",
+    "musterantwort": "1. Hebel für Bugstrahlruder nach Backbord legen, sodass der Bug von der Pier weggedrückt wird (nach Backbord schwenkt) und gleichzeitig 2. Ruderlage deutlich nach Steuerbord und langsame Fahrt voraus, sodass das Heck nach Backbord ausschwenkt. So wird das Schiff fast parallel von der Pier abgedrückt."
+  },
+  {
+    "id": "7-6",
+    "frage": "1. Warum soll eine Ankerleine nicht an den Anker geknotet werden? 2. Warum muss die Ankerkette mit einem Taustropp am Schiff bzw. im Kettenkasten befestigt werden?",
+    "musterantwort": "1. Knoten reduzieren die Bruchlast einer Leine um bis zu 50 %. 2. Damit die Kette im Notfall schnell gekappt werden kann."
+  },
+  {
+    "id": "7-7",
+    "frage": "Sie segeln nachts mit raumem Wind und machen gute Fahrt. Sie sehen an Steuerbord voraus ein einzelnes weißes Licht in (nahezu) stehender Peilung. Näher kommend verschwindet das weiße Licht gelegentlich und es erscheint stattdessen in etwa gleicher Höhe und links davon ein rotes Licht. Jeweils kurzfristig sind beide Lichter gleichzeitig zu sehen. 1. Worum handelt es sich bei diesen Lichtern? 2. Wer muss ausweichen? (Begründung!)",
+    "musterantwort": "1. Man sieht Hecklicht und/oder Backbord- Seitenlicht eines Segelfahrzeugs in Fahrt, das im Seegang giert. 2. Ihr Fahrzeug nähert sich aus dem Hecksektor des anderen Fahrzeugs. Es steht eben auf dessen Sektorengrenze und muss als überholendes Fahrzeug ausweichen. Im Zweifel (hier Sektorengrenze!) muss man sich als Überholer betrachten."
+  },
+  {
+    "id": "7-8",
+    "frage": "1. Was verstehen Sie unter einer Grundsee? 2. Welche Höhen kann sie erreichen?",
+    "musterantwort": "1. Meereswellen mit besonders hohen Brechern, die durch Untiefen oder Küstennähe bzw. durch ansteigenden Meeresboden entstehen. 2. Etwa das 2,5fache der kennzeichnenden (charakteristischen) Wellenhöhe."
+  },
+  {
+    "id": "7-9",
+    "frage": "Wie verhalten Sie sich, wenn Ihr Schiff leckgeschlagen ist?",
+    "musterantwort": "1. Meldung abgeben. 2. Je nach Erfordernissen Fahrt aus dem Schiff nehmen. 3. Lenzpumpen betätigen, Lecksuche, Leck mit Bordmitteln abdichten. 4. Küste bzw. flaches Wasser ansteuern. 5. Fahrzeug so trimmen, dass Leckstelle aus dem Wasser kommt bzw. möglichst wenig unter Wasser ist."
+  },
+  {
+    "id": "7-10",
+    "frage": "Nennen Sie die speziellen Verhaltensregeln für Sportfahrzeuge im Nord-Ostsee-Kanal (NOK).",
+    "musterantwort": "1. Sportfahrzeuge dürfen in der Regel die Zufahrten und den NOK lediglich zur Durchfahrt und ohne Lotsen nur während der Tagfahrzeiten und nicht bei verminderter Sicht benutzen. 2. Sportfahrzeuge müssen ihre Kanalfahrt so einrichten, dass sie vor Ablauf der Tagfahrzeit eine für Sportfahrzeuge bestimmte Liegestelle erreichen können. 3. Bei plötzlich auftretender verminderter Sicht dürfen Sportfahrzeuge in den Weichengebieten hinter den Dalben oder an geeigneten Liegestellen festmachen"
+  },
+  {
+    "id": "7-11",
+    "frage": "Sie segeln in der Nordsee bei guter Sicht. Ihnen kommt in stehender Peilung ein Maschinenfahrzeug entgegen, das keine Anstalten macht, seiner Ausweichpflicht nachzukommen. Geben Sie in einer sinnvollen Reihenfolge an, was von Ihnen zu unternehmen ist. Welche dieser Maßnahmen sind zwingend vorgeschrieben?",
+    "musterantwort": "1. Über Funk versuchen, das andere Fahrzeug auf seine Ausweichpflicht aufmerksam zu machen. 2. Schallsignal: mindestens fünf kurze, rasch aufeinander folgende Pfeifentöne geben. 3. Ggf. Ergänzung zu 2.: Lichtsignal von mindestens fünf kurzen, rasch aufeinander folgenden Blitzen. 4. Manöver des sogenannten \"vorletzten Augenblicks\" fahren. 5. Manöver des sogenannten \"letzten Augenblicks\" fahren. Zwingend vorgeschrieben sind die Maßnahmen nach 2. und 5."
+  },
+  {
+    "id": "7-12",
+    "frage": "Was sind Verkehrstrennungsgebiete? Wie sind sie zu befahren?",
+    "musterantwort": "1. Verkehrstrennungsgebiete sind Schifffahrtswege, die durch Trennlinien oder Trennzonen in Einbahnwege geteilt sind. 2. Diese dürfen nur in Fahrtrichtung rechts der Trennlinie/Trennzone befahren werden, aber unter Nutzung der vollen Breite des Einbahnweges."
+  },
+  {
+    "id": "7-13",
+    "frage": "1. Wozu dienen Backstagen? 2. Bei welchen Takelungen werden sie vor allem gefahren?",
+    "musterantwort": "1. Zum zusätzlichen Abstagen des Mastes nach achtern. 2. Bei 7/8-Takelung und anderen nicht toppgetakelten Yachten."
+  },
+  {
+    "id": "7-14",
+    "frage": "Wo finden Sie in der Seekarte Angaben über das benutzte Bezugssystem und ggf. entsprechende Korrekturhinweise?",
+    "musterantwort": "Am Kartenrand unter dem Titel"
+  },
+  {
+    "id": "7-15",
+    "frage": "Was ist bei Eintragung eines GPS-Ortes in eine Seekarte zu beachten?",
+    "musterantwort": "Das Bezugssystem muss übereinstimmen. Dieses kann geschehen durch: 1. Auswahl und Einstellung des Kartenbezugssystems im Empfänger. 2. Manuelle Verschiebung des GPS-Ortes um die in der Seekarte angegebenen N/S- und E/ W-Korrektur. 3. Verwendung von Seekarten, die auf dem System WGS 84 beruhen."
+  },
+  {
+    "id": "7-16",
+    "frage": "Welchen Zweck soll das MARPOL-Übereinkommen erfüllen?",
+    "musterantwort": "Das MARPOL-Übereinkommen soll die Verschmutzung der Meere verhindern."
+  },
+  {
+    "id": "7-17",
+    "frage": "Beschreiben Sie den Aufbau einer Radsteuerung mit Seilzügen.",
+    "musterantwort": "Das Rad dreht ein Zahnrad, über das eine Kette in der Steuersäule nach unten verläuft. Die Kette ist mit den Steuerseilen verbunden, welche über Umlenkrollen zum Ruderquadranten führen."
+  },
+  {
+    "id": "7-18",
+    "frage": "Was geschieht bei einer Neigung des Schiffes, z. B. durch seitlichen Winddruck, solange sich die Lage des Massenschwerpunktes (Gewichtsschwerpunktes) nicht verändert? (Begründung!)",
+    "musterantwort": "Der Formschwerpunkt F wandert zur geneigten Seite aus, weil dort ein größerer Teil des Bootskörpers unter Wasser gelangt. Die Wirklinie der Auftriebskraft bekommt dadurch einen seitlichen Abstand zur Wirklinie der Gewichtskraft. Es entsteht ein Kräftepaar, der seitliche Abstand zwischen den Wirklinien ist der Hebelarm. Es entsteht ein aufrichtendes Moment, welches gleich dem Produkt aus Gewichtskraft und Hebelarm ist."
+  },
+  {
+    "id": "7-19",
+    "frage": "Welche Ursachen kann die Besteckversetzung (BV) haben?",
+    "musterantwort": "Die BV kann folgende Ursachen haben: 1. ungenaues Steuern und Koppeln, 2. Kursfehler (z. B. ungenaue Steuertafel) und 3. fehlende oder unvollständige Berücksichtigung von Strom und Wind."
+  },
+  {
+    "id": "7-20",
+    "frage": "Warum verstärkt sich der Wind in engen Durchfahrten?",
+    "musterantwort": "Durch den Düseneffekt (Trichtereffekt) in Durchfahrten. Dabei wird die Luftströmung \"zusammengepresst\" und beschleunigt."
+  },
+  {
+    "id": "7-21",
+    "frage": "Welche Angaben müssen der Bundesstelle für Seeunfalluntersuchung gemeldet werden? Nennen Sie mindestens 5 dieser Angaben.",
+    "musterantwort": "Es sind folgende Angaben zu melden: Name und derzeitiger Aufenthalt des Meldenden, Ort (geographische Position) und Zeit des Unfalles, Name, Rufzeichen und Flagge des Schiffes sowie Rufnummer des zu diesem Schiff gehörenden mobilen Seefunkdienstes (MMSI), Typ, Verwendungszweck, Name des Betreibers des Schiffes, Name des verantwortlichen Schiffsführers, Herkunfts- und Zielhafen des Schiffes, Anzahl der Besatzungsmitglieder und weiterer Personen an Bord, Umfang des Personen- und Sachschadens, Darstellung des Verlaufs des Vorkommnisses, Angaben über andere Schiffe, die am Unfall beteiligt sind, Wetterbedingungen, Darstellung der Gefahr einer Meeresverschmutzung."
+  },
+  {
+    "id": "7-22",
+    "frage": "Nennen Sie 6 Möglichkeiten, um Wetterinformationen an Bord zu erhalten.",
+    "musterantwort": "Hörfunksender (UKW, KW, MW, LW), Küstenfunkstellen, Verkehrszentralen, NAVTEX, SafetyNet (Satcom), Online-Dienste (z. B. SEEWIS-Online des Deutschen Wetterdienstes, T-Online), RTTY (Funkfernschreiben), Faskimile (Wetterfax), Faxpolling (z. B. SEEWIS-Fax des Deutschen Wetterdienstes), Telefonabruf, Törnberatung."
+  },
+  {
+    "id": "7-23",
+    "frage": "Im Internet finden Sie auf einer \"Wetterseite\" eine Vorhersagekarte mit Windpfeilen. In welcher Höhe über dem Erdboden/der Wasseroberfläche gelten die vorhergesagten Windgeschwindigkeiten?",
+    "musterantwort": "Meistens etwa 10 Meter über dem Erdboden/ der Wasseroberfläche."
+  },
+  {
+    "id": "7-24",
+    "frage": "Wer gibt die nautischen Warnnachrichten (NWN) heraus und von wem werden sie verbreitet?",
+    "musterantwort": "Nautische Warnnachrichten (NWN) werden von den Verkehrszentralen für deren Zuständigkeitsbereich und von dem ständig besetzten Seewarndienst Emden für das gesamte deutsche Warngebiet zur Verbreitung über Funk herausgegeben. Der Rundfunksender Deutschlandfunk verbreitet alle über Funk abgegebenen NWN."
+  },
+  {
+    "id": "7-25",
+    "frage": "Wie ist die Genauigkeit von AIS-Daten zu beurteilen (Position und manuell eingegebene Daten)?",
+    "musterantwort": "Position: Mit AIS wird zusätzlich zur GPS- Position eines Schiffes die Information übertragen, ob es sich um einen GPS- oder DGPS-Ort handelt. Ist die GPS-Position eines Schiffes falsch, wird diese falsche Position auf allen anderen Schiffen angezeigt. Manuell eingegebene Daten: Es muss damit gerechnet werden, dass Zielort, Tiefgang, Fahrtstatus u. a. falsch sind, wenn sie - z. B. aus Nachlässigkeit - nicht von der Schiffsführung aufdatiert werden."
+  },
+  {
+    "id": "7-26",
+    "frage": "Was ist \"Sichtweite\" eines Feuers? Wovon hängt sie ab?",
+    "musterantwort": "Sichtweite ist die Entfernung, auf die ein Leuchtfeuer über die Erdkrümmung (Kimm) hinweg vom Beobachter gesehen werden kann. Sie hängt ab 1. von der Feuerhöhe und 2. von der Augeshöhe des Beobachters."
+  },
+  {
+    "id": "7-27",
+    "frage": "Neben den Fahrwassertonnen liegen auf den Seeschifffahrtsstraßen weitere Tonnen aus, die für die Sportschifffahrt besonders wichtig sind. Welche Schifffahrtszeichen sind das?",
+    "musterantwort": "Sonderzeichen zur Bezeichnung von Sperrgebieten und Kardinalzeichen für allgemeine Gefahrenstellen."
+  },
+  {
+    "id": "7-28",
+    "frage": "Sie sehen nachts auf See 2 rote Lichter senkrecht übereinander: Worum handelt es sich?",
+    "musterantwort": "Um ein manövrierunfähiges Fahrzeug in Fahrt ohne Fahrt durchs Wasser."
+  },
+  {
+    "id": "7-29",
+    "frage": "Welche Bedeutung hat die Angabe \"Nippzeit\" für die Wasserstände in Gezeitengebieten?",
+    "musterantwort": "Zur Nippzeit sind besonders niedrige Hochwasser und besonders hohe Niedrigwasser zu erwarten."
+  },
+  {
+    "id": "7-30",
+    "frage": "Wozu dient ein \"Cunningham-Stropp\"?",
+    "musterantwort": "Zur Regulierung der Vorliekspannung des Großsegels, um es so zu trimmen."
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "id": "9-1",
+    "frage": "Welche Atem- bzw. Blutalkoholkonzentration darf laut Verordnung zu den KVR nicht erreicht werden, damit kein Verbot für ein Führen eines Fahrzeugs oder als Mitglied der Crew für ein Ausüben des Brückendienstes besteht?",
+    "musterantwort": "0,25 mg/l oder mehr Alkohol in der Atemluft oder 0,5 Promille oder mehr Alkohol im Blut oder eine Alkoholmenge, die zu einer solchen Atem- oder Blutalkoholkonzentration führt."
+  },
+  {
+    "id": "9-2",
+    "frage": "Was müssen Sie bedenken, wenn ein großes Schiff auf Ihr Sportboot zukommt?",
+    "musterantwort": "1. Andere Manövrierfähigkeit (größere Drehkreise, längere Stoppstrecken), 2. u. U. eingeschränkte Sicht des anderen Fahrzeugs, insbesondere nach voraus, 3. Möglichkeit des Übersehenwerdens, weil man sich im Radarschatten befindet, 4. Beeinträchtigung durch Bugwellen des großen Schiffes, 5. mögliche Beeinträchtigung der Manövrierfähigkeit des eigenen Bootes durch Windabdeckung."
+  },
+  {
+    "id": "9-3",
+    "frage": "Was müssen Sie bei der Auswahl eines Ankerplatzes beachten?",
+    "musterantwort": "1. Der Ankerplatz sollte Schutz vor Wind und Wellen bieten. 2. Auf ausreichenden Platz zum Schwojen achten. 3. Mögliche Winddrehungen einplanen."
+  },
+  {
+    "id": "9-4",
+    "frage": "1. Welchen Seegang müssen Sie erwarten, wenn Sie küstennah bei auflandigem Wind fahren? 2. Welche Gefahr besteht bezüglich der Entwicklung des Seegangs außerdem?",
+    "musterantwort": "1. Der Seegang wird ähnlich ausgeprägt sein wie auf der freien See, da genügend Fetch (Windwirklänge) vorhanden ist. 2. Dort, wo das Wasser flacher wird, oder im Bereich von Untiefen muss mit Brechern und Grundseen gerechnet werden."
+  },
+  {
+    "id": "9-5",
+    "frage": "Wie wirkt sich mitlaufender Strom auf die Fahrt eines Fahrzeugs und die Loganzeige aus?",
+    "musterantwort": "1. Der Strom erhöht die Fahrt über Grund. 2. Das Log zeigt dies nicht an."
+  },
+  {
+    "id": "9-6",
+    "frage": "Wer veröffentlicht die Bekanntmachungen für Seefahrer (BfS) und was umfassen diese Veröffentlichungen?",
+    "musterantwort": "1. Die BfS werden von den jeweils zuständigen Behörden der Wasser- und Schifffahrtsverwaltung des Bundes bzw. der Länder veröffentlicht. 2. Sie enthalten alle wichtigen Maßnahmen und Ereignisse auf den Seeschifffahrtsstraßen und der ausschließlichen Wirtschaftszone Deutschlands."
+  },
+  {
+    "id": "9-7",
+    "frage": "Warum sollte ein sinkendes Schiff im Notfall so spät wie möglich verlassen werden?",
+    "musterantwort": "1. Die Überlebensmöglichkeiten sind auf dem Schiff größer. 2. Ein Schiff ist besser zu orten. 3. Einstieg in das Rettungsfloß und Aufenthalt können sehr schwierig sein."
+  },
+  {
+    "id": "9-8",
+    "frage": "Wo unterliegt Ihr Segelfahrzeug bzw. Ihre Motoryacht unter 20 m Länge einem Behinderungsverbot?",
+    "musterantwort": "1. In engen Fahrwassern, 2. auf dem Einbahnweg eines Verkehrstrennungsgebietes (VTG) gegenüber Maschinenfahrzeugen im VTG."
+  },
+  {
+    "id": "9-9",
+    "frage": "Welche navigatorischen Vorbereitungen treffen Sie vor einer Fahrt in Dunkelheit?",
+    "musterantwort": "1. Kurse und Kursänderungspunkte möglichst vorausbestimmen, 2. Untiefen und Hindernisse in der Karte besonders kennzeichnen, 3. in der Seekarte markieren, welche Leuchtfeuer wann und wo in der Kimm erscheinen und 4. Wegstrecke nach unbefeuerten Tonnen absuchen."
+  },
+  {
+    "id": "9-10",
+    "frage": "Wie kann man gegebenenfalls verhindern, dass sich Echoanzeigen von Zielen (z. B. 2 Tonnen, 2 Molenköpfe) überlappen?",
+    "musterantwort": "1. Kurze Impulslänge wählen. 2. Messbereich verkleinern."
+  },
+  {
+    "id": "9-11",
+    "frage": "Nennen Sie die grundsätzlichen Schritte und ihre Ziele zur Rettung einer über Bord gegangenen Person.",
+    "musterantwort": "1. Maschine starten, 2. Suche, Herstellung eines Sichtkontaktes zur über Bord gegangenen Person, 3. \"Mensch-über-Bord- Manöver\", Annäherung an die im Wasser treibende Person und Herstellung einer ersten Leinenverbindung, 4. Bergung, sicheres und schnelles Anbordnehmen der Person, 5. Erste Hilfe, Betreuung, 6. ggf. Notalarm abgeben."
+  },
+  {
+    "id": "9-12",
+    "frage": "Was ist vor Reisebeginn beim Seeklarmachen zu überprüfen und zu beachten? Nennen Sie mindestens 6 Beispiele.",
+    "musterantwort": "1. Seetüchtigkeit der Yacht, 2. Zahl und Zustand der Segel, 3. Treibstoffvorrat, 4. Navigationsunterlagen, 5. Sicherheitseinweisung der Besatzung, 6. Rettungsmittel, 7. Seenotsignale, 8. Trinkwasser- und Proviantvorräte, 9. Funktionsfähigkeit des Motors, 10. Funktionsfähigkeit der elektronischen Navigationsgeräte, 11. Lenzeinrichtungen, 12. Feuerlöscher, 13. Boots- und Personalpapiere, 14. Betriebsfähigkeit der UKW-Seefunkanlage."
+  },
+  {
+    "id": "9-13",
+    "frage": "Für welche unterschiedlichen Reparaturbereiche sollten Sie Ersatzteile und Werkzeug an Bord haben?",
+    "musterantwort": "1. Segelreparaturen, 2. Reparaturen an Rumpf und Rigg, 3. Motorreparaturen, 4. Elektroreparaturen und 5. Reparaturen an Schlauchleitungen."
+  },
+  {
+    "id": "9-14",
+    "frage": "Worauf müssen Sie achten, wenn eine Magnetkompasspeilung (MgP) auf eine rechtweisende Peilung (rwP) beschickt werden soll?",
+    "musterantwort": "Abl für den anliegenden MgK (Magnetkompasskurs) aus der Steuertafel (Ablenkungstabelle) entnehmen; an den so erhaltenen mwK (missweisenden Kurs) die für das laufende Jahr der Seekarte entnommene Mw anbringen."
+  },
+  {
+    "id": "9-15",
+    "frage": "Wodurch kann es im Mittelmeerraum in besonderen Fällen zur Sichtreduktion kommen?",
+    "musterantwort": "Bei bestimmten Wetterlagen kann mit der Luftmasse transportierter Saharastaub die Sicht stark vermindern."
+  },
+  {
+    "id": "9-16",
+    "frage": "Was müssen Sie bedenken, wenn Sie die Wassertiefe außerhalb der Niedrigwasserzeit loten?",
+    "musterantwort": "Beim folgenden Niedrigwasser wird die Wassertiefe geringer sein als zum Zeitpunkt der Lotung."
+  },
+  {
+    "id": "9-17",
+    "frage": "Wodurch und wie entsteht am Tage Seewind?",
+    "musterantwort": "Das Land erwärmt sich bei Sonneneinstrahlung tagsüber stärker als das Wasser. Über Land steigt die erwärmte Luft auf. Das dabei entstehende Bodentief wird durch Seewind (Wind von See) aufgefüllt."
+  },
+  {
+    "id": "9-18",
+    "frage": "Was müssen Sie nach einem Seeunfall veranlassen? Wie kann es umgesetzt werden?",
+    "musterantwort": "Den Seeunfall unverzüglich der Bundesstelle für Seeunfalluntersuchung melden. Das kann in einem deutschen Einlaufhafen auch über die Wasserschutzpolizei bzw. im Ausland über die zuständigen Hafenbehörden veranlasst werden."
+  },
+  {
+    "id": "9-19",
+    "frage": "Warum wird die Versetzung einer Yacht durch den Wind mit zunehmender Krängung größer?",
+    "musterantwort": "Der Lateralplan wird kleiner, dadurch verringert sich der seitliche Widerstand des Schiffes im Wasser."
+  },
+  {
+    "id": "9-20",
+    "frage": "Warum weht der Wind nicht parallel zu den Isobaren? (Begründung)",
+    "musterantwort": "Durch die Bodenreibung ist der Wind rückgedreht (gegen den Uhrzeigersinn)."
+  },
+  {
+    "id": "9-21",
+    "frage": "Wie schützt man auf Kunststoffyachten den Propeller gegen Elektrolyse?",
+    "musterantwort": "Durch eine Zinkanode auf der Propellerwelle."
+  },
+  {
+    "id": "9-22",
+    "frage": "Was ist das Grundprinzip von GPS?",
+    "musterantwort": "Durch Laufzeitmessungen von GPS-Signalen vom Satelliten zum Empfänger und damit durch Abstandsmessungen zu den Satelliten wird die Ortsbestimmung ermöglicht."
+  },
+  {
+    "id": "9-23",
+    "frage": "Auf einem Segelfahrzeug unter Motor sieht man nachts fast recht voraus ein näher kommendes Fahrzeug mit folgender Lichterführung: oben ein weißes Licht, seitlich darunter ein grünes Licht, zeitweise rechts von dem grünen Licht auf gleicher Höhe auch ein rotes Licht. Um was für ein Fahrzeug handelt es sich, was ist von Ihnen und was ist auf dem anderen Fahrzeug zu unternehmen?",
+    "musterantwort": "Es handelt sich um ein Maschinenfahrzeug von weniger als 50 m Länge, das im Seegang oder durch schlechtes Steuern giert. Man muss annehmen, dass sich zwei Maschinenfahrzeuge auf entgegengesetzten oder fast entgegengesetzten Kursen nähern und die Möglichkeit der Gefahr eines Zusammenstoßes besteht. Beide Fahrzeuge müssen den Kurs nach Steuerbord ändern und dieses durch einen kurzen Ton anzeigen."
+  },
+  {
+    "id": "9-24",
+    "frage": "Was sind Fahrwasser im Sinne der SeeSchStrO?",
+    "musterantwort": "Fahrwasser sind die Teile der Wasserflächen, die durch Tonnen (laterale Zeichen) begrenzt oder gekennzeichnet sind oder die, soweit das nicht der Fall ist, auf den Binnenwasserstraßen für die durchgehende Schifffahrt bestimmt sind."
+  },
+  {
+    "id": "9-25",
+    "frage": "Was ist die Besteckversetzung (BV)?",
+    "musterantwort": "Richtung (rw) und Entfernung (in sm) vom Koppelort (O~k~) zum beobachteten Ort (O~b~), bezogen auf den gleichen Zeitpunkt. (Das K und O bei OK und OB muss jeweils untergestellt sein)"
+  },
+  {
+    "id": "9-26",
+    "frage": "Was ist \"Sichtweite\" eines Feuers? Wovon hängt sie ab?",
+    "musterantwort": "Sichtweite ist die Entfernung, auf die ein Leuchtfeuer über die Erdkrümmung (Kimm) hinweg vom Beobachter gesehen werden kann. Sie hängt ab 1. von der Feuerhöhe und 2. von der Augeshöhe des Beobachters."
+  },
+  {
+    "id": "9-27",
+    "frage": "Welche besondere Bedeutung hat AIS für die Sportschifffahrt im Vergleich mit der Radaranzeige auf anderen Schiffen?",
+    "musterantwort": "Sportfahrzeuge werden häufig auf den Radargeräten anderer Schiffe nicht sicher angezeigt bzw. die Anzeigen gehen im Seegangsclutter oder in der Informationsfülle unter. Da jetzt auf vielen Schiffen die AIS- Daten zusätzlich im Radar dargestellt werden, besteht die Gefahr, dass Sportfahrzeuge noch weniger auffällig sind, wenn sie nicht selbst mit AIS ausgerüstet sind."
+  },
+  {
+    "id": "9-28",
+    "frage": "Was ist Wind und wie entsteht er?",
+    "musterantwort": "Wind ist bewegte Luft. Die Bewegung entsteht durch die Druckunterschiede zwischen Hoch- und Tiefdruckgebieten."
+  },
+  {
+    "id": "9-29",
+    "frage": "Erläutern Sie den Begriff \"Vorfahrt beachten\".",
+    "musterantwort": "\"Vorfahrt beachten\" begründet eine Wartepflicht. Wer die Vorfahrt zu beachten hat, muss rechtzeitig durch sein Fahrverhalten erkennen lassen, dass er warten wird. Er darf nur weiterfahren, wenn er übersehen kann, dass die Schifffahrt im Fahrwasser nicht beeinträchtigt wird. Ggf. hat der Wartepflichtige seinen Kurs und/oder seine Geschwindigkeit zu ändern (gilt rechtlich nicht als Ausweichen!)."
+  },
+  {
+    "id": "9-30",
+    "frage": "Erläutern Sie den Begriff \"Vorfahrt haben\".",
+    "musterantwort": "\"Vorfahrt haben\" gilt nur für ein im Fahrwasser fahrendes oder dem Fahrwasserverlauf folgendes Fahrzeug. Das bedeutet, dass andere Fahrzeuge, die in das Fahrwasser einlaufen wollen, dort drehen oder an- und ablegen wollen, mit diesem Vorhaben warten müssen, bis das vorfahrtberechtigte Fahrzeug vorüber ist. \"Vorfahrt haben\" bedeutet aber nicht: Vorfahrt erzwingen! Ggf. muss ein vorfahrtberechtigtes Fahrzeug Maßnahmen zur Verhinderung einer drohenden Kollision ergreifen."
+  }
+]

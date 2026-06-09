@@ -1,0 +1,308 @@
+[
+  {
+    "id": "13-1",
+    "kurzantwort": "Vorleine, Vorspring, Achterspring, Achterleine (am Bug die Vorleinen, am Heck die Achterleinen, Springs gegen Längsbewegung).",
+    "erklaerung": "Beim Längsseitsliegen verhindern Vor- und Achterleine das Abtreiben quer, während die beiden Springs ein Vor- bzw. Zurückrutschen entlang der Pier verhindern. Eselsbrücke: Springs zeigen über Kreuz und 'fangen' die Längsbewegung ab.",
+    "kernpunkte": [
+      { "punkt": "Vorleine", "synonyme": ["Vorleine", "Bugleine", "vordere Festmacherleine", "Vorne"] },
+      { "punkt": "Vorspring", "synonyme": ["Vorspring", "vordere Spring", "Spring vorn"] },
+      { "punkt": "Achterspring", "synonyme": ["Achterspring", "hintere Spring", "Spring achtern"] },
+      { "punkt": "Achterleine", "synonyme": ["Achterleine", "Heckleine", "hintere Festmacherleine", "achtern"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "13-2",
+    "kurzantwort": "B ist ein Maschinenfahrzeug <50 m (Steuerbordlicht sichtbar). B muss ausweichen, A hält Kurs und Geschwindigkeit (Kreuzungslage, A hat B an Steuerbord).",
+    "erklaerung": "Sieht A das grüne Steuerbordlicht von B, hat B die A an seiner Steuerbordseite. Nach KVR ist B damit ausweichpflichtig, A ist Kurshalter. Die fast gleichbleibende Peilung bei abnehmender Distanz zeigt Kollisionsgefahr an.",
+    "kernpunkte": [
+      { "punkt": "Maschinenfahrzeug unter 50 m in Fahrt", "synonyme": ["Maschinenfahrzeug", "Motorfahrzeug", "unter 50 m", "weniger als 50 m", "Steuerbordlicht", "grünes Licht"] },
+      { "punkt": "B ist ausweichpflichtig (hat A an Steuerbord)", "synonyme": ["B muss ausweichen", "B weicht aus", "ausweichpflichtig", "Steuerbordseite", "Kreuzungslage"] },
+      { "punkt": "A hält Kurs und Geschwindigkeit", "synonyme": ["Kurs und Geschwindigkeit beibehalten", "Kurshalter", "A behält bei", "A bleibt auf Kurs"] }
+    ],
+    "wichtigkeit": 3
+  },
+  {
+    "id": "13-3",
+    "kurzantwort": "Ungenaue GPS-Anzeigen bei: Antennenabschattung, Nähe von Flughäfen/Fernsehsendern, Marineeinrichtungen, Nutzung von UKW/elektronischen Geräten an Bord.",
+    "erklaerung": "GPS-Signale sind schwach und empfindlich gegen Abschattung und elektromagnetische Störungen. Sender, militärische Anlagen und bordeigene Geräte können den Empfang stören und so die angezeigte Position verfälschen.",
+    "kernpunkte": [
+      { "punkt": "Abschattung der GPS-Antenne", "synonyme": ["Abschattung", "Antenne abgeschattet", "schlechter Empfang", "keine Sicht zum Himmel"] },
+      { "punkt": "Nähe von Flughäfen und Fernsehsendern", "synonyme": ["Flughäfen", "Fernsehsender", "Sendeanlagen", "Sender"] },
+      { "punkt": "Nähe von Marineeinrichtungen", "synonyme": ["Marineeinrichtungen", "Militär", "Marine", "Militäranlagen"] },
+      { "punkt": "Störung durch UKW/elektronische Geräte an Bord", "synonyme": ["UKW", "Funkgeräte", "elektronische Geräte", "elektrische Geräte", "Störungen"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "13-4",
+    "kurzantwort": "Seewind: Mittelmeer bis ca. 25 kn (Bft 6); Nord-/Ostsee bis 15 kn, in Einzelfällen 20 kn (Bft 4/5, selten 5/6).",
+    "erklaerung": "Der Seewind entsteht tagsüber durch die unterschiedliche Erwärmung von Land und Wasser. Im wärmeren Mittelmeerraum ist das Temperaturgefälle größer, daher wird der Seewind dort kräftiger als in Nord- und Ostsee.",
+    "kernpunkte": [
+      { "punkt": "Mittelmeer bis ca. 25 kn / Bft 6", "synonyme": ["25 kn", "25 Knoten", "Bft 6", "Beaufort 6", "Mittelmeer"] },
+      { "punkt": "Nord-/Ostsee bis 15 kn, max. 20 kn / Bft 4-5(6)", "synonyme": ["15 kn", "20 kn", "Bft 4", "Bft 5", "Beaufort 4/5", "Nordsee", "Ostsee"] }
+    ],
+    "wichtigkeit": 1
+  },
+  {
+    "id": "13-5",
+    "kurzantwort": "Kugelkompass: auch bei stärkerer Krängung als Messinstrument nutzbar; bessere Ablesbarkeit durch Vergrößerungseffekt der Kugelform.",
+    "erklaerung": "Die Kugelform schwimmt die Kompassrose freier aus und bleibt auch bei Schräglage des Bootes lesbar. Zusätzlich wirkt die mit Flüssigkeit gefüllte Kugel wie eine Lupe und vergrößert die Skala.",
+    "kernpunkte": [
+      { "punkt": "Auch bei größerer Krängung nutzbar", "synonyme": ["Krängung", "Schräglage", "auch bei Krängung", "Lage des Bootes"] },
+      { "punkt": "Bessere Ablesbarkeit durch Vergrößerungseffekt", "synonyme": ["Vergrößerung", "Lupeneffekt", "besser ablesbar", "Ablesbarkeit", "Vergrößerungseffekt"] }
+    ],
+    "wichtigkeit": 1
+  },
+  {
+    "id": "13-6",
+    "kurzantwort": "Windrichtung: Vorhersagen/Aussichten 8-teilige Skala (45°-Stufen), Stationsmeldungen 16-teilige Skala (22,5°-Stufen).",
+    "erklaerung": "Vorhersagen sind naturgemäß ungenauer, daher reicht die gröbere 8-teilige Skala. Stationsmeldungen sind gemessene Ist-Werte und werden genauer in der 16-teiligen Skala angegeben.",
+    "kernpunkte": [
+      { "punkt": "Vorhersagen/Aussichten: 8-teilig, 45°", "synonyme": ["8-teilig", "achtteilig", "45°", "45 Grad", "Vorhersage"] },
+      { "punkt": "Stationsmeldungen: 16-teilig, 22,5°", "synonyme": ["16-teilig", "sechzehnteilig", "22,5°", "22,5 Grad", "Stationsmeldung"] }
+    ],
+    "wichtigkeit": 1
+  },
+  {
+    "id": "13-7",
+    "kurzantwort": "Front = vordere Grenze einer Luftmasse in Bewegungsrichtung. Arten: Warmfront, Kaltfront, Okklusionsfront.",
+    "erklaerung": "An einer Front treffen Luftmassen unterschiedlicher Temperatur und Feuchte aufeinander. Dieser Übergangsbereich bringt typisch Bewölkung, Wind- und Wetterwechsel mit sich.",
+    "kernpunkte": [
+      { "punkt": "Vordere Grenze einer Luftmasse in Bewegungsrichtung", "synonyme": ["Grenze einer Luftmasse", "Luftmassengrenze", "vordere Grenze", "Übergang Luftmassen"] },
+      { "punkt": "Warm-, Kalt- und Okklusionsfront", "synonyme": ["Warmfront", "Kaltfront", "Okklusion", "Okklusionsfront", "Mischfront"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "13-8",
+    "kurzantwort": "Vor dem Anlassen: Hauptstromschalter ein, Kraftstoff- und Kühlwasserventile öffnen, Getriebe auf neutral/Leerlauf.",
+    "erklaerung": "Strom muss anliegen, Kraftstoff und Kühlwasser müssen fließen können, sonst läuft oder kühlt der Motor nicht. Das Getriebe in Neutral verhindert ein ruckartiges Anfahren beim Start.",
+    "kernpunkte": [
+      { "punkt": "Hauptstromschalter einschalten", "synonyme": ["Hauptstromschalter", "Strom einschalten", "Batterieschalter", "Hauptschalter"] },
+      { "punkt": "Kraftstoff- und Kühlwasserventile öffnen", "synonyme": ["Kraftstoffventil", "Kühlwasserventil", "Seeventil öffnen", "Treibstoffhahn", "Ventile öffnen"] },
+      { "punkt": "Getriebe auf neutral", "synonyme": ["neutral", "Leerlauf", "Getriebe neutral", "Gang raus"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "13-9",
+    "kurzantwort": "Ausweichen: rechtzeitig (frühzeitig) und durchgreifend, sodass das andere Fahrzeug die Absicht klar erkennt; gut Abstand halten.",
+    "erklaerung": "Frühe und deutliche Manöver sind für das andere Fahrzeug eindeutig erkennbar und vermeiden Missverständnisse. Kleine, zögerliche Kurskorrekturen sind gefährlich, weil sie nicht klar wahrgenommen werden.",
+    "kernpunkte": [
+      { "punkt": "Frühzeitig/rechtzeitig", "synonyme": ["frühzeitig", "rechtzeitig", "früh", "zeitig"] },
+      { "punkt": "Durchgreifend und klar erkennbar", "synonyme": ["durchgreifend", "deutlich", "erkennbar", "eindeutig", "groß"] },
+      { "punkt": "Gut klar/Abstand halten", "synonyme": ["Abstand halten", "klar halten", "sicherer Abstand", "frei halten"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "13-10",
+    "kurzantwort": "Dünung = Seegang, der dem erzeugenden Windfeld vorausläuft, bzw. abklingender (alter) Seegang. Einsetzende hohe Dünung kann einen aufziehenden Sturm ankündigen.",
+    "erklaerung": "Lange Wellen (Dünung) laufen schneller als das Sturmtief und erreichen die Küste oft vor dem Wind. Daher gilt früh einsetzende, hohe Dünung als Vorbote eines herannahenden Sturms.",
+    "kernpunkte": [
+      { "punkt": "Seegang, der dem Windfeld vorausläuft / alter Seegang", "synonyme": ["vorauslaufender Seegang", "alter Seegang", "abklingender Seegang", "lange Wellen", "windunabhängig"] },
+      { "punkt": "Kündigt aufziehenden Sturm an", "synonyme": ["Sturm", "aufziehender Sturm", "Sturmvorbote", "Tief", "schlechtes Wetter"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "13-11",
+    "kurzantwort": "AIS = Automatic Identification System / automatisches Identifizierungssystem.",
+    "erklaerung": "Über AIS senden und empfangen Schiffe automatisch Daten wie Schiffsname, Position, Kurs und Geschwindigkeit per UKW. Das erhöht die Sicherheit, weil andere Fahrzeuge erkannt und identifiziert werden können.",
+    "kernpunkte": [
+      { "punkt": "Automatisches Identifizierungssystem", "synonyme": ["Automatic Identification System", "automatisches Identifizierungssystem", "Identifizierungssystem", "AIS"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "13-12",
+    "kurzantwort": "Auf deutschen Seeschifffahrtsstraßen gelten: KVR, Seeschifffahrtsstraßen-Ordnung (SeeSchStrO), ggf. Bekanntmachungen der WSD und ggf. Hafenordnungen.",
+    "erklaerung": "Die KVR sind die international gültigen Kollisionsverhütungsregeln, die SeeSchStrO ergänzt sie national für deutsche Reviere. Vor Ort kommen ggf. Bekanntmachungen und örtliche Hafenordnungen hinzu.",
+    "kernpunkte": [
+      { "punkt": "KVR (Kollisionsverhütungsregeln)", "synonyme": ["KVR", "Kollisionsverhütungsregeln", "internationale Regeln", "COLREG"] },
+      { "punkt": "Seeschifffahrtsstraßen-Ordnung", "synonyme": ["SeeSchStrO", "Seeschifffahrtsstraßen-Ordnung", "SeeSchStr-Ordnung", "nationale Ordnung"] },
+      { "punkt": "Ggf. Bekanntmachungen der WSD", "synonyme": ["Bekanntmachungen", "WSD", "Wasser- und Schifffahrtsdirektion", "WSV"] },
+      { "punkt": "Ggf. Hafenordnungen", "synonyme": ["Hafenordnungen", "Hafenordnung", "örtliche Vorschriften", "Hafenvorschriften"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "13-13",
+    "kurzantwort": "Beim Folgen der Fahrwasserrichtung so nah wie ohne Gefahr möglich am äußeren (rechten/Steuerbord-)Rand des Fahrwassers halten.",
+    "erklaerung": "Wie auf der Straße gilt 'rechts fahren': Jeder hält sich am Steuerbordrand des Fahrwassers. So bleibt die Mitte für Begegnungen frei und der Verkehr fließt sicher.",
+    "kernpunkte": [
+      { "punkt": "Am äußeren Rand der Steuerbordseite halten", "synonyme": ["Steuerbordseite", "rechter Rand", "äußerer Rand", "rechts halten", "Steuerbord"] },
+      { "punkt": "So nah wie ohne Gefahr möglich", "synonyme": ["ohne Gefahr", "so nah wie möglich", "sicher möglich", "soweit gefahrlos"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "13-14",
+    "kurzantwort": "Leuchtfeuerverzeichnisse: Beschreibung von Leuchtfeuern, Feuerschiffen und Großtonnen sowie deren geographische Lage.",
+    "erklaerung": "Das Leuchtfeuerverzeichnis listet detailliert Kennung, Höhe, Tragweite und Position von Feuern und Seezeichen auf. Es ergänzt die Seekarte mit genauen Angaben zur Identifizierung der Feuer.",
+    "kernpunkte": [
+      { "punkt": "Beschreibung von Leuchtfeuern, Feuerschiffen, Großtonnen", "synonyme": ["Leuchtfeuer", "Feuerschiffe", "Großtonnen", "Seezeichen", "Befeuerung", "Kennung"] },
+      { "punkt": "Geographische Lage / Position", "synonyme": ["geographische Lage", "Position", "Koordinaten", "Standort", "Lage"] }
+    ],
+    "wichtigkeit": 1
+  },
+  {
+    "id": "13-15",
+    "kurzantwort": "Damit der Schnittwinkel der Standlinien eine ausreichend genaue, sichere Position ergibt; zu spitze/stumpfe Winkel machen den Schnittpunkt unsicher.",
+    "erklaerung": "Bei sehr spitzen oder sehr stumpfen Schnittwinkeln wirkt sich ein kleiner Peilfehler stark auf den Schnittpunkt aus. Winkel zwischen 30° und 150° liefern einen klaren, gut definierten Schnittpunkt.",
+    "kernpunkte": [
+      { "punkt": "Sichere/genaue Positionsbestimmung", "synonyme": ["sichere Position", "genaue Position", "Genauigkeit", "zuverlässiger Standort", "Standort"] },
+      { "punkt": "Schnittwinkel der Standlinien", "synonyme": ["Schnittwinkel", "Standlinien", "spitzer Winkel", "stumpfer Winkel", "Peilfehler"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "13-16",
+    "kurzantwort": "Sichere Geschwindigkeit: das Fahrzeug muss innerhalb einer Distanz anhalten können, dass ein Zusammenstoß sicher vermieden wird (angepasst an die Umstände).",
+    "erklaerung": "Die sichere Geschwindigkeit hängt von Sicht, Verkehr, Manövrierfähigkeit und Revier ab. Maßstab ist, dass man rechtzeitig stoppen oder ausweichen kann, um eine Kollision zu verhindern.",
+    "kernpunkte": [
+      { "punkt": "Rechtzeitig zum Stehen kommen / Kollision vermeiden", "synonyme": ["zum Stehen bringen", "anhalten", "stoppen", "Zusammenstoß vermeiden", "Kollision vermeiden"] },
+      { "punkt": "Angepasst an die Umstände", "synonyme": ["den Umständen angepasst", "Sicht", "Verkehr", "angemessene Entfernung", "Bedingungen"] }
+    ],
+    "wichtigkeit": 3
+  },
+  {
+    "id": "13-17",
+    "kurzantwort": "Häufigste Ursache für Falten im Vorliek der Fock: das Fall ist nicht genügend durchgesetzt (zu wenig Spannung).",
+    "erklaerung": "Ist das Vorsegelfall zu lose, fehlt dem Vorliek die Spannung und es wirft Falten. Setzt man das Fall stärker durch, strafft sich das Vorliek und die Falten verschwinden.",
+    "kernpunkte": [
+      { "punkt": "Fall nicht genügend durchgesetzt", "synonyme": ["Fall zu lose", "Fall nicht durchgesetzt", "zu wenig Spannung", "Fallspannung", "Fall dichter holen"] }
+    ],
+    "wichtigkeit": 1
+  },
+  {
+    "id": "13-18",
+    "kurzantwort": "Brauchbare Standlinie aus Lotung nur, wenn der Meeresgrund ausreichend regelmäßig verläuft und ausreichend steil ansteigt/abfällt.",
+    "erklaerung": "Nur bei gleichmäßigem, deutlich geneigtem Grund lässt sich aus der gemessenen Wassertiefe eine klare Tiefenlinie in der Karte zuordnen. Bei flachem oder unregelmäßigem Grund ist die Position nicht eindeutig.",
+    "kernpunkte": [
+      { "punkt": "Grund ausreichend regelmäßig", "synonyme": ["regelmäßig", "gleichmäßig", "ebenmäßiger Grund", "regelmäßiger Verlauf"] },
+      { "punkt": "Grund ausreichend steil ansteigend/abfallend", "synonyme": ["steil", "steiler Anstieg", "abfallend", "ansteigend", "Gefälle"] }
+    ],
+    "wichtigkeit": 1
+  },
+  {
+    "id": "13-19",
+    "kurzantwort": "Zusatz \"vital\" bei einer NWN bedeutet: die Warnung weist auf eine lebensbedrohende Gefahr hin.",
+    "erklaerung": "Nautische Warnnachrichten warnen vor Gefahren für die Schifffahrt. Der Zusatz 'vital' kennzeichnet die höchste Dringlichkeitsstufe, weil unmittelbar Leben bedroht ist.",
+    "kernpunkte": [
+      { "punkt": "Hinweis auf lebensbedrohende Gefahr", "synonyme": ["lebensbedrohend", "Lebensgefahr", "lebensbedrohliche Gefahr", "höchste Dringlichkeit", "vital"] }
+    ],
+    "wichtigkeit": 1
+  },
+  {
+    "id": "13-20",
+    "kurzantwort": "Nächstes Wartungsdatum des Rettungsfloßes: runde, auf der Insel klebende Serviceplakette oder das bei der letzten Wartung mitgelieferte Zertifikat.",
+    "erklaerung": "Rettungsinseln müssen regelmäßig (i.d.R. jährlich) gewartet werden. Plakette und Zertifikat dokumentieren den nächsten fälligen Wartungstermin, damit die Insel im Ernstfall zuverlässig funktioniert.",
+    "kernpunkte": [
+      { "punkt": "Serviceplakette auf der Insel", "synonyme": ["Serviceplakette", "Plakette", "Aufkleber", "Etikett auf der Insel"] },
+      { "punkt": "Wartungszertifikat", "synonyme": ["Zertifikat", "Wartungszertifikat", "Bescheinigung", "Wartungsnachweis"] }
+    ],
+    "wichtigkeit": 1
+  },
+  {
+    "id": "13-21",
+    "kurzantwort": "Bugstrahlruder: quer im Bug eingebaute Röhre mit Propeller; erzeugt Querschub und dreht den Bug bei geringer Fahrt (Manövrieren auf engem Raum).",
+    "erklaerung": "Bei langsamer Fahrt wirkt das normale Ruder kaum. Das Bugstrahlruder drückt den Bug seitlich weg und erleichtert so An- und Ablegen sowie Manöver in engen Häfen.",
+    "kernpunkte": [
+      { "punkt": "Röhre mit Propeller im Bug", "synonyme": ["Röhre im Bug", "Propeller im Bug", "Querstrahlruder", "Tunnel im Bug", "Querstrahler"] },
+      { "punkt": "Erzeugt Querschub / dreht den Bug bei langsamer Fahrt", "synonyme": ["Querschub", "Bug drehen", "seitlicher Schub", "manövrieren", "geringe Geschwindigkeit"] }
+    ],
+    "wichtigkeit": 1
+  },
+  {
+    "id": "13-22",
+    "kurzantwort": "Haltekraft des Ankers auf engem Raum erhöhen: mit einem Reitgewicht, das die Kette niederdrückt und den Anker flacher am Boden hält.",
+    "erklaerung": "Ein Reitgewicht (Kettenstopper-Gewicht) zieht den Zugwinkel der Kette nach unten. Dadurch zieht der Anker flacher und gräbt sich besser ein, auch wenn nur wenig Kette gesteckt werden kann.",
+    "kernpunkte": [
+      { "punkt": "Reitgewicht verwenden", "synonyme": ["Reitgewicht", "Kettengewicht", "Gewicht an der Kette", "Ankergewicht", "Niederholgewicht"] }
+    ],
+    "wichtigkeit": 1
+  },
+  {
+    "id": "13-23",
+    "kurzantwort": "Keine besondere Lichterführung/Kennzeichnung: schleppende Motorsportfahrzeuge gelten nicht als schleppende Maschinenfahrzeuge im Sinne der KVR.",
+    "erklaerung": "Die KVR-Regeln für schleppende Fahrzeuge zielen auf gewerblichen Schleppbetrieb. Sportboote, die ein anderes Sportboot schleppen, sind davon ausgenommen und führen daher keine besonderen Schlepplichter.",
+    "kernpunkte": [
+      { "punkt": "Keine besondere Lichterführung/Kennzeichnung", "synonyme": ["keine besondere Lichterführung", "keine Kennzeichnung", "keine zusätzlichen Lichter", "normale Lichter"] },
+      { "punkt": "Gilt nicht als schleppendes Maschinenfahrzeug i.S.d. KVR", "synonyme": ["kein schleppendes Maschinenfahrzeug", "nicht im Sinne der KVR", "Sportfahrzeug", "Ausnahme KVR"] }
+    ],
+    "wichtigkeit": 1
+  },
+  {
+    "id": "13-24",
+    "kurzantwort": "MARPOL-Sondergebiete in Europa: Ostsee, Nordsee und Mittelmeer.",
+    "erklaerung": "In MARPOL-Sondergebieten gelten besonders strenge Vorschriften gegen Meeresverschmutzung, weil diese Gewässer ökologisch empfindlich und stark befahren sind. Einleitungen von Öl und Müll sind dort weitgehend verboten.",
+    "kernpunkte": [
+      { "punkt": "Ostsee", "synonyme": ["Ostsee", "Baltic Sea"] },
+      { "punkt": "Nordsee", "synonyme": ["Nordsee", "North Sea"] },
+      { "punkt": "Mittelmeer", "synonyme": ["Mittelmeer", "Mediterranean", "Mittelmeerraum"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "13-25",
+    "kurzantwort": "Rechtdrehend = Windrichtungsänderung im Uhrzeigersinn; rückdrehend = gegen den Uhrzeigersinn (um mindestens 45°).",
+    "erklaerung": "Die Drehrichtung des Windes beschreibt man wie die Bewegung eines Zeigers. Rechtdrehend dreht der Wind mit dem Uhrzeiger (z.B. SW nach NW), rückdrehend dagegen.",
+    "kernpunkte": [
+      { "punkt": "Rechtdrehend = im Uhrzeigersinn", "synonyme": ["rechtdrehend", "im Uhrzeigersinn", "mit dem Uhrzeiger", "veering"] },
+      { "punkt": "Rückdrehend = gegen den Uhrzeigersinn", "synonyme": ["rückdrehend", "gegen den Uhrzeigersinn", "gegen den Uhrzeiger", "backing", "linksdrehend"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "13-26",
+    "kurzantwort": "Segelreparatur-Werkzeug: Segelhandschuh, Segelnadeln, Segelgarn, Wachs, Zange und selbstklebendes Segeltuch.",
+    "erklaerung": "Mit Nadel, Garn und Handschuh lassen sich Risse nähen, Wachs schützt das Garn, die Zange hilft beim Durchziehen durch dickes Tuch. Selbstklebendes Segeltuch ermöglicht eine schnelle Notreparatur unterwegs.",
+    "kernpunkte": [
+      { "punkt": "Segelhandschuh", "synonyme": ["Segelhandschuh", "Nähhandschuh", "Handschuh", "Palm"] },
+      { "punkt": "Segelnadeln, Segelgarn, Wachs", "synonyme": ["Segelnadeln", "Nadeln", "Segelgarn", "Garn", "Wachs"] },
+      { "punkt": "Zange", "synonyme": ["Zange", "Flachzange", "Kneifzange"] },
+      { "punkt": "Selbstklebendes Segeltuch", "synonyme": ["selbstklebendes Segeltuch", "Klebetuch", "Reparaturtuch", "Segeltuch", "Klebeband"] }
+    ],
+    "wichtigkeit": 1
+  },
+  {
+    "id": "13-27",
+    "kurzantwort": "Tragweite eines Feuers hängt ab von: Lichtstärke (Helligkeit) des Feuers und vom Sichtwert (Lichtdurchlässigkeit der Atmosphäre).",
+    "erklaerung": "Je heller das Feuer, desto weiter ist es sichtbar; je klarer die Luft, desto weiter trägt das Licht. Bei Dunst oder Nebel sinkt die tatsächliche Tragweite trotz gleicher Lichtstärke.",
+    "kernpunkte": [
+      { "punkt": "Lichtstärke / Helligkeit des Feuers", "synonyme": ["Lichtstärke", "Helligkeit", "Leuchtkraft", "Stärke des Feuers"] },
+      { "punkt": "Sichtwert / Lichtdurchlässigkeit der Atmosphäre", "synonyme": ["Sichtwert", "Sicht", "Lichtdurchlässigkeit", "Atmosphäre", "Dunst", "Nebel"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "13-28",
+    "kurzantwort": "Stahl als Yachtbaustoff: Vorteile - sehr hohe Festigkeit, lange Lebensdauer, problemlos/zuverlässig. Nachteile - hohes Gewicht, Rostanfälligkeit.",
+    "erklaerung": "Stahl ist extrem robust und langlebig, was besonders bei Grundberührungen Sicherheit gibt. Dafür ist er schwer und muss durch guten Korrosionsschutz vor Rost geschützt werden.",
+    "kernpunkte": [
+      { "punkt": "Vorteile: hohe Festigkeit, lange Lebensdauer", "synonyme": ["hohe Festigkeit", "robust", "stabil", "lange Lebensdauer", "haltbar", "zuverlässig"] },
+      { "punkt": "Nachteile: hohes Gewicht, Rostanfälligkeit", "synonyme": ["hohes Gewicht", "schwer", "Rost", "rostanfällig", "Korrosion"] }
+    ],
+    "wichtigkeit": 1
+  },
+  {
+    "id": "13-29",
+    "kurzantwort": "Einweisung ins Bord-WC nötig, weil durch unsachgemäße Bedienung Wasser ins Bootsinnere gelangen kann (Sinkgefahr).",
+    "erklaerung": "Das Bord-WC ist über Seeventile mit dem Außenwasser verbunden. Falsche Bedienung (z.B. offene Ventile) kann Wasser ins Schiff laufen lassen und im Extremfall zum Vollaufen führen.",
+    "kernpunkte": [
+      { "punkt": "Wasser kann ins Bootsinnere gelangen", "synonyme": ["Wasser ins Boot", "Wassereinbruch", "Wasser ins Schiff", "vollaufen", "Sinkgefahr", "Seeventile"] }
+    ],
+    "wichtigkeit": 1
+  },
+  {
+    "id": "13-30",
+    "kurzantwort": "Zur Springzeit sind besonders hohe Hochwasser und besonders niedrige Niedrigwasser zu erwarten (größter Tidenhub).",
+    "erklaerung": "Bei Neu- und Vollmond stehen Sonne und Mond in einer Linie, ihre Anziehungskräfte addieren sich. Dadurch wird der Tidenhub maximal: höheres Hochwasser, tieferes Niedrigwasser.",
+    "kernpunkte": [
+      { "punkt": "Besonders hohes Hochwasser und niedriges Niedrigwasser", "synonyme": ["hohes Hochwasser", "niedriges Niedrigwasser", "großer Tidenhub", "großer Tidenstieg", "maximaler Hub"] }
+    ],
+    "wichtigkeit": 2
+  }
+]

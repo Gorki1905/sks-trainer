@@ -1,0 +1,152 @@
+[
+  {
+    "id": "6-1",
+    "frage": "Welchen Fahrzeugen muss ein Segelfahrzeug ausweichen?",
+    "musterantwort": "1. Einem manövrierunfähigen Fahrzeug, 2. einem manövrierbehinderten Fahrzeug, 3. einem fischenden Fahrzeug, 4. ggf. einem anderen Segelfahrzeug, abhängig von der Segelstellung in Bezug auf den Wind."
+  },
+  {
+    "id": "6-2",
+    "frage": "Was versteht man unter 1. Formschwerpunkt (F)? 2. Massenschwerpunkt (Gewichtsschwerpunkt, G)? Welche Kräfte wirken in den beiden Punkten?",
+    "musterantwort": "1. Im Formschwerpunkt F kann man sich die Masse des vom Schiff verdrängten Wassers vereinigt denken. In F wirkt die Auftriebskraft senkrecht zur Wasseroberfläche nach oben. 2. Im Massenschwerpunkt G kann man sich die Masse des Schiffes einschließlich Ausrüstung und Besatzung vereinigt denken. In G wirkt die Gewichtskraft senkrecht zur Wasseroberfläche nach unten."
+  },
+  {
+    "id": "6-3",
+    "frage": "1. Wie ist die kennzeichnende (charakteristische) Wellenhöhe definiert? 2. Womit müssen Sie rechnen?",
+    "musterantwort": "1. Mittlere Höhe der gut ausgeprägten (Mittel des oberen Drittels) - nicht extremen - Wellen. 2. Einzelne Wellen können das 1,5fache der kennzeichnenden Wellenhöhe erreichen."
+  },
+  {
+    "id": "6-4",
+    "frage": "Wie verhalten Sie sich nach einem Mastbruch, was müssen Sie veranlassen?",
+    "musterantwort": "1. Nach Möglichkeit den Mast an Bord nehmen und sichern. 2. Falls nicht möglich, Mast und Wanten kappen, um Rumpfschäden zu vermeiden."
+  },
+  {
+    "id": "6-5",
+    "frage": "Welche Lichter müssen manövrierbehinderte Fahrzeuge (außer Minenräumfahrzeuge) führen 1. ohne Fahrt durchs Wasser (FdW), 2. mit FdW, 3. vor Anker?",
+    "musterantwort": "1. Ohne FdW: rot-weiß-rot senkrecht übereinander. 2. Mit FdW: rot-weiß-rot senkrecht übereinander und Lichter eines Maschinenfahrzeugs (Topplicht[er]), Seitenlichter, Hecklicht. 3. Vor Anker: rot-weiß-rot senkrecht übereinander und Ankerlicht(er)."
+  },
+  {
+    "id": "6-6",
+    "frage": "Welche Maßnahmen treffen Sie, bevor Sie von Ihrem Fahrzeug in ein Rettungsfloß übersteigen?",
+    "musterantwort": "1. Rettungsweste und Sicherheitsgurt anlegen. 2. Wärmende Kleidung anziehen. 3. Nach Möglichkeit vorher reichlich warme Flüssigkeit trinken. 4. Soweit noch nicht geschehen, Proviant, Wasser, Seenotsignalmittel und ggf. Seenotfunkbake, Radartransponder und UKW- Handsprechfunkgeräte in das Rettungsfloß bringen."
+  },
+  {
+    "id": "6-7",
+    "frage": "Welche Nordrichtungen werden in der Navigation unterschieden? Erläutern Sie diese kurz.",
+    "musterantwort": "1. rwN: rechtweisend Nord ist die Richtung eines Meridians zum geographischen Nordpol. 2. mwN: missweisend Nord ist die Richtung des erdmagnetischen Feldes zum magnetischen Nordpol, abhängig von Schiffsort und Datum (Jahr). In diese Richtung stellt sich eine ungestörte Magnet- (Kompass-)nadel ein. 3. MgN: ist die Richtung zu Magnetkompass- Nord. In diese Richtung zeigt die durch das schiffsmagnetische Feld beeinflusste Kompassnadel an Bord."
+  },
+  {
+    "id": "6-8",
+    "frage": "Ein funktionsfähiges elektrisches Gerät arbeitet an Bord nicht. Nennen Sie häufige Ursachen und was kann zur Behebung getan werden?",
+    "musterantwort": "1. Schlechte Kontakte und Korrosion. 2. Kontakte fest anziehen, korrodierte Stellen mit feinstem Schleifpapier säubern, Kontaktspray verwenden."
+  },
+  {
+    "id": "6-9",
+    "frage": "1. Was für Wetter muss meistens erwartet werden, wenn der Luftdruck über einen Zeitraum von 3 Stunden um 10 hPa fällt? 2. Was muss bei einem an Bord beobachteten starken Luftdruckfall beachtet werden?",
+    "musterantwort": "1. Schwerer Sturm. 2. Der Kurs und die Fahrt des Schiffes in Bezug auf das Tiefdruckgebiet."
+  },
+  {
+    "id": "6-10",
+    "frage": "1. Was sind T-Nachrichten? 2. Wie verfährt man mit diesen Nachrichten im Berichtigungsverfahren? (Begründung!)",
+    "musterantwort": "1. T-Nachrichten sind solche, die über einen zeitweiligen (temporary) Zustand unterrichten. 2. Wegen der begrenzten Geltungsdauer werden keine Berichtigungen auf der Grundlage von T-Nachrichten vom BSH bzw. amtlichen Seekartenberichtigungsstellen durchgeführt. Deshalb müssen vor Gebrauch jeder Seekarte die noch gültigen T- Nachrichten erfasst und in der Karte vermerkt werden."
+  },
+  {
+    "id": "6-11",
+    "frage": "Sie sehen ein Fahrzeug mit folgender Lichterführung: 1. Worum handelt es sich? 2. Welches Schallsignal müsste dieses Fahrzeug bei unsichtigem Wetter geben?",
+    "musterantwort": "1. Treibnetzfischer (Fahrzeug, das nicht trawlt) in Fahrt oder vor Anker mit ausgebrachtem Fanggerät, das waagerecht weiter als 150 m ins Wasser reicht. (Das untere weiße Licht kann auch das Hecklicht sein). 2. Schallsignal (lang-kurz-kurz) mindestens alle 2 Minuten."
+  },
+  {
+    "id": "6-12",
+    "frage": "Welche Aufgaben hat die Bundesstelle für Seeunfalluntersuchung?",
+    "musterantwort": "Amtliche Untersuchung eines schaden- oder gefahrverursachenden Vorkommnisses (Seeunfall) im Zusammenhang mit dem Betrieb eines Schiffes (z. B. Kollision zwischen zwei Fahrzeugen) und Ermittlung der Umstände, durch die es zu dem Seeunfall gekommen ist. Herausgabe von Untersuchungsberichten und insbesondere Sicherheitsempfehlungen zur Verhütung von Seeunfällen."
+  },
+  {
+    "id": "6-13",
+    "frage": "Wann kann man sich auf die Verfügbarkeit und Anzeige von AIS-Signalen anderer Fahrzeuge verlassen? Nennen Sie die wesentlichen Voraussetzungen!",
+    "musterantwort": "Andere Fahrzeuge werden nur angezeigt, wenn das Fahrzeug auch sendet, d. h., wenn 1. das Fahrzeug mit AIS ausgerüstet ist, 2. das sendende Fahrzeug AIS nicht abgeschaltet hat (darf der Kapitän allerdings nur bei bestimmten zwingenden Gründen), 3. GPS aktiv ist und 4. aus Kapazitätsgründen (z. B. durch zu viele Schiffe in einem Seegebiet = \"target overflow\") keine Fahrzeuge ausgeschlossen werden."
+  },
+  {
+    "id": "6-14",
+    "frage": "Ihr Mast ist gebrochen, eine Bergung ist nicht möglich. Welche Werkzeuge benötigen Sie, um die Takelage zu kappen?",
+    "musterantwort": "Bolzenschneider, Metallsäge mit Ersatzblättern, Schraubenschlüssel und verschiedene Zangen."
+  },
+  {
+    "id": "6-15",
+    "frage": "Was bedeutet die im Zusammenhang mit dem CE-Zeichen für Wassersportfahrzeuge angegebene Kategorie \"B Außerhalb von Küstengewässern\"?",
+    "musterantwort": "Das Fahrzeug ist ausgelegt für Fahrten außerhalb von Küstengewässern, in denen Windstärken bis einschließlich 8 Bft und signifikante Wellenhöhen bis einschließlich 4 m auftreten können."
+  },
+  {
+    "id": "6-16",
+    "frage": "Wodurch und wie entsteht nachts Landwind?",
+    "musterantwort": "Das Land kühlt sich bei geringer Bewölkung stark ab. Das Wasser ändert seine Temperatur an der Oberfläche dagegen nur geringfügig. Über dem Wasser steigt daher erwärmte Luft auf. Das dabei entstehende Bodentief wird durch Landwind (Wind von Land) aufgefüllt."
+  },
+  {
+    "id": "6-17",
+    "frage": "Was bedeutet die Aussage: \"Die Ortsgenauigkeit beträgt 100 m mit einer Wahrscheinlichkeit von 95 %\"?",
+    "musterantwort": "Das Schiff befindet sich mit einer Wahrscheinlichkeit von 95 % in einem Fehlerkreis von 100 m Radius um den beobachteten Ort. Also: jede 20. Ortsbestimmung (5 %) ist ungenauer als ca. 100 m."
+  },
+  {
+    "id": "6-18",
+    "frage": "Auf einer Seekarte finden Sie in Küstennähe die Tiefenangabe 2~3~. Was bedeutet das?",
+    "musterantwort": "Der Ort der Zahl liegt 2,3 m über Kartennull und kann trockenfallen."
+  },
+  {
+    "id": "6-19",
+    "frage": "Was versteht man im Bootsbau unter Gelcoat?",
+    "musterantwort": "Die äußere Schutzschicht eines Bauteils aus glasfaserverstärktem Kunststoff."
+  },
+  {
+    "id": "6-20",
+    "frage": "Wie entstehen Tiefdruckgebiete?",
+    "musterantwort": "Durch das Aufeinandertreffen von kalten Luftmassen aus hohen Breiten und subtropischen warmen Luftmassen."
+  },
+  {
+    "id": "6-21",
+    "frage": "Welche Fahrzeuge dürfen die Küstenverkehrszone benutzen, ohne einen Hafen innerhalb der Küstenverkehrszone anzusteuern?",
+    "musterantwort": "Fahrzeuge von weniger als 20 m Länge und Segelfahrzeuge."
+  },
+  {
+    "id": "6-22",
+    "frage": "Welche Sonderzeichen kennzeichnen Sperrgebiete?",
+    "musterantwort": "Gelbe Fasstonnen, Leuchttonnen, Spierentonnen oder Stangen mit einem breiten roten Band. Beschriftung auf Fasstonne oder Leuchttonne mit schwarzen Buchstaben: \"Sperrgebiet\" oder \"Sperr-G\"."
+  },
+  {
+    "id": "6-23",
+    "frage": "Was müssen Sie bei der Benutzung von deutschen \"Sportbootkarten\" beachten?",
+    "musterantwort": "Sie werden nach dem Druck weder vom BSH noch von den Seekartenvertriebsstellen berichtigt. Sie müssen also vom Nutzer nach dem Kauf vor Benutzung über die NIS auf den aktuellen Stand berichtigt werden."
+  },
+  {
+    "id": "6-24",
+    "frage": "Welche Müllanteile dürfen in Sondergebieten nicht auf See entsorgt werden?",
+    "musterantwort": "Synthetische Seile, Netze, Segel, Kunststofftüten u. Ä., Papiererzeugnisse, Lumpen, Glas, Metall, Steingut, Schalungs- oder Verpackungsmaterial."
+  },
+  {
+    "id": "6-25",
+    "frage": "Welche schwimmenden Schifffahrtszeichen werden in der britischen List of Lights und in deutschen Leuchtfeuerverzeichnissen nicht angegeben?",
+    "musterantwort": "Tonnen kleiner als 8 m Höhe."
+  },
+  {
+    "id": "6-26",
+    "frage": "Warum sollten Sie bei seltener Motorbenutzung den eingebauten Tank eines Dieselmotors möglichst voll getankt halten?",
+    "musterantwort": "Um Kondenswasserbildung zu verringern, was zu Startschwierigkeiten führen kann."
+  },
+  {
+    "id": "6-27",
+    "frage": "Was ist die \"Tragweite\" eines Feuers?",
+    "musterantwort": "Unter Tragweite versteht man denjenigen Abstand, in dem ein Feuer einen eben noch deutlichen Lichteindruck im Auge des Beobachters hervorruft."
+  },
+  {
+    "id": "6-28",
+    "frage": "Welche Faktoren können die Länge und Höhe des Seegangs erheblich verändern?",
+    "musterantwort": "Wassertiefe sowie Meeres- und Gezeitenströmungen."
+  },
+  {
+    "id": "6-29",
+    "frage": "Wer darf laut SeeSchStrO ein Fahrzeug nicht führen oder als Mitglied der Crew eine andere Tätigkeit des Brücken- oder Decksdienstes nicht ausüben (allgemein ohne Zahlen zu beantworten)?",
+    "musterantwort": "Wer infolge körperlicher oder geistiger Mängel oder des Genusses alkoholischer Getränke oder anderer berauschender Mittel in der sicheren Führung eines Fahrzeugs oder in der sicheren Ausübung einer anderen Tätigkeit des Brücken- oder Decksdienstes behindert ist."
+  },
+  {
+    "id": "6-30",
+    "frage": "Wie reagiert ein großes Schiff, wenn bei ca. 20 kn Fahrt ein Ausweichmanöver durch Hartruderlage eingeleitet wird? Nach welcher Distanz verlässt es in etwa die alte Kurslinie?",
+    "musterantwort": "Der Steven bewegt sich in Richtung der Hartruderlage, das Heck schlägt relativ weit zur entgegengesetzten Richtung aus. Das Schiff verlässt mit seinem Heck erst nach mehreren Schiffslängen seine bisherige Kurslinie, bewegt sich also zunächst in der alten Kursrichtung fort. Diese Strecke kann bei 300 m langen Containerschiffen 1,5 bis 2,5 Schiffslängen, d. h. ca. 500 bis 600 m betragen."
+  }
+]

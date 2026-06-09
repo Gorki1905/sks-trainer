@@ -1,0 +1,318 @@
+[
+  {
+    "id": "8-1",
+    "kurzantwort": "Wartepflicht: rechtzeitig zeigen, dass man wartet; nur weiterfahren, wenn Fahrwasser nicht beeinträchtigt wird. Kurs-/Geschwindigkeitsänderung gilt nicht als Ausweichen.",
+    "erklaerung": "Vorfahrt beachten bedeutet, dass man zurückstehen muss und dem Bevorrechtigten den Vorrang lässt. Man muss durch sein Fahrverhalten früh erkennen lassen, dass man wartet, damit der andere sich darauf verlassen kann. Rechtlich ist das eine Wartepflicht und kein Ausweichmanöver.",
+    "kernpunkte": [
+      { "punkt": "begründet eine Wartepflicht", "synonyme": ["Wartepflicht", "warten", "zurückstehen", "Vorrang lassen"] },
+      { "punkt": "rechtzeitig durch Fahrverhalten erkennen lassen, dass man wartet", "synonyme": ["rechtzeitig", "Fahrverhalten", "erkennen lassen", "frühzeitig"] },
+      { "punkt": "nur weiterfahren, wenn Schifffahrt im Fahrwasser nicht beeinträchtigt wird", "synonyme": ["Fahrwasser nicht beeinträchtigen", "übersehen", "weiterfahren", "freie Bahn"] },
+      { "punkt": "Kurs-/Geschwindigkeitsänderung gilt nicht als Ausweichen", "synonyme": ["kein Ausweichen", "Kursänderung", "Geschwindigkeit ändern", "nicht ausweichen"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "8-2",
+    "kurzantwort": "Mind. 6: Ankergeschirr, Lenzeinrichtung, Feuerlöscher, Motoranlage, Seeventile, UKW-Funk, MOB-Taste, Seenotsignalmittel, Notruder.",
+    "erklaerung": "Vor Reiseantritt muss jede Person an Bord die sicherheitsrelevanten Einrichtungen bedienen können, denn im Notfall ist keine Zeit für Erklärungen. Besonders wenn der Schiffsführer ausfällt, muss die Crew Anker, Lenzpumpe, Funk und Notsignale selbst handhaben können.",
+    "kernpunkte": [
+      { "punkt": "Ankergeschirr", "synonyme": ["Anker", "Ankergeschirr", "Ankerwinsch"] },
+      { "punkt": "Lenzeinrichtung", "synonyme": ["Lenzpumpe", "Lenzen", "Bilgenpumpe"] },
+      { "punkt": "Feuerlöscheinrichtungen", "synonyme": ["Feuerlöscher", "Brandbekämpfung", "Löscheinrichtung"] },
+      { "punkt": "Motoranlage / Seeventile / UKW-Funk / MOB-Taste / Seenotsignalmittel / Notruder", "synonyme": ["Motor", "Seeventile", "UKW", "Seefunk", "MOB-Taste", "Seenotsignalmittel", "Notruder", "GPS"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "8-3",
+    "kurzantwort": "B = Maschinenfahrzeug <50 m in Fahrt (Topplicht + beide Seitenlichter). Beide gehen nach Stb., passieren Backbord an Backbord, je 1 kurzer Ton.",
+    "erklaerung": "Topplicht plus rotes und grünes Seitenlicht recht voraus bedeutet, das Fahrzeug kommt entgegen (Kopf-auf-Kopf). Bei Begegnungssituation müssen beide nach Steuerbord ausweichen, sodass sie sich Backbord an Backbord passieren. Den Manöverwillen zeigt jeder mit einem kurzen Ton an.",
+    "kernpunkte": [
+      { "punkt": "B ist Maschinenfahrzeug unter 50 m Länge in Fahrt", "synonyme": ["Maschinenfahrzeug", "Motorboot", "unter 50 m", "<50 m", "in Fahrt"] },
+      { "punkt": "beide ändern Kurs nach Steuerbord, passieren Backbord an Backbord", "synonyme": ["nach Steuerbord", "Stb", "Backbord an Backbord", "BB an BB", "rechts ausweichen"] },
+      { "punkt": "Signal ein kurzer Ton", "synonyme": ["ein kurzer Ton", "kurzer Ton", "ein Kurzton"] }
+    ],
+    "wichtigkeit": 3
+  },
+  {
+    "id": "8-4",
+    "kurzantwort": "Aktuelle Position wird gespeichert; danach werden rechtweisende Peilung und Distanz zu diesem Punkt angezeigt.",
+    "erklaerung": "Die MOB-Taste (Mann-über-Bord) friert sofort die Position beim Tastendruck ein. So kann man trotz Wind und Strömung zum Unglücksort zurückfinden, weil das Gerät laufend Richtung und Entfernung dorthin anzeigt.",
+    "kernpunkte": [
+      { "punkt": "Position zum Zeitpunkt des Tastendrucks wird gespeichert", "synonyme": ["Position speichern", "Standort speichern", "Wegpunkt", "festhalten", "markieren"] },
+      { "punkt": "rechtweisende Peilung und Distanz zum Punkt werden angezeigt", "synonyme": ["rechtweisende Peilung", "rwP", "Peilung", "Distanz", "Entfernung", "Abstand"] }
+    ],
+    "wichtigkeit": 3
+  },
+  {
+    "id": "8-5",
+    "kurzantwort": "Richtung schwankt bis ±45° (WNW bis NNW); Böen liegen ca. 1-2 Bft über dem Mittelwind.",
+    "erklaerung": "Eine Windangabe wie \"Nordwest 6\" nennt nur den Mittelwert. Die tatsächliche Richtung kann um bis zu 45° um diese Hauptrichtung pendeln und in Böen ist der Wind kurzzeitig 1 bis 2 Beaufort stärker als angegeben.",
+    "kernpunkte": [
+      { "punkt": "Windrichtung schwankt bis 45° um die Hauptrichtung (WNW bis NNW)", "synonyme": ["45 Grad", "45°", "Schwankung Richtung", "WNW bis NNW", "um die Hauptwindrichtung"] },
+      { "punkt": "Böen etwa 1-2 Bft über dem Mittelwind", "synonyme": ["Böen", "1 bis 2 Bft", "über Mittelwind", "stärker", "Beaufort mehr"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "8-6",
+    "kurzantwort": "1. Rot unterbr. = Einfahren verboten. 2. Weiß über Rot unterbr. = Freigabe wird vorbereitet. 3. Weiß unterbr. = Sportfahrzeuge dürfen einfahren.",
+    "erklaerung": "Am NOK in Brunsbüttel regeln Lichtsignale die Einfahrt. Rot bedeutet Halt, das Mischsignal Weiß-über-Rot kündigt die baldige Freigabe an, und ein weißes unterbrochenes Licht erlaubt speziell Sportbooten die Einfahrt.",
+    "kernpunkte": [
+      { "punkt": "unterbrochenes rotes Licht = Einfahren verboten", "synonyme": ["rot", "Einfahren verboten", "Halt", "Sperre", "kein Einfahren"] },
+      { "punkt": "weiß über rot = Freigabe wird vorbereitet", "synonyme": ["weiß über rot", "Freigabe vorbereitet", "bald frei", "Vorbereitung Freigabe"] },
+      { "punkt": "unterbrochenes weißes Licht = Sportfahrzeuge können einfahren", "synonyme": ["weiß", "Sportfahrzeuge einfahren", "Sportboote frei", "Einfahrt erlaubt"] }
+    ],
+    "wichtigkeit": 1
+  },
+  {
+    "id": "8-7",
+    "kurzantwort": "1. Kreuzpeilung, 2. Peilung und Abstand (Feuer in Kimm, Radarabstand), 3. Peilung und Lotung.",
+    "erklaerung": "Terrestrische Ortsbestimmung nutzt sichtbare Landmarken, um den eigenen Standort zu finden, falls GPS ausfällt. Aus zwei oder mehr Standlinien (Peilungen, Abstände oder Wassertiefen) ergibt sich der Schnittpunkt als Schiffsort.",
+    "kernpunkte": [
+      { "punkt": "Kreuzpeilung", "synonyme": ["Kreuzpeilung", "zwei Peilungen", "mehrere Peilungen"] },
+      { "punkt": "Peilung und Abstand (Feuer in der Kimm, Radarabstand)", "synonyme": ["Peilung und Abstand", "Feuer in der Kimm", "Radarabstand", "Distanz"] },
+      { "punkt": "Peilung und Lotung", "synonyme": ["Peilung und Lotung", "Lotung", "Wassertiefe", "Lot"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "8-8",
+    "kurzantwort": "Manövrierbehindert: Ball-Rhombus-Ball senkrecht übereinander. Manövrierunfähig: zwei schwarze Bälle senkrecht übereinander.",
+    "erklaerung": "Tagsignale aus schwarzen Sichtzeichen zeigen den Status eines Fahrzeugs an. Der zusätzliche Rhombus (Doppelkegel) in der Mitte kennzeichnet die eingeschränkte Manövrierfähigkeit, während zwei Bälle völlige Manövrierunfähigkeit bedeuten.",
+    "kernpunkte": [
+      { "punkt": "manövrierbehindert: Ball-Rhombus-Ball senkrecht", "synonyme": ["Ball Rhombus Ball", "Ball-Doppelkegel-Ball", "Rhombus", "schwarz übereinander"] },
+      { "punkt": "manövrierunfähig: zwei schwarze Bälle senkrecht übereinander", "synonyme": ["zwei Bälle", "zwei schwarze Bälle", "zwei Kugeln", "Bälle übereinander"] }
+    ],
+    "wichtigkeit": 3
+  },
+  {
+    "id": "8-9",
+    "kurzantwort": "1. Maschine abstellen, 2. offenes Feuer/Rauchen einstellen, 3. Maßnahmen gegen Überlaufen treffen.",
+    "erklaerung": "Beim Tanken bestehen Brand- und Umweltgefahren. Abgestellter Motor und kein offenes Feuer verhindern eine Entzündung der Dämpfe, und das Vermeiden von Überlaufen schützt vor Verschmutzung und Brand.",
+    "kernpunkte": [
+      { "punkt": "Maschine abstellen", "synonyme": ["Maschine aus", "Motor abstellen", "Motor aus"] },
+      { "punkt": "offenes Feuer löschen / Rauchen einstellen", "synonyme": ["kein offenes Feuer", "Rauchverbot", "nicht rauchen", "Feuer löschen"] },
+      { "punkt": "Maßnahmen gegen Überlaufen treffen", "synonyme": ["Überlaufen verhindern", "nicht überfüllen", "Auffangen", "Überlaufschutz"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "8-10",
+    "kurzantwort": "1. Reffbares Großsegel, 2. reffbare Rollfock oder Vorsegel verschiedener Größen, 3. Sturmfock.",
+    "erklaerung": "In der Küstenfahrt muss man die Segelfläche an wechselnde Windstärken anpassen können. Ein reffbares Groß und passende Vorsegel decken den Normalbetrieb ab, die Sturmfock sorgt für sichere Fahrt bei schwerem Wetter.",
+    "kernpunkte": [
+      { "punkt": "reffbares Großsegel", "synonyme": ["Großsegel", "reffbares Groß", "Großsegel reffbar", "Groß"] },
+      { "punkt": "reffbare Rollfock oder Vorsegel verschiedener Größen", "synonyme": ["Rollfock", "Vorsegel", "Fock", "Genua", "verschiedene Größen"] },
+      { "punkt": "Sturmfock", "synonyme": ["Sturmfock", "Sturmsegel", "Schwerwettersegel"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "8-11",
+    "kurzantwort": "Rettungsweste + Lifebelt pro Person, Rettungsfloß/-insel, Rettungskragen mit Tag-/Nachtsignal, Erste-Hilfe-Ausrüstung mit Anleitung.",
+    "erklaerung": "Die persönliche Sicherheitsausrüstung schützt die Crew bei Über-Bord-Gehen oder Notfällen. Rettungswesten und Lifebelts sichern jeden einzeln, das Rettungsfloß dient als letzte Zuflucht, und Rettungskragen sowie Erste-Hilfe-Set ermöglichen Rettung und Versorgung.",
+    "kernpunkte": [
+      { "punkt": "Rettungsweste und Sicherheitsgurt (Lifebelt) pro Person", "synonyme": ["Rettungsweste", "Lifebelt", "Sicherheitsgurt", "pro Person", "für jeden"] },
+      { "punkt": "Rettungsfloß / Rettungsinsel", "synonyme": ["Rettungsfloß", "Rettungsinsel", "Insel", "Floß"] },
+      { "punkt": "Rettungskragen mit Tag- und Nachtsignal", "synonyme": ["Rettungskragen", "Rettungsring", "Tag- und Nachtsignal", "Hufeisen"] },
+      { "punkt": "Erste-Hilfe-Ausrüstung mit Anleitung", "synonyme": ["Erste Hilfe", "Verbandskasten", "Erste-Hilfe-Set", "Anleitung"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "8-12",
+    "kurzantwort": "Sicherheitsgurte anlegen und einpicken, Strecktau/Laufleinen von Bug zu Heck spannen, Crew auf Einpickpunkte hinweisen.",
+    "erklaerung": "Über-Bord-Fallen ist eine der größten Gefahren auf See. Mit eingepickten Lifebelts an gespannten Laufleinen bleibt man auch beim Gang über Deck mit dem Schiff verbunden und kann nicht über Bord gehen.",
+    "kernpunkte": [
+      { "punkt": "Sicherheitsgurte anlegen und einpicken", "synonyme": ["Sicherheitsgurt", "Lifebelt", "einpicken", "anpicken", "Karabiner"] },
+      { "punkt": "Strecktau / Laufleinen von Bug zum Heck", "synonyme": ["Strecktau", "Laufleinen", "Bug zum Heck", "Sorgleine", "Lifeline"] },
+      { "punkt": "Crew auf Einpickpunkte / Befestigungspunkte hinweisen", "synonyme": ["Einpickpunkte", "Befestigungspunkte", "Karabinerhaken", "Crew einweisen"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "8-13",
+    "kurzantwort": "Bei Haufenwolken, besonders Cumulonimbus (Schauer- und Gewitterwolke).",
+    "erklaerung": "Quellwolken entstehen durch starke Aufwinde. Vor allem der hoch aufgetürmte Cumulonimbus bringt heftige Fallböen, Schauer und Gewitter mit kräftigen, oft drehenden Windstößen.",
+    "kernpunkte": [
+      { "punkt": "Haufenwolken / Quellwolken", "synonyme": ["Haufenwolken", "Quellwolken", "Cumulus", "Kumuluswolken"] },
+      { "punkt": "besonders Cumulonimbus (Schauer-/Gewitterwolke)", "synonyme": ["Cumulonimbus", "Cb", "Gewitterwolke", "Schauerwolke"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "8-14",
+    "kurzantwort": "Das Gebiet zwischen der Küste und der landwärtigen Grenze eines Verkehrstrennungsgebietes.",
+    "erklaerung": "Die Küstenverkehrszone liegt landseitig neben einem Verkehrstrennungsgebiet. Sie ist vor allem für kleinere Fahrzeuge und den örtlichen Verkehr gedacht, damit diese nicht die großen Schifffahrtswege des VTG nutzen müssen.",
+    "kernpunkte": [
+      { "punkt": "Gebiet zwischen Küste und landwärtiger Grenze eines Verkehrstrennungsgebietes", "synonyme": ["zwischen Küste und VTG", "landwärtige Grenze", "Verkehrstrennungsgebiet", "neben dem VTG", "Küste"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "8-15",
+    "kurzantwort": "Der scheinbare Wind ist unterschiedlich: am Wind stärker, vor dem Wind (raum/vor dem Wind) schwächer als der wahre Wind.",
+    "erklaerung": "Der scheinbare Wind setzt sich aus wahrem Wind und Fahrtwind zusammen. Auf Amwindkurs addiert sich der Fahrtwind, sodass es stärker bläst; auf Raumschots- oder Vorwindkurs wird er abgezogen und der Wind erscheint schwächer.",
+    "kernpunkte": [
+      { "punkt": "scheinbarer Wind unterscheidet sich vom wahren Wind", "synonyme": ["scheinbarer Wind", "wahrer Wind", "Fahrtwind", "unterschiedlich"] },
+      { "punkt": "am Wind stärker, vor dem Wind/raum schwächer", "synonyme": ["Amwind stärker", "Vorwind schwächer", "Raumschot schwächer", "stärker am Wind"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "8-16",
+    "kurzantwort": "Geringerer Seegang als auf freier See, weil der Fetch (Windwirklänge) sehr kurz ist.",
+    "erklaerung": "Bei ablandigem Wind weht der Wind von Land aufs Wasser. Die Strecke, über die er auf die Wasseroberfläche wirkt (Fetch), ist küstennah klein, sodass sich keine großen Wellen aufbauen können.",
+    "kernpunkte": [
+      { "punkt": "Seegang niedriger als auf freier See", "synonyme": ["geringer Seegang", "niedrige Wellen", "kaum Wellen", "wenig Seegang"] },
+      { "punkt": "wegen kurzem Fetch / kurzer Windwirklänge", "synonyme": ["Fetch", "Windwirklänge", "kurze Strecke", "ablandiger Wind"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "8-17",
+    "kurzantwort": "Temperatur, auf die Luft abgekühlt werden muss, bis sie gesättigt ist; dann setzt Kondensation (Taubildung) ein.",
+    "erklaerung": "Warme Luft kann mehr Wasserdampf aufnehmen als kalte. Kühlt die Luft bis zum Taupunkt ab, ist sie zu 100% gesättigt und überschüssiger Wasserdampf kondensiert zu Tau, Nebel oder Wolken.",
+    "kernpunkte": [
+      { "punkt": "Temperatur, bei der die Luft mit Feuchtigkeit gesättigt ist", "synonyme": ["Sättigung", "gesättigt", "100% Luftfeuchte", "Abkühltemperatur", "Temperatur"] },
+      { "punkt": "Kondensation / Taubildung setzt ein", "synonyme": ["Kondensation", "Taubildung", "Tau", "Nebel", "Kondensieren"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "8-18",
+    "kurzantwort": "Die Leine könnte mit dem Anker vertörnen und das Eingraben verhindern - der Anker würde nicht halten.",
+    "erklaerung": "Wirft man Anker und Leine gemeinsam über Bord, kann sich die Leine um den Anker wickeln (vertörnen). Dann legt sich der Anker nicht richtig auf den Grund und kann sich nicht eingraben, sodass er keinen Halt findet.",
+    "kernpunkte": [
+      { "punkt": "Leine kann mit dem Anker vertörnen", "synonyme": ["vertörnen", "verwickeln", "verheddern", "umwickeln", "Leine um Anker"] },
+      { "punkt": "Anker gräbt sich nicht ein / hält nicht", "synonyme": ["nicht eingraben", "hält nicht", "kein Halt", "schlechter Halt"] }
+    ],
+    "wichtigkeit": 1
+  },
+  {
+    "id": "8-19",
+    "kurzantwort": "Vom BSH, in Heftform und im Internet, einmal wöchentlich.",
+    "erklaerung": "Die Nachrichten für Seefahrer halten Seekarten und Seebücher aktuell. Das Bundesamt für Seeschifffahrt und Hydrographie (BSH) gibt sie wöchentlich heraus, damit man Änderungen z. B. an Tonnen oder Feuern berichtigen kann.",
+    "kernpunkte": [
+      { "punkt": "herausgegeben vom BSH", "synonyme": ["BSH", "Bundesamt für Seeschifffahrt und Hydrographie", "Bundesamt"] },
+      { "punkt": "in Heftform und im Internet", "synonyme": ["Heft", "Heftform", "Internet", "online", "gedruckt"] },
+      { "punkt": "erscheint einmal wöchentlich", "synonyme": ["wöchentlich", "einmal pro Woche", "jede Woche"] }
+    ],
+    "wichtigkeit": 1
+  },
+  {
+    "id": "8-20",
+    "kurzantwort": "Großer Abstand Propeller-Ruder; das Ruder wird nicht direkt angeströmt, wodurch die Manövrierfähigkeit beim Anfahren schlechter ist.",
+    "erklaerung": "Beim Saildrive sitzt der Propeller weit vorn unter dem Rumpf und nicht direkt vor dem Ruder. Dadurch trifft der Propellerstrom das Ruder kaum, sodass es bei langsamer Fahrt und beim Anfahren weniger wirksam ist - ungünstig bei Hafenmanövern.",
+    "kernpunkte": [
+      { "punkt": "großer Abstand zwischen Propeller und Ruder", "synonyme": ["Abstand Propeller Ruder", "Propeller weit weg", "Ruder entfernt"] },
+      { "punkt": "Ruder wird nicht direkt angeströmt", "synonyme": ["keine direkte Anströmung", "Propellerstrom trifft Ruder nicht", "nicht angeströmt"] },
+      { "punkt": "verschlechterte Manövrierfähigkeit beim Anfahren", "synonyme": ["schlechtere Manövrierfähigkeit", "Manövrieren erschwert", "beim Anfahren", "wenig Ruderwirkung"] }
+    ],
+    "wichtigkeit": 1
+  },
+  {
+    "id": "8-21",
+    "kurzantwort": "Gegen Verrutschen gesicherten Plastikschlauch über den Festmacher an der Scheuerstelle ziehen, hilfsweise Tuchstreifen.",
+    "erklaerung": "An Klüsen und Pierkanten reiben (schamfilen) die Festmacher und werden mit der Zeit durchgescheuert. Ein über die Leine gezogener Plastikschlauch oder Tuch an der Reibstelle schützt die Leine vor Beschädigung.",
+    "kernpunkte": [
+      { "punkt": "Plastikschlauch über den Festmacher an der Scheuerstelle ziehen", "synonyme": ["Plastikschlauch", "Schlauch", "Scheuerstelle", "über die Leine", "Schamfilschutz"] },
+      { "punkt": "gegen Verrutschen sichern, hilfsweise Tuchstreifen", "synonyme": ["gegen Verrutschen sichern", "fixieren", "Tuch", "Tuchstreifen", "Lappen"] }
+    ],
+    "wichtigkeit": 1
+  },
+  {
+    "id": "8-22",
+    "kurzantwort": "Hinweis, dass GPS-Positionen (WGS 84) um 0,... Minuten nordwärts/südwärts und westwärts/ostwärts zu verlegen sind, um mit der Karte übereinzustimmen.",
+    "erklaerung": "Ältere Seekarten beruhen auf einem anderen Bezugssystem (z. B. ED 50) als GPS, das in WGS 84 misst. Wegen des Versatzes nennt die Karte einen Korrekturwert, um den die GPS-Position verschoben werden muss, damit sie zur Karte passt.",
+    "kernpunkte": [
+      { "punkt": "GPS-Position (WGS 84) muss verlegt/verschoben werden", "synonyme": ["verlegen", "verschieben", "Korrektur", "WGS 84", "GPS-Position"] },
+      { "punkt": "um 0,... Minuten nordwärts/südwärts und westwärts/ostwärts", "synonyme": ["Minuten", "nordwärts südwärts", "westwärts ostwärts", "Versatz", "in Breite und Länge"] }
+    ],
+    "wichtigkeit": 1
+  },
+  {
+    "id": "8-23",
+    "kurzantwort": "Manövrierunfähigkeit mit jedem Mittel anzeigen (Funk/Schall lang-kurz-kurz), mit Handlampe anleuchten, weißes Rundumlicht führen, Signal weißer Stern/Blitz-Knall, Verkehrszentrale informieren.",
+    "erklaerung": "Ein Boot unter 12 m muss die zwei roten Rundumlichter nicht führen, deshalb muss es sich anders bemerkbar machen. Mit Funk, Schall- und Lichtsignalen, Anleuchten und Notsignalen macht es das herannahende Schiff auf seine Manövrierunfähigkeit aufmerksam.",
+    "kernpunkte": [
+      { "punkt": "mit jedem verfügbaren Mittel Manövrierunfähigkeit anzeigen (UKW-Funk, Schall/Licht lang-kurz-kurz)", "synonyme": ["UKW", "Funk", "Schallsignal", "lang-kurz-kurz", "anzeigen", "manövrierunfähig melden"] },
+      { "punkt": "mit starker Handlampe anleuchten", "synonyme": ["Handlampe", "anleuchten", "Suchscheinwerfer", "Taschenlampe", "aufmerksam machen"] },
+      { "punkt": "weißes Rundumlicht führen", "synonyme": ["weißes Rundumlicht", "Rundumlicht", "weißes Licht"] },
+      { "punkt": "Notsignal (weißer Stern / Blitz-Knall) und Verkehrszentrale informieren", "synonyme": ["weißer Stern", "Blitz-Knall", "Seenotsignal", "Verkehrszentrale", "Notsignal"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "8-24",
+    "kurzantwort": "Die Nenntragweite des Leuchtfeuers, hier 18 Seemeilen.",
+    "erklaerung": "Bei Leuchtfeuern gibt die Angabe in Seemeilen die Nenntragweite an, also die Reichweite des Lichts bei einer festgelegten Standard-Sichtweite. Sie sagt, wie weit das Feuer bei normaler Atmosphäre gesehen werden kann.",
+    "kernpunkte": [
+      { "punkt": "Nenntragweite", "synonyme": ["Nenntragweite", "Tragweite", "Reichweite", "Sichtweite des Feuers"] },
+      { "punkt": "18 Seemeilen", "synonyme": ["18 Seemeilen", "18 sm", "18 M", "achtzehn Seemeilen"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "8-25",
+    "kurzantwort": "Im Handbuch Nautischer Funkdienst, im Jachtfunkdienst für Nord- und Ostsee oder in der Admiralty List of Radio Signals.",
+    "erklaerung": "Die Lage der genormten Seegebiete (z. B. \"Fischer\") für Wetterberichte steht in amtlichen Funk-Nachschlagewerken. Dort sind die Gebietsgrenzen sowie Sendezeiten und Frequenzen für Seewetterberichte aufgeführt.",
+    "kernpunkte": [
+      { "punkt": "Handbuch Nautischer Funkdienst", "synonyme": ["Handbuch Nautischer Funkdienst", "Nautischer Funkdienst", "HNF"] },
+      { "punkt": "Jachtfunkdienst für Nord- und Ostsee", "synonyme": ["Jachtfunkdienst", "Yachtfunkdienst", "Jachtfunkdienst Nord- und Ostsee"] },
+      { "punkt": "Admiralty List of Radio Signals", "synonyme": ["Admiralty List of Radio Signals", "ALRS", "Admiralty List"] }
+    ],
+    "wichtigkeit": 1
+  },
+  {
+    "id": "8-26",
+    "kurzantwort": "Ostsee: KN = mittlerer Wasserstand. Nordsee/Englischer Kanal: KN = LAT (niedrigstmöglicher Gezeitenwasserstand). Angaben stehen in der jeweiligen Seekarte.",
+    "erklaerung": "Kartennull ist die Bezugsebene, auf die sich die eingetragenen Wassertiefen beziehen. In der gezeitenlosen Ostsee nimmt man den Mittelwasserstand, in den Tidegewässern von Nordsee und Kanal das niedrigste astronomische Tideniedrigwasser (LAT) für eine sichere Tiefenangabe.",
+    "kernpunkte": [
+      { "punkt": "Ostsee: KN = mittlerer Wasserstand", "synonyme": ["Ostsee mittlerer Wasserstand", "Mittelwasser", "MW", "mittlerer Wasserstand"] },
+      { "punkt": "Nordsee/Englischer Kanal: KN = LAT (niedrigstmöglicher Gezeitenwasserstand)", "synonyme": ["LAT", "Lowest Astronomical Tide", "niedrigstmöglicher Gezeitenwasserstand", "niedrigstes Tideniedrigwasser"] },
+      { "punkt": "Angaben in der jeweiligen Seekarte", "synonyme": ["Seekarte", "in der Karte", "Kartenlegende", "Karte"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "8-27",
+    "kurzantwort": "Auf schnellstem Weg direkt oder über Verkehrszentrale/Küstenfunkstelle dem Maritimen Lagezentrum (MLZ) in Cuxhaven melden.",
+    "erklaerung": "Treibende Container sind eine Gefahr für die Schifffahrt und müssen schnell gemeldet werden. Meldestelle für Unfälle und Gefahren auf See ist das Maritime Lagezentrum (MLZ) in Cuxhaven, das man direkt oder über Funkstellen erreicht.",
+    "kernpunkte": [
+      { "punkt": "auf schnellstem Weg melden, ggf. über Verkehrszentrale/Küstenfunkstelle", "synonyme": ["schnellster Weg", "melden", "Verkehrszentrale", "Küstenfunkstelle", "Funk"] },
+      { "punkt": "Maritimes Lagezentrum (MLZ) in Cuxhaven", "synonyme": ["MLZ", "Maritimes Lagezentrum", "Cuxhaven", "Meldestelle"] }
+    ],
+    "wichtigkeit": 1
+  },
+  {
+    "id": "8-28",
+    "kurzantwort": "Mit der Kartentiefe.",
+    "erklaerung": "Die in der Seekarte angegebene Tiefe bezieht sich auf Kartennull, das in Tidegewässern dem niedrigsten Wasserstand entspricht. Daher ist meist mindestens diese Tiefe vorhanden, oft sogar mehr durch die Tide.",
+    "kernpunkte": [
+      { "punkt": "Kartentiefe", "synonyme": ["Kartentiefe", "Karte", "in der Karte angegebene Tiefe", "Solltiefe"] }
+    ],
+    "wichtigkeit": 1
+  },
+  {
+    "id": "8-29",
+    "kurzantwort": "Sportboote werden im Radar oft nicht sicher angezeigt (Seegangsclutter); da AIS-Daten im Radar dargestellt werden, fallen sie ohne eigenes AIS noch weniger auf.",
+    "erklaerung": "Kleine Sportfahrzeuge geben nur ein schwaches Radarecho, das im Wellengang oder der Informationsfülle untergeht. Weil moderne Schiffe AIS-Ziele zusätzlich im Radar anzeigen, werden Boote ohne eigenes AIS leicht übersehen - ein eigener AIS-Transponder macht sie sichtbar.",
+    "kernpunkte": [
+      { "punkt": "Sportfahrzeuge werden im Radar oft nicht sicher angezeigt (Seegangsclutter)", "synonyme": ["nicht sicher angezeigt", "schwaches Echo", "Seegangsclutter", "Clutter", "übersehen"] },
+      { "punkt": "ohne eigenes AIS noch weniger auffällig, da AIS-Daten im Radar dargestellt werden", "synonyme": ["AIS", "kein eigenes AIS", "AIS im Radar", "noch weniger auffällig", "AIS-Transponder"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "8-30",
+    "kurzantwort": "Springzeit: Sonne und Mond in einer Linie/Ebene mit der Erde. Nippzeit: Verbindungslinien Erde-Sonne und Erde-Mond stehen im rechten Winkel (90°).",
+    "erklaerung": "Die Gezeiten entstehen durch die Anziehung von Mond und Sonne. Stehen beide in einer Linie (Voll-/Neumond), addieren sich ihre Kräfte zu hohen Springtiden; stehen sie im rechten Winkel (Halbmond), schwächen sie sich ab und es gibt geringe Nipptiden.",
+    "kernpunkte": [
+      { "punkt": "Springzeit: Sonne, Mond und Erde in einer Linie/Ebene", "synonyme": ["Springzeit", "in einer Linie", "eine Ebene", "Reihe", "Voll- und Neumond"] },
+      { "punkt": "Nippzeit: Erde-Sonne und Erde-Mond im rechten Winkel (90°)", "synonyme": ["Nippzeit", "rechter Winkel", "90 Grad", "90°", "Halbmond"] }
+    ],
+    "wichtigkeit": 2
+  }
+]

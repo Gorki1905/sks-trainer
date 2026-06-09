@@ -1,0 +1,325 @@
+[
+  {
+    "id": "6-1",
+    "kurzantwort": "Manövrierunfähigen, manövrierbehinderten und fischenden Fahrzeugen; ggf. einem anderen Segler je nach Windseite/Luv-Lee.",
+    "erklaerung": "Nach den KVR steht ein Segelfahrzeug in der Ausweichrangfolge recht weit unten: Es muss allen Fahrzeugen ausweichen, die sich schlechter manövrieren lassen (manövrierunfähig, -behindert, fischend). Unter zwei Seglern entscheidet die Windseite bzw. Luv/Lee, wer ausweicht.",
+    "kernpunkte": [
+      { "punkt": "manövrierunfähiges Fahrzeug", "synonyme": ["manövrierunfähig", "manövrierunfähiges Fahrzeug", "nicht manövrierfähig"] },
+      { "punkt": "manövrierbehindertes Fahrzeug", "synonyme": ["manövrierbehindert", "manövrierbehindertes Fahrzeug", "behindert durch Tiefgang", "tiefgangbehindert"] },
+      { "punkt": "fischendes Fahrzeug", "synonyme": ["fischend", "fischendes Fahrzeug", "Fischer", "Fischereifahrzeug"] },
+      { "punkt": "ggf. anderes Segelfahrzeug je nach Windstellung", "synonyme": ["anderes Segelfahrzeug", "Segler", "Luv", "Windstellung", "Windseite"] }
+    ],
+    "wichtigkeit": 3
+  },
+  {
+    "id": "6-2",
+    "kurzantwort": "F (Formschwerpunkt): Schwerpunkt des verdrängten Wassers, hier wirkt der Auftrieb nach oben. G (Massenschwerpunkt): Schwerpunkt der Schiffsmasse, hier wirkt das Gewicht nach unten.",
+    "erklaerung": "Im Formschwerpunkt F denkt man sich die verdrängte Wassermasse vereint; dort greift die Auftriebskraft senkrecht nach oben an. Im Massenschwerpunkt G ist die gesamte Schiffsmasse vereint; dort wirkt die Gewichtskraft nach unten. Das Zusammenspiel beider Kräfte bestimmt Schwimmlage und Stabilität.",
+    "kernpunkte": [
+      { "punkt": "Formschwerpunkt F = Schwerpunkt der verdrängten Wassermasse", "synonyme": ["Formschwerpunkt", "F", "verdrängtes Wasser", "Deplacement", "Volumenschwerpunkt"] },
+      { "punkt": "in F wirkt die Auftriebskraft nach oben", "synonyme": ["Auftrieb", "Auftriebskraft", "nach oben", "senkrecht nach oben"] },
+      { "punkt": "Massenschwerpunkt G = Schwerpunkt der Schiffsmasse", "synonyme": ["Massenschwerpunkt", "Gewichtsschwerpunkt", "G", "Schiffsmasse", "Gesamtgewicht"] },
+      { "punkt": "in G wirkt die Gewichtskraft nach unten", "synonyme": ["Gewicht", "Gewichtskraft", "Schwerkraft", "nach unten", "senkrecht nach unten"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "6-3",
+    "kurzantwort": "Kennzeichnende Wellenhöhe = mittlere Höhe des oberen Drittels der Wellen. Einzelne Wellen können das 1,5-fache erreichen.",
+    "erklaerung": "Die kennzeichnende (signifikante) Wellenhöhe ist der Mittelwert des höchsten Drittels aller Wellen und beschreibt den 'gut ausgeprägten' Seegang, nicht die Extremwellen. Man muss aber damit rechnen, dass einzelne Wellen bis zum 1,5-fachen dieses Wertes auflaufen.",
+    "kernpunkte": [
+      { "punkt": "mittlere Höhe des oberen Drittels der Wellen", "synonyme": ["oberes Drittel", "höchstes Drittel", "Mittel", "signifikante Wellenhöhe", "gut ausgeprägte Wellen"] },
+      { "punkt": "Einzelwellen bis 1,5-fache kennzeichnende Höhe", "synonyme": ["1,5fache", "das 1,5-fache", "1,5 mal", "einzelne Wellen höher", "Maximalwelle"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "6-4",
+    "kurzantwort": "Mast möglichst an Bord nehmen und sichern; wenn nicht möglich, Mast und Wanten kappen, um Rumpfschäden zu vermeiden.",
+    "erklaerung": "Nach einem Mastbruch ist der über Bord hängende Mast eine große Gefahr: Bei Seegang kann er gegen den Rumpf schlagen und ihn beschädigen. Daher zuerst bergen und sichern; gelingt das nicht, müssen Mast und stehendes Gut gekappt werden.",
+    "kernpunkte": [
+      { "punkt": "Mast nach Möglichkeit an Bord nehmen und sichern", "synonyme": ["Mast bergen", "an Bord nehmen", "sichern", "Mast festzurren"] },
+      { "punkt": "sonst Mast und Wanten kappen", "synonyme": ["kappen", "Wanten kappen", "Takelage kappen", "stehendes Gut durchtrennen", "abschneiden"] },
+      { "punkt": "Ziel: Rumpfschäden vermeiden", "synonyme": ["Rumpfschaden", "Rumpf schützen", "Beschädigung vermeiden", "Loch im Rumpf"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "6-5",
+    "kurzantwort": "Immer rot-weiß-rot senkrecht übereinander. Mit FdW zusätzlich Topp-, Seiten- und Hecklicht; vor Anker zusätzlich Ankerlicht(er).",
+    "erklaerung": "Das Kennzeichen des manövrierbehinderten Fahrzeugs sind drei Rundumlichter rot-weiß-rot übereinander. Hat es Fahrt durchs Wasser, kommen die Lichter eines Maschinenfahrzeugs hinzu (Topplichter, Seitenlichter, Hecklicht); liegt es vor Anker, zusätzlich die Ankerlichter.",
+    "kernpunkte": [
+      { "punkt": "Grundkennzeichen: rot-weiß-rot senkrecht übereinander", "synonyme": ["rot-weiß-rot", "rot weiß rot", "drei Rundumlichter", "senkrecht übereinander"] },
+      { "punkt": "mit FdW zusätzlich Lichter eines Maschinenfahrzeugs", "synonyme": ["Topplicht", "Topplichter", "Seitenlichter", "Hecklicht", "Maschinenfahrzeug", "Fahrt durchs Wasser"] },
+      { "punkt": "vor Anker zusätzlich Ankerlicht(er)", "synonyme": ["Ankerlicht", "Ankerlichter", "Ankerball", "vor Anker"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "6-6",
+    "kurzantwort": "Rettungsweste und Lifebelt anlegen, warm anziehen, vorher warm trinken; Proviant, Wasser, Signalmittel, EPIRB/SART, UKW-Handfunke ins Floß bringen.",
+    "erklaerung": "Vor dem Übersteigen ins Rettungsfloß bereitet man sich auf das Überleben vor: Schutz vor Auskühlung durch Weste, warme Kleidung und warme Getränke. Wichtige Ausrüstung (Provider, Wasser, Seenotsignale, Seenotfunkbake, Radartransponder, UKW-Handfunkgerät) wird mitgenommen, weil sie im Floß nicht vorhanden ist.",
+    "kernpunkte": [
+      { "punkt": "Rettungsweste und Sicherheitsgurt anlegen", "synonyme": ["Rettungsweste", "Sicherheitsgurt", "Lifebelt", "Lifeline", "anlegen"] },
+      { "punkt": "wärmende Kleidung anziehen", "synonyme": ["warme Kleidung", "warm anziehen", "Kälteschutz", "Überlebensanzug"] },
+      { "punkt": "vorher reichlich warme Flüssigkeit trinken", "synonyme": ["warm trinken", "warme Flüssigkeit", "warme Getränke", "trinken"] },
+      { "punkt": "Proviant, Wasser, Signalmittel, EPIRB/SART, UKW-Handfunke mitnehmen", "synonyme": ["Proviant", "Wasser", "Seenotsignalmittel", "Seenotfunkbake", "EPIRB", "Radartransponder", "SART", "UKW-Handsprechfunkgerät", "Handfunke"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "6-7",
+    "kurzantwort": "rwN (rechtweisend Nord) = geografischer Nordpol; mwN (missweisend Nord) = magnetischer Nordpol; MgN (Kompass-Nord) = durch Schiffsmagnetismus beeinflusste Nadel.",
+    "erklaerung": "Es gibt drei Nordrichtungen: rechtweisend Nord zeigt zum geografischen Pol (Meridian), missweisend Nord zum magnetischen Pol (Differenz = Missweisung). MgN ist das, was der Bordkompass tatsächlich anzeigt, weil das Schiffsmagnetfeld die Nadel ablenkt (Deviation).",
+    "kernpunkte": [
+      { "punkt": "rwN = rechtweisend Nord, Richtung zum geografischen Nordpol", "synonyme": ["rwN", "rechtweisend Nord", "geographischer Nordpol", "Meridian", "wahrer Norden"] },
+      { "punkt": "mwN = missweisend Nord, Richtung zum magnetischen Nordpol", "synonyme": ["mwN", "missweisend Nord", "magnetischer Nordpol", "erdmagnetisches Feld", "Missweisung", "Variation"] },
+      { "punkt": "MgN = Magnetkompass-Nord, durch Schiffsmagnetismus beeinflusst", "synonyme": ["MgN", "Magnetkompass-Nord", "Kompass-Nord", "schiffsmagnetisches Feld", "Deviation", "Ablenkung"] }
+    ],
+    "wichtigkeit": 3
+  },
+  {
+    "id": "6-8",
+    "kurzantwort": "Häufig schlechte Kontakte und Korrosion. Abhilfe: Kontakte festziehen, korrodierte Stellen mit feinem Schleifpapier säubern, Kontaktspray.",
+    "erklaerung": "An Bord verursachen Feuchtigkeit und Salzluft oft Korrosion und lockere Verbindungen, sodass Strom nicht mehr richtig fließt. Daher prüft man zuerst die Kontakte: festziehen, blank schleifen und mit Kontaktspray gegen erneute Korrosion schützen.",
+    "kernpunkte": [
+      { "punkt": "Ursache: schlechte Kontakte und Korrosion", "synonyme": ["schlechte Kontakte", "Korrosion", "Wackelkontakt", "lose Verbindung", "Oxidation", "Salzwasser"] },
+      { "punkt": "Kontakte fest anziehen", "synonyme": ["festziehen", "fest anziehen", "Klemmen anziehen", "Verbindung sichern"] },
+      { "punkt": "korrodierte Stellen mit feinem Schleifpapier säubern und Kontaktspray", "synonyme": ["Schleifpapier", "blank schleifen", "reinigen", "Kontaktspray", "säubern"] }
+    ],
+    "wichtigkeit": 1
+  },
+  {
+    "id": "6-9",
+    "kurzantwort": "1. Schwerer Sturm. 2. Kurs und Fahrt des Schiffes in Bezug auf das Tiefdruckgebiet beachten.",
+    "erklaerung": "Ein Druckfall von 10 hPa in 3 Stunden ist sehr stark und kündigt schweren Sturm an. Bei starkem Druckfall sollte man Kurs und Fahrt im Verhältnis zum Tief wählen, um aus dem gefährlichen Sektor herauszukommen bzw. nicht in das Zentrum zu geraten.",
+    "kernpunkte": [
+      { "punkt": "schwerer Sturm zu erwarten", "synonyme": ["schwerer Sturm", "Sturm", "Orkan", "Starkwind", "Unwetter"] },
+      { "punkt": "Kurs und Fahrt in Bezug auf das Tiefdruckgebiet beachten", "synonyme": ["Kurs", "Fahrt", "Tiefdruckgebiet", "Tief", "Position zum Tief", "Sturmtaktik"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "6-10",
+    "kurzantwort": "T-Nachrichten = zeitweilige (temporary) Hinweise. Sie werden nicht amtlich in die Karte berichtigt; vor Gebrauch selbst erfassen und in der Karte vermerken.",
+    "erklaerung": "T-Nachrichten gelten nur vorübergehend (temporary), z. B. ein zeitweise gelöschtes Feuer. Wegen ihrer begrenzten Geltungsdauer berichtigt das BSH sie nicht dauerhaft. Deshalb muss der Nutzer vor dem Gebrauch einer Karte die noch gültigen T-Nachrichten heraussuchen und vermerken.",
+    "kernpunkte": [
+      { "punkt": "T-Nachrichten = zeitweilige (temporary) Informationen", "synonyme": ["T-Nachricht", "temporary", "zeitweilig", "vorübergehend", "befristet", "temporär"] },
+      { "punkt": "keine amtliche Kartenberichtigung wegen begrenzter Geltungsdauer", "synonyme": ["keine Berichtigung", "nicht berichtigt", "begrenzte Geltungsdauer", "BSH berichtigt nicht"] },
+      { "punkt": "vor Gebrauch selbst erfassen und in der Karte vermerken", "synonyme": ["selbst eintragen", "in der Karte vermerken", "erfassen", "vor Gebrauch prüfen", "Bleistift"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "6-11",
+    "kurzantwort": "1. Treibnetzfischer (nicht trawlend) mit ausgebrachtem Netz über 150 m. 2. Nebelsignal: lang-kurz-kurz, mindestens alle 2 Minuten.",
+    "erklaerung": "Die Lichter kennzeichnen ein nicht trawlendes Fischereifahrzeug (Treibnetzfischer); das zusätzliche untere weiße Licht zeigt Fanggerät, das waagerecht weiter als 150 m ausgebracht ist. Bei unsichtigem Wetter gibt es wie alle behinderten/fischenden Fahrzeuge das Signal lang-kurz-kurz, mindestens alle 2 Minuten.",
+    "kernpunkte": [
+      { "punkt": "Treibnetzfischer / nicht trawlendes Fischereifahrzeug mit Fanggerät über 150 m", "synonyme": ["Treibnetzfischer", "nicht trawlend", "Fischereifahrzeug", "Fischer", "Fanggerät", "150 m", "ausgebrachtes Netz"] },
+      { "punkt": "Nebelsignal lang-kurz-kurz", "synonyme": ["lang-kurz-kurz", "ein langer zwei kurze", "Schallsignal", "Nebelsignal", "Morse D"] },
+      { "punkt": "mindestens alle 2 Minuten", "synonyme": ["alle 2 Minuten", "längstens 2 Minuten", "im Abstand von 2 Minuten", "2 min"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "6-12",
+    "kurzantwort": "Amtliche Untersuchung von Seeunfällen, Ermittlung der Ursachen/Umstände, Herausgabe von Untersuchungsberichten und Sicherheitsempfehlungen zur Unfallverhütung.",
+    "erklaerung": "Die Bundesstelle für Seeunfalluntersuchung (BSU) klärt unabhängig die Umstände von Seeunfällen wie Kollisionen oder Havarien auf. Ziel ist nicht die Schuldzuweisung, sondern aus den Ursachen Sicherheitsempfehlungen abzuleiten, damit sich solche Unfälle nicht wiederholen.",
+    "kernpunkte": [
+      { "punkt": "amtliche Untersuchung von Seeunfällen", "synonyme": ["Seeunfall", "Untersuchung", "amtliche Untersuchung", "Havarie", "Kollision", "Unfall"] },
+      { "punkt": "Ermittlung der Ursachen und Umstände", "synonyme": ["Ursachen", "Umstände", "Hergang", "Ursachenermittlung", "Aufklärung"] },
+      { "punkt": "Untersuchungsberichte und Sicherheitsempfehlungen zur Verhütung", "synonyme": ["Untersuchungsbericht", "Sicherheitsempfehlung", "Empfehlungen", "Verhütung", "Prävention", "Unfallverhütung"] }
+    ],
+    "wichtigkeit": 1
+  },
+  {
+    "id": "6-13",
+    "kurzantwort": "Nur wenn das andere Fahrzeug sendet: mit AIS ausgerüstet, AIS nicht abgeschaltet, GPS aktiv und kein Ausschluss durch 'target overflow'.",
+    "erklaerung": "AIS zeigt nur Fahrzeuge an, die selbst aktiv senden. Man darf sich also nicht blind darauf verlassen: Das Schiff muss AIS an Bord haben, es eingeschaltet lassen, ein funktionierendes GPS besitzen und es darf nicht wegen Überlastung der Anzeige (zu viele Ziele) ausgefiltert werden.",
+    "kernpunkte": [
+      { "punkt": "Fahrzeug ist mit AIS ausgerüstet", "synonyme": ["AIS ausgerüstet", "AIS an Bord", "hat AIS", "AIS-Transponder"] },
+      { "punkt": "AIS ist nicht abgeschaltet", "synonyme": ["nicht abgeschaltet", "eingeschaltet", "AIS an", "sendet"] },
+      { "punkt": "GPS ist aktiv", "synonyme": ["GPS aktiv", "GPS an", "Positionsempfang", "Positionsdaten"] },
+      { "punkt": "kein Ausschluss durch Kapazitätsgrenze (target overflow)", "synonyme": ["target overflow", "Kapazitätsgrenze", "zu viele Ziele", "Überlastung", "Filterung"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "6-14",
+    "kurzantwort": "Bolzenschneider, Metallsäge mit Ersatzblättern, Schraubenschlüssel und verschiedene Zangen.",
+    "erklaerung": "Um die Takelage (Drähte, Bolzen, Wantenspanner) zu trennen, braucht man kräftiges Werkzeug. Ein Bolzenschneider und eine Metallsäge durchtrennen Drähte und Bolzen, Schlüssel und Zangen lösen oder fassen Verbindungen. Solches Notfallwerkzeug sollte griffbereit an Bord sein.",
+    "kernpunkte": [
+      { "punkt": "Bolzenschneider", "synonyme": ["Bolzenschneider", "Drahtschneider", "Kabelschneider"] },
+      { "punkt": "Metallsäge mit Ersatzblättern", "synonyme": ["Metallsäge", "Eisensäge", "Säge", "Ersatzblätter", "Sägeblätter"] },
+      { "punkt": "Schraubenschlüssel und Zangen", "synonyme": ["Schraubenschlüssel", "Zangen", "verschiedene Zangen", "Werkzeug"] }
+    ],
+    "wichtigkeit": 1
+  },
+  {
+    "id": "6-15",
+    "kurzantwort": "Auslegung für Fahrten außerhalb von Küstengewässern bei Wind bis 8 Bft und signifikanter Wellenhöhe bis 4 m.",
+    "erklaerung": "Die CE-Entwurfskategorie B beschreibt, für welche Bedingungen ein Sportboot gebaut ist. Kategorie B erlaubt Fahrten außerhalb von Küstengewässern bei Windstärken bis einschließlich 8 Beaufort und signifikanten Wellenhöhen bis einschließlich 4 m – also kein Hochsee-Extremwetter.",
+    "kernpunkte": [
+      { "punkt": "außerhalb von Küstengewässern", "synonyme": ["außerhalb Küstengewässer", "küstenfern", "offshore", "Kategorie B"] },
+      { "punkt": "Wind bis einschließlich 8 Bft", "synonyme": ["8 Bft", "Windstärke 8", "bis 8 Beaufort", "Stärke 8"] },
+      { "punkt": "signifikante Wellenhöhe bis einschließlich 4 m", "synonyme": ["4 m", "Wellenhöhe 4 m", "signifikante Wellenhöhe", "bis 4 Meter"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "6-16",
+    "kurzantwort": "Nachts kühlt das Land stärker ab als das Wasser; über dem wärmeren Wasser steigt Luft auf, das Bodentief wird durch Wind vom Land aufgefüllt = Landwind.",
+    "erklaerung": "Bei klarem Himmel kühlt das Land nachts schnell aus, während das Wasser seine Temperatur kaum ändert. Über dem relativ warmen Wasser steigt Luft auf und es bildet sich ein Bodentief, das durch nachströmende kühlere Luft vom Land aufgefüllt wird – das ist der Landwind.",
+    "kernpunkte": [
+      { "punkt": "Land kühlt nachts stärker ab als das Wasser", "synonyme": ["Land kühlt ab", "Auskühlung", "nachts", "geringe Bewölkung", "Wasser bleibt warm"] },
+      { "punkt": "über dem wärmeren Wasser steigt Luft auf (Bodentief)", "synonyme": ["Luft steigt auf", "Aufsteigen", "Bodentief", "Tiefdruck über Wasser", "Konvektion"] },
+      { "punkt": "Wind weht vom Land aufs Wasser (Landwind)", "synonyme": ["Landwind", "Wind von Land", "ablandiger Wind", "auffüllen"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "6-17",
+    "kurzantwort": "Der Ort liegt mit 95 % Wahrscheinlichkeit in einem Kreis von 100 m Radius; jede 20. Bestimmung ist ungenauer als ca. 100 m.",
+    "erklaerung": "Die Angabe ist eine statistische Aussage zur Ortsgenauigkeit: In 95 von 100 Fällen liegt der wahre Standort innerhalb von 100 m um den angezeigten Ort. Umgekehrt ist im Mittel jede 20. Positionsbestimmung (5 %) schlechter als 100 m – ein Restrisiko bleibt also.",
+    "kernpunkte": [
+      { "punkt": "95 % der Positionen liegen im 100-m-Fehlerkreis", "synonyme": ["95 Prozent", "Fehlerkreis", "100 m Radius", "innerhalb 100 m", "Wahrscheinlichkeit"] },
+      { "punkt": "jede 20. Bestimmung (5 %) ist ungenauer als 100 m", "synonyme": ["jede 20.", "5 Prozent", "ungenauer", "Ausreißer", "Restrisiko"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "6-18",
+    "kurzantwort": "Trockenfallendes Gebiet: Der Punkt liegt 2,3 m über Kartennull (unterstrichene Zahl) und kann bei Niedrigwasser trockenfallen.",
+    "erklaerung": "Unterstrichene Tiefenzahlen kennzeichnen Trockenfallhöhen über Kartennull. 2,3 bedeutet also: Die Stelle ragt bei genügend niedrigem Wasserstand 2,3 m aus dem Wasser, fällt also trocken. Solche Bereiche sind bei Niedrigwasser nicht befahrbar.",
+    "kernpunkte": [
+      { "punkt": "2,3 m über Kartennull", "synonyme": ["2,3 m", "über Kartennull", "über Seekartennull", "Höhe über KN", "unterstrichene Zahl"] },
+      { "punkt": "Gebiet kann trockenfallen", "synonyme": ["trockenfallen", "Trockenfallgebiet", "Watt", "fällt trocken", "trockenfallend"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "6-19",
+    "kurzantwort": "Gelcoat = die äußere Schutzschicht eines GFK-Bauteils (glasfaserverstärkter Kunststoff).",
+    "erklaerung": "Beim Bootsbau aus GFK bildet das Gelcoat die glatte, harzreiche Außenschicht. Sie schützt das darunterliegende Laminat vor Wasser, UV-Strahlung und mechanischer Beanspruchung und gibt der Oberfläche ihr glänzendes Aussehen.",
+    "kernpunkte": [
+      { "punkt": "äußere Schutzschicht", "synonyme": ["Schutzschicht", "äußere Schicht", "Deckschicht", "Oberflächenschicht", "Versiegelung"] },
+      { "punkt": "auf glasfaserverstärktem Kunststoff (GFK)", "synonyme": ["GFK", "glasfaserverstärkter Kunststoff", "Laminat", "Fiberglas", "Kunststoffbauteil"] }
+    ],
+    "wichtigkeit": 1
+  },
+  {
+    "id": "6-20",
+    "kurzantwort": "Durch das Aufeinandertreffen kalter Luft aus hohen Breiten und warmer subtropischer Luftmassen (an der Polarfront).",
+    "erklaerung": "Tiefdruckgebiete der gemäßigten Breiten entstehen an der Polarfront, wo kalte Polarluft und warme Subtropenluft aufeinandertreffen. Die Temperatur- und Dichteunterschiede führen zu aufsteigender Luft und Druckfall, woraus sich ein Tief mit Warm- und Kaltfront entwickelt.",
+    "kernpunkte": [
+      { "punkt": "Aufeinandertreffen kalter Luft aus hohen Breiten", "synonyme": ["kalte Luftmassen", "Kaltluft", "hohe Breiten", "Polarluft", "kalt"] },
+      { "punkt": "und warmer subtropischer Luftmassen", "synonyme": ["warme Luftmassen", "Warmluft", "subtropisch", "Subtropenluft", "warm", "Polarfront"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "6-21",
+    "kurzantwort": "Fahrzeuge unter 20 m Länge und Segelfahrzeuge.",
+    "erklaerung": "Die Küstenverkehrszone liegt landseitig eines Verkehrstrennungsgebiets. Grundsätzlich soll man sie nur zum Anlaufen eines dort gelegenen Hafens nutzen. Ausnahmen, die sie auch zum Durchfahren benutzen dürfen, sind kleine Fahrzeuge unter 20 m und Segelfahrzeuge.",
+    "kernpunkte": [
+      { "punkt": "Fahrzeuge unter 20 m Länge", "synonyme": ["unter 20 m", "weniger als 20 m", "kleiner 20 Meter", "kurze Fahrzeuge", "20 m Länge"] },
+      { "punkt": "Segelfahrzeuge", "synonyme": ["Segelfahrzeuge", "Segler", "Segelboote", "unter Segel"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "6-22",
+    "kurzantwort": "Gelbe Tonnen/Spieren/Stangen mit breitem rotem Band, beschriftet 'Sperrgebiet' oder 'Sperr-G' (schwarze Buchstaben).",
+    "erklaerung": "Sperrgebiete werden durch gelbe Schifffahrtszeichen (Fass-, Leucht-, Spierentonnen oder Stangen) markiert, die ein auffälliges breites rotes Band tragen. Zusätzlich steht die schwarze Beschriftung 'Sperrgebiet' bzw. 'Sperr-G' darauf, damit das Gebiet eindeutig erkennbar ist.",
+    "kernpunkte": [
+      { "punkt": "gelbe Tonnen/Spieren/Stangen", "synonyme": ["gelbe Tonnen", "Fasstonnen", "Leuchttonnen", "Spierentonnen", "Stangen", "gelb"] },
+      { "punkt": "breites rotes Band", "synonyme": ["rotes Band", "breites rotes Band", "roter Streifen", "rotes Querband"] },
+      { "punkt": "Beschriftung 'Sperrgebiet' / 'Sperr-G' in schwarzen Buchstaben", "synonyme": ["Sperrgebiet", "Sperr-G", "Beschriftung", "schwarze Buchstaben", "Aufschrift"] }
+    ],
+    "wichtigkeit": 1
+  },
+  {
+    "id": "6-23",
+    "kurzantwort": "Sportbootkarten werden nach dem Druck nicht mehr amtlich berichtigt; der Nutzer muss sie vor Gebrauch selbst über die NfS/NIS aktualisieren.",
+    "erklaerung": "Deutsche Sportbootkarten erhalten nach dem Druck keine amtliche Berichtigung durch BSH oder Vertriebsstellen. Deshalb ist der Nutzer selbst verantwortlich, sie vor dem Gebrauch anhand der Nachrichten für Seefahrer (NfS/NIS) auf den aktuellen Stand zu bringen.",
+    "kernpunkte": [
+      { "punkt": "keine amtliche Berichtigung nach dem Druck", "synonyme": ["nicht berichtigt", "keine Berichtigung", "nach dem Druck", "BSH berichtigt nicht", "Vertriebsstelle"] },
+      { "punkt": "Nutzer muss selbst vor Gebrauch berichtigen (über NfS/NIS)", "synonyme": ["selbst berichtigen", "NfS", "NIS", "Nachrichten für Seefahrer", "aktualisieren", "vor Benutzung"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "6-24",
+    "kurzantwort": "Synthetik (Seile, Netze, Segel, Tüten), Papier, Lumpen, Glas, Metall, Steingut sowie Schalungs-/Verpackungsmaterial.",
+    "erklaerung": "In Sondergebieten (z. B. Ostsee, Nordsee) gelten verschärfte MARPOL-Regeln. Praktisch darf dort fast kein Müll über Bord: Kunststoffe sind ohnehin überall verboten, in Sondergebieten zusätzlich Papier, Glas, Metall, Steingut und Verpackungs-/Schalungsmaterial. Müll muss an Land entsorgt werden.",
+    "kernpunkte": [
+      { "punkt": "synthetische Stoffe (Seile, Netze, Segel, Kunststofftüten)", "synonyme": ["Synthetik", "Kunststoff", "Plastik", "Seile", "Netze", "Segel", "Tüten"] },
+      { "punkt": "Papier, Lumpen, Glas, Metall, Steingut", "synonyme": ["Papier", "Lumpen", "Glas", "Metall", "Steingut", "Keramik"] },
+      { "punkt": "Schalungs- und Verpackungsmaterial", "synonyme": ["Verpackungsmaterial", "Schalungsmaterial", "Verpackung", "Stauholz", "Packmaterial"] }
+    ],
+    "wichtigkeit": 1
+  },
+  {
+    "id": "6-25",
+    "kurzantwort": "Tonnen mit weniger als 8 m Höhe.",
+    "erklaerung": "In Leuchtfeuerverzeichnissen und der britischen List of Lights werden nur größere, befeuerte oder markante Seezeichen aufgeführt. Kleine schwimmende Schifffahrtszeichen – Tonnen unter 8 m Höhe – sind dort nicht verzeichnet und müssen aus der Seekarte entnommen werden.",
+    "kernpunkte": [
+      { "punkt": "Tonnen kleiner als 8 m Höhe", "synonyme": ["Tonnen unter 8 m", "kleiner 8 m", "weniger als 8 m", "kleine Tonnen", "8 m Höhe"] }
+    ],
+    "wichtigkeit": 1
+  },
+  {
+    "id": "6-26",
+    "kurzantwort": "Um Kondenswasserbildung im Tank zu verringern, die sonst zu Startschwierigkeiten führen kann.",
+    "erklaerung": "In einem teilleeren Tank kühlt die feuchte Luft ab und schlägt sich als Kondenswasser an den Tankwänden nieder. Das Wasser sammelt sich im Diesel und kann Motor und Einspritzung stören. Ein voller Tank lässt kaum Luftraum und damit kaum Kondenswasser entstehen.",
+    "kernpunkte": [
+      { "punkt": "verringert Kondenswasserbildung", "synonyme": ["Kondenswasser", "Kondensation", "Schwitzwasser", "Wasserbildung", "weniger Luftraum"] },
+      { "punkt": "Wasser im Diesel führt zu Startschwierigkeiten/Motorproblemen", "synonyme": ["Startschwierigkeiten", "Motorprobleme", "Wasser im Diesel", "Motorausfall", "Startprobleme"] }
+    ],
+    "wichtigkeit": 1
+  },
+  {
+    "id": "6-27",
+    "kurzantwort": "Tragweite = der Abstand, in dem ein Feuer im Auge des Beobachters gerade noch einen deutlichen Lichteindruck erzeugt.",
+    "erklaerung": "Die Tragweite beschreibt die maximale Entfernung, bei der ein Leuchtfeuer noch deutlich wahrgenommen wird. Sie hängt von der Lichtstärke und der Sichtweite (Wetter) ab und ist von der geografischen Reichweite (Erdkrümmung, Augeshöhe) zu unterscheiden.",
+    "kernpunkte": [
+      { "punkt": "Abstand mit gerade noch deutlichem Lichteindruck", "synonyme": ["Abstand", "Entfernung", "deutlicher Lichteindruck", "gerade noch sichtbar", "Reichweite"] },
+      { "punkt": "bezogen auf das Auge des Beobachters", "synonyme": ["Auge des Beobachters", "Beobachter", "Wahrnehmung", "Sichtbarkeit"] }
+    ],
+    "wichtigkeit": 1
+  },
+  {
+    "id": "6-28",
+    "kurzantwort": "Wassertiefe sowie Meeres- und Gezeitenströmungen.",
+    "erklaerung": "Seegang verändert sich, wenn sich die Bedingungen unter und um die Wellen ändern. Geringe Wassertiefe staucht und steilt Wellen auf, und gegenan setzende Meeres- oder Gezeitenströmungen lassen sie höher und kürzer werden – beides erhöht die Gefahr von Brechern.",
+    "kernpunkte": [
+      { "punkt": "Wassertiefe", "synonyme": ["Wassertiefe", "Tiefe", "flaches Wasser", "Untiefe", "Flachwasser"] },
+      { "punkt": "Meeres- und Gezeitenströmungen", "synonyme": ["Meeresströmung", "Gezeitenströmung", "Strömung", "Strom", "Tidenstrom", "Gegenstrom"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "6-29",
+    "kurzantwort": "Wer durch körperliche/geistige Mängel, Alkohol oder andere berauschende Mittel in der sicheren Führung oder Tätigkeit behindert ist.",
+    "erklaerung": "Die SeeSchStrO verbietet das Führen eines Fahrzeugs oder eine Brücken-/Decksdiensttätigkeit, wenn man dazu nicht sicher in der Lage ist. Gründe sind körperliche oder geistige Mängel sowie der Einfluss von Alkohol oder anderen berauschenden Mitteln (Drogen).",
+    "kernpunkte": [
+      { "punkt": "körperliche oder geistige Mängel", "synonyme": ["körperliche Mängel", "geistige Mängel", "Krankheit", "Übermüdung", "Beeinträchtigung"] },
+      { "punkt": "Einfluss von Alkohol", "synonyme": ["Alkohol", "alkoholische Getränke", "betrunken", "Trunkenheit"] },
+      { "punkt": "Einfluss anderer berauschender Mittel", "synonyme": ["berauschende Mittel", "Drogen", "Rauschmittel", "Medikamente", "Betäubungsmittel"] },
+      { "punkt": "dadurch in sicherer Führung/Tätigkeit behindert", "synonyme": ["nicht sicher führen", "behindert", "fahruntüchtig", "nicht fahrtüchtig", "unsicher"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "6-30",
+    "kurzantwort": "Steven dreht in die Ruderrichtung, Heck schlägt entgegengesetzt aus; die alte Kurslinie wird erst nach mehreren Schiffslängen verlassen (300-m-Schiff ca. 500-600 m).",
+    "erklaerung": "Ein großes Schiff reagiert träge: Bei Hartruderlage dreht zwar der Bug sofort in die Ruderseite und das Heck schlägt nach außen aus, der Schwerpunkt läuft aber zunächst geradeaus weiter. Erst nach mehreren Schiffslängen verlässt das Schiff seine alte Kurslinie – darum sind frühe Manöver nötig.",
+    "kernpunkte": [
+      { "punkt": "Steven/Bug dreht in Richtung der Hartruderlage", "synonyme": ["Steven", "Bug", "dreht in Ruderrichtung", "Hartruderlage", "Vorschiff"] },
+      { "punkt": "Heck schlägt zur entgegengesetzten Seite aus", "synonyme": ["Heck schlägt aus", "Heck", "entgegengesetzt", "Achterschiff", "Querversatz"] },
+      { "punkt": "alte Kurslinie erst nach mehreren Schiffslängen verlassen", "synonyme": ["mehrere Schiffslängen", "Schiffslängen", "1,5 bis 2,5 Schiffslängen", "träge Reaktion", "verzögert"] },
+      { "punkt": "ca. 500-600 m bei 300-m-Schiff", "synonyme": ["500 bis 600 m", "ca. 500 m", "600 m", "Containerschiff 300 m", "500-600 Meter"] }
+    ],
+    "wichtigkeit": 2
+  }
+]

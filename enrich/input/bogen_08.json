@@ -1,0 +1,152 @@
+[
+  {
+    "id": "8-1",
+    "frage": "Erläutern Sie den Begriff \"Vorfahrt beachten\".",
+    "musterantwort": "\"Vorfahrt beachten\" begründet eine Wartepflicht. Wer die Vorfahrt zu beachten hat, muss rechtzeitig durch sein Fahrverhalten erkennen lassen, dass er warten wird. Er darf nur weiterfahren, wenn er übersehen kann, dass die Schifffahrt im Fahrwasser nicht beeinträchtigt wird. Ggf. hat der Wartepflichtige seinen Kurs und/oder seine Geschwindigkeit zu ändern (gilt rechtlich nicht als Ausweichen!)."
+  },
+  {
+    "id": "8-2",
+    "frage": "In welche technischen Einrichtungen/Ausrüstungen muss der Schiffsführer die Besatzung vor Reiseantritt unbedingt einweisen? Nennen Sie mindestens 6 Beispiele.",
+    "musterantwort": "1. Ankergeschirr, 2. Lenzeinrichtung, 3. Feuerlöscheinrichtungen, 4. Motoranlage, 5. Seeventile, 6. UKW-Seefunkanlage, 7. MOB- Taste vom satellitengestützten Navigationsgerät (z. B. GPS), 8. Seenotsignalmittel, 9. Notrudereinrichtung."
+  },
+  {
+    "id": "8-3",
+    "frage": "Auf einer Motoryacht A sieht man nachts etwa recht voraus Topplicht und beide Seitenlichter eines Fahrzeugs B. Die Lichter werden rasch heller. 1. Was ist B? 2. Wie ist die Situation zu klären?",
+    "musterantwort": "1. B ist ein Maschinenfahrzeug von weniger als 50 m Länge in Fahrt. 2. A und B müssen ihren Kurs so nach Steuerbord ändern, dass sie einander an der Backbord-Seite passieren. Dabei müssen A und B das Signal \"ein kurzer Ton\" geben."
+  },
+  {
+    "id": "8-4",
+    "frage": "Was bewirkt die Bedienung der MOB-Taste bei GPS-Geräten?",
+    "musterantwort": "1. Die Position zur Zeit des Tastendrucks wird gespeichert. 2. Rechtweisende Peilung (rwP) und Distanz zu diesem Punkt werden angezeigt."
+  },
+  {
+    "id": "8-5",
+    "frage": "Welche Windsituation ist mit der Formulierung \"Nordwest 6\" bezüglich 1. der Schwankungsbreite in Windrichtung und 2. der Schwankungsbreite in der Windstärke (Böen) verbunden?",
+    "musterantwort": "1. Die Schwankung in der Windrichtung kann bis zu 45° um die Hauptwindrichtung betragen, also von Westnordwest (WNW) bis Nordnordwest (NNW). 2. Es können Böen auftreten, die etwa 1 bis 2 Bft über dem Mittelwind liegen."
+  },
+  {
+    "id": "8-6",
+    "frage": "Sie sehen vor dem Einlaufen in den NOK in Brunsbüttel folgende Lichtsignale: 1. ein unterbrochenes rotes Licht, 2. ein unterbrochenes weißes Licht über einem unterbrochenen roten Licht, 3. ein unterbrochenes weißes Licht. Geben Sie die Bedeutung dieser Signale an.",
+    "musterantwort": "1. Einfahren verboten. 2. Freigabe wird vorbereitet. 3. Sportfahrzeuge können einfahren."
+  },
+  {
+    "id": "8-7",
+    "frage": "Welche Möglichkeiten der terrestrischen Ortsbestimmung muss man kennen?",
+    "musterantwort": "1. Kreuzpeilung, 2. Peilung und Abstand (Feuer in der Kimm, Radarabstand), 3. Peilung und Lotung."
+  },
+  {
+    "id": "8-8",
+    "frage": "Wie sind manövrierbehinderte und manövrierunfähige Fahrzeuge am Tage bezeichnet?",
+    "musterantwort": "1. Manövrierbehinderte Fahrzeuge: Ball- Rhombus-Ball senkrecht übereinander. 2. Manövrierunfähige Fahrzeuge: zwei schwarze Bälle senkrecht übereinander."
+  },
+  {
+    "id": "8-9",
+    "frage": "Welche Sicherheitsmaßnahmen sind vor und beim Tanken von Diesel zu treffen?",
+    "musterantwort": "1. Maschine abstellen, 2. offenes Feuer löschen (Rauchen einstellen), 3. Maßnahmen gegen Überlaufen treffen."
+  },
+  {
+    "id": "8-10",
+    "frage": "Welche Segel sollte eine Segelyacht in der Küstenfahrt mindestens an Bord haben?",
+    "musterantwort": "1. Reffbares Großsegel, 2. reffbare Rollfock oder Vorsegel verschiedener Größen, 3. Sturmfock."
+  },
+  {
+    "id": "8-11",
+    "frage": "Was gehört zur Sicherheitsausrüstung der Besatzung in der Küstenfahrt?",
+    "musterantwort": "1. Rettungsweste und Sicherheitsgurt (Lifebelt) für jedes Besatzungsmitglied, 2. Rettungsfloß (Rettungsinsel), 3. Rettungskragen mit Tag- und Nachtsignal und 4. Erste-Hilfe-Ausrüstung mit Anleitung."
+  },
+  {
+    "id": "8-12",
+    "frage": "Welche Maßnahmen können gegen das Überbordfallen getroffen werden?",
+    "musterantwort": "1. Sicherheitsgurte anlegen und einpicken. 2. Anbringen von Strecktau oder Laufleinen vom Bug zum Heck. 3. Crew auf Befestigungspunkte (Einpickpunkte für Karabinerhaken) hinweisen."
+  },
+  {
+    "id": "8-13",
+    "frage": "Bei welchen Wolkenformen müssen Sie mit erhöhter Böigkeit rechnen?",
+    "musterantwort": "Bei Haufenwolken, besonders beim Cumulonimbus (Schauer- und Gewitterwolke)."
+  },
+  {
+    "id": "8-14",
+    "frage": "Was ist eine \"Küstenverkehrszone\"?",
+    "musterantwort": "Das Gebiet zwischen der Küste und der landwärtigen Grenze eines Verkehrstrennungsgebietes."
+  },
+  {
+    "id": "8-15",
+    "frage": "Auf Amwindkurs mussten Sie reffen. Ein entgegenkommendes Boot gleicher Größe segelt ungerefft. Wie erklären Sie das?",
+    "musterantwort": "Der \"scheinbare Wind\" ist unterschiedlich stark. Er ist auf Amwindkursen stärker und auf Raumschot- oder Vorwindkursen schwächer als der \"wahre Wind\"."
+  },
+  {
+    "id": "8-16",
+    "frage": "Welchen Seegang müssen Sie erwarten, wenn Sie küstennah bei ablandigem Wind fahren?",
+    "musterantwort": "Der Seegang wird nicht so hoch sein wie auf der freien See, da der Fetch (Windwirklänge) nur sehr kurz ist."
+  },
+  {
+    "id": "8-17",
+    "frage": "Was ist der Taupunkt?",
+    "musterantwort": "Der Taupunkt ist die Temperatur, auf die Luft abgekühlt werden muss, damit sie mit Feuchtigkeit gesättigt ist. Es setzt Kondensation (Taubildung) ein."
+  },
+  {
+    "id": "8-18",
+    "frage": "Warum darf der Anker nicht zusammen mit seiner Leine am Ankerplatz über Bord geworfen werden?",
+    "musterantwort": "Die Leine könnte mit dem Anker vertörnen und dadurch das Eingraben des Ankers verhindern. Der Anker würde dann nicht halten."
+  },
+  {
+    "id": "8-19",
+    "frage": "Wer gibt die Nachrichten für Seefahrer (NfS) heraus und wie und wie oft erfolgt die Herausgabe?",
+    "musterantwort": "Die NfS werden vom BSH in Heftform und im Internet herausgegeben und erscheinen einmal wöchentlich."
+  },
+  {
+    "id": "8-20",
+    "frage": "Welchen Nachteil hat ein \"Saildrive-Antrieb\" insbesondere bei Hafenmanövern?",
+    "musterantwort": "Durch den großen Abstand zwischen Propeller und Ruder wird dieses nicht direkt angeströmt. Das kann die Manövrierfähigkeit beim Anfahren etwas verschlechtern."
+  },
+  {
+    "id": "8-21",
+    "frage": "Wodurch können Sie verhindern, dass Festmacherleinen durch Schamfilen in Klüsen oder an Kanten an der Pier beschädigt werden?",
+    "musterantwort": "Durch einen gegen Verrutschen gesicherten Plastikschlauch, der über den Festmacher an der Scheuerstelle gezogen wird, hilfsweise mit Tuchstreifen."
+  },
+  {
+    "id": "8-22",
+    "frage": "Wie lautet ggf. der Korrekturhinweis bezüglich GPS in der Seekarte, wenn das benutzte Kartendatum (z. B. ED 50) und WGS 84 nicht übereinstimmen?",
+    "musterantwort": "Durch Satellitennavigation (z. B. GPS) erhaltene Positionen im WGS 84 sind 0, ... Minuten nordwärts/südwärts und 0, ... Minuten westwärts/ostwärts zu verlegen, um mit dieser Karte übereinzustimmen"
+  },
+  {
+    "id": "8-23",
+    "frage": "Eine Motoryacht, Länge 8 m, treibt nachts manövrierunfähig in der Nordsee und sieht ein großes Fahrzeug direkt auf sich zukommen. Welche Maßnahmen hat die Motoryacht zu ergreifen?",
+    "musterantwort": "Ein Fahrzeug von weniger als 12 m Länge, das die zwei roten Rundumlichter senkrecht übereinander nicht führt, muss folgende Maßnahmen ergreifen: 1. Durch jedes andere verfügbare Mittel anzeigen, dass es manövrierunfähig ist, z. B. über UKW-Sprechfunk oder durch ein Schallsignal oder das Lichtsignal lang-kurz- kurz. 2. Bei weiterer Annäherung das andere Fahrzeug mit einer starken Handlampe anleuchten und so auf sich aufmerksam machen. 3. Führen eines weißen Rundumlichtes, das mit keinem anderen Licht verwechselt werden kann. 4. Abfeuern eines Signals \"weißer Stern\" oder \"Blitz-Knall\". 5. Sofort bei Eintritt der Manövrierunfähigkeit Verkehrszentrale informieren (wenn vorhanden)."
+  },
+  {
+    "id": "8-24",
+    "frage": "In der Seekarte finden Sie bei einem Leuchtfeuer die Eintragung: 18 M. Was bedeutet diese Angabe?",
+    "musterantwort": "Es ist die Nenntragweite, hier 18 Seemeilen."
+  },
+  {
+    "id": "8-25",
+    "frage": "Seegebiete sind international festgelegt. In welchen amtlichen Veröffentlichungen können Sie nachlesen, wo sich das Seegebiet \"Fischer\" befindet?",
+    "musterantwort": "Im \"Handbuch Nautischer Funkdienst\", im \"Jachtfunkdienst für Nord- und Ostsee\" oder in der \"Admiralty List of Radio Signals\"."
+  },
+  {
+    "id": "8-26",
+    "frage": "Wie ist Kartennull (KN) in der Ost- und Nordsee und im Englischen Kanal definiert? Wo finden Sie die entsprechenden Angaben zur Kartennullebene?",
+    "musterantwort": "In der Ostsee entspricht KN dem mittleren Wasserstand. In der Nordsee und im Englischen Kanal entspricht KN dem niedrigstmöglichen Gezeitenwasserstand (LAT = Lowest Astronomical Tide). In der jeweiligen Seekarte ist die Kartennullebene beschrieben."
+  },
+  {
+    "id": "8-27",
+    "frage": "Sie sehen von Ihrem Sportfahrzeug aus in der Nordsee nördlich von Helgoland eine noch unbekannte Gefahr, z. B. einen treibenden Container. Was haben Sie zu unternehmen?",
+    "musterantwort": "Man muss dies auf dem schnellsten Weg direkt oder über eine Verkehrszentrale bzw. Küstenfunkstelle dem Maritimen Lagezentrum (MLZ) in Cuxhaven als Meldestelle für Unfälle auf See mitteilen."
+  },
+  {
+    "id": "8-28",
+    "frage": "Mit welcher Wassertiefe können Sie bei einer Lotung normalerweise mindestens rechnen?",
+    "musterantwort": "Mit der Kartentiefe."
+  },
+  {
+    "id": "8-29",
+    "frage": "Welche besondere Bedeutung hat AIS für die Sportschifffahrt im Vergleich mit der Radaranzeige auf anderen Schiffen?",
+    "musterantwort": "Sportfahrzeuge werden häufig auf den Radargeräten anderer Schiffe nicht sicher angezeigt bzw. die Anzeigen gehen im Seegangsclutter oder in der Informationsfülle unter. Da jetzt auf vielen Schiffen die AIS- Daten zusätzlich im Radar dargestellt werden, besteht die Gefahr, dass Sportfahrzeuge noch weniger auffällig sind, wenn sie nicht selbst mit AIS ausgerüstet sind."
+  },
+  {
+    "id": "8-30",
+    "frage": "Wie stehen Sonne und Mond winkelmäßig zur Erde bei Springzeit und bei Nippzeit (die Springverspätung soll hier unberücksichtigt bleiben)?",
+    "musterantwort": "Bei Springzeit befinden sich Mond und Sonne in einer Ebene mit der Erde, bei Nippzeit stehen die Verbindungslinien Erde/Sonne und Erde/Mond im rechten Winkel zueinander."
+  }
+]

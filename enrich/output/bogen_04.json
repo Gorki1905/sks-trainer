@@ -1,0 +1,314 @@
+[
+  {
+    "id": "4-1",
+    "kurzantwort": "Ein manövrierunfähiges Fahrzeug ohne FdW hat Fahrt durchs Wasser aufgenommen – jetzt sind zusätzlich die Seitenlichter sichtbar.",
+    "erklaerung": "Ein manövrierunfähiges Fahrzeug zeigt zwei rote Rundumlichter. Ohne Fahrt durchs Wasser führt es keine Seiten- und Hecklichter. Sobald es FdW aufnimmt, kommen Seitenlichter und Hecklicht hinzu – die Lichterführung ändert sich also.",
+    "kernpunkte": [
+      { "punkt": "manövrierunfähiges Fahrzeug hat Fahrt durchs Wasser aufgenommen", "synonyme": ["manövrierunfähig", "FdW aufgenommen", "Fahrt durchs Wasser", "in Fahrt gekommen"] },
+      { "punkt": "jetzt sind die Seitenlichter (Backbord) sichtbar", "synonyme": ["Seitenlichter", "Backbordlicht", "rotes Seitenlicht", "Positionslichter sichtbar"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "4-2",
+    "kurzantwort": "\"Vorfahrt beachten\" = Wartepflicht: rechtzeitig zeigen, dass man wartet; Weiterfahrt nur, wenn die Schifffahrt im Fahrwasser nicht beeinträchtigt wird.",
+    "erklaerung": "Wer Vorfahrt zu beachten hat, ist wartepflichtig und muss durch sein Fahrverhalten früh erkennen lassen, dass er wartet. Er darf nur weiterfahren, wenn er sicher ist, die Schifffahrt im Fahrwasser nicht zu behindern. Eine dafür nötige Kurs-/Geschwindigkeitsänderung gilt rechtlich nicht als Ausweichen.",
+    "kernpunkte": [
+      { "punkt": "begründet eine Wartepflicht", "synonyme": ["Wartepflicht", "wartepflichtig", "muss warten", "Vorrang gewähren"] },
+      { "punkt": "rechtzeitig durch Fahrverhalten zeigen, dass man wartet", "synonyme": ["rechtzeitig erkennen lassen", "Fahrverhalten", "frühzeitig anzeigen"] },
+      { "punkt": "Weiterfahrt nur wenn Fahrwasser nicht beeinträchtigt wird", "synonyme": ["Fahrwasser nicht beeinträchtigen", "nicht behindern", "Schifffahrt frei", "übersehen können"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "4-3",
+    "kurzantwort": "Windstärke: schätzen über die Beaufortskala anhand des Seegangsbildes. Windrichtung: aus der Verlagerung der Wellenkämme.",
+    "erklaerung": "Ohne Messgerät nutzt man das Aussehen der See: Schaumkronen, Gischt und Wellenform entsprechen bestimmten Beaufort-Stufen. Die Windrichtung erkennt man daran, wohin sich die Wellenkämme (Windsee) bewegen.",
+    "kernpunkte": [
+      { "punkt": "Windstärke schätzen mit der Beaufortskala anhand des Seegangsbildes", "synonyme": ["Beaufort", "Beaufortskala", "Seegangsbild", "Schaumkronen", "Aussehen der See"] },
+      { "punkt": "Windrichtung aus der Verlagerung der Wellenkämme", "synonyme": ["Wellenkämme", "Verlagerung der Wellen", "Wellenrichtung", "Windsee"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "4-4",
+    "kurzantwort": "Über HDOP (Satellitenverteilung), Anzahl der getrackten Satelliten und Vergleich mit anderen Navigationssystemen/Koppelposition.",
+    "erklaerung": "Die GPS-Genauigkeit hängt von der Geometrie und Zahl der empfangenen Satelliten ab: ein niedriger HDOP und viele Satelliten bedeuten gute Verteilung und zuverlässige Position. Zusätzlich prüft man die Plausibilität durch Vergleich mit anderen Verfahren wie der Koppelnavigation.",
+    "kernpunkte": [
+      { "punkt": "HDOP / Satellitenverteilung", "synonyme": ["HDOP", "DOP", "horizontal dilution of precision", "Satellitengeometrie", "Satellitenverteilung"] },
+      { "punkt": "Anzahl der getrackten Satelliten", "synonyme": ["Anzahl Satelliten", "Satellitenzahl", "empfangene Satelliten", "getrackte Satelliten"] },
+      { "punkt": "Vergleich mit anderen Navigationssystemen / Koppelposition", "synonyme": ["Koppelposition", "Vergleich", "Plausibilitätskontrolle", "andere Navigationssysteme", "Kreuzpeilung"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "4-5",
+    "kurzantwort": "Auf dem NOK: nur ein Sportfahrzeug schleppen, geschlepptes Boot unter 15 m, Mindestgeschwindigkeit 9 km/h.",
+    "erklaerung": "Auf dem Nord-Ostsee-Kanal gelten besondere Verkehrsregeln. Sportboote dürfen nur ein anderes Sportboot (kürzer als 15 m) schleppen und müssen dabei mindestens 9 km/h fahren, damit der Verband manövrierfähig bleibt und den Verkehr nicht behindert.",
+    "kernpunkte": [
+      { "punkt": "nur ein Sportfahrzeug schleppen", "synonyme": ["nur ein Boot", "ein Sportfahrzeug", "ein Anhang"] },
+      { "punkt": "geschlepptes Fahrzeug Höchstlänge unter 15 m", "synonyme": ["unter 15 m", "weniger als 15 m", "Höchstlänge 15 m", "kürzer als 15 Meter"] },
+      { "punkt": "Mindestgeschwindigkeit 9 km/h", "synonyme": ["9 km/h", "Mindestgeschwindigkeit", "mindestens 9 km/h"] }
+    ],
+    "wichtigkeit": 1
+  },
+  {
+    "id": "4-6",
+    "kurzantwort": "Kraftstoffzufuhr unterbrechen oder das Luftansaugrohr verschließen.",
+    "erklaerung": "Ein Dieselmotor läuft ohne Zündkerzen – er stoppt nur, wenn ihm Kraftstoff oder Verbrennungsluft entzogen wird. Beides bringt den Motor sicher zum Stillstand, wenn die normale Abstellvorrichtung versagt.",
+    "kernpunkte": [
+      { "punkt": "Kraftstoffzufuhr unterbrechen", "synonyme": ["Kraftstoffzufuhr", "Dieselzufuhr", "Treibstoff abdrehen", "Spritzufuhr unterbrechen"] },
+      { "punkt": "Luftansaugrohr verschließen", "synonyme": ["Luftansaugung verschließen", "Ansaugrohr", "Luftzufuhr abdecken", "Luftzufuhr unterbrechen"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "4-7",
+    "kurzantwort": "Kurse/Kursänderungspunkte vorausbestimmen, Untiefen/Hindernisse markieren, Feuer in der Kimm kennzeichnen, Strecke nach unbefeuerten Tonnen absuchen.",
+    "erklaerung": "Bei Nachtfahrt fehlen die optischen Landmarken, deshalb bereitet man die Navigation vorher gründlich vor. Markierte Kurse, Gefahrenstellen und das erwartete Auftauchen von Leuchtfeuern in der Kimm erleichtern die Orientierung; unbefeuerte Tonnen sind nachts kaum sichtbar und müssen bekannt sein.",
+    "kernpunkte": [
+      { "punkt": "Kurse und Kursänderungspunkte vorausbestimmen", "synonyme": ["Kurse vorausbestimmen", "Kursänderungspunkte", "Wegpunkte", "Kurse planen"] },
+      { "punkt": "Untiefen und Hindernisse in der Karte kennzeichnen", "synonyme": ["Untiefen markieren", "Hindernisse kennzeichnen", "Gefahrenstellen", "Flachstellen"] },
+      { "punkt": "markieren, wann/wo Leuchtfeuer in der Kimm erscheinen", "synonyme": ["Leuchtfeuer in der Kimm", "Feuer erscheinen", "Sichtweite Feuer", "Kimm"] },
+      { "punkt": "Strecke nach unbefeuerten Tonnen absuchen", "synonyme": ["unbefeuerte Tonnen", "unbeleuchtete Tonnen", "Tonnen ohne Licht"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "4-8",
+    "kurzantwort": "1. Luvgierigkeit. 2. Traveller nach Lee, Großschot fieren, Großsegel reffen.",
+    "erklaerung": "Bei zunehmender Krängung dreht das Boot von selbst in den Wind – das nennt man Luvgierigkeit, weil der Segeldruckpunkt zu weit hinter dem Lateralpunkt liegt. Man reduziert ihn, indem man das Großsegel entlastet (Traveller nach Lee, Schot fieren) oder die Segelfläche durch Reffen verkleinert.",
+    "kernpunkte": [
+      { "punkt": "Luvgierigkeit", "synonyme": ["luvgierig", "Luvgierigkeit", "anluven", "in den Wind drehen"] },
+      { "punkt": "Großsegel entlasten: Traveller nach Lee / Großschot fieren / reffen", "synonyme": ["Traveller nach Lee", "Großschot fieren", "Großsegel reffen", "Segelfläche verkleinern", "Schot lösen"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "4-9",
+    "kurzantwort": "Ruhe bewahren, Notalarm abgeben, Rettungsfloß klarmachen, Westen/Gurt anlegen, möglichst lange an Bord bleiben, warme Kleidung.",
+    "erklaerung": "In Seenot rettet überlegtes Handeln Leben: zuerst Hilfe rufen (Notalarm/DSC, ggf. Radartransponder), dann Rettungsmittel vorbereiten und sichern. Das Schiff bietet am längsten Schutz, daher steigt man erst ins Floß über, wenn es wirklich nötig ist; warme Kleidung schützt vor Unterkühlung.",
+    "kernpunkte": [
+      { "punkt": "Ruhe bewahren und überlegt handeln", "synonyme": ["Ruhe bewahren", "überlegt handeln", "keine Panik"] },
+      { "punkt": "Notalarm abgeben, ggf. Radartransponder einschalten", "synonyme": ["Notalarm", "Mayday", "DSC", "SART", "Radartransponder", "Notruf"] },
+      { "punkt": "Rettungsfloß klarmachen, Rettungsweste und Sicherheitsgurt anlegen", "synonyme": ["Rettungsfloß", "Rettungsinsel", "Rettungsweste", "Sicherheitsgurt", "Lifebelt"] },
+      { "punkt": "so lange wie möglich an Bord bleiben, warme Kleidung", "synonyme": ["an Bord bleiben", "Schiff nicht verlassen", "warme Kleidung", "Unterkühlung vermeiden"] }
+    ],
+    "wichtigkeit": 3
+  },
+  {
+    "id": "4-10",
+    "kurzantwort": "Schnelle: 30–50 kn. Mittlere: 15–30 kn. Langsame: bis 15 kn.",
+    "erklaerung": "Die Verlagerungsgeschwindigkeit eines Tiefs bestimmt, wie schnell sich das Wetter ändert. Schnell ziehende Tiefs bringen rasche, oft heftige Wetterumschwünge; langsame Tiefs sorgen für anhaltendes Schlechtwetter. Die Werte helfen, den Zeitpunkt einer Wetteränderung abzuschätzen.",
+    "kernpunkte": [
+      { "punkt": "schnelle Tiefs 30 bis 50 kn", "synonyme": ["30 bis 50 kn", "30-50 Knoten", "schnell"] },
+      { "punkt": "mittlere Tiefs 15 bis 30 kn", "synonyme": ["15 bis 30 kn", "15-30 Knoten", "mittel"] },
+      { "punkt": "langsame Tiefs bis 15 kn", "synonyme": ["bis 15 kn", "unter 15 Knoten", "langsam"] }
+    ],
+    "wichtigkeit": 1
+  },
+  {
+    "id": "4-11",
+    "kurzantwort": "Kreuzsee = Windsee und Dünung aus unterschiedlichen Richtungen. Z.B. vor/bei Kaltfront, bei Trogdurchgang und nahe dem Tiefkern.",
+    "erklaerung": "Wenn sich Wellensysteme aus verschiedenen Richtungen überlagern, entsteht eine unregelmäßige, oft gefährliche Kreuzsee. Das passiert besonders bei raschen Winddrehungen, also beim Durchzug von Kaltfront oder Trog und in der Nähe des Tiefdruckkerns.",
+    "kernpunkte": [
+      { "punkt": "Windsee und Dünung aus unterschiedlichen Richtungen", "synonyme": ["Windsee und Dünung", "unterschiedliche Richtungen", "überlagernde Wellen", "verschiedene Wellensysteme"] },
+      { "punkt": "Beispiele: Kaltfront, Trog, Nähe des Tiefkerns", "synonyme": ["Kaltfront", "Trog", "Tiefkern", "Frontdurchgang", "Winddrehung"] }
+    ],
+    "wichtigkeit": 1
+  },
+  {
+    "id": "4-12",
+    "kurzantwort": "Bei großen Schiffen ca. 8- bis 12-fache Schiffslänge Stoppstrecke und bis zu 8–12 Minuten; abhängig von Typ, Größe, Beladung und Geschwindigkeit.",
+    "erklaerung": "Große Schiffe haben enorme Massenträgheit und brauchen sehr lange zum Stoppen. Die Werte hängen von Schiffstyp, Größe, Beladung und Ausgangsgeschwindigkeit ab – z.B. ein voll beladenes 300-m-Containerschiff bei 24 kn legt rund 2 sm zurück und braucht etwa 12 Minuten. Wichtig: niemals davon ausgehen, dass ein großes Schiff kurzfristig anhalten kann.",
+    "kernpunkte": [
+      { "punkt": "Stoppstrecke ca. 8- bis 12-fache Schiffslänge", "synonyme": ["8- bis 12-fache Schiffslänge", "8 bis 12 Schiffslängen", "ca. 2 sm", "lange Stoppstrecke"] },
+      { "punkt": "Stoppzeit bis zu 8 bis 12 Minuten", "synonyme": ["8 bis 12 Minuten", "bis 12 Minuten", "lange Stoppzeit"] },
+      { "punkt": "abhängig von Typ, Größe, Beladung und Geschwindigkeit", "synonyme": ["Schiffstyp", "Größe", "Beladung", "Geschwindigkeit", "Tiefgang"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "4-13",
+    "kurzantwort": "Anzahl der Flügel, Flügelfläche, Durchmesser und Steigung.",
+    "erklaerung": "Diese vier Größen bestimmen die Schubleistung und das Verhalten eines Propellers. Durchmesser und Steigung (Weg pro Umdrehung) sowie Flügelzahl und -fläche müssen zu Motor und Boot passen, um optimalen Vortrieb zu erzielen.",
+    "kernpunkte": [
+      { "punkt": "Anzahl der Flügel", "synonyme": ["Flügelzahl", "Anzahl Flügel", "Blattzahl"] },
+      { "punkt": "Größe der Flügelfläche", "synonyme": ["Flügelfläche", "Blattfläche", "Fläche"] },
+      { "punkt": "Durchmesser", "synonyme": ["Durchmesser", "Propellerdurchmesser"] },
+      { "punkt": "Steigung", "synonyme": ["Steigung", "Pitch", "Steigungshöhe"] }
+    ],
+    "wichtigkeit": 1
+  },
+  {
+    "id": "4-14",
+    "kurzantwort": "Aus der BSH-Broschüre \"Entsorgungsmöglichkeiten für Öl, Schiffsmüll und Schiffsabwässer\".",
+    "erklaerung": "Das Bundesamt für Seeschifffahrt und Hydrographie (BSH) gibt eine spezielle Übersicht für die Sport- und Kleinschifffahrt heraus, in der die Entsorgungsstellen in deutschen Sportboothäfen aufgeführt sind.",
+    "kernpunkte": [
+      { "punkt": "BSH-Broschüre über Entsorgungsmöglichkeiten", "synonyme": ["BSH", "Bundesamt für Seeschifffahrt und Hydrographie", "Broschüre", "Entsorgungsmöglichkeiten", "Übersicht für Sportschifffahrt"] }
+    ],
+    "wichtigkeit": 1
+  },
+  {
+    "id": "4-15",
+    "kurzantwort": "Der Winkel von rwN nach MgN ist die Fehlweisung (Fw); es gilt Abl + Mw = Fw.",
+    "erklaerung": "Die Fehlweisung fasst die Abweichung des Magnetkompasses von der rechtweisenden Nordrichtung zusammen. Sie setzt sich aus Ablenkung (Abl, schiffsbedingt) und Missweisung (Mw, ortsabhängig) zusammen: Abl + Mw = Fw.",
+    "kernpunkte": [
+      { "punkt": "Fehlweisung (Fw)", "synonyme": ["Fehlweisung", "Fw", "Abl + Mw"] },
+      { "punkt": "setzt sich aus Ablenkung und Missweisung zusammen", "synonyme": ["Ablenkung", "Missweisung", "Mw", "Abl", "Deklination und Deviation"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "4-16",
+    "kurzantwort": "Differenzen meist 0,1 bis 1 kbl (ca. 20–200 m); es können auch größere Unterschiede auftreten.",
+    "erklaerung": "Positionen in anderen geodätischen Bezugssystemen können gegenüber WGS 84 verschoben sein. Üblicherweise liegt der Versatz bei 20 bis 200 m, lokal aber auch deutlich mehr. Deshalb sollte man Karten und GPS stets im gleichen Bezugssystem (WGS 84) nutzen.",
+    "kernpunkte": [
+      { "punkt": "Differenzen in der Größenordnung 0,1 bis 1 kbl (ca. 20 bis 200 m)", "synonyme": ["0,1 bis 1 kbl", "20 bis 200 m", "20-200 Meter", "Kabellänge"] },
+      { "punkt": "es können größere Unterschiede auftreten", "synonyme": ["größere Unterschiede", "auch mehr möglich", "größere Abweichungen"] }
+    ],
+    "wichtigkeit": 1
+  },
+  {
+    "id": "4-17",
+    "kurzantwort": "Die kennzeichnende (charakteristische) Wellenhöhe.",
+    "erklaerung": "Im Seewetterbericht wird nicht die Höhe einzelner Wellen, sondern die kennzeichnende Wellenhöhe angegeben – das ist der Mittelwert des höchsten Drittels aller Wellen. Einzelne Wellen können deutlich höher sein.",
+    "kernpunkte": [
+      { "punkt": "kennzeichnende (charakteristische) Wellenhöhe", "synonyme": ["kennzeichnende Wellenhöhe", "charakteristische Wellenhöhe", "signifikante Wellenhöhe", "höchstes Drittel"] }
+    ],
+    "wichtigkeit": 1
+  },
+  {
+    "id": "4-18",
+    "kurzantwort": "Allgemeine seemännische Praxis und besondere Umstände können über die KVR-Mindestanforderungen hinausgehende Maßnahmen verlangen.",
+    "erklaerung": "Die KVR sind ein Mindeststandard – sie entbinden nicht von der Pflicht zu vernünftigem, vorausschauendem Handeln. Wenn die normalen Regeln nicht greifen oder besondere Umstände vorliegen, muss der Schiffsführer nach guter Seemannschaft zusätzliche Vorsichtsmaßnahmen treffen.",
+    "kernpunkte": [
+      { "punkt": "allgemeine seemännische Praxis / gute Seemannschaft", "synonyme": ["seemännische Praxis", "gute Seemannschaft", "übliche Vorsicht", "ordentliche Seemannschaft"] },
+      { "punkt": "besondere Umstände des Falles erfordern ggf. mehr als die KVR-Mindestanforderungen", "synonyme": ["besondere Umstände", "über Mindestanforderungen hinaus", "zusätzliche Vorsichtsmaßnahmen", "Vorsichtsmaßnahmen"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "4-19",
+    "kurzantwort": "Elektronische Geräte, magnetisierte Gegenstände und Gleichstromleitungen in der Nähe des Kompasses.",
+    "erklaerung": "Magnetkompasse reagieren auf jedes Magnet- oder Stromfeld in ihrer Nähe. Radios, Handys, Werkzeug, ein Peilkompass oder stromführende Gleichstromleitungen lenken die Nadel vorübergehend ab – sobald die Quelle entfernt ist, ist die Ablenkung wieder weg.",
+    "kernpunkte": [
+      { "punkt": "elektronische Geräte (Radio, Handy)", "synonyme": ["elektronische Geräte", "Handy", "Radio", "Smartphone", "Elektronik"] },
+      { "punkt": "magnetisierte Gegenstände (Werkzeug, Peilkompass)", "synonyme": ["magnetische Gegenstände", "Werkzeug", "Peilkompass", "Eisen", "magnetisierte Teile"] },
+      { "punkt": "Gleichstromleitungen in Kompassnähe", "synonyme": ["Gleichstromleitungen", "Stromleitungen", "stromführende Kabel", "Gleichstrom"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "4-20",
+    "kurzantwort": "Schallsignal eines Schleppverbandes in Fahrt: Schlepper lang-kurz-kurz, Anhang unmittelbar danach lang-kurz-kurz-kurz, etwa jede Minute.",
+    "erklaerung": "Bei verminderter Sicht geben Fahrzeuge bestimmte Schallsignale. Ein langer Ton mit zwei kurzen kennzeichnet ein manövrierbehindertes/schleppendes Fahrzeug; folgt unmittelbar ein langer Ton mit drei kurzen, ist das der bemannte Anhang – zusammen ein Schleppverband in Fahrt.",
+    "kernpunkte": [
+      { "punkt": "Schleppverband in Fahrt", "synonyme": ["Schleppverband", "Schlepper mit Anhang", "Schleppzug", "in Fahrt"] },
+      { "punkt": "Schlepper lang-kurz-kurz, Anhang lang-kurz-kurz-kurz", "synonyme": ["lang-kurz-kurz", "lang-kurz-kurz-kurz", "schleppendes Fahrzeug", "bemannter Anhang"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "4-21",
+    "kurzantwort": "Geregelt in der \"Verordnung über die Sicherung der Seefahrt\". Verantwortlich: der Schiffsführer (ersatzweise ein Besatzungsmitglied bzw. der Betreiber).",
+    "erklaerung": "Schaden- oder gefahrverursachende Vorkommnisse sind der Bundesstelle für Seeunfalluntersuchung (BSU) zu melden; die Pflichten regelt die Verordnung über die Sicherung der Seefahrt. In erster Linie ist der Schiffsführer meldepflichtig, bei dessen Verhinderung ein anderes Besatzungsmitglied oder der Betreiber.",
+    "kernpunkte": [
+      { "punkt": "Verordnung über die Sicherung der Seefahrt", "synonyme": ["Verordnung über die Sicherung der Seefahrt", "Seesicherungsverordnung", "SeeSchStrO", "Sicherung der Seefahrt"] },
+      { "punkt": "verantwortlich der Schiffsführer, ersatzweise Besatzungsmitglied oder Betreiber", "synonyme": ["Schiffsführer", "Skipper", "Besatzungsmitglied", "Betreiber", "Reeder"] }
+    ],
+    "wichtigkeit": 1
+  },
+  {
+    "id": "4-22",
+    "kurzantwort": "Geschwindigkeit, Wind, Seegang, Strömung sowie Form und Gewicht des Bootes.",
+    "erklaerung": "Beim Nahezu-Aufschießer fährt man so an die treibende Person heran, dass das Boot kurz vor ihr fast zum Stillstand kommt. Wie lang dieser Auslaufweg ist, hängt von der Ausgangsgeschwindigkeit und allen Faktoren ab, die das Boot abbremsen oder versetzen – Wind, Seegang, Strömung sowie Form und Masse des Bootes.",
+    "kernpunkte": [
+      { "punkt": "Geschwindigkeit", "synonyme": ["Geschwindigkeit", "Fahrt", "Ausgangsgeschwindigkeit", "Speed"] },
+      { "punkt": "Wind, Seegang, Strömung", "synonyme": ["Wind", "Seegang", "Strömung", "Welle"] },
+      { "punkt": "Form und Gewicht des Bootes", "synonyme": ["Form des Bootes", "Gewicht", "Masse", "Bootsform", "Verdrängung"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "4-23",
+    "kurzantwort": "Ostsee: KN = mittlerer Wasserstand. Nordsee/Ärmelkanal: KN = LAT (niedrigstmöglicher Gezeitenwasserstand). Angaben stehen in der jeweiligen Seekarte.",
+    "erklaerung": "Kartennull ist die Bezugsebene für Tiefenangaben. In der gezeitenlosen Ostsee ist das der mittlere Wasserstand, in Gezeitengewässern (Nordsee, Englischer Kanal) das LAT, also der niedrigstmögliche astronomische Tidewasserstand – so liegt das tatsächliche Wasser fast nie unter den Kartentiefen. Die Definition steht in jeder Seekarte.",
+    "kernpunkte": [
+      { "punkt": "Ostsee: KN = mittlerer Wasserstand", "synonyme": ["mittlerer Wasserstand", "Mittelwasser", "Ostsee", "gezeitenlos"] },
+      { "punkt": "Nordsee/Englischer Kanal: KN = LAT (niedrigstmöglicher Gezeitenwasserstand)", "synonyme": ["LAT", "Lowest Astronomical Tide", "niedrigstmöglicher Gezeitenwasserstand", "Nordsee", "Englischer Kanal"] },
+      { "punkt": "Angaben in der jeweiligen Seekarte", "synonyme": ["Seekarte", "in der Karte", "Kartenrand", "Karteninfo"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "4-24",
+    "kurzantwort": "In Gezeitengewässern (Nordsee) auf mittleres Hochwasser, in gezeitenlosen Gewässern (Ostsee) auf mittleren Wasserstand.",
+    "erklaerung": "Die angegebene Feuerhöhe ist wichtig für die Berechnung der Sichtweite. Als Bezugsebene dient in Tidengewässern das mittlere Hochwasser (MHW), in gezeitenlosen Gewässern der mittlere Wasserstand – nicht das Kartennull.",
+    "kernpunkte": [
+      { "punkt": "Gezeitengewässer (Nordsee): mittleres Hochwasser", "synonyme": ["mittleres Hochwasser", "MHW", "Nordsee", "Gezeitengewässer"] },
+      { "punkt": "gezeitenlose Gewässer (Ostsee): mittlerer Wasserstand", "synonyme": ["mittlerer Wasserstand", "Mittelwasser", "Ostsee", "gezeitenlos"] }
+    ],
+    "wichtigkeit": 1
+  },
+  {
+    "id": "4-25",
+    "kurzantwort": "Statische Daten (ID, Rufzeichen, Schiffsmaße), dynamische Daten (UTC, Position, Kurs, Fahrt, Status) und reisebezogene Daten (Tiefgang, Ziel, ETA).",
+    "erklaerung": "AIS sendet drei Datengruppen: feste Schiffsdaten, laufend aktualisierte Sensordaten zu Position und Bewegung sowie reisebezogene Angaben. So lassen sich andere Schiffe identifizieren und ihr Verhalten einschätzen.",
+    "kernpunkte": [
+      { "punkt": "statische Daten (ID, Rufzeichen, Länge/Breite)", "synonyme": ["statische Daten", "ID", "MMSI", "Rufzeichen", "Schiffsmaße", "Name"] },
+      { "punkt": "dynamische Daten (UTC, Position, Kurs/Fahrt über Grund, Status)", "synonyme": ["dynamische Daten", "Position", "Kurs über Grund", "Fahrt über Grund", "Heading", "Fahrtstatus", "Rate of turn"] },
+      { "punkt": "reisebezogene Daten (Tiefgang, Zielort, ETA)", "synonyme": ["reisebezogene Daten", "Tiefgang", "Zielort", "Destination", "ETA"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "4-26",
+    "kurzantwort": "Um Beschädigungen des Segels zu vermeiden.",
+    "erklaerung": "Schlagende Segel werden durch das ständige Flattern stark beansprucht; bei kräftigem Wind kann das Tuch, die Naht oder das Liek schnell reißen oder verschleißen. Deshalb hält man Segel möglichst gefüllt oder nimmt sie weg.",
+    "kernpunkte": [
+      { "punkt": "Beschädigungen des Segels vermeiden", "synonyme": ["Beschädigung vermeiden", "Schaden vermeiden", "Verschleiß", "Materialschaden", "Segel schonen"] }
+    ],
+    "wichtigkeit": 1
+  },
+  {
+    "id": "4-27",
+    "kurzantwort": "Auflandig/parallel: Wind wird durch Küstenführung teils beschleunigt. Ablandig: umlaufende Winde, erhöhte Böigkeit, Fallwinde.",
+    "erklaerung": "An Steilküsten lenkt das Gelände den Wind ab. Weht er auflandig oder parallel, kann er durch den Düseneffekt verstärkt werden. Weht er ablandig, fällt er über die Steilkante hinab – es entstehen unstete, böige Fallwinde, mit denen man rechnen muss.",
+    "kernpunkte": [
+      { "punkt": "auflandig/parallel: Wind wird teils beschleunigt", "synonyme": ["beschleunigt", "verstärkt", "Düseneffekt", "auflandig", "parallel zur Küste"] },
+      { "punkt": "ablandig: umlaufende Winde, erhöhte Böigkeit, Fallwinde", "synonyme": ["umlaufende Winde", "Böigkeit", "Fallwinde", "böig", "ablandig", "Düsen- und Fallböen"] }
+    ],
+    "wichtigkeit": 1
+  },
+  {
+    "id": "4-28",
+    "kurzantwort": "Umweltschutzbestimmungen beachten: nur auf ausgerüstetem Reinigungsplatz abspritzen, Wasser und Schmutz auffangen, nicht in die Kanalisation leiten.",
+    "erklaerung": "Antifouling enthält giftige Biozide, die nicht in die Umwelt gelangen dürfen. Deshalb darf das Unterwasserschiff nur an dafür ausgerüsteten Plätzen gereinigt werden, wo der Schmutz aufgefangen und fachgerecht entsorgt wird – nicht über die Kanalisation oder ins Gewässer.",
+    "kernpunkte": [
+      { "punkt": "Umweltschutzbestimmungen beachten", "synonyme": ["Umweltschutz", "Umweltbestimmungen", "Umweltvorschriften", "giftige Biozide"] },
+      { "punkt": "nur auf ausgerüstetem Reinigungsplatz, Wasser/Schmutz auffangen, nicht in Kanalisation", "synonyme": ["Reinigungsplatz", "auffangen", "nicht in die Kanalisation", "Schmutz sammeln", "fachgerecht entsorgen"] }
+    ],
+    "wichtigkeit": 1
+  },
+  {
+    "id": "4-29",
+    "kurzantwort": "Stabilität = Fähigkeit des Schiffes, aufrecht zu schwimmen und sich aus einer Krängung wieder aufzurichten.",
+    "erklaerung": "Die Stabilität beschreibt, wie gut ein Schiff seine aufrechte Schwimmlage hält und nach einer Krängung von selbst zurückkehrt. Sie entsteht aus dem Zusammenspiel von Schwerpunkt und Auftrieb (aufrichtendes Moment).",
+    "kernpunkte": [
+      { "punkt": "Eigenschaft, in aufrechter Lage zu schwimmen", "synonyme": ["aufrechte Lage", "aufrecht schwimmen", "Schwimmlage halten"] },
+      { "punkt": "sich aus einer Krängung wieder aufzurichten", "synonyme": ["aus Krängung aufrichten", "wieder aufrichten", "aufrichtendes Moment", "zurückkehren"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "4-30",
+    "kurzantwort": "Vitale NWN für die Sportschifffahrt werden vom 1. April bis 31. Oktober über ausgewählte Rundfunkanstalten verbreitet.",
+    "erklaerung": "Besonders wichtige (\"vitale\") nautische Warnnachrichten für Sportbootfahrer werden nur während der Hauptsaison – 1. April bis 31. Oktober – zusätzlich über ausgewählte private und öffentlich-rechtliche Rundfunksender ausgestrahlt, um möglichst viele Wassersportler zu erreichen.",
+    "kernpunkte": [
+      { "punkt": "Verbreitung vom 1. April bis 31. Oktober", "synonyme": ["1. April bis 31. Oktober", "Sommerhalbjahr", "Saison", "April bis Oktober"] },
+      { "punkt": "über ausgewählte private und öffentlich-rechtliche Rundfunkanstalten", "synonyme": ["Rundfunkanstalten", "Rundfunk", "Radio", "öffentlich-rechtlich", "private Sender"] }
+    ],
+    "wichtigkeit": 1
+  }
+]

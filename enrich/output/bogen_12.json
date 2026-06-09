@@ -1,0 +1,306 @@
+[
+  {
+    "id": "12-1",
+    "kurzantwort": "Verkehrsvorschriften befolgen (KVR, SeeSchStrO) und Fahrzeug korrekt mit Lichtern, Signalkörpern und Schallsignalen ausrüsten.",
+    "erklaerung": "Der Schiffsführer trägt die verkehrsrechtliche Verantwortung dafür, dass alle geltenden Regeln eingehalten werden und sein Fahrzeug die vorgeschriebene Ausrüstung führen, zeigen und geben kann. So bleibt das Schiff für andere erkennbar und der Verkehr sicher.",
+    "kernpunkte": [
+      { "punkt": "Befolgung der Verkehrsvorschriften (KVR, SeeSchStrO)", "synonyme": ["KVR", "Kollisionsverhütungsregeln", "SeeSchStrO", "Seeschifffahrtsstraßen-Ordnung", "Vorschriften einhalten", "Verkehrsregeln"] },
+      { "punkt": "Ausrüstung zum Führen/Zeigen von Lichtern, Signalkörpern und Geben von Schallsignalen", "synonyme": ["Lichter", "Signalkörper", "Schallsignale", "Lichterführung", "Signalmittel", "Hupe/Nebelhorn"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "12-2",
+    "kurzantwort": "Bei erwartetem oder andauerndem Wind von 6-7 Bft; international: \"near gale warning\".",
+    "erklaerung": "Starkwindwarnungen schützen besonders kleine Fahrzeuge wie Sportboote, die bei 6-7 Beaufort schon stark gefordert sind. Der internationale Begriff \"near gale warning\" steht für eine Vorstufe zur Sturmwarnung (gale = 8 Bft).",
+    "kernpunkte": [
+      { "punkt": "Windstärke 6 bis 7 Beaufort (erwartet oder andauernd)", "synonyme": ["6 bis 7 Bft", "6-7 Beaufort", "Windstärke 6-7", "starker Wind", "steifer Wind"] },
+      { "punkt": "Near gale warning", "synonyme": ["near gale warning", "near-gale warning", "near gale", "englische Bezeichnung"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "12-3",
+    "kurzantwort": "Karabinerhaken einpicken, mit Kopf und Armen einsteigen, Arme nach unten drücken/Hände schließen, Windenseil frei hängen lassen (nicht festmachen).",
+    "erklaerung": "Die Rettungsschlinge sichert dich beim Hochziehen durch den Hubschrauber. Die Arme nach unten gedrückt verhindern, dass du aus der Schlinge rutschst. Das Windenseil darf nie an Bord befestigt werden, sonst droht beim Verholen ein Absturz oder die Beschädigung des Hubschraubers.",
+    "kernpunkte": [
+      { "punkt": "Zuerst Karabinerhaken einpicken", "synonyme": ["Karabinerhaken", "Karabiner", "Haken einpicken", "einhaken"] },
+      { "punkt": "Mit Kopf und beiden Armen einsteigen", "synonyme": ["Kopf und Arme", "beide Arme", "einsteigen", "durch die Schlinge"] },
+      { "punkt": "Arme nach unten drücken, Hände schließen", "synonyme": ["Arme nach unten", "Hände schließen", "Arme runterdrücken", "festhalten"] },
+      { "punkt": "Windenseil frei hängen lassen, nicht an Bord befestigen", "synonyme": ["Windenseil", "frei hängen", "nicht befestigen", "nicht festmachen", "Seil frei"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "12-4",
+    "kurzantwort": "Sichere Durchfahrt des tiefgangbehinderten Fahrzeugs nicht behindern - durch frühzeitige Kurs- und/oder Geschwindigkeitsänderung.",
+    "erklaerung": "Ein tiefgangbehindertes Fahrzeug kann wegen seines Tiefgangs das tiefe Fahrwasser nicht verlassen und kaum ausweichen. Deshalb muss das wendigere Sportboot rechtzeitig und deutlich Platz schaffen.",
+    "kernpunkte": [
+      { "punkt": "Sichere Durchfahrt nicht behindern", "synonyme": ["nicht behindern", "Durchfahrt freihalten", "Platz machen", "ausweichen", "Vorrang gewähren"] },
+      { "punkt": "Frühzeitige Kursänderung und/oder Geschwindigkeitsänderung", "synonyme": ["Kursänderung", "Geschwindigkeitsänderung", "frühzeitig", "Kurs ändern", "langsamer fahren", "Tempo ändern"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "12-5",
+    "kurzantwort": "z. B.: Lenzpumpe/Pütz, Lecksicherungsmaterial, Feuerlöscher, Seenotsignalmittel, Anker, Rettungsmittel, Erste-Hilfe-Ausrüstung (mind. 6 nennen).",
+    "erklaerung": "Die Sicherheitsausrüstung deckt die wichtigsten Notfälle ab: Wassereinbruch (Lenzen/Lecksicherung), Feuer, Seenot (Signalmittel), Verletzung (Erste Hilfe) sowie Person über Bord/Aufgabe des Schiffes (Rettungsmittel). Im Examen reicht das Aufzählen von mindestens sechs Gegenständen.",
+    "kernpunkte": [
+      { "punkt": "Lenzpumpen und Pützen", "synonyme": ["Lenzpumpe", "Pütz", "Pützen", "Lenzeinrichtung", "Lenzen"] },
+      { "punkt": "Lecksicherungsmaterial", "synonyme": ["Lecksicherung", "Leckabdichtung", "Lecksicherungsmaterial", "Lecksegel"] },
+      { "punkt": "Feuerlöscher", "synonyme": ["Feuerlöscher", "Brandbekämpfung", "Löschmittel"] },
+      { "punkt": "Seenotsignalmittel und Rettungsmittel", "synonyme": ["Seenotsignalmittel", "Signalmittel", "Rettungsmittel", "Rettungsweste", "Rettungsinsel", "Anker", "Erste-Hilfe-Ausrüstung", "Handlampe", "Funk", "Radarreflektor"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "12-6",
+    "kurzantwort": "Nach Sonnenuntergang kühlt bei klarem Himmel die bodennahe Luft über Land unter den Taupunkt ab; v. a. an Flüssen, engen Durchfahrten und küstennah.",
+    "erklaerung": "Bei klarem Himmel strahlt der Boden nachts Wärme ab und kühlt die darüberliegende Luft unter den Taupunkt - der Wasserdampf kondensiert zu Nebel. Über Land entstanden, wird er teils seewärts in Küstennähe verdriftet.",
+    "kernpunkte": [
+      { "punkt": "Nächtliche Abkühlung der bodennahen Luft unter den Taupunkt bei klarem Himmel", "synonyme": ["Abkühlung", "Taupunkt", "klarer Himmel", "nachts", "Sonnenuntergang", "Ausstrahlung", "bodennahe Luft"] },
+      { "punkt": "Über Land, besonders Flüsse, enge Durchfahrten und küstennah", "synonyme": ["über Land", "Flüsse", "enge Durchfahrten", "Küstennähe", "küstennah", "Festland"] }
+    ],
+    "wichtigkeit": 1
+  },
+  {
+    "id": "12-7",
+    "kurzantwort": "Gut: Sand, Schlick, weicher Ton/Lehm. Mäßig: harter Ton/Lehm. Ungeeignet: steinige, verkrautete, stark schlammige Böden.",
+    "erklaerung": "Leichtgewichtsanker (z. B. Danforth) halten am besten in weichen Böden, in die sich die Flunken eingraben können. Harte Böden bieten weniger Halt, und auf Stein, Kraut oder dünnem Schlamm greift der Anker kaum oder schleppt.",
+    "kernpunkte": [
+      { "punkt": "Gut geeignet: Sand, Schlick, weicher Ton und Lehm", "synonyme": ["Sand", "Schlick", "weicher Ton", "weicher Lehm", "gut"] },
+      { "punkt": "Mäßig geeignet: harter Ton und Lehm", "synonyme": ["harter Ton", "harter Lehm", "mäßig", "fester Boden"] },
+      { "punkt": "Ungeeignet: steinige, verkrautete, stark schlammige Böden", "synonyme": ["steinig", "Steine", "verkrautet", "Kraut", "schlammig", "Schlamm", "ungeeignet", "Felsen"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "12-8",
+    "kurzantwort": "Automatisches Senden von Identität und Schiffsdaten in kurzen Abständen; zusätzlich sicherheitsrelevante Nachrichten (safety related messages).",
+    "erklaerung": "AIS (Automatic Identification System) macht Schiffe füreinander und für Landstationen sichtbar, indem es ohne menschliches Zutun laufend Kennung, Position, Kurs und Geschwindigkeit funkt. Das verbessert die Verkehrsübersicht und Kollisionsverhütung.",
+    "kernpunkte": [
+      { "punkt": "Automatisches Senden von Identität und schiffsbezogenem Datensatz in kurzen Abständen", "synonyme": ["automatisch senden", "Identität", "Schiffsdaten", "Position", "Kurs und Geschwindigkeit", "ohne Aufforderung", "regelmäßig"] },
+      { "punkt": "Übermittlung sicherheitsrelevanter Nachrichten (safety related messages)", "synonyme": ["safety related messages", "Sicherheitsnachrichten", "sicherheitsrelevante Nachrichten", "Landstationen", "Warnungen"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "12-9",
+    "kurzantwort": "Auf der Rückseite von Tiefdruckgebieten in hochreichender Kaltluft; ein Trog folgt meist einer Kaltfront.",
+    "erklaerung": "Ein Trog ist ein Vorstoß kalter Luft und tiefen Drucks. Er bildet sich rückseitig eines Tiefs, wo nach Durchzug der Kaltfront hochreichende Kaltluft nachströmt - oft mit Schauern und böigem Wind.",
+    "kernpunkte": [
+      { "punkt": "Auf der Rückseite von Tiefdruckgebieten in hochreichender Kaltluft", "synonyme": ["Rückseite", "Tief", "Tiefdruckgebiet", "Kaltluft", "hochreichende Kaltluft", "rückseitig"] },
+      { "punkt": "Folgt typischerweise einer Kaltfront", "synonyme": ["Kaltfront", "hinter der Kaltfront", "nach Kaltfront", "Front"] }
+    ],
+    "wichtigkeit": 1
+  },
+  {
+    "id": "12-10",
+    "kurzantwort": "Durch Knoten können Festigkeitsverluste bis zu 50 % entstehen.",
+    "erklaerung": "An der Knotenstelle wird die Leine eng gebogen und gequetscht, sodass die Fasern ungleich belastet werden. Dadurch reißt das Tauwerk dort schon bei etwa der halben Nennlast - das muss man beim Belasten und Schleppen einplanen.",
+    "kernpunkte": [
+      { "punkt": "Festigkeitsverlust bis zu 50 % beim Knoten", "synonyme": ["bis zu 50 %", "50 Prozent", "halbe Festigkeit", "Festigkeitsverlust", "Bruchlast sinkt", "Tragkraft reduziert"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "12-11",
+    "kurzantwort": "Besonders zum Ende einer hochsommerlichen Schönwetterperiode im Zusammenhang mit Kaltfronten.",
+    "erklaerung": "Nach langer warmer Schönwetterlage ist viel feuchtwarme, energiereiche Luft vorhanden. Stößt dann eine Kaltfront vor, wird diese Luft kräftig gehoben - das löst heftige Gewitter mit Böen und Starkregen aus.",
+    "kernpunkte": [
+      { "punkt": "Ende einer hochsommerlichen Schönwetterperiode", "synonyme": ["Hochsommer", "Schönwetterperiode", "warme Periode", "Ende Schönwetter", "schwülwarm"] },
+      { "punkt": "Im Zusammenhang mit Kaltfronten", "synonyme": ["Kaltfront", "Front", "Kaltlufteinbruch", "Frontdurchgang"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "12-12",
+    "kurzantwort": "Fahrwasser zwischen 3 h nach bis 3 h vor dem nächsten HW nicht verlassen; sonst max. 8 kn außerhalb, 12 kn im Fahrwasser.",
+    "erklaerung": "In den Schutzzonen I der Wattenmeer-Nationalparks soll das trockenfallende Watt rund um Niedrigwasser geschont werden - daher das Verlassensverbot in diesem Zeitfenster. Die Tempolimits begrenzen Störungen und Wellenschlag.",
+    "kernpunkte": [
+      { "punkt": "Fahrwasser zwischen 3 h nach HW und 3 h vor dem folgenden HW nicht verlassen", "synonyme": ["3 Stunden nach Hochwasser", "3 h vor Hochwasser", "Fahrwasser nicht verlassen", "Verlassensverbot", "um Niedrigwasser"] },
+      { "punkt": "Höchstgeschwindigkeit 8 kn außerhalb, 12 kn im Fahrwasser", "synonyme": ["8 kn", "8 Knoten", "12 kn", "12 Knoten", "Höchstgeschwindigkeit", "Tempolimit"] }
+    ],
+    "wichtigkeit": 1
+  },
+  {
+    "id": "12-13",
+    "kurzantwort": "Der Wind erzeugt zusätzliche Strömungen und Wasserstandsänderungen, die zu Gezeitenstrom und Gezeiten hinzukommen.",
+    "erklaerung": "Neben der astronomisch bedingten Tide wirkt der Wind: Auflandiger Wind staut Wasser auf (höhere Stände), ablandiger drückt es weg. Diese windbedingten Effekte überlagern die berechneten Gezeitenwerte und Ströme.",
+    "kernpunkte": [
+      { "punkt": "Zusätzliche windbedingte Strömungen", "synonyme": ["Strömungen", "Windstrom", "Triftstrom", "zusätzliche Strömung", "Windversatz"] },
+      { "punkt": "Wasserstandsänderungen, die zu Gezeiten/Gezeitenstrom hinzutreten", "synonyme": ["Wasserstand", "Stau", "Windstau", "höherer/niedriger Wasserstand", "Wasserstandsänderung", "überlagern"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "12-14",
+    "kurzantwort": "Weil die Ablenkung (Deviation) auf jedem Schiff andere Werte hat.",
+    "erklaerung": "Die Deviation entsteht durch das schiffseigene Magnetfeld (Motor, Stahlteile, Elektronik), das von Boot zu Boot und je nach Einbau verschieden ist. Deshalb gilt eine Steuertafel immer nur für genau dieses eine Fahrzeug.",
+    "kernpunkte": [
+      { "punkt": "Ablenkung/Deviation ist auf jedem Schiff individuell verschieden", "synonyme": ["Ablenkung", "Deviation", "individuell", "schiffseigenes Magnetfeld", "andere Werte", "bordeigene Magnetik", "von Schiff zu Schiff verschieden"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "12-15",
+    "kurzantwort": "Die Fahrt über Grund (FüG).",
+    "erklaerung": "GPS bestimmt die Position aus Satellitensignalen und errechnet aus der zeitlichen Positionsänderung die tatsächliche Bewegung über den Meeresboden - also die Fahrt über Grund, nicht die Geschwindigkeit durchs Wasser.",
+    "kernpunkte": [
+      { "punkt": "Fahrt über Grund (FüG)", "synonyme": ["FüG", "Fahrt über Grund", "SOG", "speed over ground", "Geschwindigkeit über Grund"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "12-16",
+    "kurzantwort": "Die auf Kartennull bezogene Wassertiefe: Kartentiefe = Wassertiefe minus Höhe der Gezeit.",
+    "erklaerung": "Die Kartentiefe (KT) ist eine vorsichtig gewählte Bezugstiefe, die fast nie unterschritten wird. Die tatsächliche Wassertiefe ergibt sich, indem man die aktuelle Gezeitenhöhe zur Kartentiefe addiert.",
+    "kernpunkte": [
+      { "punkt": "Auf Kartennull bezogene Wassertiefe", "synonyme": ["Kartennull", "Bezugstiefe", "Kartentiefe", "KT", "Seekartennull", "SKN"] },
+      { "punkt": "Kartentiefe = Wassertiefe minus Höhe der Gezeit", "synonyme": ["Wassertiefe minus Gezeit", "Gezeitenhöhe abziehen", "Wassertiefe abzüglich Tide", "Formel"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "12-17",
+    "kurzantwort": "Der Unterliekstrecker reguliert die Spannung des Unterlieks; mehr Zug = flacheres, weniger Zug = bauchigeres unteres Großsegel.",
+    "erklaerung": "Über den Unterliekstrecker (Cunningham/Außenholer am Baum) verstellst du die Profiltiefe im unteren Großsegel. Bei viel Wind ziehst du es flacher (weniger Krängung), bei wenig Wind lässt du es bauchiger für mehr Vortrieb.",
+    "kernpunkte": [
+      { "punkt": "Reguliert die Spannung des Unterlieks", "synonyme": ["Unterliek", "Spannung", "Liekspannung", "Unterliekstrecker", "Außenholer", "Baumstrecker"] },
+      { "punkt": "Mehr Zug = flacher, weniger Zug = bauchiger (unterer Teil des Großsegels)", "synonyme": ["flacher", "bauchiger", "Profiltiefe", "Bauch", "Segelform", "Trimm"] }
+    ],
+    "wichtigkeit": 1
+  },
+  {
+    "id": "12-18",
+    "kurzantwort": "Rechtsherum aus dem Hochdruckzentrum heraus, linksherum in den Tiefdruckkern hinein.",
+    "erklaerung": "Durch die Corioliskraft und Bodenreibung dreht der Wind auf der Nordhalbkugel um das Hoch im Uhrzeigersinn (heraus) und um das Tief gegen den Uhrzeigersinn (hinein). Eselsbrücke: Hoch = im Uhrzeigersinn raus.",
+    "kernpunkte": [
+      { "punkt": "Rechtsherum (im Uhrzeigersinn) aus dem Hoch heraus", "synonyme": ["rechtsherum", "im Uhrzeigersinn", "aus dem Hoch", "Hochdruck heraus", "Hoch", "clockwise"] },
+      { "punkt": "Linksherum (gegen den Uhrzeigersinn) in das Tief hinein", "synonyme": ["linksherum", "gegen den Uhrzeigersinn", "in das Tief", "Tiefdruck hinein", "Tief", "counterclockwise"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "12-19",
+    "kurzantwort": "Eine Backbordfahrwassertonne (rot, gerade Nummern); die nächste Tonne an derselben Seite trägt die Aufschrift 32.",
+    "erklaerung": "Elbabwärts (seewärts) markieren die roten Tonnen mit geraden Zahlen die Backbordseite des Fahrwassers. Die Nummerierung nimmt seewärts ab, daher folgt auf 32a die Tonne 32.",
+    "kernpunkte": [
+      { "punkt": "Backbordfahrwassertonne (rot)", "synonyme": ["Backbordtonne", "Backbordfahrwassertonne", "rote Tonne", "Backbord", "Backbord-Seite"] },
+      { "punkt": "Nächste Tonne: Aufschrift 32", "synonyme": ["32", "Nummer 32", "Tonne 32", "Aufschrift 32"] }
+    ],
+    "wichtigkeit": 1
+  },
+  {
+    "id": "12-20",
+    "kurzantwort": "Große Steifheit und Verwindungsfestigkeit, geringes Gewicht und gute Isolierung.",
+    "erklaerung": "Bei der Sandwichbauweise liegt ein leichter Kern zwischen zwei GFK-Schichten. Das ergibt - ähnlich wie ein Doppel-T-Träger - bei wenig Gewicht eine sehr steife, verwindungsfeste und gut isolierende Schale.",
+    "kernpunkte": [
+      { "punkt": "Große Steifheit und Verwindungsfestigkeit", "synonyme": ["steif", "Steifheit", "Verwindungsfestigkeit", "verwindungssteif", "stabil", "fest"] },
+      { "punkt": "Geringes Gewicht", "synonyme": ["leicht", "geringes Gewicht", "Gewichtsersparnis", "leichtgewichtig"] },
+      { "punkt": "Gute Isolierung", "synonyme": ["Isolierung", "Wärmedämmung", "isolierend", "dämmt", "Kondenswasser geringer"] }
+    ],
+    "wichtigkeit": 1
+  },
+  {
+    "id": "12-21",
+    "kurzantwort": "Diverse Manöver fahren - Wende, Halse, Q-Wende, Rettungsmanöver - bei unterschiedlicher Geschwindigkeit und Besegelung.",
+    "erklaerung": "Jedes Boot reagiert anders auf Ruder, Segel und Wind. Indem man zu Reisebeginn typische Manöver in verschiedenen Situationen probt, lernt man Wendeverhalten, Drehkreis und Reaktionen kennen - bevor es im Ernstfall darauf ankommt.",
+    "kernpunkte": [
+      { "punkt": "Verschiedene Manöver fahren (Wende, Halse, Q-Wende, Rettungsmanöver)", "synonyme": ["Wende", "Halse", "Q-Wende", "Rettungsmanöver", "Mann-über-Bord-Manöver", "Manöver üben", "Probemanöver"] },
+      { "punkt": "Bei unterschiedlicher Geschwindigkeit und Besegelung", "synonyme": ["unterschiedliche Geschwindigkeit", "verschiedene Besegelung", "Segelstellung", "Tempo variieren", "verschiedene Segel"] }
+    ],
+    "wichtigkeit": 1
+  },
+  {
+    "id": "12-22",
+    "kurzantwort": "Im Südwest-Quadranten - die Gradangaben sind die Peilungen vom Schiff zum Leuchtfeuer.",
+    "erklaerung": "Sektorangaben am Feuer beziehen sich auf die Peilung zum Leuchtfeuer (rechtweisend). Peilungen von 030°-042° bedeuten, dass das Feuer im Nordost liegt - der Beobachter/Schiff also im gegenüberliegenden Südwest-Quadranten steht.",
+    "kernpunkte": [
+      { "punkt": "Südwest-Quadrant", "synonyme": ["Südwest", "SW", "Südwest-Quadrant", "südwestlich"] },
+      { "punkt": "Angegeben sind die Peilungen zum Leuchtfeuer", "synonyme": ["Peilung zum Feuer", "Peilung zum Leuchtfeuer", "Peilungen", "rechtweisende Peilung", "vom Schiff zum Feuer"] }
+    ],
+    "wichtigkeit": 1
+  },
+  {
+    "id": "12-23",
+    "kurzantwort": "In der Karte 1 / INT des BSH.",
+    "erklaerung": "Die \"Karte 1\" (international INT 1) ist ein Nachschlagewerk des BSH, das alle Symbole, Zeichen und Abkürzungen der Seekarten erläutert. Sie ist die Legende für die Kartenarbeit.",
+    "kernpunkte": [
+      { "punkt": "Karte 1 / INT 1 des BSH", "synonyme": ["Karte 1", "INT 1", "Karte 1/INT", "BSH", "Zeichen und Abkürzungen in Seekarten", "Kartenlegende"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "12-24",
+    "kurzantwort": "Ein Fahrzeug, das durch die Art seines Einsatzes nicht regelgerecht manövrieren und daher nicht ausweichen kann (z. B. Bagger, Kabelleger).",
+    "erklaerung": "Manövrierbehinderte Fahrzeuge sind durch ihre Tätigkeit selbst eingeschränkt - sie können nicht frei steuern, weil sie z. B. baggern oder Kabel legen. Andere Fahrzeuge müssen ihnen daher ausweichen.",
+    "kernpunkte": [
+      { "punkt": "Durch die Art des Einsatzes/der Arbeit am Manövrieren behindert", "synonyme": ["Art des Einsatzes", "durch Arbeit behindert", "Tätigkeit", "eingeschränkt manövrierfähig", "wegen Einsatz"] },
+      { "punkt": "Kann nicht regelgerecht manövrieren / nicht ausweichen (z. B. Bagger, Kabelleger)", "synonyme": ["kann nicht ausweichen", "nicht regelgerecht manövrieren", "Bagger", "Kabelleger", "Schlepper mit Last", "Beispiel"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "12-25",
+    "kurzantwort": "Reservetauwerk, Wurfleine, Schlepptrosse und Ankerleine.",
+    "erklaerung": "Über das laufende und stehende Gut hinaus braucht eine Yacht Reserveleinen für Notfälle: eine Wurfleine zum Übergeben/Bergen, eine Schlepptrosse für Schleppmanöver und eine Ankerleine zum Ankern oder als Ersatz.",
+    "kernpunkte": [
+      { "punkt": "Reservetauwerk", "synonyme": ["Reservetauwerk", "Reserveleine", "Ersatzleine", "Reservetau"] },
+      { "punkt": "Wurfleine", "synonyme": ["Wurfleine", "Werfleine", "Leinenwurf"] },
+      { "punkt": "Schlepptrosse", "synonyme": ["Schlepptrosse", "Schleppleine", "Schleppertrosse", "Trosse"] },
+      { "punkt": "Ankerleine", "synonyme": ["Ankerleine", "Ankertau", "Ankertrosse", "Ankerwerk"] }
+    ],
+    "wichtigkeit": 1
+  },
+  {
+    "id": "12-26",
+    "kurzantwort": "Die Seekarte ist berichtigt bis zur Mitteilung Nr. 3595 der Admiralty Notices to Mariners (N.T.M.) im Jahr 1998.",
+    "erklaerung": "Der Stempel dokumentiert den Berichtigungsstand: Alle Korrekturen aus den Admiralty Notices to Mariners bis zur Nachricht Nummer 3595 des Jahres 1998 sind eingearbeitet. So weiß man, wie aktuell die Karte ist.",
+    "kernpunkte": [
+      { "punkt": "Berichtigt bis zur Mitteilung/Nachricht Nr. 3595", "synonyme": ["berichtigt bis", "Mitteilung 3595", "Nachricht 3595", "Nummer 3595", "Berichtigungsstand"] },
+      { "punkt": "Admiralty Notices to Mariners (N.T.M.), Jahr 1998", "synonyme": ["Notices to Mariners", "N.T.M.", "Admiralty", "NtM", "1998", "Nachrichten für Seefahrer"] }
+    ],
+    "wichtigkeit": 1
+  },
+  {
+    "id": "12-27",
+    "kurzantwort": "Schutz gegen Schäden durch Elektrolyse; verbrauchte Anoden bereits nach einer Saison ersetzen, nicht erst wenn ganz aufgebraucht.",
+    "erklaerung": "Opferanoden (meist Zink) bestehen aus unedlerem Metall und werden statt der wertvollen Bauteile (Welle, Propeller) durch galvanische Korrosion/Elektrolyse zersetzt. Damit der Schutz erhalten bleibt, tauscht man sie jede Saison aus, bevor sie aufgezehrt sind.",
+    "kernpunkte": [
+      { "punkt": "Schutz gegen Schäden durch Elektrolyse/galvanische Korrosion", "synonyme": ["Elektrolyse", "galvanische Korrosion", "Korrosionsschutz", "Kontaktkorrosion", "Schutz vor Korrosion"] },
+      { "punkt": "Auswechseln nach einer Saison (vor vollständigem Verbrauch)", "synonyme": ["nach einer Saison", "jährlich", "vor dem Verbrauch", "rechtzeitig ersetzen", "jede Saison"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "12-28",
+    "kurzantwort": "Eine dauerhafte Veränderung des magnetischen Zustands an Bord, z. B. Einbauten oder verlagerte Ausrüstungsgegenstände.",
+    "erklaerung": "Die Deviation hängt vom Magnetfeld des Schiffes ab. Werden dauerhaft magnetische/eiserne Teile eingebaut oder umpositioniert, ändert sich dieses Feld bleibend - die Steuertafel stimmt nicht mehr und muss neu erstellt werden.",
+    "kernpunkte": [
+      { "punkt": "Dauerhafte Veränderung des magnetischen Zustands an Bord", "synonyme": ["magnetischer Zustand", "Magnetfeld an Bord", "Bordmagnetik", "Veränderung des Magnetfeldes", "Eisenteile"] },
+      { "punkt": "z. B. Einbauten oder Lageänderung von Ausrüstungsgegenständen", "synonyme": ["Einbauten", "neue Geräte", "Lageänderung", "umgestellte Ausrüstung", "verlagerte Gegenstände", "Beispiel"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "12-29",
+    "kurzantwort": "Wenn die Kompasspeilung zum anderen Fahrzeug konstant bleibt und der Abstand abnimmt.",
+    "erklaerung": "Bleibt die Seitenpeilung zu einem anderen Schiff gleich, während ihr euch nähert (\"stehende Peilung\"), liegt ihr auf Kollisionskurs. Eine sich deutlich ändernde Peilung zeigt dagegen, dass ihr aneinander vorbeilauft.",
+    "kernpunkte": [
+      { "punkt": "Gleichbleibende (stehende) Kompasspeilung zum anderen Fahrzeug", "synonyme": ["stehende Peilung", "konstante Peilung", "gleichbleibende Peilung", "Kompasspeilung ändert sich nicht", "Peilung bleibt gleich"] },
+      { "punkt": "Abstand nimmt ab / Fahrzeuge nähern sich", "synonyme": ["Abstand verringert sich", "nähern sich", "Annäherung", "kommt näher", "Distanz nimmt ab"] }
+    ],
+    "wichtigkeit": 3
+  },
+  {
+    "id": "12-30",
+    "kurzantwort": "Es muss die Vorfahrt der im Fahrwasser Fahrenden beachten, warten bis frei ist und sein Warten rechtzeitig durch das Fahrverhalten erkennen lassen.",
+    "erklaerung": "Wer von außen in ein Fahrwasser einlaufen will, ist wartepflichtig gegenüber dem durchgehenden Verkehr im Fahrwasser. Man muss früh genug abbremsen/anhalten und durch deutliches Fahrverhalten zeigen, dass man wartet, um Missverständnisse zu vermeiden.",
+    "kernpunkte": [
+      { "punkt": "Vorfahrt der im Fahrwasser fahrenden Fahrzeuge beachten / warten", "synonyme": ["Vorfahrt beachten", "warten", "wartepflichtig", "Vorrang gewähren", "bis Fahrwasser frei ist"] },
+      { "punkt": "Warteabsicht rechtzeitig durch das Fahrverhalten erkennen lassen", "synonyme": ["Fahrverhalten", "rechtzeitig erkennen lassen", "Warteabsicht zeigen", "deutlich machen", "frühzeitig"] }
+    ],
+    "wichtigkeit": 2
+  }
+]

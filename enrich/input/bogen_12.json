@@ -1,0 +1,152 @@
+[
+  {
+    "id": "12-1",
+    "frage": "Welche verkehrsrechtliche Verantwortung hat der Schiffsführer?",
+    "musterantwort": "1. Befolgung der Vorschriften im Verkehr, u. a. KVR, SeeSchStrO. 2. Ausrüstung/Einrichtung seines Fahrzeugs zum Führen und Zeigen von Lichtern und Signalkörpern und Geben von Schallsignalen."
+  },
+  {
+    "id": "12-2",
+    "frage": "1. Wann werden Starkwindwarnungen verbreitet? 2. Welche Bezeichnung hat die Starkwindwarnung im internationalen Sprachgebrauch?",
+    "musterantwort": "1. Bei erwarteten oder noch andauernden Windstärken zwischen 6 und 7 Bft. 2. Near- gale warning."
+  },
+  {
+    "id": "12-3",
+    "frage": "Erklären Sie die Handhabung der Hubschrauberrettungsschlinge im Einsatz!",
+    "musterantwort": "1. Bei offener Rettungsschlinge: zuerst den Karabinerhaken einpicken. 2. Mit dem Kopf und beiden Armen in die Rettungsschlinge einsteigen. 3. Die Arme müssen nach unten gedrückt werden und die Hände sind zu schließen. 4. Das Windenseil muss frei hängen, es darf nicht an Bord befestigt werden."
+  },
+  {
+    "id": "12-4",
+    "frage": "1. Wie muss sich ein Sportfahrzeug gegenüber einem tiefgangbehinderten Fahrzeug verhalten? 2. Schlagen Sie entsprechende Maßnahmen/Manöver vor.",
+    "musterantwort": "1. Das Sportfahrzeug muss vermeiden, die sichere Durchfahrt eines tiefgangbehinderten Fahrzeugs zu behindern. 2. Dieses kann durch eine frühzeitige Kursänderung, Geschwindigkeitsänderung oder beides geschehen."
+  },
+  {
+    "id": "12-5",
+    "frage": "Was gehört u. a. zur Sicherheitsausrüstung z. B. einer 10-m-Yacht? Nennen Sie mindestens 6 Ausrüstungsgegenstände.",
+    "musterantwort": "1. Lenzpumpen und Pützen, 2. Lecksicherungsmaterial, 3. Feuerlöscher, 4. Werkzeuge und Ersatzteile, 5. Seenotsignalmittel, 6. Handlampen, 7. Funkeinrichtung, 8. Anker, 9. Erste-Hilfe- Ausrüstung, 10. Radarreflektor und 11. Rettungsmittel."
+  },
+  {
+    "id": "12-6",
+    "frage": "1. Wie entsteht Strahlungsnebel? 2. Wo ist diese Nebelart anzutreffen?",
+    "musterantwort": "1. Nach Sonnenuntergang kann sich bei klarem Himmel die bodennahe Luftschicht über Land unter den Taupunkt abkühlen. 2. Besonders auf Flüssen und engen Durchfahrten, außerdem durch seewärtige Windverdriftung in Küstennähe."
+  },
+  {
+    "id": "12-7",
+    "frage": "Welcher Ankergrund ist für die üblichen Leichtgewichtsanker 1. gut geeignet? 2. mäßig geeignet? 3. ungeeignet?",
+    "musterantwort": "1. Sand, Schlick, weicher Ton und Lehm, 2. harter Ton und Lehm, 3. steinige, verkrautete und stark schlammige Böden."
+  },
+  {
+    "id": "12-8",
+    "frage": "Welche Aufgaben hat AIS?",
+    "musterantwort": "Alle ausgerüsteten Schiffe senden automatisch (also ohne Aufforderung und menschliches Eingreifen) in regelmäßigen kurzen Abständen ihre Identität und einen schiffsbezogenen Datensatz. Außerdem können bei Bedarf sicherheitsrelevante Nachrichten (\"safety related messages\") von Bord oder von Landstationen gesendet werden."
+  },
+  {
+    "id": "12-9",
+    "frage": "Wo bilden sich Tröge um ein Tiefdruckgebiet?",
+    "musterantwort": "Auf der Rückseite von Tiefdruckgebieten in hochreichender Kaltluft. Ein Trog folgt typischerweise einer Kaltfront."
+  },
+  {
+    "id": "12-10",
+    "frage": "Was müssen Sie hinsichtlich der Festigkeit bedenken, wenn Sie Leinen zusammenknoten?",
+    "musterantwort": "Beim Knoten können Festigkeitsverluste bis zu 50 % auftreten."
+  },
+  {
+    "id": "12-11",
+    "frage": "Wann entstehen besonders starke Gewitter?",
+    "musterantwort": "Besonders zum Ende einer hochsommerlichen Schönwetterperiode im Zusammenhang mit Kaltfronten."
+  },
+  {
+    "id": "12-12",
+    "frage": "Welche Befahrensregelungen gelten für die Schutzzonen I in den Nationalparks im Deutschen Wattenmeer außerhalb der speziellen Schutzgebiete?",
+    "musterantwort": "Das Verlassen der Fahrwasser zwischen 3 h nach Hochwasser und 3 h vor dem folgenden Hochwasser ist untersagt. In der übrigen Zeit beträgt für Sportfahrzeuge die Höchstgeschwindigkeit außerhalb des Fahrwassers 8 kn und generell im Fahrwasser 12 kn."
+  },
+  {
+    "id": "12-13",
+    "frage": "Welchen Einfluss kann der Wind auf die Gezeiten haben?",
+    "musterantwort": "Der Wind kann Strömungen und Wasserstandsänderungen hervorrufen, die zu den Gezeitenströmen und den Gezeiten hinzutreten."
+  },
+  {
+    "id": "12-14",
+    "frage": "Warum muss für jedes Fahrzeug eine eigene Ablenkungstabelle (Steuertafel) erstellt werden?",
+    "musterantwort": "Die Ablenkungstabelle kann auf jedem Schiff andere Werte haben."
+  },
+  {
+    "id": "12-15",
+    "frage": "Welche Fahrt zeigen GPS-Geräte an?",
+    "musterantwort": "Die Fahrt über Grund (FüG)."
+  },
+  {
+    "id": "12-16",
+    "frage": "Was ist die Kartentiefe?",
+    "musterantwort": "Die Kartentiefe (KT) ist die auf Kartennull bezogene Wassertiefe. Kartentiefe ist Wassertiefe abzüglich Höhe der Gezeit."
+  },
+  {
+    "id": "12-17",
+    "frage": "Welche Funktion hat ein Unterliekstrecker und wie kann mit dem Unterliekstrecker der Trimm des Großsegels beeinflusst werden?",
+    "musterantwort": "Er reguliert die Spannung der Unterlieks. Je nach Zugkraft wird der untere Teil des Großsegels flacher oder bauchiger."
+  },
+  {
+    "id": "12-18",
+    "frage": "Wie verhält sich der Wind in Bodennähe auf der Nordhalbkugel zwischen Hoch- und Tiefdruckgebieten?",
+    "musterantwort": "Er weht rechtsherum aus dem Hochdruckzentrum heraus und linksherum in den Tiefdruckkern hinein."
+  },
+  {
+    "id": "12-19",
+    "frage": "Beim Passieren von Cuxhaven sichten Sie, elbabwärts segelnd, an Ihrer Steuerbord-Seite die Tonne 32a. Um was für eine Tonne handelt es sich, welche Bezeichnung hat die nächste Tonne an der gleichen Seite?",
+    "musterantwort": "Es handelt sich um eine Backbordfahrwassertonne; die nächste Tonne hat die Aufschrift 32."
+  },
+  {
+    "id": "12-20",
+    "frage": "Welchen Vorteil hat die Sandwichbauweise gegenüber der Massivbauweise bei GFK-Yachten (GFK = glasfaserverstärkter Kunststoff)?",
+    "musterantwort": "Große Steifheit, Verwindungsfestigkeit, geringes Gewicht, gute Isolierung."
+  },
+  {
+    "id": "12-21",
+    "frage": "Sie übernehmen in einem Hafen eine Ihnen unbekannte Yacht. Wie machen Sie sich zu Reisebeginn mit den Segeleigenschaften vertraut?",
+    "musterantwort": "Ich fahre diverse Manöver - Wende, Halse, Q- Wende, verschiedene Rettungsmanöver - mit unterschiedlicher Geschwindigkeit und Besegelung."
+  },
+  {
+    "id": "12-22",
+    "frage": "In welchem Quadranten liegt der rote Warnsektor eines Leitfeuers mit der Angabe rot 030°-042° (Begründung!)",
+    "musterantwort": "Im Südwest-Quadranten. Angegeben sind die Peilungen zum Leuchtfeuer."
+  },
+  {
+    "id": "12-23",
+    "frage": "Wo sind die in Seekarten verwendeten Symbole und Abkürzungen erklärt?",
+    "musterantwort": "In der Karte 1/INT des BSH."
+  },
+  {
+    "id": "12-24",
+    "frage": "Was ist ein \"manövrierbehindertes Fahrzeug\"?",
+    "musterantwort": "Manövrierbehindert ist ein Fahrzeug, das durch die Art seines Einsatzes behindert ist (z. B. Bagger, Kabelleger), regelgerecht zu manövrieren, und daher einem anderen Fahrzeug nicht ausweichen kann"
+  },
+  {
+    "id": "12-25",
+    "frage": "Was sollte auf jeder Yacht außer Festmacherleinen, Fallen und Schoten an Tauwerk vorhanden sein?",
+    "musterantwort": "Reservetauwerk, Wurfleine, Schlepptrosse und Ankerleine."
+  },
+  {
+    "id": "12-26",
+    "frage": "Was bedeutet der Stempel auf der britischen Seekarte: Corrected up to N.T.M. 3595 1998?",
+    "musterantwort": "Seekarte ist berichtigt bis zur Mitteilung Nummer 3595 der Admiralty Notices to Mariners (N.T.M.) in 1998"
+  },
+  {
+    "id": "12-27",
+    "frage": "Wozu dienen \"Opferanoden\" und wann sollten sie ausgewechselt werden?",
+    "musterantwort": "Sie dienen dem Schutz gegen Schäden durch Elektrolyse. Verbrauchte Anoden müssen nach einer Saison ersetzt werden, nicht erst wenn sie verbraucht sind."
+  },
+  {
+    "id": "12-28",
+    "frage": "Was beeinflusst die Ablenkung eines Kompasses dauerhaft?",
+    "musterantwort": "Veränderung des magnetischen Zustandes an Bord, z. B. Einbauten und Lageänderung von Ausrüstungsgegenständen."
+  },
+  {
+    "id": "12-29",
+    "frage": "Wie ist die Gefahr eines Zusammenstoßes sicher erkennbar?",
+    "musterantwort": "Wenn die Kompasspeilung zu einem anderen Fahrzeug steht und sie sich einander nähern."
+  },
+  {
+    "id": "12-30",
+    "frage": "Wie hat sich ein in das Fahrwasser einlaufendes Fahrzeug gegenüber im Fahrwasser fahrenden Fahrzeugen zu verhalten?",
+    "musterantwort": "Es muss die Vorfahrt der Fahrzeuge im Fahrwasser beachten, d. h., es muss warten, bis das Fahrwasser frei ist. Es muss rechtzeitig durch sein Fahrverhalten erkennen lassen, dass es warten wird."
+  }
+]

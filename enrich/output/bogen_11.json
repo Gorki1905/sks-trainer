@@ -1,0 +1,303 @@
+[
+  {
+    "id": "11-1",
+    "kurzantwort": "\"Sicherheit auf dem Wasser\" (Leitfaden für Wassersportler) und \"Sicherheit im See- und Küstenbereich\" (Sorgfaltsregeln).",
+    "erklaerung": "Diese amtlichen Broschüren des Bundesverkehrsministeriums bzw. der WSV fassen die wichtigsten Regeln und Verhaltenshinweise für Sportboote auf Seeschifffahrtsstraßen verständlich zusammen. Sie helfen, das geltende Recht (SeeSchStrO/KVR) in der Praxis richtig anzuwenden.",
+    "kernpunkte": [
+      { "punkt": "Sicherheit auf dem Wasser - Leitfaden für Wassersportler", "synonyme": ["Sicherheit auf dem Wasser", "Leitfaden für Wassersportler", "Leitfaden", "blaue Broschüre"] },
+      { "punkt": "Sicherheit im See- und Küstenbereich - Sorgfaltsregeln für Wassersportler", "synonyme": ["Sicherheit im See- und Küstenbereich", "Sorgfaltsregeln für Wassersportler", "Sorgfaltsregeln", "Küstenbereich"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "11-2",
+    "kurzantwort": "Segeln verboten; Motorboote dürfen zusätzlich Segel setzen; ein Motor-Sportboot darf nur ein Sportboot schleppen.",
+    "erklaerung": "Im engen, stark befahrenen Nord-Ostsee-Kanal muss sicher und vorhersehbar manövriert werden, deshalb ist reines Segeln untersagt. Maschinenkraft muss immer vorhanden und nutzbar sein, Segel dürfen nur unterstützend gesetzt werden.",
+    "kernpunkte": [
+      { "punkt": "Segeln ist auf dem NOK verboten", "synonyme": ["Segeln verboten", "kein Segeln", "nur unter Maschine", "Segelverbot"] },
+      { "punkt": "Motor-Sportfahrzeuge dürfen zusätzlich Segel setzen", "synonyme": ["zusätzlich Segel setzen", "Segel unterstützend", "Maschine plus Segel", "Motorantrieb"] },
+      { "punkt": "Ein Motor-Sportfahrzeug darf nur ein Sportfahrzeug schleppen", "synonyme": ["nur ein Sportfahrzeug schleppen", "Schleppen begrenzt", "ein Boot schleppen", "Schlepp"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "11-3",
+    "kurzantwort": "Missweisung ist in der Seekarte eingedruckt (für ein Bezugsjahr); mit der angegebenen jährlichen Änderung auf das aktuelle Jahr berichtigen.",
+    "erklaerung": "Das Erdmagnetfeld verändert sich langsam, daher gilt die eingedruckte Missweisung nur für ein bestimmtes Jahr. Über die jährliche Änderung rechnet man den Wert auf das Benutzungsjahr hoch, damit Kompasskurse korrekt sind.",
+    "kernpunkte": [
+      { "punkt": "In der Seekarte eingedruckt für ein bestimmtes Jahr", "synonyme": ["Seekarte", "Kompassrose", "eingedruckt", "Bezugsjahr"] },
+      { "punkt": "Mit jährlicher Änderung auf das Benutzungsjahr berichtigen", "synonyme": ["jährliche Änderung", "berichtigen", "auf aktuelles Jahr umrechnen", "annual change"] }
+    ],
+    "wichtigkeit": 3
+  },
+  {
+    "id": "11-4",
+    "kurzantwort": "Vorgeschriebene Prüftermine einhalten (Prüfplakette) und Feuerlöscher vor Feuchtigkeit/Korrosion schützen.",
+    "erklaerung": "Ein Feuerlöscher rettet im Brandfall nur, wenn er funktioniert. Regelmäßige Prüfung sichert Druck und Funktion, Schutz vor Nässe verhindert Rost und Festsetzen der Mechanik.",
+    "kernpunkte": [
+      { "punkt": "Prüftermine einhalten, ersichtlich an der Prüfplakette", "synonyme": ["Prüftermin", "Prüfplakette", "regelmäßige Prüfung", "Wartung", "geprüft"] },
+      { "punkt": "Vor Feuchtigkeit und Korrosion schützen", "synonyme": ["Feuchtigkeit", "Korrosion", "Rost", "trocken lagern", "Schutz"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "11-5",
+    "kurzantwort": "Impeller, Reservekeilriemen, Motorenöl, Dichtungsmaterial.",
+    "erklaerung": "Diese Teile fallen am ehesten aus oder verschleißen und lassen sich an Bord selbst wechseln. So bleibt der Motor auch fern vom Hafen einsatzfähig.",
+    "kernpunkte": [
+      { "punkt": "Impeller der Wasserpumpe", "synonyme": ["Impeller", "Wasserpumpe", "Kühlwasserpumpe", "Flügelrad"] },
+      { "punkt": "Reservekeilriemen", "synonyme": ["Keilriemen", "Reservekeilriemen", "Riemen", "Antriebsriemen"] },
+      { "punkt": "Motorenöl", "synonyme": ["Motoröl", "Motorenöl", "Öl", "Schmieröl"] },
+      { "punkt": "Dichtungsmaterial", "synonyme": ["Dichtungen", "Dichtungsmaterial", "Dichtmaterial", "Dichtungssatz"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "11-6",
+    "kurzantwort": "Windstärke: Beaufort (Bft). Windgeschwindigkeit: kn, m/s und km/h.",
+    "erklaerung": "Die Windstärke wird über die Beaufortskala in Stufen klassifiziert, die Windgeschwindigkeit dagegen als messbarer Wert angegeben. Im Seewetterbericht ist Knoten gebräuchlich.",
+    "kernpunkte": [
+      { "punkt": "Windstärke in Beaufort (Bft)", "synonyme": ["Beaufort", "Bft", "Beaufortskala", "Windstärke"] },
+      { "punkt": "Windgeschwindigkeit in kn, m/s, km/h", "synonyme": ["Knoten", "kn", "m/s", "km/h", "Meter pro Sekunde"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "11-7",
+    "kurzantwort": "Rechtweisend in Grad, im Uhrzeigersinn (rechtsherum) von 000° bis 360° zählend.",
+    "erklaerung": "Einheitliche Richtungsangaben verhindern Missverständnisse. Bezugspunkt ist rechtweisend Nord (geografisch), gezählt wird im Uhrzeigersinn über die volle 360°-Skala.",
+    "kernpunkte": [
+      { "punkt": "Rechtweisend in Grad", "synonyme": ["rechtweisend", "Grad", "geografisch Nord", "rwN", "000-360"] },
+      { "punkt": "Im Uhrzeigersinn (rechtsherum) zählend", "synonyme": ["im Uhrzeigersinn", "rechtsherum", "rechtsdrehend", "clockwise"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "11-8",
+    "kurzantwort": "1. Seeventil öffnen, 2. spülen + Fäkalien abpumpen, 3. Seewasserzufuhr schließen, 4. Becken leerpumpen, 5. Seeventile schließen.",
+    "erklaerung": "Die richtige Reihenfolge verhindert Geruch, Verstopfung und vor allem Wassereinbruch: Offene Seeventile können unbemerkt volllaufen lassen, deshalb werden sie nach Gebrauch immer geschlossen.",
+    "kernpunkte": [
+      { "punkt": "Seeventil für Seewasserspülung öffnen", "synonyme": ["Seeventil öffnen", "Zulauf öffnen", "Seewasser öffnen", "Ventil auf"] },
+      { "punkt": "Spülen und Fäkalien mit Handpumpe abpumpen", "synonyme": ["spülen", "Handpumpe", "pumpen", "Fäkalien abfließen"] },
+      { "punkt": "Seewasserzufuhr unterbrechen (Hebel umlegen)", "synonyme": ["Zufuhr unterbrechen", "Hebel umlegen", "trocken pumpen umstellen", "Spülung stoppen"] },
+      { "punkt": "Becken leerpumpen, danach Seeventile schließen", "synonyme": ["leerpumpen", "Seeventile schließen", "Ventile zu", "abriegeln"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "11-9",
+    "kurzantwort": "Segel verkleinern/reffen, Rettungswesten und Lifebelts anlegen, Position eintragen.",
+    "erklaerung": "Beim Gewitter drohen plötzliche Böen, daher rechtzeitig Segelfläche reduzieren, bevor der Wind einfällt. Sicherheitsausrüstung schützt die Crew, die notierte Position hilft bei Ausfall der Elektronik.",
+    "kernpunkte": [
+      { "punkt": "Vorsegel verkleinern, Großsegel klar zum Reffen/Bergen", "synonyme": ["Segel verkleinern", "reffen", "bergen", "Segelfläche reduzieren", "Vorsegel"] },
+      { "punkt": "Schlechtwetterkleidung, Sicherheitsgurte und Rettungswesten anlegen", "synonyme": ["Rettungsweste", "Lifebelt", "Sicherheitsgurt", "Schlechtwetterkleidung", "anschnallen"] },
+      { "punkt": "Position in die Karte eintragen", "synonyme": ["Position eintragen", "Standort notieren", "Position", "Koppelort"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "11-10",
+    "kurzantwort": "Automatisches Identifizierungssystem (Automatic Identification System).",
+    "erklaerung": "AIS sendet und empfängt automatisch Schiffsdaten wie Name, Position, Kurs und Geschwindigkeit über UKW. So erkennen Schiffe einander frühzeitig und können Kollisionen besser vermeiden.",
+    "kernpunkte": [
+      { "punkt": "Automatisches Identifizierungssystem", "synonyme": ["Automatic Identification System", "automatisches Identifizierungssystem", "AIS", "Schiffsidentifikation", "Identifizierungssystem"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "11-11",
+    "kurzantwort": "Altocumulus castellanus (mittelhohe türmchenartige Haufenwolken).",
+    "erklaerung": "Die türmchenartige Form zeigt schon morgens labile Schichtung in der Höhe an. Das ist ein typisches Vorzeichen für kräftige Wärmegewitter im Tagesverlauf.",
+    "kernpunkte": [
+      { "punkt": "Altocumulus castellanus / türmchenartige Haufenwolken", "synonyme": ["Altocumulus castellanus", "castellanus", "Türmchenwolken", "türmchenartig", "mittelhohe Haufenwolken", "Ac cas"] }
+    ],
+    "wichtigkeit": 1
+  },
+  {
+    "id": "11-12",
+    "kurzantwort": "Am Berichtigungsstempel auf der Rückseite der Seekarte.",
+    "erklaerung": "Britische Seekarten tragen rückseitig einen Stempel, der die letzte amtliche Korrektur dokumentiert. So sieht man auf einen Blick, bis zu welcher Notice to Mariners die Karte berichtigt ist.",
+    "kernpunkte": [
+      { "punkt": "Berichtigungsstempel auf der Rückseite", "synonyme": ["Berichtigungsstempel", "Stempel", "Rückseite", "auf der Karte rückseitig", "correction stamp"] }
+    ],
+    "wichtigkeit": 1
+  },
+  {
+    "id": "11-13",
+    "kurzantwort": "Auf Kartennull (KN).",
+    "erklaerung": "Kartennull ist die Bezugsebene für Wassertiefen, an der deutschen Küste meist ein niedriger Wasserstand (z. B. SKN/LAT). Dadurch sind die angegebenen Tiefen die Sicherheits-Mindesttiefen, die selten unterschritten werden.",
+    "kernpunkte": [
+      { "punkt": "Kartennull (KN)", "synonyme": ["Kartennull", "KN", "Seekartennull", "SKN", "Bezugsniveau Tiefen", "LAT"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "11-14",
+    "kurzantwort": "Der Augenblick des ersten Insichtkommens; eine spätere Lageänderung ändert die Verantwortlichkeit nicht.",
+    "erklaerung": "Wer beim ersten Sichtkontakt ausweichpflichtig ist, bleibt es bis zum Klären der Situation. Das schafft klare Verhältnisse und verhindert, dass durch Manöver die Rollen ständig wechseln.",
+    "kernpunkte": [
+      { "punkt": "Augenblick des ersten Insichtkommens", "synonyme": ["erstes Insichtkommen", "erster Sichtkontakt", "in Sicht kommen", "Insichtkommen", "erste Sicht"] },
+      { "punkt": "Spätere Lageänderung ändert die Verantwortlichkeit nicht", "synonyme": ["bleibt ausweichpflichtig", "keine Änderung der Verantwortlichkeit", "Rollen bleiben", "Ausweichpflicht bleibt"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "11-15",
+    "kurzantwort": "Der Lenzkorb verhindert Verstopfungen der Pumpe; regelmäßig prüfen und reinigen.",
+    "erklaerung": "Der Korb am Ansaugstutzen hält Schmutz und Fremdkörper zurück, damit die Lenzpumpe nicht verstopft. Nur eine regelmäßig gereinigte Pumpe lenzt im Ernstfall zuverlässig.",
+    "kernpunkte": [
+      { "punkt": "Verhindert Verunreinigungen/Verstopfungen der Lenzpumpe", "synonyme": ["Verstopfung verhindern", "Schmutz zurückhalten", "Fremdkörper", "Sieb", "Filter"] },
+      { "punkt": "Regelmäßig überprüfen und reinigen", "synonyme": ["reinigen", "überprüfen", "säubern", "Wartung", "regelmäßig kontrollieren"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "11-16",
+    "kurzantwort": "Die Fahrt über Grund (FüG).",
+    "erklaerung": "GPS bestimmt die Position über Satelliten, daraus ergibt sich die tatsächliche Bewegung über den Meeresboden. Strom und Wind sind darin bereits enthalten - im Gegensatz zur Fahrt durchs Wasser des Logs.",
+    "kernpunkte": [
+      { "punkt": "Fahrt über Grund (FüG)", "synonyme": ["Fahrt über Grund", "FüG", "SOG", "Speed over Ground", "Geschwindigkeit über Grund"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "11-17",
+    "kurzantwort": "Es entsteht eine kurze, steile und kabbelige See.",
+    "erklaerung": "Wind gegen Strom staucht die Wellen: Sie werden kürzer, steiler und brechen leichter. Solch eine kabbelige See ist unangenehm und kann gefährlich werden.",
+    "kernpunkte": [
+      { "punkt": "Kurze, steile und kabbelige See", "synonyme": ["kurze steile See", "kabbelig", "Kabbelwasser", "steile Wellen", "Wind gegen Strom"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "11-18",
+    "kurzantwort": "Laufzeit-/Abstandsmessung der Signale mehrerer Satelliten zum Empfänger ergibt die Position.",
+    "erklaerung": "Aus der Laufzeit des Funksignals errechnet der Empfänger den Abstand zu jedem Satelliten. Durch das Schneiden mehrerer dieser Abstandskugeln ergibt sich der eigene Standort.",
+    "kernpunkte": [
+      { "punkt": "Laufzeitmessung der Satellitensignale", "synonyme": ["Laufzeitmessung", "Signallaufzeit", "Laufzeit", "Zeitmessung", "Signal vom Satellit"] },
+      { "punkt": "Abstandsmessung zu den Satelliten ermöglicht Ortsbestimmung", "synonyme": ["Abstandsmessung", "Entfernung zu Satelliten", "Ortsbestimmung", "Position berechnen", "Distanzmessung"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "11-19",
+    "kurzantwort": "Eine Skala zur Anzeige des Wasserstandes.",
+    "erklaerung": "Ein Pegel misst die Höhe des Wasserstands gegenüber einem festen Bezugspunkt. So lassen sich Tide, Hoch- und Niedrigwasser ablesen und überwachen.",
+    "kernpunkte": [
+      { "punkt": "Skala zur Anzeige des Wasserstandes", "synonyme": ["Wasserstand", "Skala", "Messlatte", "Pegelstand", "Wasserstandsmesser"] }
+    ],
+    "wichtigkeit": 1
+  },
+  {
+    "id": "11-20",
+    "kurzantwort": "Es zieht die Ankertrosse auf den Grund, sorgt für flachen Zugwinkel und wirkt ruckdämpfend.",
+    "erklaerung": "Ein flacher Zugwinkel am Anker verbessert dessen Halt, weil der Anker dann nicht aus dem Grund gebrochen wird. Zusätzlich dämpft das Gewicht ruckartige Belastungen bei Schwell.",
+    "kernpunkte": [
+      { "punkt": "Zieht die Ankertrosse auf den Grund / flacher Zugwinkel", "synonyme": ["Trosse auf den Grund", "flacher Winkel", "Zugwinkel", "Anker hält besser", "kein Ausbrechen"] },
+      { "punkt": "Wirkt ruckdämpfend", "synonyme": ["ruckdämpfend", "Stöße dämpfen", "Dämpfung", "federnd", "Ruckbelastung mindern"] }
+    ],
+    "wichtigkeit": 1
+  },
+  {
+    "id": "11-21",
+    "kurzantwort": "Großschot, Traveller, Unterliekstrecker, Cunningham, Großfall, Achterstagspanner.",
+    "erklaerung": "Über diese Trimmeinrichtungen lassen sich Twist, Profiltiefe und Anstellwinkel des Großsegels einstellen. So passt man das Segel an Wind und Kurs an, um Vortrieb und Höhe zu optimieren.",
+    "kernpunkte": [
+      { "punkt": "Großschot", "synonyme": ["Großschot", "Schot", "Mainsheet"] },
+      { "punkt": "Traveller", "synonyme": ["Traveller", "Großschotschlitten", "Schotschiene", "Schlitten"] },
+      { "punkt": "Unterliekstrecker", "synonyme": ["Unterliekstrecker", "Outhaul", "Unterliek"] },
+      { "punkt": "Cunninghamstrecker, Großfall, Achterstagspanner", "synonyme": ["Cunningham", "Cunninghamstrecker", "Großfall", "Achterstagspanner", "Achterstag"] }
+    ],
+    "wichtigkeit": 1
+  },
+  {
+    "id": "11-22",
+    "kurzantwort": "Starkwind-/Sturmwarnung, Wetterlage, Vorhersagen, Aussichten, Stationsmeldungen.",
+    "erklaerung": "Der Seewetterbericht ist immer gleich aufgebaut, damit man schnell die wichtigen Infos findet. Warnungen stehen zuerst, dann folgen Lage, Vorhersage, Ausblick und die gemessenen Stationswerte.",
+    "kernpunkte": [
+      { "punkt": "Starkwind-/Sturmwarnung", "synonyme": ["Starkwindwarnung", "Sturmwarnung", "Warnung", "Hinweise auf Starkwind"] },
+      { "punkt": "Wetterlage", "synonyme": ["Wetterlage", "allgemeine Lage", "Großwetterlage", "Lage"] },
+      { "punkt": "Vorhersagen und Aussichten", "synonyme": ["Vorhersage", "Aussichten", "Prognose", "Ausblick"] },
+      { "punkt": "Stationsmeldungen", "synonyme": ["Stationsmeldungen", "Stationswerte", "Messstationen", "Stationen"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "11-23",
+    "kurzantwort": "In deutschen und britischen Leuchtfeuerverzeichnissen.",
+    "erklaerung": "Die Leuchtfeuerverzeichnisse enthalten Tabellen, mit denen man aus Feuerhöhe und Augeshöhe den Abstand beim ersten Aufblitzen über der Kimm berechnet. Das hilft bei der Standortbestimmung in Landnähe.",
+    "kernpunkte": [
+      { "punkt": "Deutsche und britische Leuchtfeuerverzeichnisse", "synonyme": ["Leuchtfeuerverzeichnis", "Leuchtfeuerverzeichnisse", "List of Lights", "Feuerverzeichnis", "britisches Verzeichnis"] }
+    ],
+    "wichtigkeit": 1
+  },
+  {
+    "id": "11-24",
+    "kurzantwort": "Sicherheit und Leichtigkeit des Verkehrs gewährleisten und andere nicht schädigen, gefährden, behindern oder belästigen.",
+    "erklaerung": "Diese Grundregeln stehen über allen Einzelvorschriften und gelten gegenüber jedermann, nicht nur anderen Schiffen. Sie verlangen vorausschauendes, rücksichtsvolles Verhalten auf dem Wasser.",
+    "kernpunkte": [
+      { "punkt": "Sicherheit und Leichtigkeit des Verkehrs gewährleisten", "synonyme": ["Sicherheit und Leichtigkeit", "Verkehr sicher", "Verkehrsfluss", "Sicherheit gewährleisten"] },
+      { "punkt": "Andere nicht schädigen, gefährden, behindern oder belästigen", "synonyme": ["nicht gefährden", "nicht behindern", "nicht schädigen", "nicht belästigen", "Rücksicht"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "11-25",
+    "kurzantwort": "Kielrichtung (rwK) möglichst rechtwinklig zur allgemeinen Verkehrsrichtung halten.",
+    "erklaerung": "Ein rechtwinkliges Queren verkürzt die Zeit im Verkehrsstrom und macht die eigene Absicht für andere klar erkennbar. Maßgeblich ist die Kielrichtung, nicht der durch Strom versetzte Kurs über Grund.",
+    "kernpunkte": [
+      { "punkt": "Kielrichtung möglichst rechtwinklig zur Verkehrsrichtung", "synonyme": ["rechtwinklig queren", "im rechten Winkel", "90 Grad", "Kielrichtung rwK", "quer zur Verkehrsrichtung"] }
+    ],
+    "wichtigkeit": 3
+  },
+  {
+    "id": "11-26",
+    "kurzantwort": "Ein Fahrzeug, das wegen außergewöhnlicher Umstände (z. B. Ruderbruch) nicht regelgerecht manövrieren und daher nicht ausweichen kann.",
+    "erklaerung": "Manövrierunfähigkeit entsteht unfreiwillig durch einen Defekt oder besondere Umstände, anders als beim freiwilligen Stoppen. Solche Fahrzeuge genießen Vorrang, weil sie ihren Kurs nicht mehr ändern können.",
+    "kernpunkte": [
+      { "punkt": "Außergewöhnliche Umstände, z. B. Ruderbruch/Maschinenausfall", "synonyme": ["außergewöhnliche Umstände", "Ruderbruch", "Maschinenausfall", "Defekt", "Havarie"] },
+      { "punkt": "Kann nicht regelgerecht manövrieren / nicht ausweichen", "synonyme": ["nicht manövrieren", "nicht ausweichen", "manövrierunfähig", "kann nicht steuern", "nicht regelgerecht"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "11-27",
+    "kurzantwort": "Mit den Etesien (dem Meltemi).",
+    "erklaerung": "Der Meltemi ist ein meist nördlicher Sommerwind in der Ägäis, der über Tage kräftig und böig wehen kann. Er entsteht durch das Druckgefälle zwischen dem Hoch über dem Balkan und dem Tief über der Türkei.",
+    "kernpunkte": [
+      { "punkt": "Etesien / Meltemi", "synonyme": ["Etesien", "Meltemi", "Sommerwind Ägäis", "Nordwind Ägäis", "Etesienwind"] }
+    ],
+    "wichtigkeit": 1
+  },
+  {
+    "id": "11-28",
+    "kurzantwort": "Deutliches Abweichen vom Fahrwasserverlauf, nach allgemeiner Meinung mehr als 10°.",
+    "erklaerung": "Wer nur dem Fahrwasser folgt, quert nicht. Erst ein deutliches Abweichen - etwa beim Kreuzen eines Seglers über die Fahrwasserbreite - gilt als Queren mit den entsprechenden Pflichten gegenüber der Durchgangsschifffahrt.",
+    "kernpunkte": [
+      { "punkt": "Deutliches Abweichen vom Fahrwasserverlauf, mehr als 10°", "synonyme": ["deutliches Abweichen", "mehr als 10 Grad", "über 10°", "vom Fahrwasserverlauf abweichen", "Fahrwasser verlassen"] },
+      { "punkt": "z. B. Kreuzen über die Fahrwasserbreite", "synonyme": ["Kreuzen", "über die Fahrwasserbreite", "queren des Fahrwassers", "Segelfahrzeug kreuzt"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "11-29",
+    "kurzantwort": "Durch Feuchtezufuhr, Mischung feuchter Luftmassen unterschiedlicher Temperatur oder Abkühlung der Luft.",
+    "erklaerung": "Nebel entsteht, wenn Luft ihren Taupunkt erreicht und Wasserdampf kondensiert. Das passiert durch zusätzliche Feuchte, durch Abkühlung (z. B. über kaltem Wasser) oder durch Mischung verschieden temperierter feuchter Luftmassen.",
+    "kernpunkte": [
+      { "punkt": "Zufuhr von Feuchte", "synonyme": ["Feuchtezufuhr", "Feuchte", "Wasserdampf", "Luftfeuchtigkeit", "Verdunstung"] },
+      { "punkt": "Mischung feuchter Luftmassen verschiedener Temperatur", "synonyme": ["Mischung Luftmassen", "Mischungsnebel", "verschiedene Temperaturen", "warme und kalte Luft"] },
+      { "punkt": "Abkühlung der Luftmasse", "synonyme": ["Abkühlung", "Taupunkt unterschritten", "Kondensation", "abkühlen", "Strahlungsnebel"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "11-30",
+    "kurzantwort": "Zwischen zwei GFK-Schichten wird ein versteifender Kern einlaminiert, z. B. Balsaholz.",
+    "erklaerung": "Die Sandwichbauweise erhöht bei geringem Gewicht die Steifigkeit, weil der Kern die beiden Decklagen auf Abstand hält. Als Kernmaterial dienen z. B. Balsaholz oder Schaum.",
+    "kernpunkte": [
+      { "punkt": "Versteifende Zwischenlage zwischen zwei GFK-Schichten", "synonyme": ["Zwischenlage", "Kern", "zwischen zwei GFK-Schichten", "Stützkern", "Versteifung"] },
+      { "punkt": "Kernmaterial z. B. Balsaholz (oder Schaum)", "synonyme": ["Balsaholz", "Balsa", "Schaumkern", "Hartschaum", "Kernmaterial"] }
+    ],
+    "wichtigkeit": 1
+  }
+]

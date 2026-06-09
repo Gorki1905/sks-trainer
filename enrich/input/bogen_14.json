@@ -1,0 +1,152 @@
+[
+  {
+    "id": "14-1",
+    "frage": "Während einer Revierfahrt erkennen Sie ein Signal an Land, jeweils schwarze Signalkörper: 1. Was bedeutet dieses Signal?",
+    "musterantwort": "1. Außergewöhnliche Schifffahrtsbehinderung. 2. Nachts: Rundumlichter rot-rot-grün senkrecht übereinander."
+  },
+  {
+    "id": "14-2",
+    "frage": "Welches Signal wird stattdessen nachts gezeigt? 2. 1. Wie weht der Wind über See in Bodennähe um ein Hochdruckgebiet? 2. Mit wie viel Grad Änderung in der Windrichtung müssen Sie etwa rechnen?",
+    "musterantwort": "1. Der Wind weht nicht parallel zu den Isobaren, er ist rückgedreht und weht aus dem Hoch hinaus. 2. Ein bis zwei Strich bzw. 10° bis 20°."
+  },
+  {
+    "id": "14-3",
+    "frage": "Worauf müssen Sie vor dem Setzen des Großsegels achten? Welche Gefahr besteht nach dem Setzen des Großsegels, solange der Wind von vorne kommt?",
+    "musterantwort": "1. Großschot und Baumniederholer müssen ausreichend Lose haben. 2. Das Großfall muss frei laufen und darf nicht vertörnt sein. 3. Verletzungsgefahr durch schlagenden Großbaum."
+  },
+  {
+    "id": "14-4",
+    "frage": "Was sollte nach dem Anlassen der Maschine kontrolliert werden?",
+    "musterantwort": "1. Kühlwasserdurchlauf, 2. Öldruck und Ladung, 3. Motorengeräusche und 4. Auspuffgase."
+  },
+  {
+    "id": "14-5",
+    "frage": "Welchen Fahrzeugen muss eine Motoryacht ausweichen?",
+    "musterantwort": "1. Manövrierunfähigen Fahrzeugen, 2. manövrierbehinderten Fahrzeugen, 3. fischenden Fahrzeugen, 4. Segelfahrzeugen, 5. ggf. einem anderen Maschinenfahrzeug."
+  },
+  {
+    "id": "14-6",
+    "frage": "Nennen Sie zwei Möglichkeiten der Ortsbestimmung, wenn Sie nur ein Objekt mit bekannten Merkmalen (z. B. Leuchtturm) in Sicht haben.",
+    "musterantwort": "1. Peilung und Abstand (Feuer in der Kimm, Radarabstand), 2. Peilung und Lotung."
+  },
+  {
+    "id": "14-7",
+    "frage": "Wie erkennen Sie, ob der Anker hält?",
+    "musterantwort": "1. Vibration von Kette oder Trosse prüfen, 2. Einrucken des Ankers prüfen, 3. durch wiederholte Peilungen und ggf. Schätzungen des Abstands zu anderen Schiffen oder zu Landmarken, 4. falls GPS vorhanden ist, die Ankeralarmfunktion einschalten."
+  },
+  {
+    "id": "14-8",
+    "frage": "Wann kann man sich auf die Verfügbarkeit und Anzeige von AIS-Signalen anderer Fahrzeuge verlassen? Nennen Sie die wesentlichen Voraussetzungen!",
+    "musterantwort": "Andere Fahrzeuge werden nur angezeigt, wenn das Fahrzeug auch sendet, d. h., wenn 1. das Fahrzeug mit AIS ausgerüstet ist, 2. das sendende Fahrzeug AIS nicht abgeschaltet hat (darf der Kapitän allerdings nur bei bestimmten zwingenden Gründen), 3. GPS aktiv ist und 4. aus Kapazitätsgründen (z. B. durch zu viele Schiffe in einem Seegebiet = \"target overflow\") keine Fahrzeuge ausgeschlossen werden."
+  },
+  {
+    "id": "14-9",
+    "frage": "Worauf müssen Sie bei Ihren Automatikrettungswesten hinsichtlich der Funktionssicherheit achten?",
+    "musterantwort": "Auf regelmäßige Wartung. Wartungsfälligkeit erkennbar an der farbigen Serviceplakette."
+  },
+  {
+    "id": "14-10",
+    "frage": "Worauf müssen Sie als Schiffsführer vor Reiseantritt hinsichtlich der Seekarten und Seebücher achten?",
+    "musterantwort": "Auf Vollständigkeit der Unterlagen und deren Berichtigung auf den neuesten Stand."
+  },
+  {
+    "id": "14-11",
+    "frage": "Aus welchen nautischen Publikationen können Sie Sperr- und Verbotsgebiete mit ihren Grenzen ersehen?",
+    "musterantwort": "Aus den Seekarten, Bekanntmachungen für Seefahrer (BfS) und Nautischen Warnnachrichten (NWN)."
+  },
+  {
+    "id": "14-12",
+    "frage": "Was muss ein Sportfahrzeug in Bezug auf das Fahrwasser beachten, wenn es außerhalb des Fahrwassers fährt?",
+    "musterantwort": "Außerhalb des Fahrwassers ist so zu fahren, dass klar erkennbar ist, dass das Fahrwasser nicht benutzt wird"
+  },
+  {
+    "id": "14-13",
+    "frage": "Sie sehen in der Dämmerung in der Nordsee in der Zufahrt zur Jade einen großen Tanker mit der üblichen Lichterführung, auf dem kurze Zeit später die Lichter rot-weiß-rot senkrecht übereinander zusätzlich zu den Fahrtlichtern gesetzt werden. Welche rechtliche Bedeutung hat die geänderte Signalgebung für Sie?",
+    "musterantwort": "Beim Erreichen des Geltungsbereiches der SeeSchStrO kennzeichnet sich der Tanker als Wegerechtschiff, das als manövrierbehindertes Fahrzeug gilt. Diesem so gekennzeichneten Fahrzeug muss im Falle einer Kollisionsgefahr ausgewichen werden"
+  },
+  {
+    "id": "14-14",
+    "frage": "Warum sollte die Crew vor Reisebeginn in die Funktion des Ankergeschirrs und die Durchführung eines Ankermanövers eingewiesen werden?",
+    "musterantwort": "Damit jeder den Anker sicher ausbringen und einholen kann."
+  },
+  {
+    "id": "14-15",
+    "frage": "Gilt das MARPOL-Übereinkommen grundsätzlich auch für Sportfahrzeuge?",
+    "musterantwort": "Das MARPOL-Übereinkommen gilt grundsätzlich für alle Schiffe, somit auch für Sportfahrzeuge."
+  },
+  {
+    "id": "14-16",
+    "frage": "Wie müssen Sie sich verhalten, nachdem Sie ein vorgeschriebenes Ausweichmanöver eingeleitet haben?",
+    "musterantwort": "Der Erfolg des Manövers ist laufend zu überprüfen, bis das andere Fahrzeug klar passiert ist."
+  },
+  {
+    "id": "14-17",
+    "frage": "Das Unterliek Ihres Vorsegels killt. Was ist die Ursache?",
+    "musterantwort": "Der Holepunkt der Schot liegt zu weit vorne."
+  },
+  {
+    "id": "14-18",
+    "frage": "Welche Unterlage steht Ihnen zur Verfügung zur Berichtigung von britischen Seekarten, die nicht von den NfS erfasst werden?",
+    "musterantwort": "Die britischen Notices to Mariners."
+  },
+  {
+    "id": "14-19",
+    "frage": "Was bedeutet die Abkürzung GPS?",
+    "musterantwort": "Global Positioning System."
+  },
+  {
+    "id": "14-20",
+    "frage": "Sie wollen einen Törn in einem für Sie fremden Küstenrevier fahren. Wie können Sie sich über mittlere Windverhältnisse für bestimmte Jahreszeiten oder Monate informieren?",
+    "musterantwort": "In den entsprechenden Hafen-, Revierführern. Außerdem z. B. in Monatskarten."
+  },
+  {
+    "id": "14-21",
+    "frage": "Wo finden Sie Angaben über Brückensignale?",
+    "musterantwort": "In den See- und Hafenhandbüchern und in den Seekarten."
+  },
+  {
+    "id": "14-22",
+    "frage": "Welcher Seegang ist in Lee kleiner Inseln zu erwarten?",
+    "musterantwort": "Kreuzlaufende See, die meist kurz und kabbelig ist."
+  },
+  {
+    "id": "14-23",
+    "frage": "Welchen Abstand muss magnetisierbares Material vom Magnetkompass haben",
+    "musterantwort": "Mindestens 1 Meter."
+  },
+  {
+    "id": "14-24",
+    "frage": "Was bedeutet der Begriff \"Kategorie\" im Zusammenhang mit dem CE-Zeichen für Wassersportfahrzeuge?",
+    "musterantwort": "Mit der Kategorie legt der Hersteller fest, in welchem Fahrgebiet, bis zu welcher Windstärke und bis zu welcher charakteristischen Wellenhöhe das Fahrzeug sicher betrieben werden kann."
+  },
+  {
+    "id": "14-25",
+    "frage": "Sie segeln mit Ihrer Yacht \"raumschots\". Nach der nächsten Tonne müssen Sie anluven. Wie wird sich die wahre Windgeschwindigkeit auf Ihrem Windmesser/Anemometer entwickeln?",
+    "musterantwort": "Sie bleib unverändert."
+  },
+  {
+    "id": "14-26",
+    "frage": "Wie haben Segelfahrzeuge in einem Fahrwasser der SeeSchStrO untereinander auszuweichen, wenn sie nicht deutlich der Richtung eines Fahrwassers folgen?",
+    "musterantwort": "Sie haben untereinander nach den Regeln der KVR auszuweichen, wenn sie dadurch vorfahrtberechtigte Fahrzeuge nicht gefährden oder behindern."
+  },
+  {
+    "id": "14-27",
+    "frage": "Warum kann eine Leeküste bei schwerem Wetter einer Segelyacht gefährlich werden?",
+    "musterantwort": "Wenn die Yacht sich nicht freikreuzen kann, droht Strandung."
+  },
+  {
+    "id": "14-28",
+    "frage": "Welche Bedeutung für die Wetterentwicklung hat ein Halo um die Sonne und ein Hof um den Mond?",
+    "musterantwort": "Wolkenaufzug, meist Cirrostratus. Ggf. Niederschlag und Wetterverschlechterung."
+  },
+  {
+    "id": "14-29",
+    "frage": "Welches Kleinmaterial und Kleinwerkzeug muss an Bord jederzeit greifbar sein?",
+    "musterantwort": "Zeisinge, Bändselwerk, Tape, Reserveschäkel, Schäkelöffner, Bordmesser und Kombizange."
+  },
+  {
+    "id": "14-30",
+    "frage": "Welche Bedeutung haben die Angaben \"Nippzeit\" bzw. \"Springzeit\" für die Gezeitenströme?",
+    "musterantwort": "Zur Springzeit setzen die Gezeitenströme z. T. deutlich stärker als zur Nippzeit."
+  }
+]

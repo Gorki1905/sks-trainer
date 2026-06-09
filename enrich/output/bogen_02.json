@@ -1,0 +1,320 @@
+[
+  {
+    "id": "2-1",
+    "kurzantwort": "Im Cockpit beaufsichtigen und gegen Überbordfallen sichern, Flüssigkeit (Wasser) zuführen, Blick auf Horizont/Küste, mit Arbeit beschäftigen.",
+    "erklaerung": "Seekranke werden teilnahmslos und unaufmerksam, daher Sturzgefahr über Bord – Aufsicht und Sicherung gehen vor. Frische Luft im Cockpit, ein fester Blickpunkt am Horizont und eine sinnvolle Beschäftigung beruhigen den Gleichgewichtssinn; das Trinken gleicht den Flüssigkeitsverlust durch Erbrechen aus.",
+    "kernpunkte": [
+      { "punkt": "Beaufsichtigen und gegen Überbordfallen sichern", "synonyme": ["sichern", "Lifebelt", "anleinen", "Aufsicht", "Cockpit", "nicht allein lassen", "Sturzgefahr"] },
+      { "punkt": "Flüssigkeitsverlust ausgleichen", "synonyme": ["trinken", "Wasser", "Flüssigkeit", "Dehydrierung vermeiden"] },
+      { "punkt": "Blick auf Horizont oder Küste richten", "synonyme": ["Horizont", "Küste", "festen Punkt anschauen", "Blickpunkt"] },
+      { "punkt": "mit Arbeiten beschäftigen", "synonyme": ["beschäftigen", "Aufgabe geben", "Tätigkeit", "ans Ruder"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "2-2",
+    "kurzantwort": "1. Bei Starkwind. 2. Unterliek- und Vorliekstrecker dichtholen, Großschot dicht, Großfall durchsetzen, Achterstag spannen, Traveller nach Lee.",
+    "erklaerung": "Ein flaches (bauchloses) Segel erzeugt weniger Auftrieb und Krängung – das ist bei viel Wind erwünscht. Durch Spannen der Lieken und Stage wird das Profil flacher gezogen; der Traveller nach Lee öffnet das Achterliek und lässt zusätzlich Druck ab (\"twist\").",
+    "kernpunkte": [
+      { "punkt": "Flach trimmen bei Starkwind", "synonyme": ["Starkwind", "viel Wind", "starker Wind", "bei Böen", "viel Druck"] },
+      { "punkt": "Unterliek- und Vorliekstrecker dichtholen", "synonyme": ["Unterliekstrecker", "Vorliekstrecker", "Cunningham", "Lieken durchsetzen", "Streckung"] },
+      { "punkt": "Großschot und Großfall dichtholen / durchsetzen", "synonyme": ["Großschot", "Großfall", "durchsetzen", "dichtholen"] },
+      { "punkt": "Achterstag spannen, Traveller nach Lee", "synonyme": ["Achterstag", "Backstag", "Traveller", "Travellerwagen nach Lee", "Niederholer"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "2-3",
+    "kurzantwort": "1. Europa: \"Handbuch Nautischer Funkdienst\" und \"Jachtfunkdienst\". 2. Europa und weltweit: \"Admiralty List of Radio Signals\" (ALRS).",
+    "erklaerung": "Diese amtlichen Werke listen Sendezeiten und Frequenzen der Seewetterberichte auf. Die deutschen Handbücher decken Europa ab, während die britische Admiralty List of Radio Signals weltweit gültige Angaben enthält.",
+    "kernpunkte": [
+      { "punkt": "Handbuch Nautischer Funkdienst und Jachtfunkdienst (Europa)", "synonyme": ["Handbuch Nautischer Funkdienst", "Jachtfunkdienst", "Nautischer Funkdienst", "BSH-Handbuch"] },
+      { "punkt": "Admiralty List of Radio Signals (Europa und weltweit)", "synonyme": ["Admiralty List of Radio Signals", "ALRS", "Admiralty", "weltweit"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "2-4",
+    "kurzantwort": "Vorher: gleichbleibend oder leicht fallend. Während: tiefster Wert. Nachher: deutlich steigend.",
+    "erklaerung": "Eine Kaltfront markiert den Übergang von warmer zu kalter Luft. Beim Durchzug ist man im Tiefdruckkern der Front, danach drängt kalte, schwere Luft nach und der Druck steigt rasch – oft begleitet von Wind- und Wetterbesserung mit Rückdrehen des Windes.",
+    "kernpunkte": [
+      { "punkt": "Vor der Front: gleichbleibend oder leicht fallend", "synonyme": ["gleichbleibend", "leicht fallend", "wenig fallend", "konstant"] },
+      { "punkt": "Während des Durchzugs: tiefster Wert", "synonyme": ["tiefster Wert", "Minimum", "niedrigster Druck", "Tiefpunkt"] },
+      { "punkt": "Nach der Front: deutlich steigend", "synonyme": ["steigt", "Anstieg", "deutlich steigend", "ansteigend"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "2-5",
+    "kurzantwort": "GPS: 10–20 m, DGPS: 1–10 m – jeweils bei rund 95 % Wahrscheinlichkeit.",
+    "erklaerung": "GPS-Positionen schwanken durch Atmosphäre und Bahnfehler. DGPS verbessert die Genauigkeit durch Korrektursignale von landgestützten Referenzstationen und ist deshalb deutlich genauer als das normale GPS.",
+    "kernpunkte": [
+      { "punkt": "GPS: 10–20 m bei ca. 95 %", "synonyme": ["GPS 10-20 m", "10 bis 20 m", "20 m", "95 %"] },
+      { "punkt": "DGPS: 1–10 m bei ca. 95 %", "synonyme": ["DGPS 1-10 m", "1 bis 10 m", "10 m", "genauer", "Differential GPS"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "2-6",
+    "kurzantwort": "Manövrierbehindertes Fahrzeug (rot-weiß-rot) mit Fahrt durchs Wasser. Du bist Überholer (achteraus, Hecklichtsektor) und musst ausweichen.",
+    "erklaerung": "Rot-weiß-rot senkrecht kennzeichnet ein manövrierbehindertes Fahrzeug, die Topp- und Seitenlichter zeigen Fahrt durchs Wasser. Da es \"nahezu achteraus\" steht, näherst du dich in seinem Hecklichtsektor – das macht dich nach den KVR zum Überholer, und der Überholer weicht immer aus.",
+    "kernpunkte": [
+      { "punkt": "Manövrierbehindertes Fahrzeug mit Fahrt durchs Wasser", "synonyme": ["manövrierbehindert", "rot-weiß-rot", "FdW", "Fahrt durchs Wasser", "behindert"] },
+      { "punkt": "Eigenes Boot ist Überholer und muss ausweichen", "synonyme": ["Überholer", "überholen", "ausweichen", "Hecklichtsektor", "achteraus", "wir weichen aus"] }
+    ],
+    "wichtigkeit": 3
+  },
+  {
+    "id": "2-7",
+    "kurzantwort": "Mehr Kette/Trosse stecken und ein Reitgewicht (Kettenvorläufer) einsetzen.",
+    "erklaerung": "Je länger die ausgesteckte Kette, desto flacher der Zugwinkel am Anker – er gräbt sich besser ein statt herausgerissen zu werden. Ein Reitgewicht drückt die Kette nach unten, verflacht den Zugwinkel zusätzlich und dämpft Rucke bei Böen.",
+    "kernpunkte": [
+      { "punkt": "Mehr Kette oder Trosse stecken", "synonyme": ["mehr Kette", "mehr Trosse", "mehr stecken", "Kette verlängern", "Steckverhältnis", "mehr Leine"] },
+      { "punkt": "Reitgewicht verwenden", "synonyme": ["Reitgewicht", "Kettengewicht", "Gewicht in die Kette", "Niederholgewicht"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "2-8",
+    "kurzantwort": "1. Deutliche Wetterverschlechterung mit erneut auffrischendem Wind bis Sturmstärke. 2. Troglage (Trog).",
+    "erklaerung": "Rückdrehender Wind und erneut fallender Luftdruck nach einer Kaltfront zeigen, dass ein nachfolgender Tiefausläufer – ein Trog – heranzieht. Damit kommt eine zweite Schlechtwetterphase mit auffrischendem Wind.",
+    "kernpunkte": [
+      { "punkt": "Erneute Wetterverschlechterung, auffrischender Wind bis Sturm", "synonyme": ["Wetterverschlechterung", "auffrischender Wind", "Sturm", "Sturmstärke", "stärkerer Wind"] },
+      { "punkt": "Troglage", "synonyme": ["Trog", "Troglage", "Tiefdruckrinne", "Höhentrog"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "2-9",
+    "kurzantwort": "Peilung eines Objekts liefert einen Peilstrahl, Abstandsmessung (VRM) einen Abstandskreis – der Schnittpunkt ist der Schiffsort.",
+    "erklaerung": "Radar liefert sowohl Richtung als auch Entfernung zu einem identifizierten Landobjekt. Jede Standlinie (Peilstrahl bzw. Abstandskreis) allein reicht nicht; erst der Schnittpunkt zweier Standlinien ergibt die Position. Schon ein Objekt genügt, wenn man Peilung und Abstand kombiniert.",
+    "kernpunkte": [
+      { "punkt": "Peilung gibt Peilstrahl als Standlinie", "synonyme": ["Peilung", "Seitenpeilung", "Peilstrahl", "Richtung", "Standlinie"] },
+      { "punkt": "Abstandsmessung mit VRM gibt Abstandskreis als Standlinie", "synonyme": ["Abstand", "Distanz", "VRM", "Variable Range Marker", "Abstandskreis", "Entfernung"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "2-10",
+    "kurzantwort": "1. Unter- und Oberfeuer in Deckpeilung, die als Richtlinie einen sicheren Kurs markieren. 2. In der Richtlinie, wenn beide senkrecht übereinander stehen.",
+    "erklaerung": "Richtfeuer bestehen aus einem tieferen Unterfeuer und einem höheren, dahinterstehenden Oberfeuer. Stehen beide genau übereinander (Deckpeilung), liegt man exakt auf der sicheren Kurslinie – etwa in einer Hafeneinfahrt oder zwischen Untiefen.",
+    "kernpunkte": [
+      { "punkt": "Unter- und Oberfeuer in Deckpeilung markieren sicheren Kurs/Richtlinie", "synonyme": ["Unterfeuer", "Oberfeuer", "Deckpeilung", "Richtlinie", "sicherer Kurs", "Leitlinie", "Fahrwasser"] },
+      { "punkt": "In Richtlinie, wenn beide senkrecht übereinander erscheinen", "synonyme": ["senkrecht übereinander", "in Deckung", "untereinander", "decken sich", "übereinander"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "2-11",
+    "kurzantwort": "1. Schifffahrtsangelegenheiten, 2. Naturverhältnisse, 3. Küstenkunde und Segelanweisungen.",
+    "erklaerung": "Die Seehandbücher des BSH ergänzen die Seekarte mit Text. Sie gliedern sich grob in rechtlich-organisatorische Themen (Schifffahrtsangelegenheiten), Umweltbedingungen (Naturverhältnisse) sowie konkrete Beschreibungen der Küste mit Anlaufhinweisen (Küstenkunde/Segelanweisungen).",
+    "kernpunkte": [
+      { "punkt": "Schifffahrtsangelegenheiten", "synonyme": ["Schifffahrtsangelegenheiten", "Vorschriften", "Verkehr", "rechtliche Hinweise"] },
+      { "punkt": "Naturverhältnisse", "synonyme": ["Naturverhältnisse", "Klima", "Wetter", "Strömung", "Gezeiten"] },
+      { "punkt": "Küstenkunde und Segelanweisungen", "synonyme": ["Küstenkunde", "Segelanweisungen", "Anlaufbeschreibung", "Küstenbeschreibung"] }
+    ],
+    "wichtigkeit": 1
+  },
+  {
+    "id": "2-12",
+    "kurzantwort": "Tiefe (0–2 km), mittelhohe (2–7 km) und hohe Wolken (7–13 km).",
+    "erklaerung": "Wolken werden nach ihrer Stockwerkhöhe eingeteilt. In den gemäßigten Breiten reichen tiefe Wolken bis etwa 2 km, mittelhohe bis ca. 7 km und hohe bis rund 13 km. Die Höhe gibt Hinweise auf Wolkenart und Wetterentwicklung.",
+    "kernpunkte": [
+      { "punkt": "Tiefe Wolken 0–2 km", "synonyme": ["tiefe Wolken", "0 bis 2 km", "2 km", "niedrig"] },
+      { "punkt": "Mittelhohe Wolken 2–7 km", "synonyme": ["mittelhohe Wolken", "2 bis 7 km", "7 km", "mittlere Höhe"] },
+      { "punkt": "Hohe Wolken 7–13 km", "synonyme": ["hohe Wolken", "7 bis 13 km", "13 km", "hoch"] }
+    ],
+    "wichtigkeit": 1
+  },
+  {
+    "id": "2-13",
+    "kurzantwort": "z. B. Tonnen-/Kabel-/Rohrleger, Bagger/Vermessungsfahrzeuge, Minenräumer, Versorger im Einsatz, Schleppverband mit eingeschränkter Manövrierfähigkeit.",
+    "erklaerung": "Manövrierbehindert ist ein Fahrzeug, das wegen seiner Arbeit nicht frei ausweichen kann. Typisch sind Fahrzeuge bei Arbeiten an Tonnen, Kabeln oder am Meeresboden sowie Schleppverbände, die ihren Kurs kaum ändern können.",
+    "kernpunkte": [
+      { "punkt": "Tonnen-, Kabel- oder Rohrleger im Einsatz", "synonyme": ["Tonnenleger", "Kabelleger", "Rohrleger", "Verlegen"] },
+      { "punkt": "Bagger oder Vermessungsfahrzeuge im Einsatz", "synonyme": ["Bagger", "Vermessungsfahrzeug", "Baggerschiff", "Vermessung"] },
+      { "punkt": "Minenräumer / Versorger im Einsatz", "synonyme": ["Minenräumfahrzeug", "Minensucher", "Versorger", "Versorgungsschiff", "Flugzeugträger"] },
+      { "punkt": "Schleppverband mit eingeschränkter Kursänderung", "synonyme": ["Schlepper", "Schleppverband", "Schleppvorgang", "Schleppzug"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "2-14",
+    "kurzantwort": "Wetter einholen; Sicherheitsausrüstung, Motor/Schaltung, Navigationsgeräte, Bilge, Lichter, Schall-/Lichtsignale prüfen; Wasser-/Kraftstoffvorrat und Seekarten kontrollieren.",
+    "erklaerung": "Vor dem Auslaufen muss das Schiff seetüchtig und die Crew sicher sein. Deshalb werden Wetter, Technik (Motor, Bilge, Navigationsgeräte), Sicherheits- und Signaleinrichtungen sowie Vorräte und Kartenmaterial systematisch durchgecheckt – das verhindert Pannen und Notlagen unterwegs.",
+    "kernpunkte": [
+      { "punkt": "Wetterbericht einholen", "synonyme": ["Wetterbericht", "Wetter", "Seewetter", "Vorhersage"] },
+      { "punkt": "Sicherheitsausrüstung kontrollieren", "synonyme": ["Sicherheitsausrüstung", "Rettungsmittel", "Rettungswesten", "Signalmittel"] },
+      { "punkt": "Technik prüfen: Motor/Schaltung, Bilge, Navigationsgeräte", "synonyme": ["Motor", "Schaltung", "Bilge", "nautische Geräte", "Maschine"] },
+      { "punkt": "Lichter, Signaleinrichtungen, Vorräte und Seekarten kontrollieren", "synonyme": ["Navigationslichter", "Lichter", "Schallsignal", "Kraftstoff", "Wasservorrat", "Seekarten"] }
+    ],
+    "wichtigkeit": 3
+  },
+  {
+    "id": "2-15",
+    "kurzantwort": "Aushang an amtlichen Aushangstellen (WSA, Hafen, WSP, Schleusen, Yachthäfen) des Reviers sowie im Internet unter www.elwis.de.",
+    "erklaerung": "Bekanntmachungen für Seefahrer informieren über aktuelle Änderungen (z. B. Sperrungen, Tonnen). Sie hängen an amtlichen Stellen im jeweiligen Revier aus und sind zusätzlich online bei ELWIS abrufbar, damit jeder rechtzeitig Kenntnis nehmen kann.",
+    "kernpunkte": [
+      { "punkt": "Aushang an amtlichen Aushangstellen im Revier", "synonyme": ["Aushang", "Aushangstellen", "WSA", "Wasser- und Schifffahrtsamt", "Hafenverwaltung", "Schleusen", "Yachthäfen"] },
+      { "punkt": "Internet unter www.elwis.de", "synonyme": ["Internet", "elwis", "www.elwis.de", "online", "ELWIS"] }
+    ],
+    "wichtigkeit": 1
+  },
+  {
+    "id": "2-16",
+    "kurzantwort": "Reichweite wie UKW, bei Handelsschiffen ca. 20–30 sm; abhängig von der Antennenhöhe.",
+    "erklaerung": "AIS sendet auf UKW-Frequenzen und ist daher quasi-optisch begrenzt. Je höher die Antenne, desto weiter der Funkhorizont. Große Schiffe mit hohen Antennen erreichen 20–30 sm, kleine Yachten deutlich weniger.",
+    "kernpunkte": [
+      { "punkt": "Reichweite entspricht UKW, ca. 20–30 sm", "synonyme": ["UKW", "VHF", "20-30 sm", "20 bis 30 Seemeilen", "Funkreichweite"] },
+      { "punkt": "Abhängig von der Antennenhöhe", "synonyme": ["Antennenhöhe", "Antenne", "Höhe der Antenne", "Funkhorizont"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "2-17",
+    "kurzantwort": "Meeresgewässer seewärts der Küstenlinie (mittl. Hochwasser) bzw. der Basislinie bis 12 sm Breite.",
+    "erklaerung": "Das Küstenmeer ist der bis zu 12 Seemeilen breite Streifen Meer, der an das Land grenzt und zum Hoheitsgebiet des Küstenstaates gehört. Gemessen wird ab der Küstenlinie bei mittlerem Hochwasser bzw. ab der Basislinie.",
+    "kernpunkte": [
+      { "punkt": "Seewärts der Küstenlinie/Basislinie bis 12 sm", "synonyme": ["12 sm", "12 Seemeilen", "Basislinie", "Küstenlinie", "mittleres Hochwasser", "Hoheitsgewässer"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "2-18",
+    "kurzantwort": "Möglichst hoch und fest angebrachten Radarreflektor verwenden – passiv oder besser aktiv (Radar-Transponder).",
+    "erklaerung": "Kunststoff- und Holzboote reflektieren Radarstrahlen kaum. Ein Radarreflektor wirft das Signal gebündelt zurück und erzeugt ein deutliches Echo. Möglichst hoch montiert vergrößert er die Sichtbarkeit; ein aktiver Reflektor (SART/RTE) verstärkt das Echo sogar.",
+    "kernpunkte": [
+      { "punkt": "Radarreflektor möglichst hoch und fest anbringen", "synonyme": ["Radarreflektor", "Reflektor", "hoch anbringen", "fest montiert", "Tripelspiegel"] },
+      { "punkt": "Passiver oder besser aktiver Reflektor", "synonyme": ["passiv", "aktiv", "aktiver Radarreflektor", "Radartransponder", "SART", "RTE"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "2-19",
+    "kurzantwort": "Entgegenkommender manövrierbehinderter Bagger (Unterwasserarbeiten) mit Fahrt durchs Wasser. Zwei Rhomben = freie Passierseite (Backbord), zwei Bälle = Passierbehinderung (Steuerbord).",
+    "erklaerung": "Zwei Bälle und zwei Rhomben übereinander kennzeichnen ein manövrierbehindertes Fahrzeug, das Unterwasserarbeiten ausführt, z. B. einen Bagger. Die Rhombenseite zeigt, wo man gefahrlos passieren darf, die Ballseite, wo ein Hindernis liegt – hier also Vorbeifahrt an Backbord des Baggers.",
+    "kernpunkte": [
+      { "punkt": "Manövrierbehindertes Fahrzeug bei Unterwasserarbeiten (Bagger), mit Fahrt durchs Wasser", "synonyme": ["manövrierbehindert", "Bagger", "Unterwasserarbeiten", "baggert", "Fahrt durchs Wasser", "entgegenkommend"] },
+      { "punkt": "Zwei Rhomben = freie Passierseite (hier Backbord)", "synonyme": ["Rhomben", "Rauten", "Passierseite", "freie Seite", "vorbeifahren", "Backbord"] },
+      { "punkt": "Zwei Bälle = Passierbehinderung (hier Steuerbord)", "synonyme": ["Bälle", "Kugeln", "Passierbehinderung", "Hindernis", "gesperrte Seite", "Steuerbord"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "2-20",
+    "kurzantwort": "Fahrverbot für Maschinenfahrzeuge und Wassermotorräder auf wegen Badebetrieb gesperrten Wasserflächen.",
+    "erklaerung": "Das gelbe rechtwinklige Kreuz (bzw. gelbe Band) auf weißen Tonnen oder Stangen kennzeichnet Badezonen. Dort dürfen Maschinenfahrzeuge und Wassermotorräder nicht fahren, um Badende zu schützen.",
+    "kernpunkte": [
+      { "punkt": "Fahrverbot für Maschinenfahrzeuge und Wassermotorräder", "synonyme": ["Fahrverbot", "Sperrung", "Maschinenfahrzeuge", "Wassermotorräder", "Jetski", "verboten"] },
+      { "punkt": "Wegen Badebetrieb gesperrte Wasserfläche", "synonyme": ["Badebetrieb", "Badezone", "Badegebiet", "gesperrte Wasserfläche", "Schwimmer"] }
+    ],
+    "wichtigkeit": 1
+  },
+  {
+    "id": "2-21",
+    "kurzantwort": "Fahrt auf das für die Steuerfähigkeit geringstmögliche Maß verringern, nötigenfalls ganz stoppen und mit äußerster Vorsicht manövrieren, bis Kollisionsgefahr vorbei.",
+    "erklaerung": "Bei verminderter Sicht (Nebel) hört man ein Fahrzeug vorlicher als querab, ohne es zu sehen. Da man die Lage nicht beurteilen kann, schreiben die KVR vor, die Fahrt drastisch zu reduzieren oder zu stoppen und vorsichtig weiterzufahren, bis die Gefahr eines Zusammenstoßes vorüber ist.",
+    "kernpunkte": [
+      { "punkt": "Fahrt auf geringstmögliches Maß verringern", "synonyme": ["Fahrt verringern", "langsamer", "Geschwindigkeit reduzieren", "minimale Fahrt", "steuerfähig"] },
+      { "punkt": "Nötigenfalls jegliche Fahrt wegnehmen / stoppen", "synonyme": ["stoppen", "Fahrt wegnehmen", "anhalten", "aufstoppen"] },
+      { "punkt": "Mit äußerster Vorsicht manövrieren bis Gefahr vorüber", "synonyme": ["äußerste Vorsicht", "vorsichtig manövrieren", "bis Gefahr vorbei", "Kollisionsgefahr"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "2-22",
+    "kurzantwort": "Mistral, Scirocco, Bora, Etesien/Meltemi (drei davon nennen).",
+    "erklaerung": "Im Mittelmeer treten lokale Starkwinde auf, die oft plötzlich und heftig sind. Mistral (Golf von Lyon) und Bora (Adria) sind kalte Fallwinde, der Scirocco bringt warme Saharaluft, und Etesien/Meltemi wehen im Sommer beständig über der Ägäis.",
+    "kernpunkte": [
+      { "punkt": "Mistral", "synonyme": ["Mistral", "Golf von Lyon", "Rhonetal"] },
+      { "punkt": "Scirocco", "synonyme": ["Scirocco", "Schirokko", "Sirocco", "Saharawind"] },
+      { "punkt": "Bora", "synonyme": ["Bora", "Adria", "Fallwind"] },
+      { "punkt": "Etesien / Meltemi", "synonyme": ["Etesien", "Meltemi", "Ägäis", "Sommerwind"] }
+    ],
+    "wichtigkeit": 1
+  },
+  {
+    "id": "2-23",
+    "kurzantwort": "Untersuchungsausschüsse bei den Wasser- und Schifffahrtsdirektionen, die prüfen, ob ein Fahrverbot oder Entzug von Befähigungszeugnis/Führerschein nötig ist.",
+    "erklaerung": "Seeämter untersuchen nach Seeunfällen, ob einem Beteiligten ein Verschulden trifft. Sie können als Konsequenz ein Fahrverbot aussprechen oder Befähigungszeugnisse bzw. Sportbootführerscheine entziehen – sie verfolgen also die nautische Eignung, nicht die strafrechtliche Schuld.",
+    "kernpunkte": [
+      { "punkt": "Untersuchungsausschüsse bei den Wasser- und Schifffahrtsdirektionen", "synonyme": ["Untersuchungsausschuss", "Wasser- und Schifffahrtsdirektion", "Seeunfalluntersuchung", "Behörde"] },
+      { "punkt": "Prüfen Fahrverbot oder Entzug von Befähigungszeugnis/Führerschein", "synonyme": ["Fahrverbot", "Entzug", "Befähigungszeugnis", "Führerschein", "Patententzug", "Eignung"] }
+    ],
+    "wichtigkeit": 1
+  },
+  {
+    "id": "2-24",
+    "kurzantwort": "1. Wasser zwischen Küstenlinie/Binnenwasserstraßen und 3 sm seewärts der Basislinie, 2. durchgehend lateral betonnte Fahrwasserteile im Küstenmeer, 3. bestimmte Binnenwasserstraßen-Abschnitte.",
+    "erklaerung": "Die SeeSchStrO definiert ihren Geltungsbereich. Dazu gehören der Küstenstreifen bis 3 sm seewärts der Basislinie, die mit lateralen Tonnen markierten Fahrwasser, die weiter hinausreichen, sowie bestimmte Binnenwasserstraßen. So ist klar, wo die Seeschifffahrtsstraßen-Ordnung gilt.",
+    "kernpunkte": [
+      { "punkt": "Wasser bis 3 sm seewärts der Basislinie", "synonyme": ["3 sm", "drei Seemeilen", "Basislinie", "Küstenlinie", "seewärts"] },
+      { "punkt": "Durchgehend lateral betonnte Fahrwasser im Küstenmeer", "synonyme": ["laterale Zeichen", "Tonnen", "Fahrwasser", "betonnt", "Küstenmeer"] },
+      { "punkt": "Bestimmte Binnenwasserstraßen", "synonyme": ["Binnenwasserstraßen", "Ufer", "bestimmte Flüsse", "Mündungen"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "2-25",
+    "kurzantwort": "Um Abweichungen von der Kurslinie frühzeitig zu erkennen und den Kurs rechtzeitig zu berichtigen.",
+    "erklaerung": "Strom, Wind und Abdrift versetzen das Schiff von der geplanten Linie. Wer regelmäßig die Position einträgt, merkt Abweichungen früh, kann gegensteuern und vermeidet so Untiefen oder das Verfehlen des Ziels.",
+    "kernpunkte": [
+      { "punkt": "Abweichungen von der Kurslinie frühzeitig erkennen", "synonyme": ["Abweichung", "Versatz", "Kursabweichung", "Abdrift", "frühzeitig erkennen", "Kontrolle"] },
+      { "punkt": "Kurs rechtzeitig berichtigen", "synonyme": ["Kurs berichtigen", "korrigieren", "gegensteuern", "Kurskorrektur"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "2-26",
+    "kurzantwort": "Ungewöhnliche Geräusche, Vibrationen, verfärbte Abgase, Aufleuchten von Lade-/Öldruckkontrolle und akustische Warnungen.",
+    "erklaerung": "Der Motor kündigt Probleme oft an, bevor er ausfällt. Veränderte Geräusche oder Vibrationen, dunkle/farbige Abgase und Warnleuchten (Ladekontrolle, Öldruck) sind Frühwarnzeichen, die man ernst nehmen sollte, um größere Schäden zu vermeiden.",
+    "kernpunkte": [
+      { "punkt": "Ungewöhnliche Geräusche und Vibrationen", "synonyme": ["Geräusche", "fremde Geräusche", "Vibrationen", "Klopfen", "ungewöhnliche Laute"] },
+      { "punkt": "Verfärbung der Abgase", "synonyme": ["Abgase", "Rauch", "Verfärbung", "schwarzer Rauch", "blauer Rauch"] },
+      { "punkt": "Warnleuchten (Ladekontrolle, Öldruck) und akustische Warnungen", "synonyme": ["Ladekontrolle", "Öldruckkontrolle", "Warnleuchte", "Kontrollleuchte", "Alarm", "akustische Warnung"] }
+    ],
+    "wichtigkeit": 1
+  },
+  {
+    "id": "2-27",
+    "kurzantwort": "WT − H = KT bzw. KT + H = WT (Wassertiefe = Kartentiefe + Höhe der Gezeit).",
+    "erklaerung": "Die Kartentiefe gilt für das Seekartennull (niedrigster Gezeitenstand). Die Gezeit hebt den Wasserstand um den Betrag H an, sodass die tatsächliche Wassertiefe = Kartentiefe plus Gezeitenhöhe ist. Umgestellt: gemessene Wassertiefe minus Gezeit ergibt die Kartentiefe.",
+    "kernpunkte": [
+      { "punkt": "KT + H = WT bzw. WT − H = KT", "synonyme": ["KT + H = WT", "WT - H = KT", "Kartentiefe plus Höhe", "Wassertiefe minus Gezeit", "Kartentiefe", "Wassertiefe", "Gezeitenhöhe"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "2-28",
+    "kurzantwort": "Zwei voneinander unabhängige Bilgepumpen (eine über Deck bedienbar) sowie 2 Pützen mit Leinen.",
+    "erklaerung": "Bei Wassereinbruch muss man auch dann lenzen können, wenn eine Pumpe ausfällt – daher zwei unabhängige Bilgepumpen. Eine davon muss von Deck aus bedienbar sein. Pützen mit Leinen sind die einfache Reserve, falls alle Pumpen versagen.",
+    "kernpunkte": [
+      { "punkt": "Zwei voneinander unabhängige Bilgepumpen, eine über Deck bedienbar", "synonyme": ["zwei Bilgepumpen", "Lenzpumpen", "unabhängige Pumpen", "über Deck bedienbar", "Bilgepumpe"] },
+      { "punkt": "Zwei Pützen mit Leinen", "synonyme": ["Pützen", "Eimer", "Pütz mit Leine", "Schöpfeimer"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "2-29",
+    "kurzantwort": "ABC-Pulverlöscher, für geschlossene Motorräume CO2-Löscher. Gebrauchsfertig, leicht erreichbar, nahe Maschine/Kombüse; CO2-Löscher nicht im Schiffsinneren (Erstickungsgefahr).",
+    "erklaerung": "ABC-Pulverlöscher decken die meisten Brandklassen ab; CO2 eignet sich für Motorräume, weil es rückstandsfrei löscht. Löscher müssen schnell griffbereit nahe den Brandquellen (Maschine, Kochstelle) sein. CO2 verdrängt Sauerstoff – deshalb nicht in geschlossenen Innenräumen lagern.",
+    "kernpunkte": [
+      { "punkt": "ABC-Pulverlöscher, für geschlossene Motorräume CO2-Löscher", "synonyme": ["ABC-Pulverlöscher", "Pulverlöscher", "CO2-Löscher", "Kohlendioxid", "Motorraum"] },
+      { "punkt": "Gebrauchsfertig und leicht erreichbar, nahe Maschine/Kombüse", "synonyme": ["gebrauchsfertig", "leicht erreichbar", "griffbereit", "nahe Maschinenraum", "Kombüse", "Kochstelle"] },
+      { "punkt": "CO2-Löscher nicht im Schiffsinneren (Erstickungsgefahr)", "synonyme": ["nicht im Innenraum", "Erstickungsgefahr", "CO2 nicht innen", "Sauerstoffverdrängung", "Leckage"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "2-30",
+    "kurzantwort": "Ruf \"Mensch über Bord!\", Rettungsmittel werfen, Ausguck behält MOB im Auge, Maschine starten, MOB-Manöver, Notmeldung, MOB-Taste/Markierungsboje, Bergung.",
+    "erklaerung": "Beim Mann-über-Bord-Fall zählt jede Sekunde. Zuerst alle alarmieren und Auftrieb zuwerfen, dann den Verunglückten ständig im Blick behalten, das Manöver fahren und Position per MOB-Taste/Boje sichern. Eine Notmeldung holt Hilfe, bevor schließlich geborgen wird.",
+    "kernpunkte": [
+      { "punkt": "Ruf \"Mensch über Bord!\" und Rettungsmittel zuwerfen", "synonyme": ["Mensch über Bord", "Ruf", "Alarm", "Rettungsmittel werfen", "Rettungsring", "Auftrieb"] },
+      { "punkt": "Ausguck halten / MOB ständig im Auge behalten", "synonyme": ["Ausguck", "im Auge behalten", "beobachten", "nicht aus den Augen lassen", "zeigen"] },
+      { "punkt": "Maschine starten und MOB-Manöver einleiten", "synonyme": ["Maschine starten", "Motor an", "MOB-Manöver", "Mensch-über-Bord-Manöver", "zurückkehren"] },
+      { "punkt": "Notmeldung, MOB-Taste/Markierungsboje, dann Bergung", "synonyme": ["Notmeldung", "Mayday", "MOB-Taste", "Markierungsboje", "Blitzboje", "Bergung", "GPS markieren"] }
+    ],
+    "wichtigkeit": 3
+  }
+]

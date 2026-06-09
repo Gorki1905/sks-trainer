@@ -1,0 +1,152 @@
+[
+  {
+    "id": "13-1",
+    "frage": "Wie sind längsseits liegende Fahrzeuge festzumachen? Ergänzen Sie die Skizze und benennen Sie die Leinen.",
+    "musterantwort": "1. Achterleine, 2. Achterspring, 3. Vorspring, 4. Vorleine."
+  },
+  {
+    "id": "13-2",
+    "frage": "Auf einer Motoryacht A erkennt man nachts etwa 2 Strich an Backbord folgende Lichter des Fahrzeugs B, die rasch näher kommen.Die Kompasspeilung zum Fahrzeug B ändert sich dabei nur geringfügig. 1. Worum handelt es sich bei Fahrzeug B? 2. Wer muss ausweichen?",
+    "musterantwort": "1. B ist ein Maschinenfahrzeug von weniger als 50 m Länge in Fahrt, dessen Steuerbord- 2. B muss ausweichen, weil es die Motoryacht A an seiner Steuerbord-Seite hat. 3. Die Motoryacht A muss Kurs und Geschwindigkeit beibehalten."
+  },
+  {
+    "id": "13-3",
+    "frage": "Was muss Fahrzeug A tun? 3. Wo muss man mit ungenauen Anzeigen des GPS rechnen?",
+    "musterantwort": "1. Bei Abschattung der GPS-Antenne. 2. In der Nähe von Flughäfen und in der Nähe von Fernsehsendern. 3. In der Nähe von Marineeinrichtungen. 4. Bei Nutzung von UKW-Geräten und anderen elektronischen/elektrischen Geräten an Bord."
+  },
+  {
+    "id": "13-4",
+    "frage": "Welche Windgeschwindigkeiten in Knoten oder Beaufort erreicht der Seewind etwa 1. im Mittelmeer, 2. in Nord- und Ostsee?",
+    "musterantwort": "1. Bis zu 25 kn oder Bft 6. 2. Bis 15 kn, in Einzelfällen bis 20 kn oder Bft 4/5, in Einzelfällen Bft 5/6."
+  },
+  {
+    "id": "13-5",
+    "frage": "Welchen Vorteil hat ein Kugelkompass gegenüber einem Flachglaskompass?",
+    "musterantwort": "1. Der Kugelkompass kann auch bei größerer Krängung noch als Messinstrument benutzt werden. 2. Die Kugelform verbessert die Ablesbarkeit der Kompassrose (Vergrößerungseffekt)."
+  },
+  {
+    "id": "13-6",
+    "frage": "Welche Skala wird verwendet für die Angabe der Windrichtung in Seewetterberichten bei 1. den Vorhersagen und Aussichten, 2. den Stationsmeldungen?",
+    "musterantwort": "1. Die 8-teilige mit Auflösung in 45°-Stufen. 2. Die 16-teilige mit Auflösung in 22,5°-Stufen."
+  },
+  {
+    "id": "13-7",
+    "frage": "1. Was ist eine Front? 2. Welche Fronten unterscheidet man im Allgemeinen?",
+    "musterantwort": "1. Front ist die vordere Grenze einer Luftmasse in Bewegungsrichtung. 2. Warm-, Kalt- und Okklusionsfronten."
+  },
+  {
+    "id": "13-8",
+    "frage": "Welche Maßnahmen sind vor dem Anlassen eines eingebauten Motors zu treffen?",
+    "musterantwort": "1. Hauptstromschalter einschalten, 2. Kraftstoff- und Kühlwasserventile öffnen, 3. Getriebe auf \"neutral\" stellen."
+  },
+  {
+    "id": "13-9",
+    "frage": "Wie müssen Sie Ausweichmanöver durchführen?",
+    "musterantwort": "1. Möglichst frühzeitig, 2. durchgreifend, sodass das andere Fahrzeug rasch Ihre Absicht erkennen kann, und um sich gut klar zu halten."
+  },
+  {
+    "id": "13-10",
+    "frage": "1. Was verstehen Sie unter Dünung? 2. Was kann einsetzende hohe Dünung andeuten?",
+    "musterantwort": "1. Seegang, der dem erzeugenden Windfeld vorausläuft, sowie abklingender (alter) Seegang. 2. Einen eventuell aufziehenden Sturm."
+  },
+  {
+    "id": "13-11",
+    "frage": "Was bedeutet der Begriff AIS auf See?",
+    "musterantwort": "AIS bezeichnet das automatische Identifizierungssystem (Automatic Identification System)."
+  },
+  {
+    "id": "13-12",
+    "frage": "Welche verkehrsrechtlichen Bestimmungen gelten auf deutschen Seeschifffahrtsstraßen?",
+    "musterantwort": "Auf deutschen Seeschifffahrtsstraßen gelten: 1. die KVR, 2. die Seeschifffahrtsstraßen-Ordnung, ggf. die Bekanntmachungen der Wasser- und Schifffahrtsdirektionen (WSD) Nord und Nordwest, 3. ggf. die Hafenordnungen."
+  },
+  {
+    "id": "13-13",
+    "frage": "Welche Fahrregeln muss ein Sportfahrzeug beachten, wenn es der Richtung des Fahrwassers folgt?",
+    "musterantwort": "Beim Fahren im Fahrwasser muss das Sportfahrzeug sich so nahe am äußeren Rand des Fahrwassers an seiner Steuerbordseite halten, wie dieses ohne Gefahr möglich ist."
+  },
+  {
+    "id": "13-14",
+    "frage": "Welche Angaben enthalten deutsche und britische Leuchtfeuerverzeichnisse?",
+    "musterantwort": "Beschreibung der Leuchtfeuer, Feuerschiffe und Großtonnen sowie deren geographische Lage."
+  },
+  {
+    "id": "13-15",
+    "frage": "Warum sollte der Winkel zwischen zwei Peilungen nicht kleiner als 30° und nicht größer als 150° sein?",
+    "musterantwort": "Damit der gefundene Standort eine ausreichend sichere Positionsbestimmung ergibt."
+  },
+  {
+    "id": "13-16",
+    "frage": "Was ist unter \"sicherer Geschwindigkeit\" zu verstehen?",
+    "musterantwort": "Das Fahrzeug muss jederzeit innerhalb einer solchen Entfernung zum Stehen gebracht werden können, dass ein Zusammenstoß vermieden wird."
+  },
+  {
+    "id": "13-17",
+    "frage": "Das Vorliek der Fock wirft Falten. Welches ist die häufigste Ursache?",
+    "musterantwort": "Das Fall ist nicht genügend durchgesetzt."
+  },
+  {
+    "id": "13-18",
+    "frage": "Unter welchen Voraussetzungen ergibt sich eine brauchbare Standlinie aus einer Lotung?",
+    "musterantwort": "Der Meeresgrund muss ausreichend regelmäßig und ausreichend steil ansteigen/ abfallen."
+  },
+  {
+    "id": "13-19",
+    "frage": "Was bedeutet der Zusatz \"vital\" bei einer nautischen Warnnachricht (NWN)?",
+    "musterantwort": "Die NWN erhält den Zusatz \"vital\", wenn die Warnung auf eine lebensbedrohende Gefahr hinweist."
+  },
+  {
+    "id": "13-20",
+    "frage": "Wie erhalten Sie Kenntnis über das nächste Wartungsdatum eines Rettungsfloßes?",
+    "musterantwort": "Die runde, auf der Insel klebende farbige Serviceplakette oder das bei der letzten Wartung mitgelieferte Zertifikat geben Auskunft über den nächsten Wartungstermin."
+  },
+  {
+    "id": "13-21",
+    "frage": "Was ist ein Bugstrahlruder und wozu dient es?",
+    "musterantwort": "Eine im Bug einer Yacht befindliche Röhre mit einem Propeller, mit dem ein Querschub und damit ein Drehen des Buges bei geringen Vorausgeschwindigkeiten erreicht werden kann."
+  },
+  {
+    "id": "13-22",
+    "frage": "Wie können Sie die Haltekraft eines Ankers erhöhen, wenn Sie auf engem Raum (z. B. zwischen zwei Stegen) nicht die erforderliche Kettenlänge stecken können?",
+    "musterantwort": "Mit einem Reitgewicht, um so den Anker besser am Boden zu halten."
+  },
+  {
+    "id": "13-23",
+    "frage": "Welche besondere Lichterführung/Kennzeichnung ist vorgeschrieben, wenn ein Motorsportfahrzeug ein anderes Sportfahrzeug schleppt?",
+    "musterantwort": "Motorsportfahrzeuge, die andere Sportfahrzeuge schleppen, gelten nicht als schleppende Maschinenfahrzeuge im Sinne der KVR. Daher keine besondere Lichterführung/Kennzeichnung."
+  },
+  {
+    "id": "13-24",
+    "frage": "Was sind Sondergebiete im Sinne des MARPOL-Übereinkommens in Europa?",
+    "musterantwort": "Ostsee, Nordsee und Mittelmeer."
+  },
+  {
+    "id": "13-25",
+    "frage": "Was bedeutet rechtdrehender bzw. rückdrehender Wind?",
+    "musterantwort": "Rechtdrehend bedeutet Änderung der Windrichtung im Uhrzeigersinn. Rückdrehend bedeutet Änderung der Windrichtung gegen den Uhrzeigersinn um mindestens 45°."
+  },
+  {
+    "id": "13-26",
+    "frage": "Welches Werkzeug sollten Sie zur Segelreparatur an Bord haben?",
+    "musterantwort": "Segelhandschuh, Segelnadeln, Segelgarn, Wachs, Zange und selbstklebendes Segeltuch."
+  },
+  {
+    "id": "13-27",
+    "frage": "Wovon hängt die \"Tragweite\" eines Feuers ab?",
+    "musterantwort": "Sie hängt u. a. ab 1. von der Lichtstärke (Helligkeit) des Feuers und 2. vom Sichtwert (Lichtdurchlässigkeit der Atmosphäre)."
+  },
+  {
+    "id": "13-28",
+    "frage": "Beschreiben Sie die Vor- und Nachteile von Stahl als Baumaterial für Yachten.",
+    "musterantwort": "Vorteile: zuverlässiges, problemloses Baumaterial mit sehr hoher Festigkeit und langer Lebensdauer. Nachteile: hohes Gewicht, Rostanfälligkeit."
+  },
+  {
+    "id": "13-29",
+    "frage": "Warum sollte die Crew in die Funktion des Bord-WC eingewiesen werden?",
+    "musterantwort": "Weil durch unsachgemäße Bedienung Wasser ins Bootsinnere gelangen kann."
+  },
+  {
+    "id": "13-30",
+    "frage": "Welche Bedeutung hat die Angabe \"Springzeit\" für die Wasserstände in Gezeitengebieten?",
+    "musterantwort": "Zur Springzeit sind besonders hohe Hochwasser und besonders niedrige Niedrigwasser zu erwarten."
+  }
+]

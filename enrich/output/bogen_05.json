@@ -1,0 +1,324 @@
+[
+  {
+    "id": "5-1",
+    "kurzantwort": "A = Hochsee, B = außerhalb Küstengewässer, C = küstennahe Gewässer, D = geschützte Gewässer.",
+    "erklaerung": "Die CE-Entwurfskategorien geben an, für welche Wind- und Seebedingungen ein Sportboot gebaut ist. Von A (höchste Anforderungen, Hochsee) bis D (ruhige, geschützte Binnen-/Küstengewässer) nehmen die zulässigen Bedingungen ab. Eselsbrücke: A wie 'alles', D wie 'daheim/geschützt'.",
+    "kernpunkte": [
+      { "punkt": "A Hochsee", "synonyme": ["A", "Hochsee", "Kategorie A", "ocean"] },
+      { "punkt": "B außerhalb von Küstengewässern", "synonyme": ["B", "außerhalb Küstengewässer", "offshore", "Kategorie B"] },
+      { "punkt": "C küstennahe Gewässer", "synonyme": ["C", "küstennah", "inshore", "Kategorie C"] },
+      { "punkt": "D geschützte Gewässer", "synonyme": ["D", "geschützte Gewässer", "sheltered", "Kategorie D"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "5-2",
+    "kurzantwort": "Vorfahrt gilt nur für Fahrzeuge im Fahrwasser/dem Verlauf folgend; andere müssen warten. Vorfahrt nicht erzwingen, Kollision vermeiden.",
+    "erklaerung": "Im Fahrwasser hat das durchfahrende Fahrzeug Vorrang vor solchen, die einlaufen, drehen oder an-/ablegen wollen. 'Vorfahrt haben' ist aber kein Recht, eine Kollision zu erzwingen – notfalls muss auch der Vorfahrtberechtigte ausweichen, um einen Zusammenstoß zu verhindern.",
+    "kernpunkte": [
+      { "punkt": "gilt nur für Fahrzeug im Fahrwasser / dem Verlauf folgend", "synonyme": ["im Fahrwasser", "Fahrwasserverlauf folgen", "Fahrrinne", "durchgehender Verkehr"] },
+      { "punkt": "andere (einlaufen, drehen, an-/ablegen) müssen warten", "synonyme": ["warten", "einlaufen", "drehen", "anlegen", "ablegen"] },
+      { "punkt": "Vorfahrt nicht erzwingen, Kollision vermeiden", "synonyme": ["nicht erzwingen", "Zusammenstoß vermeiden", "Kollision verhindern", "ausweichen wenn nötig"] }
+    ],
+    "wichtigkeit": 3
+  },
+  {
+    "id": "5-3",
+    "kurzantwort": "Batterie zu schwach (Anlasserdrehzahl zu gering), kein Kraftstoff, Luft in der Kraftstoffleitung, falsche Kaltstart-/Vorglühbedienung, Anlasser defekt.",
+    "erklaerung": "Ein Diesel braucht zum Zünden ausreichende Drehzahl, sauberen Kraftstoff ohne Luft und genug Wärme (Vorglühen). Diese leicht prüfbaren Ursachen lassen sich an Bord ohne Werkstatt kontrollieren, bevor man Fremdhilfe holt.",
+    "kernpunkte": [
+      { "punkt": "Batterie zu schwach / Anlasserdrehzahl zu gering", "synonyme": ["Batterie schwach", "Batterie leer", "Anlasserdrehzahl", "zu wenig Drehzahl"] },
+      { "punkt": "kein Kraftstoff im Tank", "synonyme": ["Tank leer", "kein Diesel", "kein Kraftstoff", "Sprit alle"] },
+      { "punkt": "Luft in der Kraftstoffleitung", "synonyme": ["Luft im System", "Kraftstoffleitung", "entlüften", "Luftblasen"] },
+      { "punkt": "falsche Bedienung Kaltstarthilfe / Vorglühen zu kurz", "synonyme": ["Vorglühen", "Kaltstarthilfe", "Glühkerze", "zu kurz vorgeglüht"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "5-4",
+    "kurzantwort": "Aus der Ablenkungstabelle; die Ablenkung ist abhängig vom anliegenden Kurs.",
+    "erklaerung": "Die Deviation (Ablenkung) entsteht durch bordeigenen Magnetismus und ändert sich mit der Kursrichtung des Schiffes. Deshalb wird sie kursabhängig in einer Ablenkungstabelle (Deviationstabelle) festgehalten und dort abgelesen.",
+    "kernpunkte": [
+      { "punkt": "aus der Ablenkungstabelle", "synonyme": ["Ablenkungstabelle", "Deviationstabelle", "Tabelle", "Deviationskurve"] },
+      { "punkt": "abhängig vom anliegenden Kurs", "synonyme": ["kursabhängig", "vom Kurs abhängig", "anliegender Kurs", "je nach Kurs"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "5-5",
+    "kurzantwort": "Wassertiefe auch bei Niedrigwasser ausreichend (oder sicheres Aufsetzen); Leinen lang genug für Tidenhub; bei großem Hub nicht unbeaufsichtigt lassen.",
+    "erklaerung": "Bei Gezeiten ändert sich der Wasserstand ständig. Zu kurze Festmacher reißen oder hängen das Boot beim Fallen auf, zu wenig Tiefe lässt es ungewollt aufsetzen. Bei großem Tidenhub muss jemand die Leinen ständig anpassen können.",
+    "kernpunkte": [
+      { "punkt": "ausreichende Wassertiefe bei Niedrigwasser / sicheres Aufsetzen", "synonyme": ["Wassertiefe", "Niedrigwasser", "Aufsetzen", "nicht trockenfallen"] },
+      { "punkt": "Leinen lang genug für Tidenstieg/-fall", "synonyme": ["Leinen lang", "Festmacher", "Tidenhub", "Slip einrechnen"] },
+      { "punkt": "bei großem Tidenhub nicht unbeaufsichtigt", "synonyme": ["beaufsichtigen", "nicht unbeaufsichtigt", "Wache", "Leinen anpassen"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "5-6",
+    "kurzantwort": "Zwei Akkus à 60 Ah = 120 Ah Nennkapazität; nutzbar ca. 72 Ah, da nur ~80 % geladen werden.",
+    "erklaerung": "'2 x 60 Ah' bedeutet zwei Batterien mit je 60 Amperestunden, zusammen 120 Ah Nennkapazität. Da ein Akku in der Praxis kaum über etwa 80 % seiner Nennkapazität geladen wird, stehen real nur rund 72 Ah zur Verfügung.",
+    "kernpunkte": [
+      { "punkt": "2 Batterien à 60 Ah = 120 Ah Nennkapazität", "synonyme": ["120 Ah", "zwei Batterien", "je 60 Ah", "Nennkapazität"] },
+      { "punkt": "Nettokapazität ca. 72 Ah (nur ~80 % ladbar)", "synonyme": ["72 Ah", "80 Prozent", "80 %", "Nettokapazität"] }
+    ],
+    "wichtigkeit": 1
+  },
+  {
+    "id": "5-7",
+    "kurzantwort": "Um Wetteränderungen (z. B. Trog, herannahendes Tief) zu erkennen; Aufzeichnung mindestens alle 4 Stunden.",
+    "erklaerung": "Nicht der absolute Luftdruck, sondern seine Tendenz (Fallen/Steigen) verrät Wetterumschwünge. Wer regelmäßig notiert, erkennt frühzeitig ein nahendes Tief oder einen Trog. Alle 4 Stunden ist das Mindestintervall.",
+    "kernpunkte": [
+      { "punkt": "Erkennen von Wetterveränderungen (Trog, Tiefdruckgebiet)", "synonyme": ["Wetteränderung", "Tief", "Trog", "Wetterumschwung erkennen"] },
+      { "punkt": "mindestens alle 4 Stunden aufzeichnen", "synonyme": ["alle 4 Stunden", "4 h", "vierstündlich", "Intervall 4 Stunden"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "5-8",
+    "kurzantwort": "Nasse Segel trocknen, vor Sonnenlicht schützen, Salzwasser abspülen, Beschädigungen sofort beheben.",
+    "erklaerung": "Feuchtigkeit fördert Schimmel, UV-Strahlung und Salzkristalle zerstören das Gewebe, und kleine Risse werden schnell groß. Regelmäßige Pflege verlängert daher die Lebensdauer der Segel erheblich.",
+    "kernpunkte": [
+      { "punkt": "nasse Segel trocknen", "synonyme": ["trocknen", "trocken lagern", "Feuchtigkeit vermeiden", "Schimmel vermeiden"] },
+      { "punkt": "vor Sonnenlicht / UV schützen", "synonyme": ["UV-Schutz", "Sonne", "Sonnenlicht", "vor Sonne schützen"] },
+      { "punkt": "Salzwasserreste abspülen", "synonyme": ["abspülen", "Salz entfernen", "Süßwasser", "Salzwasser abwaschen"] },
+      { "punkt": "Beschädigungen umgehend beseitigen", "synonyme": ["reparieren", "Schäden beheben", "Risse flicken", "sofort ausbessern"] }
+    ],
+    "wichtigkeit": 1
+  },
+  {
+    "id": "5-9",
+    "kurzantwort": "1. Nordost, 2. Süd, 3. Südwest, 4. Nordwest, 5. umlaufender Wind.",
+    "erklaerung": "Auf der Nordhalbkugel dreht der Wind um ein Tief gegen den Uhrzeigersinn und weht leicht ins Zentrum gerichtet. Je nach Position relativ zum Kern (Punkte 1–4) ergeben sich verschiedene Richtungen; im Zentrum selbst ist der Wind schwach und umlaufend.",
+    "kernpunkte": [
+      { "punkt": "Punkt 1: Nordost", "synonyme": ["Nordost", "NO", "NE"] },
+      { "punkt": "Punkt 2: Süd", "synonyme": ["Süd", "S", "südlich"] },
+      { "punkt": "Punkt 3: Südwest", "synonyme": ["Südwest", "SW"] },
+      { "punkt": "Punkt 4/5: Nordwest bzw. umlaufend im Zentrum", "synonyme": ["Nordwest", "NW", "umlaufend", "Zentrum"] }
+    ],
+    "wichtigkeit": 1
+  },
+  {
+    "id": "5-10",
+    "kurzantwort": "P-Nachrichten kündigen eine bevorstehende (preliminary) Maßnahme an; keine amtliche Berichtigung, daher müssen gültige P-Nachrichten selbst in die Karte eingetragen werden.",
+    "erklaerung": "'P' steht für preliminary = vorläufig. Weil solche Nachrichten nur begrenzt gelten, berichtigt das BSH die Karte hierfür nicht dauerhaft. Der Skipper muss vor Benutzung der Karte die noch gültigen P-Nachrichten erfassen und vermerken.",
+    "kernpunkte": [
+      { "punkt": "kündigen bevorstehende (preliminary) Maßnahme an", "synonyme": ["preliminary", "vorläufig", "bevorstehend", "vorübergehend"] },
+      { "punkt": "keine amtliche Berichtigung wegen begrenzter Geltungsdauer", "synonyme": ["keine Berichtigung", "begrenzte Geltung", "nicht vom BSH berichtigt", "zeitlich befristet"] },
+      { "punkt": "selbst erfassen und in der Karte vermerken", "synonyme": ["selbst eintragen", "in Karte vermerken", "manuell erfassen", "vor Gebrauch prüfen"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "5-11",
+    "kurzantwort": "1. Schwerer Sturm. 2. Kurs und Fahrt des Schiffes relativ zum Tiefdruckgebiet beachten.",
+    "erklaerung": "Ein Druckfall von 10 hPa in 3 Stunden ist sehr stark und kündigt schweren Sturm an. Wichtig ist dann, die eigene Bewegung im Verhältnis zum Tief einzuschätzen, um nicht in den gefährlichsten Sektor zu geraten.",
+    "kernpunkte": [
+      { "punkt": "schwerer Sturm zu erwarten", "synonyme": ["schwerer Sturm", "Sturm", "Orkan", "Starkwind"] },
+      { "punkt": "Kurs und Fahrt relativ zum Tiefdruckgebiet beachten", "synonyme": ["Kurs und Fahrt", "Lage zum Tief", "relativ zum Tief", "eigene Position zum Tief"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "5-12",
+    "kurzantwort": "Am Berichtigungsstempel des BSH oder einer amtlichen Seekartenberichtigungsstelle.",
+    "erklaerung": "Eine amtlich berichtigte Karte trägt einen Stempel, der das Datum/den Stand der letzten amtlichen Berichtigung dokumentiert. Daran erkennt man, bis wann die Karte nachweislich aktuell gehalten wurde.",
+    "kernpunkte": [
+      { "punkt": "Berichtigungsstempel des BSH / amtl. Berichtigungsstelle", "synonyme": ["Berichtigungsstempel", "Stempel", "BSH", "Berichtigungsstelle"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "5-13",
+    "kurzantwort": "Nur wenn das andere Fahrzeug AIS hat, es eingeschaltet ist, GPS aktiv ist und keine Kapazitätsgrenze (target overflow) Fahrzeuge ausblendet.",
+    "erklaerung": "AIS zeigt nur Schiffe, die selbst aktiv senden. Ohne Anlage, bei abgeschaltetem AIS, ohne GPS-Position oder bei Überlastung des Systems erscheinen Fahrzeuge nicht – man darf sich daher nie allein auf AIS verlassen.",
+    "kernpunkte": [
+      { "punkt": "anderes Fahrzeug mit AIS ausgerüstet", "synonyme": ["AIS an Bord", "AIS ausgerüstet", "hat AIS", "Transponder"] },
+      { "punkt": "AIS eingeschaltet / nicht abgeschaltet", "synonyme": ["eingeschaltet", "nicht abgeschaltet", "sendet", "aktiv"] },
+      { "punkt": "GPS aktiv", "synonyme": ["GPS", "Positionsdaten", "GNSS", "Position vorhanden"] },
+      { "punkt": "keine Kapazitätsüberlastung (target overflow)", "synonyme": ["target overflow", "Überlastung", "zu viele Schiffe", "Kapazitätsgrenze"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "5-14",
+    "kurzantwort": "Das Einleiten von Öl, Schiffsabwässern, Schiffsmüll und anderen Schadstoffen.",
+    "erklaerung": "MARPOL schützt die Meere vor Verschmutzung. In ausgewiesenen Sondergebieten (z. B. Ostsee) gelten besonders strenge Regeln: Öl, Abwässer, Müll und Schadstoffe dürfen grundsätzlich nicht eingeleitet werden.",
+    "kernpunkte": [
+      { "punkt": "Einleiten von Öl", "synonyme": ["Öl", "Ölrückstände", "Bilgenöl", "Treibstoff"] },
+      { "punkt": "Schiffsabwässer", "synonyme": ["Abwasser", "Fäkalien", "Schwarzwasser", "Toilettenwasser"] },
+      { "punkt": "Schiffsmüll", "synonyme": ["Müll", "Abfall", "Plastik", "Garbage"] },
+      { "punkt": "andere Schadstoffe", "synonyme": ["Schadstoffe", "Chemikalien", "Gefahrstoffe", "Verunreinigungen"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "5-15",
+    "kurzantwort": "DGPS = Differential GPS; regionale Genauigkeitsverbesserung: Referenzstationen funken Korrekturwerte für die GPS-Messungen an die Schiffe.",
+    "erklaerung": "Ortsfeste Referenzstationen kennen ihre exakte Position und berechnen aus dem GPS-Fehler einen Korrekturwert, den sie per Funk aussenden. So lässt sich die Standortgenauigkeit regional deutlich erhöhen.",
+    "kernpunkte": [
+      { "punkt": "Differential Global Positioning System", "synonyme": ["Differential GPS", "Differential Global Positioning System", "DGPS"] },
+      { "punkt": "regionale Verbesserung der Ortsbestimmung", "synonyme": ["regional", "genauere Position", "Genauigkeit erhöhen", "Verbesserung"] },
+      { "punkt": "Referenzstationen funken Korrekturwerte", "synonyme": ["Referenzstation", "Korrekturwerte", "Korrektursignal", "per Funk übertragen"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "5-16",
+    "kurzantwort": "Abhängig von Geometrie (Form) und Gewichtsverteilung. Äußere Momente: Seitenwind, Trossenzug, Drehkreisfahrt bei schnellen Motoryachten.",
+    "erklaerung": "Die Stabilität ergibt sich aus der Rumpfform und der Verteilung der Gewichte (Ballast, Crew, Ausrüstung). Von außen wirken krängende Momente, etwa durch Seitenwind, Zug an einer Trosse oder Fliehkraft in der Kurve.",
+    "kernpunkte": [
+      { "punkt": "Geometrie / Form des Schiffes", "synonyme": ["Form", "Geometrie", "Rumpfform", "Bauform"] },
+      { "punkt": "Gewichtsverteilung (Ballast, Crew, Ausrüstung)", "synonyme": ["Gewichtsverteilung", "Ballast", "Beladung", "Trimm"] },
+      { "punkt": "krängende Momente: Seitenwind, Trossenzug, Drehkreisfahrt", "synonyme": ["Seitenwind", "Trossenzug", "Drehkreis", "krängendes Moment"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "5-17",
+    "kurzantwort": "Ein Fahrzeug auf Grund (festgekommen) mit weniger als 100 m Länge.",
+    "erklaerung": "Das Signal kombiniert das Ankersignal (rasches Glockenläuten ~5 s) mit je drei deutlich getrennten Glockenschlägen davor und danach – das kennzeichnet ein aufgrundgekommenes Fahrzeug unter 100 m. Über 100 m kommt noch der Gongschlag achtern hinzu.",
+    "kernpunkte": [
+      { "punkt": "Fahrzeug auf Grund (festgekommen)", "synonyme": ["auf Grund", "aufgelaufen", "festgekommen", "grundberührt"] },
+      { "punkt": "unter 100 m Länge", "synonyme": ["unter 100 m", "weniger als 100 m", "kleiner 100 m", "< 100 m"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "5-18",
+    "kurzantwort": "Durch Stärke, Dauer und Richtung des Windes oder durch Zurückschwappen aufgestauter Wassermassen (z. B. Ostsee).",
+    "erklaerung": "Anhaltender Wind schiebt Wasser in eine Richtung und staut es an Küsten auf (Windstau); lässt der Wind nach, schwappt die Masse zurück. So entstehen auch ohne Gezeiten merkliche Wasserstandsänderungen und Triftströme.",
+    "kernpunkte": [
+      { "punkt": "Stärke, Dauer und Richtung des Windes", "synonyme": ["Wind", "Windstau", "Windrichtung", "anhaltender Wind"] },
+      { "punkt": "Zurückschwappen aufgestauter Wassermassen (z. B. Ostsee)", "synonyme": ["Zurückschwappen", "aufgestaute Wassermassen", "Schwall", "Seiche", "Ostsee"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "5-19",
+    "kurzantwort": "Wind und sehr hoher/niedriger Luftdruck verändern den Wasserstand: HWH/NWH höher oder niedriger, Eintrittszeiten früher oder später als angegeben.",
+    "erklaerung": "Gezeitentafeln gelten für mittlere Luftdruck- und Windverhältnisse. Starker Wind (Windstau) und ungewöhnlicher Luftdruck heben oder senken den realen Wasserstand und verschieben die Hoch-/Niedrigwasserzeiten gegenüber der Vorhersage.",
+    "kernpunkte": [
+      { "punkt": "Ursache: Wind und sehr hoher/niedriger Luftdruck", "synonyme": ["Wind", "Luftdruck", "Windstau", "Hochdruck Tiefdruck"] },
+      { "punkt": "Höhe HWH/NWH höher oder niedriger", "synonyme": ["HWH", "NWH", "höher oder niedriger", "Wasserstandshöhe"] },
+      { "punkt": "Eintrittszeit früher oder später", "synonyme": ["früher oder später", "Zeitverschiebung", "Eintrittszeit", "Hoch-/Niedrigwasserzeit"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "5-20",
+    "kurzantwort": "Gelbe Tonnen: Fasstonnen, Leuchttonnen, Spierentonnen oder Stangen.",
+    "erklaerung": "Sonderzeichen sind grundsätzlich gelb und kennzeichnen besondere Gebiete oder Stellen wie Reeden, Warn-, Sperr- oder Übungsgebiete. Form und Bauart (Fass, Spiere, Leuchttonne, Stange) können variieren – entscheidend ist die gelbe Farbe.",
+    "kernpunkte": [
+      { "punkt": "gelbe Tonnen/Zeichen", "synonyme": ["gelb", "gelbe Tonne", "Sonderzeichen", "gelbe Farbe"] },
+      { "punkt": "Fasstonnen, Leuchttonnen, Spierentonnen oder Stangen", "synonyme": ["Fasstonne", "Leuchttonne", "Spierentonne", "Stange"] }
+    ],
+    "wichtigkeit": 1
+  },
+  {
+    "id": "5-21",
+    "kurzantwort": "Auf hellem Wasser ankern: heller Grund = sandig, Anker hält gut. Dunkler Grund = Bewuchs, Anker hält schlecht.",
+    "erklaerung": "Die Wasserfärbung lässt auf den Untergrund schließen: helle Flächen deuten auf Sand, in dem der Anker gut greift; dunkle Flächen verraten Seegras/Bewuchs oder Stein, wo der Anker schlecht hält oder verrutscht.",
+    "kernpunkte": [
+      { "punkt": "Ankerplatz auf hellem Wasser", "synonyme": ["helles Wasser", "hell", "heller Grund", "Sandgrund"] },
+      { "punkt": "heller Grund = Sand, Anker hält gut", "synonyme": ["Sand", "sandig", "hält gut", "guter Ankergrund"] },
+      { "punkt": "dunkler Grund = Bewuchs, Anker hält schlecht", "synonyme": ["dunkel", "Bewuchs", "Seegras", "hält schlecht"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "5-22",
+    "kurzantwort": "Mit sicherer Geschwindigkeit fahren, angepasst an Umstände und Bedingungen verminderter Sicht.",
+    "erklaerung": "Ohne Radar fehlt der Überblick über umliegende Fahrzeuge, daher muss die Geschwindigkeit so niedrig sein, dass man rechtzeitig stoppen oder reagieren kann. 'Sichere Geschwindigkeit' richtet sich nach Sicht, Verkehr und Manövrierfähigkeit.",
+    "kernpunkte": [
+      { "punkt": "sichere Geschwindigkeit", "synonyme": ["sichere Geschwindigkeit", "angemessene Fahrt", "langsam", "safe speed"] },
+      { "punkt": "an verminderte Sicht / Umstände angepasst", "synonyme": ["an Sicht angepasst", "verminderte Sicht", "den Umständen angepasst", "Bedingungen"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "5-23",
+    "kurzantwort": "Nein. Dünung kann auch ohne unmittelbar vorhandenes Windfeld bestehen.",
+    "erklaerung": "Dünung sind alte, ausgelaufene Wellen, die aus weit entfernten Windgebieten stammen und lange weiterlaufen. Aus einer Dünungskarte lässt sich deshalb der aktuelle, örtliche Wind nicht zuverlässig ableiten.",
+    "kernpunkte": [
+      { "punkt": "Nein, nicht ableitbar", "synonyme": ["nein", "nicht möglich", "kann man nicht", "nicht ableitbar"] },
+      { "punkt": "Dünung besteht auch ohne aktuelles Windfeld", "synonyme": ["ohne Windfeld", "alte Wellen", "ausgelaufene See", "kein aktueller Wind"] }
+    ],
+    "wichtigkeit": 1
+  },
+  {
+    "id": "5-24",
+    "kurzantwort": "Tragweite eines Feuers bei definiertem Wert und einer meteorologischen Sichtweite von 10 sm am Tag.",
+    "erklaerung": "Die Nenntragweite ist ein genormter Vergleichswert für die Reichweite eines Leuchtfeuers, der für eine Sichtweite von 10 Seemeilen festgelegt wird. Bei schlechterer Sicht ist die tatsächliche Tragweite geringer, bei besserer Sicht größer.",
+    "kernpunkte": [
+      { "punkt": "Tragweite eines Feuers", "synonyme": ["Tragweite", "Reichweite", "Feuer", "Leuchtfeuer"] },
+      { "punkt": "bei meteorologischer Sichtweite 10 sm am Tag", "synonyme": ["10 sm", "10 Seemeilen", "meteorologische Sichtweite", "Sichtweite 10"] }
+    ],
+    "wichtigkeit": 1
+  },
+  {
+    "id": "5-25",
+    "kurzantwort": "Maximal 2 Schiffslängen oder 500 m als nicht einsehbar vor dem Schiff berücksichtigen.",
+    "erklaerung": "Große Schiffe haben einen toten Winkel direkt vor dem Bug. Als Faustwert gilt: bis zu 2 Schiffslängen, höchstens 500 m, sind nach vorne nicht einsehbar. Kleine Boote in dieser Zone werden von der Brücke nicht gesehen.",
+    "kernpunkte": [
+      { "punkt": "max. 2 Schiffslängen", "synonyme": ["2 Schiffslängen", "zwei Schiffslängen", "Schiffslängen"] },
+      { "punkt": "oder 500 m", "synonyme": ["500 m", "500 Meter", "fünfhundert Meter"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "5-26",
+    "kurzantwort": "Q-Wende. Manöverfolge: Anluven, Wende, Abfallen.",
+    "erklaerung": "Bei Starkwind ist eine Halse riskant (Schlag des Großbaums). Statt vor dem Wind zu drehen, luvt man an, geht durch den Wind (Wende) und fällt dann auf den neuen Kurs ab – die sogenannte Q-Wende vermeidet die gefährliche Halse.",
+    "kernpunkte": [
+      { "punkt": "Q-Wende", "synonyme": ["Q-Wende", "Q Wende", "Q-Manöver"] },
+      { "punkt": "Manöverfolge: Anluven, Wende, Abfallen", "synonyme": ["Anluven", "Wende", "Abfallen", "anluven wenden abfallen"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "5-27",
+    "kurzantwort": "Vom BSH ausgestellter Ausweis über Recht/Pflicht zum Führen der Bundesflagge; für Fahrzeuge unter 15 m Lüa (nicht registerpflichtig).",
+    "erklaerung": "Das Flaggenzertifikat weist nach, dass ein Boot die deutsche Bundesflagge führen darf und muss. Es wird vom BSH für kleinere, nicht registerpflichtige Fahrzeuge unter 15 m Länge über alles ausgestellt – größere Schiffe brauchen das Schiffszertifikat.",
+    "kernpunkte": [
+      { "punkt": "vom BSH ausgestellter Ausweis für die Bundesflagge", "synonyme": ["BSH", "Bundesflagge", "Recht zum Führen der Flagge", "Flaggenrecht"] },
+      { "punkt": "für Fahrzeuge unter 15 m Lüa (nicht registerpflichtig)", "synonyme": ["unter 15 m", "15 m Lüa", "nicht registerpflichtig", "kleiner 15 Meter"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "5-28",
+    "kurzantwort": "Wer durch körperliche/geistige Mängel, Alkohol oder andere berauschende Mittel in der sicheren Führung bzw. Ausübung des Brücken-/Decksdienstes behindert ist.",
+    "erklaerung": "Die KVR verlangt, dass nur fahrtüchtige Personen ein Fahrzeug führen oder Brücken-/Decksdienst leisten. Wer durch Krankheit, Übermüdung, Alkohol oder Drogen beeinträchtigt ist, gefährdet die Sicherheit und darf diese Tätigkeiten nicht ausüben.",
+    "kernpunkte": [
+      { "punkt": "körperliche oder geistige Mängel", "synonyme": ["körperliche Mängel", "geistige Mängel", "krank", "untauglich"] },
+      { "punkt": "Alkohol oder andere berauschende Mittel", "synonyme": ["Alkohol", "Drogen", "berauschende Mittel", "betrunken"] },
+      { "punkt": "dadurch in sicherer Führung / Dienst behindert", "synonyme": ["behindert", "nicht sicher führen", "beeinträchtigt", "fahruntüchtig"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "5-29",
+    "kurzantwort": "Z. B. Windrichtung, Windstärke, Luftdruck, aktuelles Wetter, Bedeckungsgrad, Wolken, Seegang, Strom, Temperatur, Luftfeuchte.",
+    "erklaerung": "Eine vollständige Bordwetterbeobachtung erfasst möglichst viele Parameter, um das Wetter einzuschätzen und Veränderungen zu erkennen. Mindestens sechs davon sollte man nennen können (z. B. Wind, Luftdruck, Wolken, Seegang).",
+    "kernpunkte": [
+      { "punkt": "Windrichtung und Windstärke", "synonyme": ["Windrichtung", "Windstärke", "Wind"] },
+      { "punkt": "Luftdruck", "synonyme": ["Luftdruck", "Druck", "hPa", "Barometer"] },
+      { "punkt": "Bedeckungsgrad / Wolken / aktuelles Wetter", "synonyme": ["Bedeckungsgrad", "Wolken", "Bewölkung", "aktuelles Wetter"] },
+      { "punkt": "Seegang, Strom, Temperatur, Luftfeuchte", "synonyme": ["Seegang", "Strom", "Temperatur", "Luftfeuchte"] }
+    ],
+    "wichtigkeit": 1
+  },
+  {
+    "id": "5-30",
+    "kurzantwort": "Ich bin Kurshalter: Kurs und Geschwindigkeit beibehalten. Manöver des vorletzten Augenblicks, wenn der andere nicht reagiert; Manöver des letzten Augenblicks, wenn Kollision sonst unvermeidbar.",
+    "erklaerung": "Als Kurshalter sorgt man durch konstanten Kurs für Berechenbarkeit. Reagiert der Ausweichpflichtige erkennbar nicht, darf man selbst manövrieren (vorletzter Augenblick). Droht trotzdem ein Zusammenstoß, muss man bestmöglich ausweichen (letzter Augenblick).",
+    "kernpunkte": [
+      { "punkt": "Kurshalter: Kurs und Geschwindigkeit beibehalten", "synonyme": ["Kurshalter", "Kurs halten", "Geschwindigkeit beibehalten", "Kurs und Fahrt halten"] },
+      { "punkt": "Manöver des vorletzten Augenblicks (anderer reagiert nicht)", "synonyme": ["vorletzter Augenblick", "darf manövrieren", "wenn der andere nicht ausweicht", "frühzeitig manövrieren"] },
+      { "punkt": "Manöver des letzten Augenblicks (Kollision sonst unvermeidbar)", "synonyme": ["letzter Augenblick", "muss manövrieren", "Zusammenstoß vermeiden", "zweckdienlich manövrieren"] }
+    ],
+    "wichtigkeit": 3
+  }
+]

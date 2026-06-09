@@ -1,0 +1,152 @@
+[
+  {
+    "id": "15-1",
+    "frage": "Nach welcher Faustregel können Sie m/s in Knoten umrechnen?",
+    "musterantwort": "\"Doppelt so viele Knoten (kn) wie m/s\" oder \"m/s multipliziert mit 2 = kn\"."
+  },
+  {
+    "id": "15-2",
+    "frage": "Wie müssen Sie Ihr Fahrzeug unter Segel bei Tage und bei Nacht kennzeichnen, wenn Sie gleichzeitig mit Maschinenkraft fahren?",
+    "musterantwort": "1. Bei Nacht Lichterführung eines Maschinenfahrzeugs entsprechender Größe, 2. bei Tage einen Kegel - Spitze unten - im Vorschiff gut sichtbar."
+  },
+  {
+    "id": "15-3",
+    "frage": "Sie segeln mit Wind von Backbord und sehen nachts in Luv ein einzelnes grünes Licht, das in stehender Peilung näher kommt. 1. Was ist das für ein Licht? 2. Wer muss ausweichen? (Begründung!)",
+    "musterantwort": "1. Das Licht ist das Steuerbordlicht eines Segelfahrzeugs in Fahrt. 2. Ihr Fahrzeug muss als leewärtiges Fahrzeug ausweichen, weil Sie (mit Wind von Backbord segelnd) nicht erkennen können, von welcher"
+  },
+  {
+    "id": "15-4",
+    "frage": "Wodurch können Radarechos von kleinen Fahrzeugen und Tonnen auf den Sichtschirmen von Radargeräten \"verschwinden\"?",
+    "musterantwort": "1. Durch Seegang und/oder Niederschlag, 2. durch falsche Bedienung, 3. durch zu große Entfernung, 4. durch Gieren des eigenen Fahrzeugs bei relativ vorausorientierter Radarstellung (head up)."
+  },
+  {
+    "id": "15-5",
+    "frage": "Wo finden Sie Angaben über die Merkmale der Schifffahrtszeichen?",
+    "musterantwort": "1. In den Leuchtfeuerverzeichnissen bzw. in der List of Lights sowie auszugsweise in den Seekarten. 2. In der Karte 1/INTInternational Hydrographic Organisation für die Gestaltung von Seekarten 1 des BSH. 3. Schwimmende Schifffahrtszeichen zusätzlich in der Anlage I zur SeeSchStrO (z. B. Tonnen des Lateral- bzw. Kardinalsystems)."
+  },
+  {
+    "id": "15-6",
+    "frage": "Nennen Sie die Winkel zwischen den Nordrichtungen rechtweisend Nord (rwN), missweisend Nord (mwN) und Magnetkompass-Nord (MgN).",
+    "musterantwort": "1. Mw: Missweisung ist der Winkel von rwN nach mwN. 2. Abl: Ablenkung (Abl) oder Deviation (Dev) ist der Winkel von mwN nach MgN."
+  },
+  {
+    "id": "15-7",
+    "frage": "Was tun Sie, wenn Ihr Schiff leckgeschlagen ist und das Wasser im Schiff trotz aller Maßnahmen weiter steigt?",
+    "musterantwort": "1. Notzeichen geben, Funkmeldung abgeben, ggf. Radartransponder einschalten. 2. Verlassen des Bootes vorbereiten, Rettungswesten anlegen, Rettungsfloß klarmachen. 3. Wenn möglich, ruhiges Flachwasser anlaufen und Schiff auf Grund setzen."
+  },
+  {
+    "id": "15-8",
+    "frage": "Um welche Arten von Fronten handelt es sich in der Abbildung, die mit 1, 2 und 3 bezeichnet sind?",
+    "musterantwort": "1. Okklusionsfront (Tiefausläufer). 2. Warmfront. 3. Kaltfront."
+  },
+  {
+    "id": "15-9",
+    "frage": "Der Motor Ihres Bootes bleibt beim Einkuppeln stehen. Nennen Sie mögliche Ursachen.",
+    "musterantwort": "1. Propellerwelle durch Tauwerk o. Ä. blockiert, 2. Schwerlauf des Getriebes wegen defekter Zahnräder, Lagerschaden, dicken Öls oder 3. verbogene Propellerwelle."
+  },
+  {
+    "id": "15-10",
+    "frage": "Welche 4 Bedienelemente besitzt ein mit Handpumpe betriebenes Bord-WC auf einer Yacht?",
+    "musterantwort": "1. Seeventil und Spülwasserschlauch (Seewasser), 2. Handpumpe für Toilettenspülung, 3. Hebel zur Unterbrechung der Seewasserzufuhr (Handpumpe dient dann nur noch zum Abpumpen), 4. Abwasserschlauch (via Fäkalientank) zum Seeventil."
+  },
+  {
+    "id": "15-11",
+    "frage": "Auf einer Motoryacht A sieht man nachts etwa querab an Steuerbord ein einzelnes weißes Licht in (nahezu) stehender Kompasspeilung. Näher kommend erkennt man unterhalb des weißen Lichtes und etwas rechts davon ein rotes Licht (Fahrzeug B). 1. Worum handelt es sich? 2. Was müssen jeweils beide Fahrzeuge tun? (Begründung!)",
+    "musterantwort": "1. Topplicht und später Backbord-Seitenlicht eines Maschinenfahrzeuges B von weniger als 50 m Länge in Fahrt. 2. A muss ausweichen, weil es B an seiner Steuerbord-Seite hat. A muss das Signal \"ein kurzer Ton\" geben. 3. B muss Kurs und Geschwindigkeit beibehalten."
+  },
+  {
+    "id": "15-12",
+    "frage": "Was tun Sie, wenn Ihr Großsegel unter der untersten Lattentasche einreißt?",
+    "musterantwort": "1. Untere Latte entfernen. 2. Segel bis über den Riss reffen."
+  },
+  {
+    "id": "15-13",
+    "frage": "Woran erkennt man bei Wolkenbildung eine kräftige Gewitterentwicklung?",
+    "musterantwort": "Am Cumulonimbus, wenn er in großer Höhe einen ambossförmigen Schirm hat."
+  },
+  {
+    "id": "15-14",
+    "frage": "Was ist mit dem Zusatz \"Schauerböen\" bei der Windvorhersage verbunden?",
+    "musterantwort": "Besonders während der Passage und auf der Rückseite von Kaltfronten treten in der näheren Umgebung von Schauern Böen auf, die den Mittelwind um 2 Bft überschreiten können."
+  },
+  {
+    "id": "15-15",
+    "frage": "Nennen Sie 3 Ankertypen, die vom Germanischen Lloyd als Anker mit hoher Haltekraft anerkannt sind.",
+    "musterantwort": "Bruce-Anker, CQR-Anker, Danforth-Anker, D'Hone-Anker."
+  },
+  {
+    "id": "15-16",
+    "frage": "Was ist das Schiffszertifikat, wer stellt es aus, ab welcher Schiffslänge ist es vorgeschrieben?",
+    "musterantwort": "Das Schiffszertifikat ist der Nachweis, dass ein Schiff im Seeschiffsregister eingetragen ist. Ausgestellt wird es vom Registergericht, Vorgeschrieben ist es ab 15 m Rumpflänge."
+  },
+  {
+    "id": "15-17",
+    "frage": "Das Achterliek Ihres Vorsegels killt. Was ist die Ursache?",
+    "musterantwort": "Der Holepunkt der Schot liegt zu weit achtern."
+  },
+  {
+    "id": "15-18",
+    "frage": "Mit welchen Windverhältnissen müssen Sie rechnen, wenn Sie im Hafen liegen und der Wind ablandig weht?",
+    "musterantwort": "Die im Hafen vorherrschenden Windgeschwindigkeiten entsprechen nicht den Verhältnissen auf der freien See."
+  },
+  {
+    "id": "15-19",
+    "frage": "Welche Windgeschwindigkeit zeigt das Anemometer an, wenn das Fahrzeug Fahrt durchs Wasser macht?",
+    "musterantwort": "Die scheinbare Windgeschwindigkeit."
+  },
+  {
+    "id": "15-20",
+    "frage": "Wie müssen sich Tragweite und Sichtweite zueinander verhalten, damit das Verfahren zur Ortsbestimmung \"Feuer in der Kimm\" angewandt werden kann?",
+    "musterantwort": "Die Tragweite muss mindestens gleich der Sichtweite sein."
+  },
+  {
+    "id": "15-21",
+    "frage": "Was ist auf Deck einer Yacht ein Strecktau (auch Laufleine genannt) und wozu dient es?",
+    "musterantwort": "Ein neben der Fußreling verlaufender Draht, Gurt oder eine starke Leine zwischen Cockpit und Vorschiff straff gespannt zum Einpicken der Sicherheitsleine (Lifebelts)."
+  },
+  {
+    "id": "15-22",
+    "frage": "Was ist ein Trysegel und wie wird es gefahren?",
+    "musterantwort": "Ein Schwerwettersegel, das anstelle des Großsegels mit losem Unterliek gefahren wird."
+  },
+  {
+    "id": "15-23",
+    "frage": "Welche Farbe haben Feuer auf Sonderzeichen, wenn vorhanden?",
+    "musterantwort": "Farbe gelb."
+  },
+  {
+    "id": "15-24",
+    "frage": "Wann ist von einem Fahrzeug auf einer Seeschifffahrtsstraße das \"allgemeine Gefahr- und Warnsignal\" zu geben und wie lautet es?",
+    "musterantwort": "Gefährdet ein Fahrzeug ein anderes Fahrzeug oder wird es durch dieses selbst gefährdet, hat es, soweit möglich, rechtzeitig das Schallsignal zu geben: ein langer Ton, vier kurze Töne; ein langer Ton, vier kurze Töne."
+  },
+  {
+    "id": "15-25",
+    "frage": "Was ist ein Wegpunkt?",
+    "musterantwort": "Geographische Koordination eines anzusteuernden Punktes."
+  },
+  {
+    "id": "15-26",
+    "frage": "Wie müssen sich Segelfahrzeuge verhalten, die, dem Fahrwasserverlauf folgend, sich auf (nahezu) entgegengesetzten Kursen begegnen?",
+    "musterantwort": "Jedes Fahrzeug muss nach Steuerbord ausweichen."
+  },
+  {
+    "id": "15-27",
+    "frage": "Was erreicht man mit dem Ausbringen eines Treibankers bei schwerer See?",
+    "musterantwort": "Man hält bei richtiger Leinenlänge den Bug im Wind und verringert die Driftgeschwindigkeit."
+  },
+  {
+    "id": "15-28",
+    "frage": "Wie ist die Genauigkeit von AIS-Daten zu beurteilen (Position und manuell eingegebene Daten)?",
+    "musterantwort": "Position: Mit AIS wird zusätzlich zur GPS- Position eines Schiffes die Information übertragen, ob es sich um einen GPS- oder DGPS-Ort handelt. Ist die GPS-Position eines Schiffes falsch, wird diese falsche Position auf allen anderen Schiffen angezeigt. Manuell eingegebene Daten: Es muss damit gerechnet werden, dass Zielort, Tiefgang, Fahrtstatus u. a. falsch sind, wenn sie - z. B. aus Nachlässigkeit - nicht von der Schiffsführung aufdatiert werden."
+  },
+  {
+    "id": "15-29",
+    "frage": "Was sind Seeämter und was sind ihre Aufgaben?",
+    "musterantwort": "Seeämter sind bei den Wasser- und Schifffahrtsdirektionen Nord und Nordwest gebildete Untersuchungsausschüsse zur Untersuchung der Frage, ob gegenüber einem Verfahrensbeteiligten ein Fahrverbot ausgesprochen oder ein Befähigungszeugnis bzw. ein amtlicher Führerschein der Sportschifffahrt entzogen werden muss."
+  },
+  {
+    "id": "15-30",
+    "frage": "Warum ist es in Tidengewässern wichtig, die Uhrzeit einer Lotung festzuhalten?",
+    "musterantwort": "Um anhand der Gezeitentafel feststellen zu können, ob das Wasser steigt oder fällt."
+  }
+]

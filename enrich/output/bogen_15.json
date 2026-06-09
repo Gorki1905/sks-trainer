@@ -1,0 +1,305 @@
+[
+  {
+    "id": "15-1",
+    "kurzantwort": "m/s × 2 ≈ Knoten (kn). Faustregel: doppelt so viele Knoten wie m/s.",
+    "erklaerung": "1 m/s entspricht etwa 1,94 kn, also fast dem Doppelten. Für die schnelle Überschlagsrechnung an Bord rundet man auf den Faktor 2. Beispiel: 5 m/s ≈ 10 kn.",
+    "kernpunkte": [
+      { "punkt": "m/s mal 2 ergibt Knoten", "synonyme": ["mal zwei", "× 2", "verdoppeln", "doppelt so viele Knoten", "m/s · 2", "Faktor 2", "kn = m/s x 2"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "15-2",
+    "kurzantwort": "Bei Nacht Lichter eines Maschinenfahrzeugs; bei Tag schwarzen Kegel mit Spitze nach unten vorn führen.",
+    "erklaerung": "Sobald ein Segelfahrzeug zusätzlich die Maschine nutzt, gilt es rechtlich als Maschinenfahrzeug und muss auch so gekennzeichnet sein. Das Tagzeichen ist ein schwarzer Kegel mit der Spitze nach unten, gut sichtbar im Vorschiff.",
+    "kernpunkte": [
+      { "punkt": "Bei Nacht Lichterführung eines Maschinenfahrzeugs entsprechender Größe", "synonyme": ["Lichter eines Maschinenfahrzeugs", "Topplicht und Seitenlichter", "Lichter wie Motorboot", "Maschinenfahrzeug-Lichter", "Dampferlichter"] },
+      { "punkt": "Bei Tag schwarzer Kegel, Spitze nach unten, im Vorschiff", "synonyme": ["Kegel Spitze unten", "schwarzer Kegel", "Signalkegel", "Kegel vorn", "Spitze nach unten"] }
+    ],
+    "wichtigkeit": 3
+  },
+  {
+    "id": "15-3",
+    "kurzantwort": "Grünes Licht = Steuerbordlicht eines Segelfahrzeugs. Ihr müsst als Leefahrzeug ausweichen.",
+    "erklaerung": "Ein einzelnes grünes Licht ohne Topplicht ist das Steuerbordseitenlicht eines Segelfahrzeugs. Wer mit Wind von Backbord segelt, weicht dem Fahrzeug mit Wind von Steuerbord aus; kann man die Windseite des anderen nicht erkennen, gilt man als ausweichpflichtig.",
+    "kernpunkte": [
+      { "punkt": "Steuerbordlicht eines Segelfahrzeugs in Fahrt", "synonyme": ["Steuerbordlicht", "grünes Seitenlicht", "Steuerbord-Seitenlicht", "Segelfahrzeug", "Segler"] },
+      { "punkt": "Eigenes Fahrzeug (Wind von Backbord) muss ausweichen", "synonyme": ["ausweichpflichtig", "ich weiche aus", "Wind von Backbord weicht aus", "leewärtiges Fahrzeug", "Backbordbug weicht aus", "ich muss ausweichen"] }
+    ],
+    "wichtigkeit": 3
+  },
+  {
+    "id": "15-4",
+    "kurzantwort": "Durch Seegang/Niederschlag (Clutter), Fehlbedienung, zu große Entfernung und Gieren bei Head-up.",
+    "erklaerung": "Kleine Ziele liefern schwache Echos, die leicht durch See- oder Regenechos überdeckt oder durch falsche Reglereinstellung ausgeblendet werden. Auch große Entfernung oder das Gieren des eigenen Schiffs (bei vorausorientierter Anzeige) lässt das Echo verschwinden.",
+    "kernpunkte": [
+      { "punkt": "Seegang und/oder Niederschlag (Clutter)", "synonyme": ["Seegang", "Regen", "Niederschlag", "Seeclutter", "Regenclutter", "Wellen", "Echodämpfung"] },
+      { "punkt": "Falsche Bedienung/Reglereinstellung", "synonyme": ["Fehlbedienung", "falsche Einstellung", "Gain falsch", "Regler falsch", "Bedienfehler"] },
+      { "punkt": "Zu große Entfernung", "synonyme": ["große Distanz", "zu weit weg", "außerhalb Reichweite", "Entfernung"] },
+      { "punkt": "Gieren des Schiffs bei Head-up", "synonyme": ["Gieren", "head up", "vorausorientiert", "Schlingern", "Kursschwankungen"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "15-5",
+    "kurzantwort": "In Leuchtfeuerverzeichnis/List of Lights, Seekarten, Karte 1/INT 1 des BSH und Anlage I SeeSchStrO.",
+    "erklaerung": "Die Kennung und Merkmale von Leuchtfeuern stehen ausführlich im Leuchtfeuerverzeichnis bzw. der List of Lights und auszugsweise in der Seekarte. Die verwendeten Symbole erklärt die Karte 1/INT 1 des BSH; schwimmende Zeichen regelt die Anlage I zur SeeSchStrO.",
+    "kernpunkte": [
+      { "punkt": "Leuchtfeuerverzeichnis / List of Lights", "synonyme": ["Leuchtfeuerverzeichnis", "List of Lights", "LoL", "Feuerverzeichnis"] },
+      { "punkt": "Seekarte", "synonyme": ["Seekarten", "Karte", "in der Karte"] },
+      { "punkt": "Karte 1 / INT 1 des BSH", "synonyme": ["Karte 1", "INT 1", "Zeichenerklärung", "Kartensymbole", "BSH"] },
+      { "punkt": "Anlage I zur SeeSchStrO (schwimmende Zeichen)", "synonyme": ["Anlage I", "SeeSchStrO", "Seeschifffahrtsstraßen-Ordnung", "Tonnen", "Lateralsystem", "Kardinalsystem"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "15-6",
+    "kurzantwort": "Missweisung = Winkel rwN→mwN. Ablenkung/Deviation = Winkel mwN→MgN.",
+    "erklaerung": "Vom rechtweisenden Nord (geografisch) zum missweisenden Nord (Erdmagnetfeld) liegt die Missweisung. Vom missweisenden Nord zum Magnetkompass-Nord liegt die Ablenkung (Deviation), verursacht durch das Schiff selbst. Eselsbrücke: rw → Mw → mw → Abl → Mg.",
+    "kernpunkte": [
+      { "punkt": "Missweisung = Winkel von rwN nach mwN", "synonyme": ["Missweisung", "Mw", "Variation", "rwN nach mwN", "Deklination"] },
+      { "punkt": "Ablenkung/Deviation = Winkel von mwN nach MgN", "synonyme": ["Ablenkung", "Abl", "Deviation", "Dev", "mwN nach MgN", "Kompassablenkung"] }
+    ],
+    "wichtigkeit": 3
+  },
+  {
+    "id": "15-7",
+    "kurzantwort": "Notzeichen/Funkmeldung absetzen, Verlassen vorbereiten (Westen, Floß), wenn möglich auf Grund setzen.",
+    "erklaerung": "Steigt das Wasser trotz Lenzen weiter, hat das Überleben der Crew Vorrang: Mayday absetzen und Verlassen vorbereiten. Lässt sich ruhiges Flachwasser erreichen, setzt man das Schiff bewusst auf Grund, damit es nicht in tiefem Wasser sinkt.",
+    "kernpunkte": [
+      { "punkt": "Notzeichen/Funkmeldung (Mayday), ggf. Transponder", "synonyme": ["Mayday", "Notruf", "Funkmeldung", "Notzeichen", "SART", "Radartransponder", "Seenotruf"] },
+      { "punkt": "Verlassen vorbereiten: Rettungswesten, Rettungsfloß", "synonyme": ["Rettungswesten", "Rettungsfloß", "Boot verlassen vorbereiten", "Schiff verlassen", "Westen anlegen", "Insel klarmachen"] },
+      { "punkt": "Wenn möglich auf Grund setzen / Flachwasser anlaufen", "synonyme": ["auf Grund setzen", "Flachwasser", "stranden", "auflaufen lassen", "ruhiges Flachwasser"] }
+    ],
+    "wichtigkeit": 3
+  },
+  {
+    "id": "15-8",
+    "kurzantwort": "1 = Okklusionsfront, 2 = Warmfront, 3 = Kaltfront.",
+    "erklaerung": "Im Randtief folgt auf die Warmfront (2) die schneller laufende Kaltfront (3); wo die Kaltfront die Warmfront eingeholt hat, entsteht die Okklusion (1). So liest man die typische Frontstaffel eines Tiefs.",
+    "kernpunkte": [
+      { "punkt": "1 = Okklusionsfront", "synonyme": ["Okklusion", "Okklusionsfront", "Tiefausläufer", "Mischfront"] },
+      { "punkt": "2 = Warmfront", "synonyme": ["Warmfront", "warm", "Warmluft"] },
+      { "punkt": "3 = Kaltfront", "synonyme": ["Kaltfront", "kalt", "Kaltluft"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "15-9",
+    "kurzantwort": "Welle durch Tauwerk blockiert, Schwerlauf des Getriebes (Lager/Zahnräder/dickes Öl) oder verbogene Welle.",
+    "erklaerung": "Beim Einkuppeln wird der Motor plötzlich belastet. Ist die Welle blockiert (z. B. Leine im Propeller) oder das Getriebe schwergängig, würgt der Motor ab. Auch eine verbogene Propellerwelle erhöht den Widerstand bis zum Stillstand.",
+    "kernpunkte": [
+      { "punkt": "Propellerwelle durch Tauwerk blockiert", "synonyme": ["Tauwerk im Propeller", "Leine in Schraube", "Welle blockiert", "Propeller blockiert", "Festmacher in Schraube"] },
+      { "punkt": "Schwerlauf des Getriebes (Zahnräder, Lager, dickes Öl)", "synonyme": ["Getriebeschaden", "Lagerschaden", "Zahnräder defekt", "dickes Öl", "Schwergang Getriebe", "Getriebe schwergängig"] },
+      { "punkt": "Verbogene Propellerwelle", "synonyme": ["verbogene Welle", "krumme Welle", "Wellenschaden", "Propellerwelle verbogen"] }
+    ],
+    "wichtigkeit": 1
+  },
+  {
+    "id": "15-10",
+    "kurzantwort": "Seeventil/Spülwasserzulauf, Handpumpe, Umschalthebel (Spülen/Abpumpen) und Abwasserschlauch zum Seeventil.",
+    "erklaerung": "Das Pumpen-WC zieht Seewasser über das geöffnete Seeventil an, die Handpumpe spült und pumpt ab, ein Hebel schaltet zwischen Spülen und reinem Abpumpen um. Das Abwasser läuft (ggf. über Fäkalientank) zum Seeventil hinaus.",
+    "kernpunkte": [
+      { "punkt": "Seeventil mit Spülwasserzulauf (Seewasser)", "synonyme": ["Seeventil", "Spülwasserschlauch", "Seewasserzulauf", "Einlassventil", "Wasserzufuhr"] },
+      { "punkt": "Handpumpe für die Spülung", "synonyme": ["Handpumpe", "Pumpe", "Spülpumpe", "Toilettenpumpe"] },
+      { "punkt": "Umschalthebel Spülen/Abpumpen", "synonyme": ["Hebel", "Umschalthebel", "Wasserzufuhr unterbrechen", "Spülen/Abpumpen", "Schalter trocken/nass"] },
+      { "punkt": "Abwasserschlauch zum Seeventil (ggf. via Fäkalientank)", "synonyme": ["Abwasserschlauch", "Fäkalientank", "Auslassventil", "Abwasser-Seeventil", "Ablaufschlauch"] }
+    ],
+    "wichtigkeit": 1
+  },
+  {
+    "id": "15-11",
+    "kurzantwort": "Topp- und später Backbordlicht eines Maschinenfahrzeugs (<50 m). A weicht aus (B querab Stb), gibt 1 kurzen Ton; B hält Kurs und Fahrt.",
+    "erklaerung": "Erst nur das weiße Topplicht, dann das rote Backbordlicht: B ist ein Maschinenfahrzeug unter 50 m, das von rechts kommt. Im Kreuzungskurs weicht das Fahrzeug aus, das das andere an Steuerbord hat – also A. A signalisiert die Steuerbordwende mit einem kurzen Ton, B bleibt als Kurshalter auf Kurs und Geschwindigkeit.",
+    "kernpunkte": [
+      { "punkt": "Topplicht und Backbordlicht eines Maschinenfahrzeugs <50 m in Fahrt", "synonyme": ["Topplicht", "Backbordlicht", "rotes Licht", "Maschinenfahrzeug", "weniger als 50 m", "Motorboot"] },
+      { "punkt": "A muss ausweichen (B an Steuerbord), 1 kurzer Ton", "synonyme": ["A weicht aus", "ausweichpflichtig", "B an Steuerbord", "ein kurzer Ton", "Steuerbordwende", "kurzer Ton"] },
+      { "punkt": "B hält Kurs und Geschwindigkeit", "synonyme": ["Kurs halten", "Geschwindigkeit beibehalten", "Kurshalter", "B bleibt auf Kurs", "kurshaltepflichtig"] }
+    ],
+    "wichtigkeit": 3
+  },
+  {
+    "id": "15-12",
+    "kurzantwort": "Unterste Latte herausnehmen, Segel bis über den Riss reffen.",
+    "erklaerung": "Reißt das Groß an der untersten Lattentasche, wird die Latte entfernt, damit sie den Riss nicht weiter aufzieht. Dann reefft man das Segel so weit, dass die beschädigte Stelle eingerollt bzw. unter dem Baum verschwindet und nicht mehr belastet wird.",
+    "kernpunkte": [
+      { "punkt": "Unterste Latte entfernen", "synonyme": ["Latte herausnehmen", "untere Latte entfernen", "Segellatte raus", "Latte ziehen"] },
+      { "punkt": "Segel bis über den Riss reffen", "synonyme": ["reffen", "über den Riss reffen", "einrollen", "Segel verkleinern", "wegreffen"] }
+    ],
+    "wichtigkeit": 1
+  },
+  {
+    "id": "15-13",
+    "kurzantwort": "Am Cumulonimbus mit ambossförmigem Schirm in großer Höhe.",
+    "erklaerung": "Wächst eine Quellwolke bis zur Tropopause, breitet sich der Eisschirm oben amboss­förmig aus – der Cumulonimbus ist die klassische Gewitterwolke. Der Amboss zeigt eine kräftige, hochreichende Konvektion an.",
+    "kernpunkte": [
+      { "punkt": "Cumulonimbus mit ambossförmigem Schirm", "synonyme": ["Cumulonimbus", "Cb", "Amboss", "Gewitterwolke", "Ambosswolke", "Schirm", "Gewitterkopf"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "15-14",
+    "kurzantwort": "Böen nahe Schauern, v. a. an/hinter Kaltfronten, die den Mittelwind um bis zu 2 Bft übertreffen.",
+    "erklaerung": "Bei Schauerböen kann der Wind kurzzeitig deutlich auffrischen – bis zu 2 Beaufort über dem vorhergesagten Mittelwind. Typisch sind sie beim Durchzug und auf der Rückseite von Kaltfronten in der Umgebung von Schauern.",
+    "kernpunkte": [
+      { "punkt": "Kurzzeitige Böen den Mittelwind um bis zu 2 Bft übersteigend", "synonyme": ["2 Bft über Mittelwind", "Böen", "stärker als Mittelwind", "2 Beaufort mehr", "Windspitzen", "auffrischen"] },
+      { "punkt": "Vor allem bei/hinter Kaltfronten und nahe Schauern", "synonyme": ["Kaltfront", "Rückseite Kaltfront", "Schauer", "bei Schauern", "Schauerumgebung"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "15-15",
+    "kurzantwort": "Z. B. Bruce-, CQR-, Danforth- und D'Hone-Anker (drei davon nennen).",
+    "erklaerung": "Diese Bauarten gelten beim Germanischen Lloyd als HHP-Anker (High Holding Power) und halten bei gleichem Gewicht deutlich besser als ein klassischer Stockanker. Drei der genannten Typen reichen für die volle Antwort.",
+    "kernpunkte": [
+      { "punkt": "Bruce-Anker", "synonyme": ["Bruce", "Bruce-Anker", "Klauenanker", "Krallenanker"] },
+      { "punkt": "CQR-Anker", "synonyme": ["CQR", "Pflugscharanker", "Plough", "Pflugschar"] },
+      { "punkt": "Danforth-Anker", "synonyme": ["Danforth", "Plattenanker", "Patentanker"] },
+      { "punkt": "D'Hone-Anker", "synonyme": ["D'Hone", "DHone", "Dhone-Anker"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "15-16",
+    "kurzantwort": "Nachweis der Eintragung im Seeschiffsregister; vom Registergericht; vorgeschrieben ab 15 m Rumpflänge.",
+    "erklaerung": "Das Schiffszertifikat belegt, dass ein Schiff im Seeschiffsregister eingetragen ist (vergleichbar einem Eigentumsnachweis). Es wird vom Registergericht ausgestellt und ist ab 15 m Rumpflänge Pflicht.",
+    "kernpunkte": [
+      { "punkt": "Nachweis der Eintragung im Seeschiffsregister", "synonyme": ["Seeschiffsregister", "Registereintrag", "Eintragungsnachweis", "Schiffsregister", "Eigentumsnachweis"] },
+      { "punkt": "Ausgestellt vom Registergericht", "synonyme": ["Registergericht", "Amtsgericht", "Gericht"] },
+      { "punkt": "Vorgeschrieben ab 15 m Rumpflänge", "synonyme": ["ab 15 m", "15 Meter", "Rumpflänge 15 m", "über 15 m"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "15-17",
+    "kurzantwort": "Der Holepunkt der Schot liegt zu weit achtern.",
+    "erklaerung": "Killt das Achterliek (obere hintere Kante) des Vorsegels, wird das Achterliek zu wenig gespannt: Der Schotzug greift zu flach, weil der Holepunkt zu weit hinten liegt. Holepunkt nach vorn verschieben, dann schließt das Achterliek.",
+    "kernpunkte": [
+      { "punkt": "Holepunkt der Schot liegt zu weit achtern", "synonyme": ["Holepunkt zu weit achtern", "Holepunkt zu weit hinten", "Schotpunkt achtern", "Holepunkt vorholen", "zu weit nach achtern"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "15-18",
+    "kurzantwort": "Auf See ist mehr Wind als im Hafen – die Hafenwerte gelten nicht für die freie See.",
+    "erklaerung": "Bei ablandigem Wind bremsen Land, Bebauung und Hafenanlagen den Wind ab, sodass es im Hafen ruhiger wirkt. Draußen auf freier See weht der Wind ungehindert und damit deutlich stärker als gedacht.",
+    "kernpunkte": [
+      { "punkt": "Auf freier See deutlich mehr Wind als im Hafen", "synonyme": ["mehr Wind auf See", "Hafen windgeschützt", "draußen stärker", "ablandig täuscht", "See windiger", "Land bremst Wind"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "15-19",
+    "kurzantwort": "Die scheinbare Windgeschwindigkeit.",
+    "erklaerung": "Das Anemometer an Bord misst den Fahrtwind und den wahren Wind gemeinsam – also den scheinbaren Wind. Den wahren Wind erhält man erst durch Verrechnung mit Kurs und Fahrt durchs Wasser.",
+    "kernpunkte": [
+      { "punkt": "Scheinbare Windgeschwindigkeit", "synonyme": ["scheinbarer Wind", "scheinbare Windgeschwindigkeit", "apparent wind", "relativer Wind", "gemessener Wind"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "15-20",
+    "kurzantwort": "Die Tragweite muss mindestens gleich der Sichtweite sein.",
+    "erklaerung": "Beim \"Feuer in der Kimm\" misst man den Abstand zum Feuer über den Horizont. Das funktioniert nur, wenn das Feuer hell genug ist (Tragweite ≥ Sichtweite); sonst verschwindet es vor Erreichen der Kimm.",
+    "kernpunkte": [
+      { "punkt": "Tragweite mindestens gleich der Sichtweite", "synonyme": ["Tragweite größer gleich Sichtweite", "Tragweite >= Sichtweite", "Tragweite mindestens Sichtweite", "Tragweite nicht kleiner als Sichtweite"] }
+    ],
+    "wichtigkeit": 1
+  },
+  {
+    "id": "15-21",
+    "kurzantwort": "Straff gespannte Leine/Gurt von Cockpit bis Vorschiff zum Einpicken der Sicherheitsleine (Lifebelt).",
+    "erklaerung": "Das Strecktau verläuft längs an Deck neben der Fußreling. Man pickt den Karabiner des Lifebelts dort ein und kann sich so von achtern bis vorn bewegen, ohne sich umzuhängen – Schutz gegen Über-Bord-Gehen.",
+    "kernpunkte": [
+      { "punkt": "Längs gespannter Draht/Gurt/Leine zwischen Cockpit und Vorschiff", "synonyme": ["Strecktau", "Laufleine", "Gurtband an Deck", "Leine längs Deck", "Jackstag", "Sorgleine"] },
+      { "punkt": "Zum Einpicken der Sicherheitsleine/Lifebelt", "synonyme": ["Lifebelt einpicken", "Sicherheitsleine", "Lifeline einhaken", "Karabiner einpicken", "Sicherheitsgurt"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "15-22",
+    "kurzantwort": "Ein Schwerwettersegel, das anstelle des Großsegels mit losem Unterliek gefahren wird.",
+    "erklaerung": "Das Trysegel ist ein kleines, sehr robustes Sturmsegel. Es ersetzt bei schwerem Wetter das Groß und wird ohne Baum mit losem (freiem) Unterliek gefahren, damit es bei brechender See nicht gefährlich wird.",
+    "kernpunkte": [
+      { "punkt": "Schwerwetter-/Sturmsegel anstelle des Großsegels", "synonyme": ["Schwerwettersegel", "Sturmsegel", "ersetzt Großsegel", "statt Groß", "Sturmgroß"] },
+      { "punkt": "Mit losem Unterliek gefahren (ohne Baum)", "synonyme": ["loses Unterliek", "ohne Baum", "freies Unterliek", "baumlos"] }
+    ],
+    "wichtigkeit": 1
+  },
+  {
+    "id": "15-23",
+    "kurzantwort": "Gelb.",
+    "erklaerung": "Sonderzeichen markieren besondere Bereiche (z. B. Sperr- oder Messstellen) und sind gelb gekennzeichnet. Auch ihr Feuer ist – falls vorhanden – gelb.",
+    "kernpunkte": [
+      { "punkt": "Gelbes Feuer", "synonyme": ["gelb", "gelbe Farbe", "Farbe gelb", "yellow"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "15-24",
+    "kurzantwort": "Bei Gefährdung: ein langer Ton, vier kurze Töne (zweimal gegeben).",
+    "erklaerung": "Gefährdet ein Fahrzeug ein anderes oder wird es selbst gefährdet, gibt es rechtzeitig das allgemeine Gefahr- und Warnsignal, um auf sich aufmerksam zu machen: ein langer Ton gefolgt von vier kurzen Tönen.",
+    "kernpunkte": [
+      { "punkt": "Bei gegenseitiger Gefährdung rechtzeitig geben", "synonyme": ["bei Gefährdung", "wenn Gefahr droht", "Gefahr-/Warnsignal", "andere gefährdet", "selbst gefährdet"] },
+      { "punkt": "Signal: ein langer Ton, vier kurze Töne", "synonyme": ["ein langer vier kurze", "lang vier kurze Töne", "1 lang 4 kurz", "langer Ton vier kurze", "ein langer und vier kurze"] }
+    ],
+    "wichtigkeit": 3
+  },
+  {
+    "id": "15-25",
+    "kurzantwort": "Die geografischen Koordinaten eines anzusteuernden Punktes.",
+    "erklaerung": "Ein Wegpunkt (Waypoint) ist ein durch Länge und Breite festgelegter Zielpunkt der Route. GPS und Kartenplotter navigieren von Wegpunkt zu Wegpunkt entlang der geplanten Strecke.",
+    "kernpunkte": [
+      { "punkt": "Geografische Koordinaten eines anzusteuernden Zielpunktes", "synonyme": ["Koordinaten", "Zielpunkt", "Waypoint", "anzusteuernder Punkt", "Position auf der Route", "Länge und Breite"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "15-26",
+    "kurzantwort": "Jedes Fahrzeug weicht nach Steuerbord aus (rechts ausweichen).",
+    "erklaerung": "Begegnen sich zwei dem Fahrwasser folgende Segelfahrzeuge auf nahezu Gegenkurs, gilt wie im Straßenverkehr Rechtsverkehr: Beide weichen nach Steuerbord aus und passieren sich Backbord an Backbord.",
+    "kernpunkte": [
+      { "punkt": "Jedes Fahrzeug weicht nach Steuerbord aus", "synonyme": ["nach Steuerbord ausweichen", "rechts ausweichen", "Steuerbordausweichen", "beide nach Steuerbord", "Backbord an Backbord"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "15-27",
+    "kurzantwort": "Der Bug bleibt im Wind und die Driftgeschwindigkeit wird verringert.",
+    "erklaerung": "Bei schwerer See wirft man den Treibanker (Sea Anchor) voraus aus. Bei richtiger Leinenlänge dreht er das Schiff mit dem Bug in Wind und See und bremst das Abtreiben, sodass die Wellen sicherer von vorn genommen werden.",
+    "kernpunkte": [
+      { "punkt": "Bug bleibt im Wind / im Wind gehalten", "synonyme": ["Bug im Wind", "Bug gegen die See", "im Wind halten", "gegen Wind und See", "Bug zur See"] },
+      { "punkt": "Driftgeschwindigkeit wird verringert", "synonyme": ["weniger Drift", "Drift verringern", "Abtrift verringern", "langsamer treiben", "verlangsamt Drift"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "15-28",
+    "kurzantwort": "Position so genau wie das GPS/DGPS des Senders (falscher Ort wird überall falsch angezeigt); manuelle Daten (Ziel, Tiefgang, Status) können veraltet/falsch sein.",
+    "erklaerung": "AIS überträgt die GPS- bzw. DGPS-Position des sendenden Schiffes – ist diese falsch, erscheint sie auf allen anderen Schiffen genauso falsch. Manuell eingegebene Angaben wie Zielort, Tiefgang oder Fahrtstatus sind nur so verlässlich wie die Pflege durch die Crew.",
+    "kernpunkte": [
+      { "punkt": "Position nur so genau wie GPS/DGPS des Senders; Fehler wird überall übernommen", "synonyme": ["GPS-Position", "DGPS", "so genau wie GPS", "falsche Position überall", "Position vom Sender", "GPS-Genauigkeit"] },
+      { "punkt": "Manuelle Daten (Ziel, Tiefgang, Status) können falsch/veraltet sein", "synonyme": ["manuelle Eingaben falsch", "Zielort falsch", "Tiefgang falsch", "Fahrtstatus falsch", "nicht aktualisiert", "veraltete Daten"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "15-29",
+    "kurzantwort": "Untersuchungsstellen, die nach Seeunfällen prüfen, ob ein Fahrverbot verhängt oder ein Befähigungszeugnis/Führerschein entzogen werden muss.",
+    "erklaerung": "Seeämter sind Untersuchungsausschüsse bei den Wasser- und Schifffahrtsdirektionen. Sie klären nach Seeunfällen die Verantwortlichkeit und können Fahrverbote aussprechen oder Befähigungszeugnisse bzw. amtliche Sportführerscheine entziehen.",
+    "kernpunkte": [
+      { "punkt": "Untersuchungsausschüsse/-stellen (bei den Wasser- und Schifffahrtsdirektionen)", "synonyme": ["Untersuchungsausschuss", "Seeunfalluntersuchung", "Untersuchungsstelle", "Wasser- und Schifffahrtsdirektion", "Behörde"] },
+      { "punkt": "Können Fahrverbot oder Entzug von Befähigungszeugnis/Führerschein veranlassen", "synonyme": ["Fahrverbot", "Entzug Befähigungszeugnis", "Führerschein entziehen", "Patententzug", "Sanktionen", "Befähigungszeugnis entziehen"] }
+    ],
+    "wichtigkeit": 1
+  },
+  {
+    "id": "15-30",
+    "kurzantwort": "Um mit der Gezeitentafel zu bestimmen, ob das Wasser steigt oder fällt (auflaufend/ablaufend).",
+    "erklaerung": "In Tidengewässern ändert sich der Wasserstand ständig. Nur mit der Uhrzeit der Lotung lässt sich über die Gezeitentafel feststellen, wie der Pegel zum Messzeitpunkt steht und ob das Wasser gerade steigt oder fällt – wichtig für die Wassertiefe unter dem Kiel.",
+    "kernpunkte": [
+      { "punkt": "Mit der Gezeitentafel feststellen, ob Wasser steigt oder fällt", "synonyme": ["Gezeitentafel", "steigt oder fällt", "auflaufend ablaufend", "Tide steigt fällt", "Wasserstand bestimmen", "Gezeiten berechnen"] }
+    ],
+    "wichtigkeit": 2
+  }
+]

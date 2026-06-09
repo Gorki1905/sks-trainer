@@ -1,0 +1,310 @@
+[
+  {
+    "id": "10-1",
+    "kurzantwort": "Öffnungen schließen, Brennstoff-/Hauptschalter aus, Löscher am Brandherd (von unten/vorn), Löschdecke; Flüssigkeitsbrände nie mit Wasser.",
+    "erklaerung": "Sauerstoff- und Brennstoffzufuhr abschneiden entzieht dem Feuer die Grundlage. Der Löscher wirkt nur am Brandherd selbst, deshalb dort und von unten/vorn ansetzen. Wasser auf brennende Flüssigkeiten verteilt das Feuer nur und ist gefährlich.",
+    "kernpunkte": [
+      { "punkt": "alle Öffnungen schließen (Sauerstoffzufuhr unterbinden)", "synonyme": ["Öffnungen schließen", "Luken zu", "Sauerstoff entziehen", "Belüftung schließen"] },
+      { "punkt": "Brennstoffzufuhr / Hauptschalter unterbrechen", "synonyme": ["Brennstoffzufuhr abstellen", "Hauptschalter aus", "Gas abstellen", "Strom aus", "Energiezufuhr unterbrechen"] },
+      { "punkt": "Feuerlöscher am Brandherd, von unten und vorn", "synonyme": ["Feuerlöscher", "am Brandherd löschen", "von unten löschen", "von vorn löschen", "Löschdecke"] },
+      { "punkt": "Flüssigkeitsbrände nicht mit Wasser bekämpfen", "synonyme": ["kein Wasser bei Fettbrand", "Flüssigkeitsbrand", "Öl nicht mit Wasser", "Wasser verboten"] }
+    ],
+    "wichtigkeit": 3
+  },
+  {
+    "id": "10-2",
+    "kurzantwort": "Ab Windstärke 8 Bft (erwartet oder andauernd); international: Gale warning.",
+    "erklaerung": "Sturmwarnungen schützen die Schifffahrt vor gefährlichem Starkwind und werden ausgegeben, sobald mindestens 8 Beaufort erwartet werden oder bereits anhalten. Der international gebräuchliche Begriff lautet Gale warning.",
+    "kernpunkte": [
+      { "punkt": "ab mindestens 8 Bft (erwartet oder andauernd)", "synonyme": ["8 Beaufort", "Windstärke 8", "8 Bft", "Sturmstärke", "mindestens 8"] },
+      { "punkt": "internationale Bezeichnung: Gale warning", "synonyme": ["Gale warning", "Gale", "Sturmwarnung englisch", "gale"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "10-3",
+    "kurzantwort": "Durch Seegang/Niederschlag, falsche Bedienung, zu große Entfernung, Gieren bei head-up-Stellung.",
+    "erklaerung": "Kleine Ziele liefern nur schwache Echos, die im Störecho von Seegang und Regen untergehen oder bei falscher Reglereinstellung weggefiltert werden. Auch große Entfernung und das Gieren des eigenen Schiffes (bei vorausorientiertem Bild) lassen Echos verschwinden.",
+    "kernpunkte": [
+      { "punkt": "Seegang und/oder Niederschlag (Störechos)", "synonyme": ["Seegang", "Niederschlag", "Regen", "Wellen", "Clutter", "Störechos"] },
+      { "punkt": "falsche Bedienung / Reglereinstellung", "synonyme": ["falsche Bedienung", "falsche Einstellung", "Regen-/Seegangsfilter", "Gain falsch", "Bedienfehler"] },
+      { "punkt": "zu große Entfernung", "synonyme": ["große Entfernung", "zu weit weg", "Reichweite", "Distanz"] },
+      { "punkt": "Gieren bei head-up-Stellung", "synonyme": ["Gieren", "head up", "vorausorientiert", "Kursschwankungen", "Schlingern"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "10-4",
+    "kurzantwort": "Kühlwassereinlass durch Fremdkörper verstopft; abwechselnd vor- und zurückfahren, um ihn freizuspülen.",
+    "erklaerung": "Bei Saildrive sitzt der Kühlwassereinlass am Antriebsbein und kann durch Plastik, Folien oder Pflanzen verstopfen, sodass kein Seewasser mehr zur Kühlung kommt. Durch mehrmaliges Vor- und Zurückfahren ändert sich die Anströmung und der Fremdkörper löst sich oft von selbst.",
+    "kernpunkte": [
+      { "punkt": "Fremdkörper verstopfen den Kühlwassereinlass", "synonyme": ["Fremdkörper", "Plastiktüte", "Folie", "Pflanzenteile", "Einlass verstopft", "Seewassereinlass"] },
+      { "punkt": "mehrmals vor- und zurückfahren zum Lösen", "synonyme": ["vor und zurück fahren", "abwechselnd fahren", "freispülen", "freifahren", "rückwärts fahren"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "10-5",
+    "kurzantwort": "Linien gleichen Luftdrucks = Isobaren; Einheit = Hektopascal (hPa), früher Millibar (mb/mbar).",
+    "erklaerung": "Auf Wetterkarten verbinden Isobaren Orte mit gleichem Luftdruck und zeigen so Hochs, Tiefs und den Windverlauf. Der Luftdruck wird in Hektopascal angegeben; ein hPa entspricht einem Millibar.",
+    "kernpunkte": [
+      { "punkt": "Isobaren", "synonyme": ["Isobare", "Isobaren", "Linien gleichen Luftdrucks"] },
+      { "punkt": "Hektopascal (hPa), früher Millibar", "synonyme": ["Hektopascal", "hPa", "Millibar", "mbar", "mb", "hpa"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "10-6",
+    "kurzantwort": "Markierungsblitzboje und MOB-Taste des GPS/Satellitennavigationsgeräts.",
+    "erklaerung": "Der Bezugspunkt (Datum) markiert die letzte bekannte Position des Überbordgefallenen und ist Ausgangspunkt der Suche. Eine Blitzboje markiert die Stelle physisch, die MOB-Taste speichert sie elektronisch im Navigationsgerät.",
+    "kernpunkte": [
+      { "punkt": "Markierungsblitzboje", "synonyme": ["Blitzboje", "Markierungsboje", "Rettungsboje", "MOB-Boje", "Datumsboje"] },
+      { "punkt": "MOB-Taste am GPS / Satellitennavigationsgerät", "synonyme": ["MOB-Taste", "MOB", "Mann-über-Bord-Taste", "GPS", "Plotter", "Satellitennavigation"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "10-7",
+    "kurzantwort": "Crew (Name/Funktion), Beginn/Ende der Fahrt sowie regelmäßig Position, Kurs, Fahrt, Strom, Wetter, Luftdruck.",
+    "erklaerung": "Das Logbuch dokumentiert Reiseverlauf und Verantwortlichkeiten und dient als Nachweis und Rückgriff bei Navigation oder Notfällen. Deshalb gehören Personalien, Start/Ende sowie in sinnvollen Abständen die Navigations- und Wetterdaten hinein.",
+    "kernpunkte": [
+      { "punkt": "Namen und Funktionen der Crew", "synonyme": ["Crewmitglieder", "Besatzung", "Namen", "Funktionen", "Personen an Bord"] },
+      { "punkt": "Beginn und Ende der Fahrt", "synonyme": ["Beginn der Fahrt", "Ende der Fahrt", "Start", "Abfahrt", "Ankunft", "Reisezeit"] },
+      { "punkt": "regelmäßig Position, Kurs, Geschwindigkeit, Strom, Wetter, Luftdruck", "synonyme": ["Position", "Kurs", "Geschwindigkeit", "Fahrt", "Strömung", "Wetter", "Luftdruck"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "10-8",
+    "kurzantwort": "Immer rot-weiß-rot senkrecht; mit FdW zusätzlich Maschinenlichter (Topp, Seiten, Heck); vor Anker zusätzlich Ankerlicht.",
+    "erklaerung": "Die rot-weiß-roten Rundumlichter kennzeichnen das Fahrzeug als manövrierbehindert. Je nach Situation kommen die normalen Lichter hinzu: bei Fahrt durchs Wasser die eines Maschinenfahrzeugs, vor Anker die Ankerlichter.",
+    "kernpunkte": [
+      { "punkt": "ohne Fahrt: rot-weiß-rot senkrecht übereinander", "synonyme": ["rot-weiß-rot", "rwr", "drei Rundumlichter", "rot weiß rot senkrecht"] },
+      { "punkt": "mit Fahrt: zusätzlich Topp-, Seiten- und Hecklicht (Maschinenfahrzeug)", "synonyme": ["Topplicht", "Seitenlichter", "Hecklicht", "Maschinenfahrzeug", "Fahrtlichter"] },
+      { "punkt": "vor Anker: zusätzlich Ankerlicht(er)", "synonyme": ["Ankerlicht", "Ankerlichter", "vor Anker", "weißes Rundumlicht"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "10-9",
+    "kurzantwort": "P-Nachrichten kündigen bevorstehende (preliminary) Maßnahmen an; keine amtliche Berichtigung wegen begrenzter Gültigkeit, daher selbst in die Karte eintragen.",
+    "erklaerung": "Da diese Vorankündigungen nur zeitlich begrenzt gelten, berichtigt das BSH die Karte dafür nicht offiziell. Der Nutzer muss die noch gültigen P-Nachrichten selbst erfassen und vor Gebrauch in der Seekarte vermerken.",
+    "kernpunkte": [
+      { "punkt": "P-Nachrichten kündigen bevorstehende (preliminary) Maßnahmen an", "synonyme": ["preliminary", "bevorstehend", "Vorankündigung", "vorläufig", "P-Nachricht"] },
+      { "punkt": "keine amtliche Berichtigung wegen begrenzter Geltungsdauer", "synonyme": ["keine Berichtigung", "begrenzte Gültigkeit", "zeitlich begrenzt", "nicht dauerhaft", "BSH berichtigt nicht"] },
+      { "punkt": "selbst erfassen und in der Karte vermerken", "synonyme": ["selbst eintragen", "in Karte vermerken", "manuell eintragen", "vor Gebrauch prüfen"] }
+    ],
+    "wichtigkeit": 1
+  },
+  {
+    "id": "10-10",
+    "kurzantwort": "U.a. Schiffsverlust/Aufgrundlaufen/Kollision, Tod/Verschollenheit/schwere Verletzung, Umwelt-/Sachschaden, Gefahr für Mensch oder Schiff.",
+    "erklaerung": "Das SUG definiert, wann ein Vorkommnis als untersuchungspflichtiger Seeunfall gilt. Maßgeblich sind schwere Folgen für Schiff, Personen, Umwelt oder das Bestehen einer ernsten Gefahr.",
+    "kernpunkte": [
+      { "punkt": "Schiffsverlust, Aufgrundlaufen oder Kollision", "synonyme": ["Schiffsverlust", "Aufgrundlaufen", "Kollision", "Strandung", "Zusammenstoß", "Totalverlust"] },
+      { "punkt": "Tod, Verschollenheit oder schwere Verletzung einer Person", "synonyme": ["Tod", "Verschollenheit", "schwere Verletzung", "Personenschaden", "vermisst"] },
+      { "punkt": "maritimer Umweltschaden oder sonstiger Sachschaden", "synonyme": ["Umweltschaden", "Sachschaden", "Verschmutzung", "Ölaustritt"] },
+      { "punkt": "Gefahr für Mensch, Schiff oder Meeresumwelt", "synonyme": ["Gefahr für Menschen", "Gefahr für Schiff", "drohender Schaden", "Bauwerk", "Gefährdung"] }
+    ],
+    "wichtigkeit": 1
+  },
+  {
+    "id": "10-11",
+    "kurzantwort": "Mit sicherer, der Sicht angepasster Geschwindigkeit fahren; bei Maschine an Bord diese bereithalten (gute Seemannschaft).",
+    "erklaerung": "Bei verminderter Sicht muss jedes Fahrzeug so langsam fahren, dass es rechtzeitig reagieren und stoppen kann. Hat ein Segler einen Motor, gehört es zur guten Seemannschaft, ihn startklar zu halten, um schnell manövrieren zu können.",
+    "kernpunkte": [
+      { "punkt": "mit sicherer, der Sicht angepasster Geschwindigkeit fahren", "synonyme": ["sichere Geschwindigkeit", "angepasste Fahrt", "langsam fahren", "Geschwindigkeit anpassen"] },
+      { "punkt": "Maschine bereithalten, wenn vorhanden", "synonyme": ["Maschine bereithalten", "Motor startklar", "Motor bereit", "Maschine klar"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "10-12",
+    "kurzantwort": "Vor Warmfront: bedeckt, langer Regen, schlechte Sicht. Warmsektor: diesig/mäßige Sicht, zeitweise Regen. Hinter Kaltfront: gute Sicht, Schauer/Böen.",
+    "erklaerung": "Mit der herannahenden Warmfront breitet sich dichte Bewölkung mit Dauerregen aus. Im Warmsektor bleibt es mild und diesig, hinter der Kaltfront klart es auf, es bleibt aber schauer- und böenanfällig.",
+    "kernpunkte": [
+      { "punkt": "vor Warmfront: bedeckt, lang andauernder Regen, Sichtverschlechterung", "synonyme": ["Warmfront", "bedeckt", "Dauerregen", "schlechte Sicht", "Niederschlag"] },
+      { "punkt": "Warmsektor: diesig/mäßige Sicht, Auflockerung, zeitweise Regen", "synonyme": ["Warmsektor", "diesig", "mäßige Sicht", "Auflockerung", "zeitweise Regen"] },
+      { "punkt": "hinter Kaltfront: gute Sicht, Schauer mit kräftigen Böen", "synonyme": ["Kaltfront", "gute Sicht", "Sichtbesserung", "Schauer", "Böen"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "10-13",
+    "kurzantwort": "Ringsum freie Sicht ohne Abschattungen und einwandfreie Erdung.",
+    "erklaerung": "Die GPS-Antenne braucht freien Himmelsblick, weil Aufbauten oder Masten Satellitensignale abschatten und die Position verfälschen. Eine gute Erdung schützt vor Störungen und sorgt für sicheren Empfang.",
+    "kernpunkte": [
+      { "punkt": "ringsum freie Sicht ohne Abschattungen", "synonyme": ["freie Sicht", "keine Abschattung", "freier Himmel", "unverbaut", "rundum Sicht"] },
+      { "punkt": "einwandfreie Erdung", "synonyme": ["Erdung", "gute Erdung", "geerdet", "Masse"] }
+    ],
+    "wichtigkeit": 1
+  },
+  {
+    "id": "10-14",
+    "kurzantwort": "Warme, feuchte Luft kühlt über kaltem Wasser unter den Taupunkt ab; in Europa v.a. im Frühjahr.",
+    "erklaerung": "Wenn warme, feuchte Luft über kaltes Wasser zieht, kühlt sie unter den Taupunkt ab und kondensiert zu Nebel (Advektionsnebel). Im Frühjahr ist der Kontrast zwischen milder Luft und noch kaltem Meer am größten.",
+    "kernpunkte": [
+      { "punkt": "warme feuchte Luft kühlt über kaltem Untergrund unter den Taupunkt ab", "synonyme": ["warme feuchte Luft", "kaltes Wasser", "Taupunkt", "Abkühlung", "Advektionsnebel", "Kondensation"] },
+      { "punkt": "tritt überwiegend im Frühjahr auf", "synonyme": ["Frühjahr", "Frühling", "frühes Jahr"] }
+    ],
+    "wichtigkeit": 1
+  },
+  {
+    "id": "10-15",
+    "kurzantwort": "Alle Gefahren, besonderen Umstände und Behinderungen berücksichtigen; zum Abwenden unmittelbarer Gefahr darf von den Regeln abgewichen werden.",
+    "erklaerung": "Die KVR sind keine starren Regeln, sondern müssen die konkrete Situation, alle Gefahren und Einschränkungen einbeziehen. Wenn es zum Abwenden unmittelbarer Gefahr nötig ist, darf und muss man von den Regeln abweichen (z. B. von der Kurshaltepflicht).",
+    "kernpunkte": [
+      { "punkt": "alle Gefahren, besonderen Umstände und Behinderungen berücksichtigen", "synonyme": ["alle Gefahren", "besondere Umstände", "Behinderungen", "Umstände beachten", "Gesamtsituation"] },
+      { "punkt": "Abweichen von den Regeln zum Abwenden unmittelbarer Gefahr erlaubt", "synonyme": ["Abweichen erlaubt", "unmittelbare Gefahr", "Kurshaltepflicht abweichen", "Gefahr abwenden", "Notmanöver"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "10-16",
+    "kurzantwort": "Je Verbraucher 24 W : 12 V = 2 A; 2 A x 2 Verbraucher x 10 h = 40 Ah.",
+    "erklaerung": "Der Strom ergibt sich aus Leistung geteilt durch Spannung (I = P/U). Mal Anzahl der Verbraucher und Betriebsstunden erhält man die Strommenge in Amperestunden: 2 A x 2 x 10 h = 40 Ah.",
+    "kernpunkte": [
+      { "punkt": "Strom je Verbraucher = 24 W : 12 V = 2 A", "synonyme": ["24 durch 12", "2 Ampere", "P durch U", "I = P/U", "2 A"] },
+      { "punkt": "Ergebnis 2 A x 2 x 10 h = 40 Ah", "synonyme": ["40 Ah", "40 Amperestunden", "2x2x10", "40"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "10-17",
+    "kurzantwort": "Damit überkommende Seen nicht ins Segel schlagen und Rigg/Segel belasten.",
+    "erklaerung": "Ein hoch geschnittenes Unterliek hält das Segel von der Wasseroberfläche fern, sodass überkommende Wellen es nicht treffen. So werden Segel und Rigg vor schlagartiger Belastung und Beschädigung geschützt.",
+    "kernpunkte": [
+      { "punkt": "überkommende Seen schlagen nicht ins Segel", "synonyme": ["überkommende Seen", "Wellen schlagen nicht ins Segel", "Wasser ins Segel", "Seen treffen Segel nicht"] },
+      { "punkt": "schützt Rigg und Segel vor Belastung", "synonyme": ["Rigg schonen", "Segel schützen", "Belastung vermeiden", "weniger Belastung", "schont Material"] }
+    ],
+    "wichtigkeit": 1
+  },
+  {
+    "id": "10-18",
+    "kurzantwort": "Wind dreht rechts (recht), meist 60–90°; auf der Trogrückseite Böen bis Orkanstärke.",
+    "erklaerung": "Beim Durchzug eines Troges auf der Nordhalbkugel springt der Wind kräftig nach rechts (rechtdrehend), oft um 60 bis 90 Grad. Besonders auf der Rückseite des Troges können sehr starke Böen bis Orkanstärke auftreten.",
+    "kernpunkte": [
+      { "punkt": "Wind dreht rechts, meist 60–90°", "synonyme": ["rechtdrehend", "dreht recht", "Rechtdrehung", "60 bis 90 Grad", "dreht im Uhrzeigersinn"] },
+      { "punkt": "Winde bis Orkanstärke, v.a. Trogrückseite", "synonyme": ["Orkanstärke", "starke Böen", "Trogrückseite", "Rückseite", "Sturmböen"] }
+    ],
+    "wichtigkeit": 1
+  },
+  {
+    "id": "10-19",
+    "kurzantwort": "In deutscher und englischer Sprache.",
+    "erklaerung": "Die Nachrichten für Seefahrer (NfS) richten sich auch an internationale Nutzer deutscher Seekarten. Deshalb werden die Angaben zweisprachig, in Deutsch und Englisch, veröffentlicht.",
+    "kernpunkte": [
+      { "punkt": "deutsch und englisch", "synonyme": ["deutsch", "englisch", "zweisprachig", "Deutsch und Englisch", "bilingual"] }
+    ],
+    "wichtigkeit": 1
+  },
+  {
+    "id": "10-20",
+    "kurzantwort": "Im gesamten Geltungsbereich der SeeSchStrO, innerhalb und außerhalb der Fahrwasser, soweit die SeeSchStrO nichts anderes bestimmt.",
+    "erklaerung": "Die KVR gelten überall im Bereich der SeeSchStrO als Grundlage. Wo die speziellere SeeSchStrO eigene Regeln aufstellt (z. B. Vorfahrt), gehen diese vor – das speziellere Recht verdrängt das allgemeinere.",
+    "kernpunkte": [
+      { "punkt": "im gesamten Geltungsbereich der SeeSchStrO, innerhalb und außerhalb der Fahrwasser", "synonyme": ["gesamter Geltungsbereich", "innerhalb und außerhalb Fahrwasser", "überall", "SeeSchStrO Bereich"] },
+      { "punkt": "soweit die SeeSchStrO nichts anderes bestimmt (spezielleres Recht geht vor)", "synonyme": ["soweit nichts anderes bestimmt", "spezielleres Recht", "SeeSchStrO geht vor", "Vorrang", "Ausnahme SeeSchStrO"] }
+    ],
+    "wichtigkeit": 1
+  },
+  {
+    "id": "10-21",
+    "kurzantwort": "Die Leine kann mit dem Anker vertörnen, verhindert das Eingraben – der Anker hält dann nicht.",
+    "erklaerung": "Wirft man Anker und Leine gemeinsam über Bord, kann sich die Leine um den Anker schlingen (vertörnen). Dann kann sich der Anker nicht in den Grund eingraben und hält nicht. Deshalb erst den Anker, dann die Leine fieren.",
+    "kernpunkte": [
+      { "punkt": "Leine kann mit dem Anker vertörnen", "synonyme": ["vertörnen", "verheddern", "verwickeln", "Leine um Anker", "verfangen"] },
+      { "punkt": "verhindert Eingraben / Anker hält nicht", "synonyme": ["graben sich nicht ein", "hält nicht", "kein Halt", "Anker greift nicht"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "10-22",
+    "kurzantwort": "Zwischen Sonnenuntergang und Sonnenaufgang und bei verminderter Sicht auch tagsüber.",
+    "erklaerung": "Lichter machen das Fahrzeug für andere erkennbar. Daher müssen sie nachts immer geführt werden und zusätzlich tagsüber, wenn Nebel oder andere verminderte Sicht herrscht.",
+    "kernpunkte": [
+      { "punkt": "zwischen Sonnenuntergang und Sonnenaufgang", "synonyme": ["Sonnenuntergang bis Sonnenaufgang", "nachts", "bei Dunkelheit", "in der Nacht"] },
+      { "punkt": "bei verminderter Sicht auch tagsüber", "synonyme": ["verminderte Sicht", "bei Nebel", "schlechte Sicht", "auch am Tag", "tagsüber bei Nebel"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "10-23",
+    "kurzantwort": "Luvgierigkeit nimmt zu, weil der Segeldruckpunkt nach Lee auswandert.",
+    "erklaerung": "Bei zunehmender Krängung verschiebt sich der Segeldruckpunkt zur Leeseite, während der Lateralpunkt etwa gleich bleibt. Dieser Hebel dreht das Boot in den Wind – es wird luvgierig.",
+    "kernpunkte": [
+      { "punkt": "Luvgierigkeit nimmt zu", "synonyme": ["luvgierig", "Luvgierigkeit", "dreht in den Wind", "anluven", "Luvgier"] },
+      { "punkt": "Segeldruckpunkt wandert nach Lee aus", "synonyme": ["Segeldruckpunkt", "Druckpunkt nach Lee", "Lateralpunkt", "Druckpunkt wandert", "nach Lee"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "10-24",
+    "kurzantwort": "Logge liefert nur Fahrt durchs Wasser (FdW); für Fahrt über Grund (FüG) Stromrichtung und -geschwindigkeit berücksichtigen.",
+    "erklaerung": "Die Logge misst die Bewegung relativ zum Wasser, nicht relativ zum Grund. Da Strom das Boot zusätzlich versetzt, muss man Stromrichtung und -stärke einrechnen, um die tatsächliche Fahrt über Grund für die Seekarte zu erhalten.",
+    "kernpunkte": [
+      { "punkt": "Logge liefert nur Fahrt durchs Wasser (FdW)", "synonyme": ["Fahrt durchs Wasser", "FdW", "durchs Wasser", "relativ zum Wasser"] },
+      { "punkt": "für Fahrt über Grund Strom (Richtung und Geschwindigkeit) berücksichtigen", "synonyme": ["Fahrt über Grund", "FüG", "Strom berücksichtigen", "Stromrichtung", "Stromgeschwindigkeit", "Versatz"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "10-25",
+    "kurzantwort": "Wind und ungewöhnlicher Luftdruck verändern den Wasserstand; HW/NW können höher/niedriger und früher/später eintreten als angegeben.",
+    "erklaerung": "Gezeitentafeln gehen von mittleren Luftdruck- und Windverhältnissen aus. Starker Wind (Stau) und sehr hoher oder niedriger Luftdruck verschieben Höhe und Zeitpunkt von Hoch- und Niedrigwasser teils erheblich.",
+    "kernpunkte": [
+      { "punkt": "Wind und/oder ungewöhnlicher Luftdruck", "synonyme": ["Wind", "Luftdruck", "Windstau", "hoher Luftdruck", "niedriger Luftdruck", "Wetter"] },
+      { "punkt": "Wasserstandshöhe und Eintrittszeit weichen ab", "synonyme": ["höher oder niedriger", "früher oder später", "abweichender Wasserstand", "HWH NWH", "andere Zeit", "andere Höhe"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "10-26",
+    "kurzantwort": "Gefahr durch Grund- und Kreuzseen sowie Querstromwirbel.",
+    "erklaerung": "Bei auflandigem Starkwind türmen sich über flachem Wasser brechende Grundseen auf, und unregelmäßige Kreuzseen können das Boot schwer beherrschbar machen. Zusätzlich entstehen an Hafeneinfahrten gefährliche Querströmungen und Wirbel.",
+    "kernpunkte": [
+      { "punkt": "Grundseen und/oder Kreuzseen", "synonyme": ["Grundseen", "Kreuzseen", "brechende Seen", "hohe Wellen", "Brandung"] },
+      { "punkt": "Querstromwirbel", "synonyme": ["Querstrom", "Stromwirbel", "Wirbel", "Querströmung", "Strömungswirbel"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "10-27",
+    "kurzantwort": "Kartennull (KN) ist die Bezugsfläche für die Tiefenangaben in der Seekarte.",
+    "erklaerung": "Alle in der Seekarte verzeichneten Wassertiefen beziehen sich auf das Kartennull. Es ist meist so tief angesetzt (LAT), dass der Wasserstand kaum darunter fällt, sodass die echte Tiefe in der Regel mindestens dem Kartenwert entspricht.",
+    "kernpunkte": [
+      { "punkt": "Bezugsfläche für die Tiefenangaben der Seekarte", "synonyme": ["Bezugsfläche", "Tiefenangaben", "Bezugsniveau", "Wassertiefen", "Nullfläche", "KN", "Kartennull"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "10-28",
+    "kurzantwort": "Herausgegeben von Verkehrszentralen und dem Seewarndienst Emden; verbreitet über Funk, u.a. durch Deutschlandfunk.",
+    "erklaerung": "Die Verkehrszentralen geben NWN für ihren Bereich heraus, der Seewarndienst Emden für das gesamte deutsche Warngebiet. Verbreitet werden sie über Funk; der Deutschlandfunk sendet alle über Funk abgegebenen NWN.",
+    "kernpunkte": [
+      { "punkt": "Herausgabe durch Verkehrszentralen und Seewarndienst Emden", "synonyme": ["Verkehrszentralen", "Seewarndienst Emden", "Emden", "Revierzentrale", "herausgegeben von"] },
+      { "punkt": "Verbreitung über Funk, u.a. Deutschlandfunk", "synonyme": ["über Funk", "Deutschlandfunk", "Rundfunk", "Funkverbreitung", "verbreitet"] }
+    ],
+    "wichtigkeit": 1
+  },
+  {
+    "id": "10-29",
+    "kurzantwort": "Seekarten mit größtmöglichem Maßstab verwenden – nur dort sind alle Seezeichen und navigatorischen Details eingetragen.",
+    "erklaerung": "Großmaßstäbige (Detail-)Karten zeigen das Revier am genauesten. Nur in ihnen sind alle Schifffahrtszeichen, Untiefen und Einzelheiten enthalten, die zum sicheren Ansteuern einer Küste nötig sind.",
+    "kernpunkte": [
+      { "punkt": "Seekarten mit größtmöglichem Maßstab verwenden", "synonyme": ["größter Maßstab", "großmaßstäbig", "Detailkarte", "größtmöglicher Maßstab", "genaueste Karte"] },
+      { "punkt": "nur dort alle Seezeichen / Navigationsinformationen eingetragen", "synonyme": ["alle Seezeichen", "alle Informationen", "Schifffahrtszeichen", "vollständig", "alle Details"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "10-30",
+    "kurzantwort": "0,25 mg/l Atemalkohol oder 0,5 Promille Blutalkohol dürfen nicht erreicht werden.",
+    "erklaerung": "Wie im Straßenverkehr gilt eine feste Grenze: Wer 0,25 mg/l in der Atemluft oder 0,5 Promille im Blut erreicht, darf kein Fahrzeug führen und keinen Brückendienst ausüben. Bereits das Erreichen dieser Werte ist verboten.",
+    "kernpunkte": [
+      { "punkt": "0,25 mg/l Atemalkohol", "synonyme": ["0,25 mg/l", "0,25 Atemluft", "Atemalkohol", "0,25"] },
+      { "punkt": "0,5 Promille Blutalkohol", "synonyme": ["0,5 Promille", "0,5 ‰", "Blutalkohol", "0,5"] }
+    ],
+    "wichtigkeit": 2
+  }
+]

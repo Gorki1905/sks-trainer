@@ -1,0 +1,317 @@
+[
+  {
+    "id": "9-1",
+    "kurzantwort": "Verboten ab 0,25 mg/l Atemalkohol bzw. 0,5 Promille Blutalkohol (oder mehr).",
+    "erklaerung": "Wie im Straßenverkehr gilt auch beim Führen eines Fahrzeugs oder im Brückendienst die 0,5-Promille-Grenze. Wer diesen Wert erreicht oder überschreitet, darf nicht steuern. Eselsbrücke: 0,25 mg/l Atemluft entsprechen rund 0,5 Promille im Blut.",
+    "kernpunkte": [
+      { "punkt": "0,25 mg/l oder mehr Alkohol in der Atemluft", "synonyme": ["0,25 mg/l", "0,25", "Atemalkohol", "Atemluft", "mg/l"] },
+      { "punkt": "0,5 Promille oder mehr Alkohol im Blut", "synonyme": ["0,5 Promille", "0,5", "0,5 ‰", "Blutalkohol", "Promille"] }
+    ],
+    "wichtigkeit": 3
+  },
+  {
+    "id": "9-2",
+    "kurzantwort": "Großes Schiff: schlechte Manövrierfähigkeit, eingeschränkte Sicht/Radarschatten, Bug- und Heckwellen, Windabdeckung.",
+    "erklaerung": "Große Schiffe können nicht schnell ausweichen oder stoppen und übersehen kleine Boote leicht (Sichtschatten nach voraus, Radarschatten). Halte deshalb selbst frühzeitig Abstand. Zusätzlich können Bugwelle und Windabdeckung das eigene Boot beeinträchtigen.",
+    "kernpunkte": [
+      { "punkt": "andere Manövrierfähigkeit (große Drehkreise, lange Stoppstrecken)", "synonyme": ["Manövrierfähigkeit", "Drehkreis", "Stoppstrecke", "nicht ausweichen", "lange Bremswege"] },
+      { "punkt": "eingeschränkte Sicht / Übersehenwerden / Radarschatten", "synonyme": ["eingeschränkte Sicht", "Sichtschatten", "Radarschatten", "übersehen", "nicht gesehen werden"] },
+      { "punkt": "Beeinträchtigung durch Bugwelle", "synonyme": ["Bugwelle", "Wellen", "Schwell", "Heckwelle"] },
+      { "punkt": "Windabdeckung beeinträchtigt eigene Manövrierfähigkeit", "synonyme": ["Windabdeckung", "Abdeckung", "Windschatten", "Manövrierfähigkeit eigenes Boot"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "9-3",
+    "kurzantwort": "Schutz vor Wind und Wellen, genug Platz zum Schwojen, mögliche Winddrehungen einplanen.",
+    "erklaerung": "Ein guter Ankerplatz liegt im Windschatten, sodass Boot und Crew ruhig liegen. Das Boot dreht sich am Anker (Schwojen), daher braucht es ringsum Platz. Bedenke auch, dass der Wind drehen kann und du dann näher an Hindernisse geraten könntest.",
+    "kernpunkte": [
+      { "punkt": "Schutz vor Wind und Wellen", "synonyme": ["Schutz", "Windschutz", "Wellenschutz", "geschützt", "Lee"] },
+      { "punkt": "ausreichend Platz zum Schwojen", "synonyme": ["Schwojen", "Schwojkreis", "Platz", "Drehkreis am Anker", "ausreichend Raum"] },
+      { "punkt": "mögliche Winddrehungen einplanen", "synonyme": ["Winddrehung", "Winddrehungen", "Wind dreht", "Drehung"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "9-4",
+    "kurzantwort": "1. Seegang wie auf freier See (genug Fetch). 2. Gefahr: Brecher und Grundseen über Untiefen/in flachem Wasser.",
+    "erklaerung": "Bei auflandigem Wind steht genug Windwirklänge (Fetch) zur Verfügung, sodass sich ähnlich hohe Wellen wie auf offener See bilden. Läuft der Seegang in flaches Wasser, werden die Wellen steiler und brechen – es entstehen gefährliche Brecher und Grundseen.",
+    "kernpunkte": [
+      { "punkt": "Seegang wie auf freier See durch ausreichenden Fetch", "synonyme": ["wie auf freier See", "Fetch", "Windwirklänge", "ausgeprägter Seegang", "hohe Wellen"] },
+      { "punkt": "Brecher und Grundseen über Untiefen / in flachem Wasser", "synonyme": ["Brecher", "Grundsee", "Grundseen", "Untiefe", "flaches Wasser"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "9-5",
+    "kurzantwort": "Mitlaufender Strom erhöht die Fahrt über Grund; das Log zeigt das nicht an.",
+    "erklaerung": "Das Log misst nur die Fahrt durchs Wasser, nicht über Grund. Schiebt der Strom mit, kommst du schneller voran als das Log anzeigt. Den Unterschied erkennt man nur über Grund (z. B. per GPS oder Koppelnavigation).",
+    "kernpunkte": [
+      { "punkt": "Strom erhöht die Fahrt über Grund", "synonyme": ["Fahrt über Grund", "FüG", "schneller", "erhöht", "über Grund"] },
+      { "punkt": "Log zeigt dies nicht an (nur Fahrt durchs Wasser)", "synonyme": ["Log zeigt nicht", "Fahrt durchs Wasser", "FdW", "Log misst nicht", "keine Anzeige"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "9-6",
+    "kurzantwort": "Herausgeber: Behörden der Wasser- und Schifffahrtsverwaltung; Inhalt: wichtige Maßnahmen/Ereignisse auf Seeschifffahrtsstraßen und in der AWZ.",
+    "erklaerung": "Die Bekanntmachungen für Seefahrer (BfS) informieren über aktuelle Änderungen wie gesperrte Gebiete, geänderte Tonnen oder Bauarbeiten. Herausgeber sind die zuständigen Behörden der Wasser- und Schifffahrtsverwaltung von Bund und Ländern.",
+    "kernpunkte": [
+      { "punkt": "herausgegeben von Behörden der Wasser- und Schifffahrtsverwaltung (Bund/Länder)", "synonyme": ["Wasser- und Schifffahrtsverwaltung", "WSV", "Behörden", "Bund", "Länder"] },
+      { "punkt": "enthalten wichtige Maßnahmen/Ereignisse auf Seeschifffahrtsstraßen und in der AWZ", "synonyme": ["Maßnahmen", "Ereignisse", "Seeschifffahrtsstraßen", "ausschließliche Wirtschaftszone", "AWZ"] }
+    ],
+    "wichtigkeit": 1
+  },
+  {
+    "id": "9-7",
+    "kurzantwort": "Auf dem Schiff sind Überlebenschancen größer, es ist besser zu orten; Einstieg ins Floß ist schwierig.",
+    "erklaerung": "Das Schiff bietet mehr Schutz, ist größer und damit für Retter leichter zu finden als eine winzige Insel. Der Wechsel ins Rettungsfloß bei Seegang ist riskant. Merke: 'Step up into the liferaft' – erst aussteigen, wenn das Schiff wirklich untergeht.",
+    "kernpunkte": [
+      { "punkt": "Überlebensmöglichkeiten auf dem Schiff größer", "synonyme": ["Überleben", "Überlebenschance", "mehr Schutz", "sicherer an Bord"] },
+      { "punkt": "Schiff ist besser zu orten", "synonyme": ["besser zu orten", "leichter zu finden", "Ortung", "auffindbar", "sichtbar"] },
+      { "punkt": "Einstieg/Aufenthalt im Rettungsfloß schwierig", "synonyme": ["Einstieg ins Floß", "Rettungsfloß", "Rettungsinsel", "schwierig", "gefährlich"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "9-8",
+    "kurzantwort": "In engen Fahrwassern und auf dem Einbahnweg eines Verkehrstrennungsgebiets (gegenüber Maschinenfahrzeugen).",
+    "erklaerung": "Kleine Fahrzeuge (unter 20 m) und Segler dürfen Maschinenfahrzeuge nicht behindern, die nur in engen Fahrwassern oder im VTG sicher fahren können. Das ist kein 'Vorfahrtrecht' der Großen, sondern ein Behinderungsverbot für die Kleinen.",
+    "kernpunkte": [
+      { "punkt": "in engen Fahrwassern", "synonyme": ["enges Fahrwasser", "Fahrwasser", "enge Fahrrinne", "Fahrrinne"] },
+      { "punkt": "auf dem Einbahnweg eines Verkehrstrennungsgebiets (VTG)", "synonyme": ["Verkehrstrennungsgebiet", "VTG", "Einbahnweg", "Trennungsgebiet", "Verkehrstrennung"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "9-9",
+    "kurzantwort": "Kurse/Kursänderungspunkte vorausberechnen, Untiefen markieren, Leuchtfeuer-Auftauchen in Kimm eintragen, unbefeuerte Tonnen prüfen.",
+    "erklaerung": "Bei Nacht fehlt die optische Orientierung, deshalb wird so viel wie möglich vorbereitet. Gefahrenstellen werden hervorgehoben, und man notiert, wann welches Leuchtfeuer auftaucht, um sich daran zu orientieren. Unbefeuerte Tonnen sind nachts kaum zu sehen.",
+    "kernpunkte": [
+      { "punkt": "Kurse und Kursänderungspunkte vorausbestimmen", "synonyme": ["Kurse vorausbestimmen", "Kursänderungspunkte", "Wegpunkte", "Kurse planen", "Wegepunkte"] },
+      { "punkt": "Untiefen und Hindernisse besonders kennzeichnen", "synonyme": ["Untiefen", "Hindernisse", "kennzeichnen", "markieren", "Gefahren"] },
+      { "punkt": "markieren, wann/wo Leuchtfeuer in der Kimm erscheinen", "synonyme": ["Leuchtfeuer", "Kimm", "Auftauchen", "Feuer erscheinen", "Sichtbarwerden"] },
+      { "punkt": "Strecke nach unbefeuerten Tonnen absuchen", "synonyme": ["unbefeuerte Tonnen", "Tonnen ohne Licht", "unbeleuchtete Tonnen", "Tonnen"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "9-10",
+    "kurzantwort": "Kurze Impulslänge wählen und den Messbereich verkleinern.",
+    "erklaerung": "Ein kurzer Radarimpuls verbessert die Entfernungsauflösung, sodass nahe beieinander liegende Ziele getrennt dargestellt werden. Auch ein kleinerer Messbereich erhöht die Auflösung und trennt die Echos. So verschmelzen z. B. zwei Tonnen nicht zu einem Echo.",
+    "kernpunkte": [
+      { "punkt": "kurze Impulslänge wählen", "synonyme": ["kurze Impulslänge", "kurzer Impuls", "Impulslänge", "kurze Pulslänge", "Pulslänge verkürzen"] },
+      { "punkt": "Messbereich verkleinern", "synonyme": ["Messbereich verkleinern", "kleinerer Bereich", "Range verkleinern", "Entfernungsbereich verkleinern"] }
+    ],
+    "wichtigkeit": 1
+  },
+  {
+    "id": "9-11",
+    "kurzantwort": "Maschine starten, Person suchen/Sichtkontakt halten, MOB-Manöver + Leinenverbindung, Bergung an Bord, Erste Hilfe, ggf. Notalarm.",
+    "erklaerung": "Bei einer Person über Bord zählt jede Sekunde: Erst Motor an und Sichtkontakt sichern (Boje/Ausguck), dann zurück zur Person, sie sichern und an Bord holen, versorgen und bei Bedarf Notruf absetzen. Reihenfolge: sehen – erreichen – bergen – versorgen.",
+    "kernpunkte": [
+      { "punkt": "Maschine starten", "synonyme": ["Maschine starten", "Motor an", "Motor starten", "Maschine an"] },
+      { "punkt": "Suche / Sichtkontakt zur Person halten", "synonyme": ["Sichtkontakt", "Person beobachten", "Ausguck", "Suche", "im Auge behalten"] },
+      { "punkt": "MOB-Manöver und erste Leinenverbindung", "synonyme": ["Mensch-über-Bord-Manöver", "MOB-Manöver", "Annäherung", "Leinenverbindung", "Leine"] },
+      { "punkt": "Bergung an Bord, dann Erste Hilfe und ggf. Notalarm", "synonyme": ["Bergung", "an Bord nehmen", "Erste Hilfe", "Notalarm", "Notruf"] }
+    ],
+    "wichtigkeit": 3
+  },
+  {
+    "id": "9-12",
+    "kurzantwort": "U. a. Seetüchtigkeit, Treibstoff/Proviant/Wasser, Navigationsunterlagen, Rettungsmittel/Seenotsignale, Motor/Elektronik, Funkanlage, Papiere.",
+    "erklaerung": "Seeklarmachen heißt, das Boot vor dem Ablegen vollständig auf Sicherheit und Funktion zu prüfen. Dazu gehören Schiff und Ausrüstung, Verbrauchsvorräte, Navigation, Sicherheits- und Rettungsausrüstung sowie die Papiere. So vermeidet man Pannen und Notlagen auf See.",
+    "kernpunkte": [
+      { "punkt": "Seetüchtigkeit von Yacht, Rigg und Segeln", "synonyme": ["Seetüchtigkeit", "Segel", "Rigg", "Rumpf", "Zustand der Yacht"] },
+      { "punkt": "Vorräte: Treibstoff, Trinkwasser, Proviant", "synonyme": ["Treibstoff", "Kraftstoff", "Trinkwasser", "Proviant", "Vorräte"] },
+      { "punkt": "Navigationsunterlagen und Navigationsgeräte/Funk", "synonyme": ["Navigationsunterlagen", "Seekarten", "Navigationsgeräte", "UKW-Funk", "Seefunkanlage"] },
+      { "punkt": "Sicherheits-/Rettungsmittel, Seenotsignale, Feuerlöscher, Papiere", "synonyme": ["Rettungsmittel", "Seenotsignale", "Feuerlöscher", "Sicherheitseinweisung", "Bootspapiere"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "9-13",
+    "kurzantwort": "Ersatzteile/Werkzeug für: Segel, Rumpf/Rigg, Motor, Elektrik und Schlauchleitungen.",
+    "erklaerung": "Auf See gibt es keine Werkstatt, deshalb sollte man die wichtigsten Reparaturbereiche selbst abdecken können. Diese fünf Bereiche umfassen praktisch alle Systeme an Bord, die unterwegs ausfallen können.",
+    "kernpunkte": [
+      { "punkt": "Segelreparaturen", "synonyme": ["Segel", "Segelreparatur", "Tuch", "Nähzeug"] },
+      { "punkt": "Reparaturen an Rumpf und Rigg", "synonyme": ["Rumpf", "Rigg", "Mast", "Wanten", "Stehendes Gut"] },
+      { "punkt": "Motorreparaturen", "synonyme": ["Motor", "Motorreparatur", "Maschine", "Antrieb"] },
+      { "punkt": "Elektro- und Schlauchleitungsreparaturen", "synonyme": ["Elektrik", "Elektroreparatur", "Schlauchleitungen", "Schläuche", "Leitungen"] }
+    ],
+    "wichtigkeit": 1
+  },
+  {
+    "id": "9-14",
+    "kurzantwort": "Ablenkung für den anliegenden MgK aus der Steuertafel nehmen, dann Missweisung des laufenden Jahres anbringen.",
+    "erklaerung": "Die Ablenkung (Abl) hängt vom anliegenden Magnetkompasskurs ab, nicht von der Peilung – also entnimmt man sie der Steuertafel für den aktuellen MgK. Danach wird die Missweisung (Mw) für das laufende Jahr (aus der Seekarte) angebracht, um auf rechtweisend zu kommen.",
+    "kernpunkte": [
+      { "punkt": "Ablenkung für den anliegenden MgK aus der Steuertafel entnehmen", "synonyme": ["Ablenkung", "Abl", "Deviation", "Steuertafel", "Ablenkungstabelle"] },
+      { "punkt": "Missweisung des laufenden Jahres (aus Seekarte) anbringen", "synonyme": ["Missweisung", "Mw", "Variation", "laufendes Jahr", "Seekarte"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "9-15",
+    "kurzantwort": "Durch mit der Luftmasse herangeführten Saharastaub kann die Sicht stark vermindert werden.",
+    "erklaerung": "Bei bestimmten Wetterlagen weht Wind feinen Wüstenstaub aus der Sahara über das Mittelmeer. Dieser Staub trübt die Luft ähnlich wie Dunst und reduziert die Sichtweite erheblich.",
+    "kernpunkte": [
+      { "punkt": "Saharastaub in der Luftmasse vermindert die Sicht", "synonyme": ["Saharastaub", "Wüstenstaub", "Sand", "Staub", "Luftmasse"] }
+    ],
+    "wichtigkeit": 1
+  },
+  {
+    "id": "9-16",
+    "kurzantwort": "Beim folgenden Niedrigwasser ist die Wassertiefe geringer als zum Zeitpunkt der Lotung.",
+    "erklaerung": "Wenn man nicht bei Niedrigwasser lotet, steht das Wasser noch höher als beim nächsten Tiefststand. Die gemessene Tiefe nimmt also bis zum Niedrigwasser ab – das muss man bei der Berechnung des Wasserstands und der Kielfreiheit berücksichtigen.",
+    "kernpunkte": [
+      { "punkt": "beim folgenden Niedrigwasser wird die Wassertiefe geringer sein", "synonyme": ["Niedrigwasser", "geringer", "weniger Wasser", "Tiefe nimmt ab", "flacher"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "9-17",
+    "kurzantwort": "Land erwärmt sich stärker als das Wasser, warme Luft steigt auf, das Bodentief wird durch Wind von See aufgefüllt.",
+    "erklaerung": "Tagsüber heizt die Sonne das Land schneller auf als das Wasser. Über dem Land steigt die warme Luft auf, sodass dort ein Tief entsteht. Kühlere Luft strömt von der See nach – das ist der Seewind.",
+    "kernpunkte": [
+      { "punkt": "Land erwärmt sich stärker als das Wasser", "synonyme": ["Land erwärmt sich", "Land wärmer", "Sonneneinstrahlung", "Erwärmung", "stärker erwärmt"] },
+      { "punkt": "warme Luft steigt auf, Bodentief entsteht", "synonyme": ["Luft steigt auf", "Aufsteigen", "Bodentief", "Tief", "Tiefdruck"] },
+      { "punkt": "Auffüllung durch Wind von See (Seewind)", "synonyme": ["Wind von See", "Seewind", "Luft strömt nach", "aufgefüllt", "vom Meer"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "9-18",
+    "kurzantwort": "Seeunfall unverzüglich der Bundesstelle für Seeunfalluntersuchung melden – über Wasserschutzpolizei (Inland) oder Hafenbehörde (Ausland).",
+    "erklaerung": "Seeunfälle müssen gemeldet werden, damit Ursachen untersucht und künftige Unfälle vermieden werden. Zuständig ist die Bundesstelle für Seeunfalluntersuchung (BSU); die Meldung kann auch über die Wasserschutzpolizei oder im Ausland über die Hafenbehörde laufen.",
+    "kernpunkte": [
+      { "punkt": "unverzüglich der Bundesstelle für Seeunfalluntersuchung melden", "synonyme": ["Bundesstelle für Seeunfalluntersuchung", "BSU", "melden", "Meldung", "Seeunfall melden"] },
+      { "punkt": "Umsetzung über Wasserschutzpolizei (Inland) bzw. Hafenbehörde (Ausland)", "synonyme": ["Wasserschutzpolizei", "WSP", "Hafenbehörde", "Einlaufhafen", "Ausland"] }
+    ],
+    "wichtigkeit": 1
+  },
+  {
+    "id": "9-19",
+    "kurzantwort": "Mit zunehmender Krängung wird der Lateralplan kleiner, der seitliche Widerstand sinkt – die Versetzung steigt.",
+    "erklaerung": "Der Lateralplan ist die seitliche Unterwasserfläche, die das Abdriften verhindert. Krängt das Boot stark, taucht weniger dieser Fläche senkrecht ins Wasser, der seitliche Widerstand nimmt ab und der Wind drückt das Boot stärker seitlich weg.",
+    "kernpunkte": [
+      { "punkt": "Lateralplan wird kleiner", "synonyme": ["Lateralplan", "Lateralfläche", "Unterwasserfläche", "kleiner", "seitliche Fläche"] },
+      { "punkt": "seitlicher Widerstand im Wasser verringert sich", "synonyme": ["seitlicher Widerstand", "Widerstand sinkt", "weniger Widerstand", "Abdrift steigt", "Versetzung größer"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "9-20",
+    "kurzantwort": "Durch die Bodenreibung wird der Wind rückgedreht (gegen den Uhrzeigersinn) und weht nicht parallel zu den Isobaren.",
+    "erklaerung": "In der Höhe weht der Wind parallel zu den Isobaren (geostrophischer Wind). Am Boden bremst die Reibung den Wind ab, die Corioliskraft wird schwächer und der Wind dreht zum tiefen Druck hin – auf der Nordhalbkugel gegen den Uhrzeigersinn.",
+    "kernpunkte": [
+      { "punkt": "Bodenreibung dreht den Wind zurück (gegen den Uhrzeigersinn)", "synonyme": ["Bodenreibung", "Reibung", "rückgedreht", "gegen den Uhrzeigersinn", "zum Tief gedreht"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "9-21",
+    "kurzantwort": "Durch eine Zinkanode (Opferanode) auf der Propellerwelle.",
+    "erklaerung": "Verschiedene Metalle im Salzwasser bilden ein galvanisches Element, das die wertvollen Bauteile zerfrisst. Die unedlere Zinkanode löst sich stattdessen auf ('Opferanode') und schützt so Propeller und Welle vor Korrosion.",
+    "kernpunkte": [
+      { "punkt": "Zinkanode / Opferanode auf der Propellerwelle", "synonyme": ["Zinkanode", "Opferanode", "Anode", "Zink", "Propellerwelle"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "9-22",
+    "kurzantwort": "Ortsbestimmung durch Laufzeit-/Abstandsmessung der Signale von mehreren Satelliten zum Empfänger.",
+    "erklaerung": "Jeder GPS-Satellit sendet ein Zeitsignal. Aus der Laufzeit bis zum Empfänger berechnet das Gerät den Abstand zu jedem Satelliten. Aus den Abständen zu mehreren Satelliten wird die Position bestimmt (Bogenschnitt im Raum).",
+    "kernpunkte": [
+      { "punkt": "Laufzeitmessung der Satellitensignale", "synonyme": ["Laufzeitmessung", "Laufzeit", "Signallaufzeit", "Zeitmessung", "Signal vom Satelliten"] },
+      { "punkt": "Abstandsmessung zu den Satelliten ermöglicht Ortsbestimmung", "synonyme": ["Abstandsmessung", "Entfernung zu Satelliten", "Ortsbestimmung", "Position", "Standort"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "9-23",
+    "kurzantwort": "Gierendes Maschinenfahrzeug <50 m, Begegnung fast entgegengesetzt: beide weichen nach Steuerbord aus und geben einen kurzen Ton.",
+    "erklaerung": "Topplicht, grün und zeitweise rot fast voraus heißt: ein gierendes Maschinenfahrzeug unter 50 m kommt fast genau entgegen – eine Begegnungssituation mit Kollisionsgefahr. Nach den KVR müssen beide nach Steuerbord ausweichen und das mit einem kurzen Ton (Manöversignal) anzeigen.",
+    "kernpunkte": [
+      { "punkt": "gierendes Maschinenfahrzeug unter 50 m Länge", "synonyme": ["Maschinenfahrzeug", "Motorfahrzeug", "unter 50 m", "weniger als 50 m", "gieren"] },
+      { "punkt": "entgegengesetzte/fast entgegengesetzte Kurse – Begegnung mit Kollisionsgefahr", "synonyme": ["entgegengesetzte Kurse", "Begegnung", "fast voraus", "Kollisionsgefahr", "Zusammenstoß"] },
+      { "punkt": "beide ändern Kurs nach Steuerbord", "synonyme": ["nach Steuerbord", "Steuerbord ausweichen", "rechts ausweichen", "Kurs nach Steuerbord"] },
+      { "punkt": "Anzeige durch einen kurzen Ton", "synonyme": ["kurzer Ton", "ein Ton", "Schallsignal", "Manöversignal"] }
+    ],
+    "wichtigkeit": 3
+  },
+  {
+    "id": "9-24",
+    "kurzantwort": "Wasserflächen, die durch laterale Tonnen begrenzt/gekennzeichnet oder (sonst) für die durchgehende Schifffahrt bestimmt sind.",
+    "erklaerung": "Der Begriff 'Fahrwasser' ist in der SeeSchStrO rechtlich definiert. In der Regel markieren laterale Tonnen die Grenzen. Wo das nicht der Fall ist, gilt der für die durchgehende Schifffahrt bestimmte Teil der Wasserstraße als Fahrwasser.",
+    "kernpunkte": [
+      { "punkt": "durch (laterale) Tonnen begrenzt oder gekennzeichnet", "synonyme": ["Tonnen", "laterale Zeichen", "lateral", "begrenzt", "gekennzeichnet"] },
+      { "punkt": "sonst der für die durchgehende Schifffahrt bestimmte Teil", "synonyme": ["durchgehende Schifffahrt", "durchgehender Verkehr", "bestimmt", "Wasserfläche", "Binnenwasserstraße"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "9-25",
+    "kurzantwort": "Richtung (rw) und Entfernung (sm) vom Koppelort zum beobachteten Ort zum gleichen Zeitpunkt.",
+    "erklaerung": "Die Besteckversetzung zeigt, wie weit und in welche Richtung der tatsächlich beobachtete Ort vom gekoppelten (gerechneten) Ort abweicht. Sie erfasst die Summe aller Einflüsse wie Strom und Wind und wird für beide Orte zum selben Zeitpunkt bestimmt.",
+    "kernpunkte": [
+      { "punkt": "Richtung (rechtweisend) vom Koppelort zum beobachteten Ort", "synonyme": ["Richtung", "rechtweisend", "rw", "Koppelort", "beobachteter Ort"] },
+      { "punkt": "Entfernung in Seemeilen, bezogen auf den gleichen Zeitpunkt", "synonyme": ["Entfernung", "Seemeilen", "sm", "Distanz", "gleicher Zeitpunkt"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "9-26",
+    "kurzantwort": "Entfernung, auf die ein Feuer über die Kimm hinweg gesehen wird; hängt von Feuerhöhe und Augeshöhe ab.",
+    "erklaerung": "Die (geografische) Sichtweite ist durch die Erdkrümmung begrenzt: Je höher das Feuer und je höher das Auge des Beobachters steht, desto weiter reicht die Kimm und desto eher taucht das Feuer auf. Sie ist nicht mit der Tragweite (Lichtstärke) zu verwechseln.",
+    "kernpunkte": [
+      { "punkt": "Entfernung, auf die das Feuer über die Kimm/Erdkrümmung gesehen wird", "synonyme": ["über die Kimm", "Erdkrümmung", "Kimm", "geografische Sichtweite", "gesehen werden"] },
+      { "punkt": "abhängig von der Feuerhöhe", "synonyme": ["Feuerhöhe", "Höhe des Feuers", "Leuchtfeuerhöhe", "Höhe Leuchtturm"] },
+      { "punkt": "abhängig von der Augeshöhe des Beobachters", "synonyme": ["Augeshöhe", "Augenhöhe", "Höhe des Beobachters", "Beobachter"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "9-27",
+    "kurzantwort": "Sportboote werden im Radar oft schlecht angezeigt; ohne eigenes AIS fallen sie auf AIS-bestückten Radargeräten noch weniger auf.",
+    "erklaerung": "Kleine Sportboote liefern nur schwache Radarechos und verschwinden leicht im Seegangsclutter. Da viele Schiffe heute AIS-Ziele im Radar einblenden und ihre Aufmerksamkeit darauf richten, übersehen sie Boote ohne AIS noch leichter. Deshalb ist eigenes AIS für Sportboote sinnvoll.",
+    "kernpunkte": [
+      { "punkt": "Sportboote im Radar anderer Schiffe oft nicht sicher angezeigt (Seegangsclutter)", "synonyme": ["schlechtes Radarecho", "nicht sicher angezeigt", "Seegangsclutter", "Clutter", "im Radar untergehen"] },
+      { "punkt": "ohne eigenes AIS noch weniger auffällig auf AIS-bestückten Radargeräten", "synonyme": ["ohne AIS", "kein AIS", "weniger auffällig", "AIS im Radar", "eigenes AIS"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "9-28",
+    "kurzantwort": "Wind ist bewegte Luft; er entsteht durch Druckunterschiede zwischen Hoch und Tief.",
+    "erklaerung": "Luft strömt immer vom hohen zum tiefen Druck, um die Unterschiede auszugleichen. Diese horizontale Luftbewegung nennen wir Wind. Je größer der Druckunterschied (eng beieinander liegende Isobaren), desto stärker der Wind.",
+    "kernpunkte": [
+      { "punkt": "Wind ist bewegte Luft", "synonyme": ["bewegte Luft", "Luftbewegung", "strömende Luft", "Luft in Bewegung"] },
+      { "punkt": "entsteht durch Druckunterschiede zwischen Hoch und Tief", "synonyme": ["Druckunterschiede", "Druckgefälle", "Hoch und Tief", "Luftdruckunterschied", "Hochdruck und Tiefdruck"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "9-29",
+    "kurzantwort": "Wartepflicht: rechtzeitig erkennbar machen, dass man wartet; nur weiterfahren, wenn die Schifffahrt nicht beeinträchtigt wird. Gilt nicht als Ausweichen.",
+    "erklaerung": "'Vorfahrt beachten' ist die Pflicht des Wartepflichtigen. Er muss frühzeitig durch sein Fahrverhalten zeigen, dass er wartet, und darf nur fahren, wenn er den Verkehr im Fahrwasser nicht stört. Nötigenfalls ändert er Kurs/Geschwindigkeit – rechtlich ist das kein Ausweichmanöver nach KVR.",
+    "kernpunkte": [
+      { "punkt": "begründet eine Wartepflicht", "synonyme": ["Wartepflicht", "warten", "muss warten", "Wartepflichtiger"] },
+      { "punkt": "rechtzeitig durch Fahrverhalten erkennen lassen, dass man wartet", "synonyme": ["rechtzeitig", "erkennen lassen", "Fahrverhalten", "frühzeitig zeigen"] },
+      { "punkt": "Weiterfahrt nur, wenn Schifffahrt im Fahrwasser nicht beeinträchtigt wird", "synonyme": ["nicht beeinträchtigen", "Schifffahrt nicht stören", "Fahrwasser frei", "übersehen können"] },
+      { "punkt": "gilt rechtlich nicht als Ausweichen", "synonyme": ["kein Ausweichen", "nicht Ausweichen", "kein Ausweichmanöver", "rechtlich kein Ausweichen"] }
+    ],
+    "wichtigkeit": 3
+  },
+  {
+    "id": "9-30",
+    "kurzantwort": "Gilt nur für ein im Fahrwasser fahrendes Fahrzeug; andere müssen warten. Vorfahrt darf nicht erzwungen werden – Kollision trotzdem verhindern.",
+    "erklaerung": "'Vorfahrt haben' steht dem Fahrzeug zu, das im Fahrwasser fährt oder dessen Verlauf folgt. Wer ein-, aus- oder anlegen oder drehen will, muss warten. Vorfahrt heißt aber nicht, sie zu erzwingen: Droht eine Kollision, muss auch der Vorfahrtberechtigte handeln.",
+    "kernpunkte": [
+      { "punkt": "gilt nur für im Fahrwasser fahrendes/dem Verlauf folgendes Fahrzeug", "synonyme": ["im Fahrwasser", "Fahrwasserverlauf", "folgt dem Fahrwasser", "Fahrzeug im Fahrwasser"] },
+      { "punkt": "andere (einlaufen, drehen, an-/ablegen) müssen warten", "synonyme": ["andere müssen warten", "einlaufen warten", "drehen", "an- und ablegen", "Wartepflicht der anderen"] },
+      { "punkt": "Vorfahrt nicht erzwingen / Kollision verhindern", "synonyme": ["nicht erzwingen", "Vorfahrt erzwingen verboten", "Kollision verhindern", "Maßnahmen ergreifen", "Zusammenstoß vermeiden"] }
+    ],
+    "wichtigkeit": 3
+  }
+]

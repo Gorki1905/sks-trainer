@@ -1,0 +1,324 @@
+[
+  {
+    "id": "3-1",
+    "kurzantwort": "Andere Manövrierfähigkeit (große Drehkreise/Stoppstrecken), eingeschränkte Sicht voraus, Radarschatten (Übersehenwerden), Bugwelle und Windabdeckung.",
+    "erklaerung": "Große Schiffe sind viel träger: Sie brauchen lange zum Stoppen und Drehen und können nahe Kleinfahrzeuge weder optisch (Sichtschatten nach voraus) noch per Radar (Radarschatten) erkennen. Zusätzlich gefährden dich Bugwelle und Windabdeckung. Halte dich rechtzeitig und großräumig frei.",
+    "kernpunkte": [
+      { "punkt": "andere Manövrierfähigkeit (größere Drehkreise, längere Stoppstrecken)", "synonyme": ["Manövrierfähigkeit", "Drehkreis", "Stoppstrecke", "träge", "schwer manövrierbar", "kann nicht schnell ausweichen"] },
+      { "punkt": "eingeschränkte Sicht des großen Fahrzeugs, besonders nach voraus", "synonyme": ["eingeschränkte Sicht", "Sichtschatten", "tote Sicht nach voraus", "sieht mich nicht"] },
+      { "punkt": "Übersehenwerden durch Radarschatten", "synonyme": ["Radarschatten", "Radar", "übersehen werden", "nicht auf dem Radar"] },
+      { "punkt": "Bugwelle und Windabdeckung beeinträchtigen das eigene Boot", "synonyme": ["Bugwelle", "Schwell", "Windabdeckung", "Windschatten", "Sog"] }
+    ],
+    "wichtigkeit": 3
+  },
+  {
+    "id": "3-2",
+    "kurzantwort": "Änderungen an Befeuerung/Betonnung/Landmarken, veränderte Wassertiefen, Wracks/Hindernisse/Rohrleitungen, Bau-/Bagger-/Militärübungen mit Sperrungen.",
+    "erklaerung": "Die Bekanntmachungen für Seefahrer (BfS) halten die Seekarten und Verzeichnisse aktuell. Sie melden alles, was die Navigation kurzfristig betrifft: geänderte Seezeichen, neue Tiefen, Gefahren wie Wracks oder Sperrungen durch Arbeiten und Übungen.",
+    "kernpunkte": [
+      { "punkt": "Änderungen an Befeuerung, Betonnung und Landmarken", "synonyme": ["Befeuerung", "Betonnung", "Tonnen", "Leuchtfeuer", "Landmarken", "Seezeichen geändert"] },
+      { "punkt": "veränderte Wassertiefen", "synonyme": ["Wassertiefen", "Tiefen", "Untiefen", "Versandung", "geänderte Tiefe"] },
+      { "punkt": "Wracks, Schifffahrtshindernisse, Rohrleitungen", "synonyme": ["Wrack", "Hindernis", "Schifffahrtshindernis", "Rohrleitung", "Kabel"] },
+      { "punkt": "Bau-, Bagger-, Militärübungen und Sperrungen/Behinderungen", "synonyme": ["Bauarbeiten", "Baggerarbeiten", "militärische Übung", "Sperrung", "Sperrgebiet", "Behinderung"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "3-3",
+    "kurzantwort": "Böen bis Orkanstärke, plötzliche Winddrehungen, Regen-/Hagelschauer mit starker Sichtminderung, Blitzschlag.",
+    "erklaerung": "Ein Gewitter bringt heftige, schwer vorhersehbare Wetterwechsel: Der Wind kann schlagartig auffrischen und drehen, dichte Schauer nehmen die Sicht, und der Blitz ist eine direkte Gefahr für Mensch und Elektronik. Rechtzeitig Segel verkleinern und vorbereiten.",
+    "kernpunkte": [
+      { "punkt": "Böen bis Orkanstärke", "synonyme": ["Böen", "Sturmböen", "Orkanböen", "starker Wind", "plötzlicher Wind"] },
+      { "punkt": "plötzliche Winddrehungen", "synonyme": ["Winddrehung", "Winddreher", "drehender Wind", "Richtungswechsel des Windes"] },
+      { "punkt": "Regen-/Hagelschauer mit starker Sichtminderung", "synonyme": ["Regenschauer", "Hagel", "Sichtminderung", "schlechte Sicht", "Schauer"] },
+      { "punkt": "Blitzschlag", "synonyme": ["Blitz", "Blitzschlag", "Einschlag", "Gewitterblitz"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "3-4",
+    "kurzantwort": "Passiv: Beiliegen, Lenzen vor Topp und Takel (Leinen achteraus schleppen) oder vor Treibanker liegen. Aktiv: unter Sturmbesegelung segeln und brechende Seen aussteuern.",
+    "erklaerung": "Im Sturm wählt man je nach Bedingungen eine passive oder aktive Taktik. Passiv lässt man das Boot ruhig liegen (Beiliegen, Treibanker) oder läuft langsam vor dem Wind ab. Aktiv segelt man mit kleiner Sturmbesegelung weiter und steuert gefährliche, brechende Wellen gezielt aus.",
+    "kernpunkte": [
+      { "punkt": "Beiliegen", "synonyme": ["Beiliegen", "beidrehen", "beigedreht liegen", "Beidrehen"] },
+      { "punkt": "Lenzen vor Topp und Takel, Leinen achteraus schleppen", "synonyme": ["Lenzen vor Topp und Takel", "vor Topp und Takel", "abLaufen", "Leinen schleppen", "vor dem Wind ablaufen"] },
+      { "punkt": "Liegen vor Treibanker", "synonyme": ["Treibanker", "Treibanker liegen", "Drogue", "Seeanker"] },
+      { "punkt": "aktiv unter Sturmbesegelung segeln und brechende Seen aussteuern", "synonyme": ["Sturmbesegelung", "Sturmfock", "Trysegel", "aktiv segeln", "brechende Seen aussteuern"] }
+    ],
+    "wichtigkeit": 3
+  },
+  {
+    "id": "3-5",
+    "kurzantwort": "Schleppverband über 200 m Länge. Nachts: Schlepper 3 weiße Topplichter senkrecht + Seiten-/Hecklicht + gelbes Schlepplicht über Hecklicht; Anhang Seiten- und Hecklicht.",
+    "erklaerung": "Zwei Rhomben (schwarze Doppelkegel/Rhombus) bei Schlepper und Anhang zeigen einen Schleppverband, dessen Länge (Heck Schlepper bis Heck Anhang) über 200 m beträgt. Statt zwei Topplichtern führt der Schlepper deshalb drei senkrecht übereinander; das gelbe Schlepplicht steht über dem Hecklicht.",
+    "kernpunkte": [
+      { "punkt": "Schleppverband länger als 200 m", "synonyme": ["Schleppverband", "Schlepper mit Anhang", "über 200 m", "länger als 200 m", "Schleppzug"] },
+      { "punkt": "Schlepper: drei weiße Topplichter senkrecht übereinander", "synonyme": ["drei Topplichter", "3 weiße Topplichter", "drei senkrechte Topplichter", "Schlepper Topplichter"] },
+      { "punkt": "Schlepper: Seitenlichter, Hecklicht und gelbes Schlepplicht über dem Hecklicht", "synonyme": ["Seitenlichter", "Hecklicht", "gelbes Schlepplicht", "Schlepplicht über Hecklicht"] },
+      { "punkt": "Anhang: Seitenlichter und Hecklicht", "synonyme": ["Anhang Seitenlichter", "Anhang Hecklicht", "geschlepptes Fahrzeug Lichter"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "3-6",
+    "kurzantwort": "Feuerlöscher (ABC-Pulver, evtl. CO2), Pütz für feste Stoffe, Feuerlöschdecke, Löschdurchlass für geschlossene Motorräume.",
+    "erklaerung": "Brände an Bord brauchen passende Mittel: Pulverlöscher für die meisten Fälle, CO2 für Elektrik/Motor, eine Pütz Seewasser für Glutbrände fester Stoffe, eine Löschdecke gegen Fett-/Personenbrände und ein Löschdurchlass, um den Motorraum ohne Öffnen (ohne Sauerstoffzutritt) zu fluten.",
+    "kernpunkte": [
+      { "punkt": "Feuerlöscher (ABC-Pulverlöscher, evtl. CO2-Löscher)", "synonyme": ["Feuerlöscher", "Pulverlöscher", "ABC-Löscher", "CO2-Löscher", "Handfeuerlöscher"] },
+      { "punkt": "Pütz zum Löschen fester Stoffe", "synonyme": ["Pütz", "Eimer", "Wassereimer", "Seewasser"] },
+      { "punkt": "Feuerlöschdecke", "synonyme": ["Löschdecke", "Feuerlöschdecke", "Branddecke"] },
+      { "punkt": "Löschdurchlass für geschlossene Motorräume", "synonyme": ["Löschdurchlass", "Löschöffnung", "Motorraum löschen", "CO2 in Motorraum"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "3-7",
+    "kurzantwort": "1. Weltweite Verfügbarkeit, 2. jederzeit verfügbare Positionsanzeige, 3. geringer Positionsfehler.",
+    "erklaerung": "GPS überzeugt durch globale Abdeckung, ständige Verfügbarkeit der Position rund um die Uhr und hohe Genauigkeit. Deshalb hat es klassische Verfahren als Hauptnavigationsmittel weitgehend abgelöst.",
+    "kernpunkte": [
+      { "punkt": "arbeitet weltweit", "synonyme": ["weltweit", "global", "überall", "weltweite Abdeckung"] },
+      { "punkt": "Position jederzeit verfügbar", "synonyme": ["jederzeit verfügbar", "ständig verfügbar", "rund um die Uhr", "immer abrufbar"] },
+      { "punkt": "geringer Positionsfehler / hohe Genauigkeit", "synonyme": ["geringer Positionsfehler", "genau", "hohe Genauigkeit", "kleiner Fehler"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "3-8",
+    "kurzantwort": "Warmwassernebel entsteht, wenn kalte Luft über warmes Wasser strömt (Verdunstung führt zur Feuchtesättigung). Tritt bevorzugt im Herbst auf.",
+    "erklaerung": "Über warmem Wasser verdunstet viel Feuchtigkeit; trifft darüber kalte Luft mit großer Temperaturdifferenz, sättigt sie sich und es bildet sich Nebel (\"dampfender\" Wasserdunst). In Europa passt das vor allem im Herbst, wenn das Wasser noch warm, die Luft aber schon kühl ist.",
+    "kernpunkte": [
+      { "punkt": "kalte Luft strömt über warmes Wasser (Verdunstung, Feuchtesättigung)", "synonyme": ["kalte Luft über warmes Wasser", "Verdunstung", "Feuchtesättigung", "Temperaturdifferenz", "Wasser wärmer als Luft"] },
+      { "punkt": "tritt überwiegend im Herbst auf", "synonyme": ["Herbst", "im Herbst", "Spätherbst", "Herbstmonate"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "3-9",
+    "kurzantwort": "Ein- und Auskuppeln des Propellers, Umsteuern auf Rückwärtsfahrt, Drehzahluntersetzung.",
+    "erklaerung": "Das Wendegetriebe sitzt zwischen Motor und Propellerwelle. Es trennt die Kraftübertragung (Leerlauf), kehrt die Drehrichtung für Rückwärtsfahrt um und setzt die hohe Motordrehzahl auf eine für den Propeller sinnvolle, niedrigere Drehzahl herab.",
+    "kernpunkte": [
+      { "punkt": "Ein- und Auskuppeln des Propellers", "synonyme": ["ein- und auskuppeln", "kuppeln", "Kupplung", "Antrieb trennen", "Leerlauf"] },
+      { "punkt": "Umsteuern des Propellers auf Rückwärtsfahrt", "synonyme": ["umsteuern", "Rückwärtsfahrt", "Drehrichtung umkehren", "rückwärts", "achteraus"] },
+      { "punkt": "Drehzahluntersetzung", "synonyme": ["Drehzahluntersetzung", "Untersetzung", "Getriebeuntersetzung", "Drehzahl reduzieren"] }
+    ],
+    "wichtigkeit": 1
+  },
+  {
+    "id": "3-10",
+    "kurzantwort": "Basislinie = Grenze zwischen inneren Gewässern eines Staates und dem Küstenmeer. Sie ist in Seekarten eingezeichnet.",
+    "erklaerung": "Die Basislinie ist die seewärtige Begrenzung der inneren Gewässer; von ihr aus wird die Breite des Küstenmeers (12 sm) gemessen. Sie ist als Bezugslinie für Hoheitsgrenzen in den Seekarten dargestellt.",
+    "kernpunkte": [
+      { "punkt": "Grenze zwischen inneren Gewässern und Küstenmeer", "synonyme": ["Grenze innere Gewässer und Küstenmeer", "innere Gewässer", "Küstenmeer", "Ausgangslinie", "Bezugslinie für Küstenmeer"] },
+      { "punkt": "in Seekarten eingezeichnet", "synonyme": ["in Seekarten", "in der Seekarte", "Seekarte", "eingezeichnet", "dargestellt"] }
+    ],
+    "wichtigkeit": 1
+  },
+  {
+    "id": "3-11",
+    "kurzantwort": "Alle Gefahren der Schifffahrt/des Zusammenstoßes und alle besonderen Umstände gebührend berücksichtigen; zur Gefahrenabwehr ist notfalls ein Abweichen von den Regeln erlaubt.",
+    "erklaerung": "Die KVR sind keine starren Vorschriften ohne Verstand: Man muss stets die konkrete Lage und alle Gefahren einbeziehen. Wenn die Befolgung einer Regel in eine Kollision führen würde (z. B. weil der Ausweichpflichtige nicht handelt), darf und muss man zur Abwendung unmittelbarer Gefahr abweichen.",
+    "kernpunkte": [
+      { "punkt": "alle Gefahren der Schifffahrt und des Zusammenstoßes berücksichtigen", "synonyme": ["alle Gefahren", "Gefahren der Schifffahrt", "Kollisionsgefahr", "Gefahr des Zusammenstoßes"] },
+      { "punkt": "alle besonderen Umstände einschließlich Behinderungen beachten", "synonyme": ["besondere Umstände", "Behinderungen", "konkrete Lage", "Umstände des Falls"] },
+      { "punkt": "Abweichen von den Regeln zur Abwendung unmittelbarer Gefahr zulässig/nötig", "synonyme": ["Abweichen von den Regeln", "Regelabweichung", "unmittelbare Gefahr abwenden", "Abweichen von der Kurshaltepflicht", "Notmanöver"] }
+    ],
+    "wichtigkeit": 3
+  },
+  {
+    "id": "3-12",
+    "kurzantwort": "Reichweite wie UKW; bei Handelsschiffen ca. 20-30 sm. Abhängig vor allem von der Antennenhöhe.",
+    "erklaerung": "AIS sendet über UKW, daher gilt quasi optische Sichtweite: Je höher die Antennen, desto weiter die Reichweite. Bei großen Schiffen mit hohen Antennen sind 20-30 sm üblich, bei kleinen Yachten entsprechend weniger.",
+    "kernpunkte": [
+      { "punkt": "Reichweite/Ausbreitung entspricht UKW", "synonyme": ["wie UKW", "UKW", "VHF", "UKW-Reichweite", "quasioptisch"] },
+      { "punkt": "bei Handelsschiffen ca. 20-30 sm", "synonyme": ["20 bis 30 sm", "20-30 Seemeilen", "etwa 20-30 sm", "Handelsschiffe Reichweite"] },
+      { "punkt": "abhängig von der Antennenhöhe", "synonyme": ["Antennenhöhe", "Höhe der Antenne", "Antenne hoch", "Antennenposition"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "3-13",
+    "kurzantwort": "Zusätzlich von Wind und Seegang, besonders von brechenden Wellen (Brechern).",
+    "erklaerung": "Die in ruhigem Wasser gemessene Stabilität reicht im Sturm nicht aus: Wind drückt das Boot in Schräglage, und vor allem brechende Seen können es schlagartig krängen oder gar kentern lassen. Deshalb ist die dynamische Stabilität im Seegang entscheidend.",
+    "kernpunkte": [
+      { "punkt": "Wind", "synonyme": ["Wind", "Winddruck", "starker Wind"] },
+      { "punkt": "Seegang, besonders brechende Wellen", "synonyme": ["Seegang", "brechende Wellen", "Brecher", "Wellen", "Welleneinfluss"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "3-14",
+    "kurzantwort": "Logge liefert nur die Fahrt durchs Wasser (FdW). Für die Fahrt über Grund (FüG) müssen Stromrichtung und Stromgeschwindigkeit berücksichtigt werden.",
+    "erklaerung": "Eine Logge misst die Geschwindigkeit relativ zum Wasser, nicht zum Grund. Da Strom das Boot zusätzlich versetzt, muss man Stromrichtung und -stärke einrechnen, um aus der FdW die tatsächliche FüG für die Koppelnavigation in der Seekarte zu erhalten.",
+    "kernpunkte": [
+      { "punkt": "Logge liefert nur Fahrt durchs Wasser (FdW)", "synonyme": ["Fahrt durchs Wasser", "FdW", "durchs Wasser", "relativ zum Wasser"] },
+      { "punkt": "für Fahrt über Grund (FüG) Strom berücksichtigen (Richtung und Geschwindigkeit)", "synonyme": ["Fahrt über Grund", "FüG", "Strom", "Stromrichtung", "Stromgeschwindigkeit", "Stromversetzung"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "3-15",
+    "kurzantwort": "Der Mondtag dauert im Mittel 24 h 50 min (länger als der Sonnentag von 24 h), daher rutscht ein HW/NW zeitweise in den nächsten Kalendertag.",
+    "erklaerung": "Die Gezeiten richten sich nach dem Mond, dessen Umlauf einen Mondtag von rund 24 h 50 min ergibt. Das Tidengeschehen verschiebt sich täglich um knapp 50 Minuten, sodass an manchen Kalendertagen ein Hoch- oder Niedrigwasser herausfällt und nur eines übrig bleibt.",
+    "kernpunkte": [
+      { "punkt": "Mondtag ca. 24 h 50 min, länger als Sonnentag 24 h", "synonyme": ["Mondtag", "24 h 50 min", "24 Stunden 50 Minuten", "Mond braucht länger", "Sonnentag 24 h"] },
+      { "punkt": "Tide verschiebt sich, HW/NW rutscht in den nächsten Tag", "synonyme": ["verschiebt sich", "rutscht in nächsten Tag", "Verschiebung um 50 min", "fällt in den Folgetag", "nur ein HW oder NW"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "3-16",
+    "kurzantwort": "Stationsmeldungen sind ortsgebunden: Die Windrichtung kann durch die Umgebung verfälscht, die Windgeschwindigkeit meist reduziert (selten erhöht) sein. Bedingungen auf See können abweichen.",
+    "erklaerung": "Wetterstationen stehen oft an Land oder in geschützter Lage. Hindernisse lenken den Wind ab (verfälschte Richtung) und bremsen ihn (geringere Geschwindigkeit), in Düsenlagen auch verstärkt. Auf offener See ist der Wind daher in der Regel stärker und gleichmäßiger als gemeldet.",
+    "kernpunkte": [
+      { "punkt": "Windrichtung durch Umgebung der Station verfälscht", "synonyme": ["Windrichtung verfälscht", "Umgebung", "Hindernisse lenken ab", "ortsabhängig", "Lage der Station"] },
+      { "punkt": "Windgeschwindigkeit meist reduziert, in Einzelfällen erhöht", "synonyme": ["Windgeschwindigkeit reduziert", "abgeschwächt", "geringer", "in Einzelfällen erhöht", "Düseneffekt"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "3-17",
+    "kurzantwort": "Manövrierunfähigkeit anzeigen (UKW, Schallsignal lang-kurz-kurz, weißes Rundumlicht, Handlampe), Signal weißer Stern/Blitz-Knall, Verkehrszentrale informieren.",
+    "erklaerung": "Ein Fahrzeug unter 12 m muss die zwei roten Rundumlichter nicht führen, soll seine Manövrierunfähigkeit aber mit allen Mitteln deutlich machen. Du machst dich durch Funk, Schall- und Lichtsignale sowie Anleuchten bemerkbar und benachrichtigst die Verkehrszentrale, damit das große Schiff dich wahrnimmt und ausweicht.",
+    "kernpunkte": [
+      { "punkt": "Manövrierunfähigkeit mit verfügbaren Mitteln anzeigen (UKW, Schallsignal lang-kurz-kurz)", "synonyme": ["manövrierunfähig anzeigen", "UKW", "Sprechfunk", "Schallsignal", "lang-kurz-kurz", "ein langer zwei kurze Töne"] },
+      { "punkt": "mit starker Handlampe anleuchten", "synonyme": ["Handlampe", "Handscheinwerfer", "anleuchten", "Suchscheinwerfer"] },
+      { "punkt": "weißes Rundumlicht führen", "synonyme": ["weißes Rundumlicht", "Rundumlicht", "weißes Licht zeigen"] },
+      { "punkt": "Signal weißer Stern oder Blitz-Knall abfeuern; Verkehrszentrale informieren", "synonyme": ["weißer Stern", "Blitz-Knall", "Signalrakete", "Verkehrszentrale", "Revierzentrale informieren"] }
+    ],
+    "wichtigkeit": 3
+  },
+  {
+    "id": "3-18",
+    "kurzantwort": "Zwei Feuer gleicher Höhe, Lichtstärke und Kennung, beidseits der Fahrwasserachse, einander rechtwinklig gegenüber und gleich weit von der Achse entfernt.",
+    "erklaerung": "Ein Torfeuer markiert die Fahrwasserachse wie ein \"Tor\": Man fährt mittig zwischen beiden identischen Feuern hindurch. Da sie symmetrisch zur Achse stehen, zeigt das Halten gleicher Abstände, dass man auf der Achse liegt.",
+    "kernpunkte": [
+      { "punkt": "zwei Feuer gleicher Höhe, Lichtstärke und Kennung", "synonyme": ["zwei Feuer", "gleiche Höhe", "gleiche Lichtstärke", "gleiche Kennung", "identische Feuer"] },
+      { "punkt": "beidseits der Fahrwasserachse, rechtwinklig gegenüber, gleich weit entfernt", "synonyme": ["beiderseits der Fahrwasserachse", "rechtwinklig zur Achse", "gegenüber", "gleich weit entfernt", "symmetrisch zur Fahrwasserachse", "Tor"] }
+    ],
+    "wichtigkeit": 1
+  },
+  {
+    "id": "3-19",
+    "kurzantwort": "Bleib-weg-Signal (kurz-lang). Es warnt vor freiwerdenden Gefahrgütern/radioaktiven Stoffen oder Explosionsgefahr. Größtmöglichen Abstand halten, keine elektrischen Schalter, kein offenes Feuer.",
+    "erklaerung": "Das Schallsignal kurz-lang zusammen mit einem roten Rundumlicht ist das Bleib-weg-Signal. Es wird gegeben, wenn an Bord gefährliche oder radioaktive Stoffe austreten (können) oder Explosionsgefahr besteht. Andere Fahrzeuge müssen sicheren Abstand wahren und Zündquellen (Schalter, Feuer) meiden.",
+    "kernpunkte": [
+      { "punkt": "Bleib-weg-Signal (Schallsignal kurz-lang)", "synonyme": ["Bleib-weg-Signal", "Bleibwegsignal", "kurz-lang", "ein kurzer ein langer Ton", "Warnsignal Gefahrgut"] },
+      { "punkt": "Anlass: freiwerdende gefährliche/radioaktive Güter oder Explosionsgefahr", "synonyme": ["gefährliche Güter", "Gefahrgut", "radioaktive Stoffe", "Explosionsgefahr", "austretende Stoffe"] },
+      { "punkt": "sicheren Abstand halten, keine elektrischen Schalter, kein offenes Feuer", "synonyme": ["möglichst weit entfernen", "sicherer Abstand", "Abstand halten", "keine Schalter bedienen", "kein offenes Feuer", "keine Zündquelle"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "3-20",
+    "kurzantwort": "Flüssiggas ist schwerer als Luft, sinkt nach unten (z. B. in die Bilge) und bildet dort mit Luft ein explosives Gemisch.",
+    "erklaerung": "Propan und Butan sind schwerer als Luft. Austretendes Gas steigt nicht ab, sondern sammelt sich an tiefen Stellen wie der Bilge, wo es nicht entweichen kann. Schon ein Funke kann das gebildete explosive Gas-Luft-Gemisch zünden.",
+    "kernpunkte": [
+      { "punkt": "schwerer als Luft, sinkt nach unten / sammelt sich in der Bilge", "synonyme": ["schwerer als Luft", "sinkt ab", "sammelt sich unten", "Bilge", "tiefste Stelle"] },
+      { "punkt": "bildet mit Luft ein explosives Gemisch", "synonyme": ["explosives Gemisch", "explosiv", "Explosionsgefahr", "Gas-Luft-Gemisch", "zündfähig"] }
+    ],
+    "wichtigkeit": 3
+  },
+  {
+    "id": "3-21",
+    "kurzantwort": "Das ölhaltige Bilgenwasser muss im Hafen (an einer Annahmestelle) entsorgt werden.",
+    "erklaerung": "MARPOL verbietet das Einleiten von ölhaltigem Wasser, wenn die zulässigen Bedingungen (Ölgehalt, Lage, Anlage) nicht erfüllt sind. Dann darf man nicht über Bord lenzen, sondern muss das Bilgenwasser sammeln und im Hafen ordnungsgemäß abgeben.",
+    "kernpunkte": [
+      { "punkt": "im Hafen entsorgen", "synonyme": ["im Hafen entsorgen", "Hafen", "Annahmestelle", "Entsorgungsstation", "an Land entsorgen", "nicht über Bord"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "3-22",
+    "kurzantwort": "Es ist jederzeit durch Sehen, Hören und jedes andere verfügbare Mittel gehöriger Ausguck zu halten, um Lage und Kollisionsgefahr vollständig zu beurteilen.",
+    "erklaerung": "Gehöriger Ausguck heißt: ununterbrochene Beobachtung der Umgebung mit allen Sinnen und Hilfsmitteln (Augen, Ohren, Radar, AIS). Nur so erfasst man die Verkehrslage vollständig und erkennt rechtzeitig die Gefahr eines Zusammenstoßes.",
+    "kernpunkte": [
+      { "punkt": "jederzeit / ständig Ausguck halten", "synonyme": ["jederzeit", "ständig", "ununterbrochen", "durchgehend", "permanent"] },
+      { "punkt": "durch Sehen, Hören und jedes andere verfügbare Mittel", "synonyme": ["Sehen", "Hören", "jedes verfügbare Mittel", "Radar", "AIS", "alle Mittel"] },
+      { "punkt": "vollständiger Überblick über Lage und Gefahr eines Zusammenstoßes", "synonyme": ["vollständiger Überblick", "Lage beurteilen", "Kollisionsgefahr erkennen", "Gefahr des Zusammenstoßes", "Verkehrslage"] }
+    ],
+    "wichtigkeit": 3
+  },
+  {
+    "id": "3-23",
+    "kurzantwort": "Bei unmittelbarer Gefahr für Schiff oder Besatzung, die ohne fremde Hilfe nicht überwunden werden kann - nach Feststellung des Notfalls auf Anordnung des Schiffsführers.",
+    "erklaerung": "Notzeichen dürfen nur im echten Notfall gegeben werden, also bei akuter Gefahr für Menschen oder Boot, der man selbst nicht mehr Herr wird. Die Entscheidung trifft der verantwortliche Schiffsführer; ein Missbrauch ist strafbar.",
+    "kernpunkte": [
+      { "punkt": "unmittelbare Gefahr für Schiff oder Besatzung", "synonyme": ["unmittelbare Gefahr", "akute Gefahr", "Gefahr für Schiff", "Gefahr für Besatzung", "Lebensgefahr"] },
+      { "punkt": "nicht ohne fremde Hilfe überwindbar", "synonyme": ["ohne fremde Hilfe nicht überwindbar", "Hilfe nötig", "selbst nicht beherrschbar", "fremde Hilfe erforderlich"] },
+      { "punkt": "auf Anordnung des Schiffsführers nach Feststellung des Notfalls", "synonyme": ["Anordnung des Schiffsführers", "Schiffsführer entscheidet", "nach Feststellung des Notfalls", "Skipper ordnet an"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "3-24",
+    "kurzantwort": "Lokale Effekte wie Land-/Seewind-Zirkulation sowie Düsen- und Kapeffekte.",
+    "erklaerung": "Seewetterberichte gelten großräumig und können kleinräumige, durch die Küste und das Gelände erzeugte Windveränderungen kaum erfassen. Land-/Seewind, Düseneffekte zwischen Hindernissen und Kapeffekte an Landzungen verändern Stärke und Richtung des Windes lokal teils erheblich.",
+    "kernpunkte": [
+      { "punkt": "Land-/Seewind-Zirkulation", "synonyme": ["Landwind", "Seewind", "Land-Seewind-Zirkulation", "thermischer Wind"] },
+      { "punkt": "Düseneffekt", "synonyme": ["Düseneffekt", "Düsenwirkung", "Düse", "Beschleunigung zwischen Hindernissen"] },
+      { "punkt": "Kapeffekt", "synonyme": ["Kapeffekt", "Kap", "Landzunge", "Effekt an Landspitzen"] }
+    ],
+    "wichtigkeit": 1
+  },
+  {
+    "id": "3-25",
+    "kurzantwort": "Landseitig kann die Reichweite z. B. über Relaisstationen erhöht werden; dabei lassen sich abschattende Hindernisse (z. B. Berge) umgehen.",
+    "erklaerung": "AIS ist normalerweise auf UKW-Sichtweite beschränkt. Mit Relais- bzw. Umsetzerstationen an Land kann die Reichweite vergrößert werden, und über mehrere Stationen werden auch von Bergen abgeschattete Bereiche erreicht, die direkt nicht funkbar wären.",
+    "kernpunkte": [
+      { "punkt": "Reichweite über Relaisstationen erhöhen", "synonyme": ["Relaisstationen", "Relais", "Umsetzer", "Verstärkerstation", "Landstation"] },
+      { "punkt": "abschattende Hindernisse (Berge) können umgangen werden", "synonyme": ["Hindernisse umgehen", "Berge", "Abschattung", "abschattende Hindernisse", "Sichthindernis umgehen"] }
+    ],
+    "wichtigkeit": 1
+  },
+  {
+    "id": "3-26",
+    "kurzantwort": "Bei einer Bö nimmt der wahre Wind zu; im Parallelogramm fällt der scheinbare Wind dadurch achterlicher ein (\"raumt\"). Vorteil: Man kann höher an den wahren Wind/höher kreuzen.",
+    "erklaerung": "Der scheinbare Wind ergibt sich aus wahrem Wind und Fahrtwind. Nimmt der wahre Wind in der Bö zu, wird sein Anteil im Vektorparallelogramm größer und der scheinbare Wind dreht achterlicher (raumt). Beim Kreuzen kann man deshalb höher anluven und Höhe gewinnen.",
+    "kernpunkte": [
+      { "punkt": "in der Bö nimmt der wahre Wind zu, scheinbarer Wind fällt achterlicher ein (raumt)", "synonyme": ["wahrer Wind nimmt zu", "scheinbarer Wind raumt", "raumt", "achterlicher", "dreht achterlich", "raumender Wind"] },
+      { "punkt": "Vorteil: Boot kann höher an den wahren Wind / höher kreuzen", "synonyme": ["höher an den Wind", "höher kreuzen", "anluven", "Höhe gewinnen", "höher segeln"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "3-27",
+    "kurzantwort": "GPS nutzt WGS 84; weicht das Kartendatum der Karte davon ab, ergeben sich Positionsverschiebungen. Nur bei gleichem Datum passen GPS-Position und Karte zusammen.",
+    "erklaerung": "Jede Seekarte beruht auf einem Bezugssystem (Kartendatum). Stimmt es nicht mit dem GPS-System WGS 84 überein, kann eine korrekte GPS-Position in der Karte um etliche Meter falsch liegen. Deshalb muss das Kartendatum beachtet bzw. das GPS entsprechend eingestellt oder die Korrektur angebracht werden.",
+    "kernpunkte": [
+      { "punkt": "GPS verwendet WGS 84 als Bezugssystem", "synonyme": ["WGS 84", "WGS84", "World Geodetic System 1984", "GPS-Bezugssystem"] },
+      { "punkt": "Kartendatum kann abweichen -> Positionsverschiebung/Fehler", "synonyme": ["Kartendatum", "abweichendes Bezugssystem", "anderes Datum", "Positionsverschiebung", "Versatz", "Fehler in der Karte"] }
+    ],
+    "wichtigkeit": 3
+  },
+  {
+    "id": "3-28",
+    "kurzantwort": "Isobaren zeigen Windrichtung und Druckgefälle: Je enger die Isobaren liegen, desto größer das Druckgefälle und desto stärker der Wind.",
+    "erklaerung": "Isobaren verbinden Orte gleichen Luftdrucks. Der Wind weht nahezu parallel zu ihnen, sodass man die Windrichtung ablesen kann. Eng beieinanderliegende Isobaren bedeuten ein starkes Druckgefälle und damit starken Wind, weit auseinander schwachen Wind.",
+    "kernpunkte": [
+      { "punkt": "Windrichtung", "synonyme": ["Windrichtung", "Richtung des Windes", "Wind weht parallel zu Isobaren"] },
+      { "punkt": "Druckgefälle: enge Isobaren = starkes Gefälle = starker Wind", "synonyme": ["Druckgefälle", "Druckunterschied", "enge Isobaren", "dicht beieinander", "starker Wind", "Windstärke"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "3-29",
+    "kurzantwort": "Zur Überprüfung der Funktionsfähigkeit des Kompasses und der Richtigkeit der Werte in der Ablenkungstabelle (Deviation).",
+    "erklaerung": "Der Magnetkompass kann durch Einbauten, Elektronik oder Veränderungen an Bord eine andere Ablenkung (Deviation) bekommen. Regelmäßige Kontrollen stellen sicher, dass der Kompass korrekt arbeitet und die Werte der Ablenkungstabelle noch stimmen - sonst navigiert man mit falschen Kursen.",
+    "kernpunkte": [
+      { "punkt": "Überprüfung der Funktionsfähigkeit des Kompasses", "synonyme": ["Funktionsfähigkeit", "Funktion prüfen", "Kompass funktioniert", "Funktionstüchtigkeit"] },
+      { "punkt": "Überprüfung der Werte der Ablenkungstabelle (Deviation)", "synonyme": ["Ablenkungstabelle", "Deviation", "Ablenkung", "Deviationstabelle", "Werte kontrollieren"] }
+    ],
+    "wichtigkeit": 2
+  },
+  {
+    "id": "3-30",
+    "kurzantwort": "Fenderbrett gegen die Pfähle legen (gleicht zur ebenen Fläche aus), dahinter Fender als Polster, Boot daran legen; sichern mit Vor-/Achterleine und Vor-/Achterspring.",
+    "erklaerung": "Vorspringende Pfähle würden das Boot punktuell beschädigen. Das Fenderbrett überbrückt die Pfähle zu einer geraden Anlegefläche; die Fender polstern zwischen Boot und Brett. Festgemacht wird mit Vor- und Achterleine sowie Vor- und Achterspring, damit das Boot in Längsrichtung fixiert ist.",
+    "kernpunkte": [
+      { "punkt": "Fenderbrett gegen die Pfähle/Pier legen (gleicht zu ebener Fläche aus)", "synonyme": ["Fenderbrett gegen die Pier", "Fenderbrett an die Pfähle", "ebene Fläche", "gerade Fläche ausgleichen", "Pfähle überbrücken"] },
+      { "punkt": "Fender als Polster zwischen Boot und Fenderbrett", "synonyme": ["Fender als Polster", "gepolstert mit Fendern", "Fender dazwischen", "abpolstern"] },
+      { "punkt": "Festmachen mit Vor- und Achterleine sowie Vor- und Achterspring", "synonyme": ["Vorleine", "Achterleine", "Vorspring", "Achterspring", "Springs", "Festmacherleinen"] }
+    ],
+    "wichtigkeit": 1
+  }
+]
