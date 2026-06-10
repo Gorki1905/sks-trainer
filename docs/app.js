@@ -449,7 +449,7 @@ function resetProg() {
 
 /* ================= AUTO / FAHRT-MODUS (Audio) ================= */
 let autoState = { list: [], idx: 0, playing: false, answerShown: false, seq: 0 };
-let autoSettings = { source: 'wichtig', gap: 4000, voice: true };
+let autoSettings = { source: 'wichtig', gap: 4000, voice: true, nextPause: 1600 };
 let wakeLock = null, recog = null, voiceActive = false, autoTimer = null;
 
 function renderAutoSetup() {
@@ -466,8 +466,10 @@ function renderAutoSetup() {
         <option value="alle">Alle 450 (zufällig)</option>
         ${bopts}
       </select>
-      <div class="label">Denkpause (Zeit zum Selbstbeantworten)</div>
+      <div class="label">Denkpause nach der Frage (Zeit zum Selbstbeantworten)</div>
       <select id="autoGap"><option value="2500">kurz (2,5s)</option><option value="4000" selected>normal (4s)</option><option value="6500">lang (6,5s)</option></select>
+      <div class="label">Pause nach der Antwort (bis zur nächsten Frage)</div>
+      <select id="autoNextPause"><option value="800">kurz (0,8s)</option><option value="1600" selected>normal (1,6s)</option><option value="3000">lang (3s)</option></select>
       <label class="row" style="margin-top:12px;justify-content:flex-start;gap:8px">
         <input type="checkbox" id="autoVoice" style="width:auto" ${autoSettings.voice ? 'checked' : ''}>
         <span>Sprachbefehle versuchen („gewusst", „nicht", „weiter", „antwort")</span></label>
@@ -512,9 +514,10 @@ function buildAutoList(src) {
 }
 
 function startAuto() {
-  const srcEl = document.getElementById('autoSrc'), gapEl = document.getElementById('autoGap'), vEl = document.getElementById('autoVoice');
+  const srcEl = document.getElementById('autoSrc'), gapEl = document.getElementById('autoGap'), vEl = document.getElementById('autoVoice'), npEl = document.getElementById('autoNextPause');
   if (srcEl) autoSettings.source = srcEl.value;
   if (gapEl) autoSettings.gap = +gapEl.value;
+  if (npEl) autoSettings.nextPause = +npEl.value;
   if (vEl) autoSettings.voice = vEl.checked;
   autoState.list = buildAutoList(autoSettings.source);
   if (!autoState.list.length) autoState.list = buildAutoList('alle');
@@ -586,16 +589,35 @@ function expandForSpeech(text) {
   for (const [re, rep] of ABBR) t = t.replace(re, rep);
   return t.replace(/\s+/g, ' ').trim();
 }
-function speak(text, onend) {
-  if (typeof speechSynthesis === 'undefined' || typeof SpeechSynthesisUtterance === 'undefined') { if (onend) setTimeout(onend, 0); return; }
+/* Geschätzte Lesedauer (ms) aus Textlänge + Tempo – nur als Fallback-Puffer. */
+function estimateSpeechMs(text) {
+  const t = expandForSpeech(text || '');
+  const rate = S.settings.rate || 0.95;
+  const cps = 13 * rate;            // ~13 Zeichen/Sek. bei Tempo 1
+  return Math.max(1200, Math.round(t.length / cps * 1000));
+}
+/* Spricht den Text und ruft onDone() GENAU dann auf, wenn das Vorlesen
+   wirklich fertig ist (onend). Watchdog fängt fehlendes onend (iOS) ab –
+   großzügig gepuffert, damit nie mitten im Satz abgeschnitten wird. */
+let speakWD = null;
+function speak(text, onDone) {
+  clearTimeout(speakWD);
+  let done = false;
+  const finish = () => { if (done) return; done = true; clearTimeout(speakWD); if (onDone) onDone(); };
+  if (typeof speechSynthesis === 'undefined' || typeof SpeechSynthesisUtterance === 'undefined') {
+    speakWD = setTimeout(finish, 300); return;
+  }
   try { speechSynthesis.cancel(); } catch (e) { }
   const u = new SpeechSynthesisUtterance(expandForSpeech(text));
   const v = currentVoice();
   if (v) { u.voice = v; u.lang = v.lang; } else { u.lang = 'de-DE'; }
   u.rate = S.settings.rate || 0.95;
   u.pitch = S.settings.pitch || 1;
-  if (onend) u.onend = onend;
-  speechSynthesis.speak(u);
+  u.onend = finish;
+  u.onerror = finish;
+  try { speechSynthesis.speak(u); } catch (e) { finish(); return; }
+  // Watchdog: deutlich länger als die geschätzte Lesedauer -> nur Notnagel
+  speakWD = setTimeout(finish, estimateSpeechMs(text) + 4000);
 }
 function testVoice() { speak('Dies ist ein Test der Sprachausgabe für deinen SKS Trainer. Frage: Was bedeutet die Backbordlaterne?'); }
 function setHint() {
@@ -628,8 +650,14 @@ function revealAnswer(seq) {
   const c = card(q.id); c.seen++; c.last = Date.now(); S.cards[q.id] = c; save();
   speak(q.kurzantwort || q.antwort, () => {
     if (seq !== autoState.seq || !autoState.playing) return;
-    if (voiceActive) startListening();
-    autoTimer = setTimeout(() => { if (seq === autoState.seq && autoState.playing) autoNext(); }, Math.max(5000, autoSettings.gap + 2500));
+    // erst NACHDEM die Antwort fertig vorgelesen ist, kurze Pause -> nächste Frage
+    if (voiceActive) {
+      startListening();
+      // bei Sprachbefehlen länger warten (Zeit für "gewusst"/"nicht"); sonst Sicherheits-Weiterschaltung
+      autoTimer = setTimeout(() => { if (seq === autoState.seq && autoState.playing) autoNext(); }, 9000);
+    } else {
+      autoTimer = setTimeout(() => { if (seq === autoState.seq && autoState.playing) autoNext(); }, autoSettings.nextPause || 1600);
+    }
   });
 }
 function autoNext() { clearTimeout(autoTimer); autoState.idx = (autoState.idx + 1) % autoState.list.length; playCurrent(); }
@@ -723,7 +751,7 @@ if ('serviceWorker' in navigator && location.protocol.startsWith('http')) {
 
 // expose für inline-onclick
 Object.assign(window, { setLearnMode, revealLearn, rate, toggleMuster, toggleErkl, renderExamSetup, startExam, checkChunk, setScore, renderExamResult, reviewExam, renderBrowse, syncPush, syncPull, saveSettings, resetProg, chunkQs, totalChunks, checkAnswer,
-  renderAutoSetup, startAuto, stopAuto, autoNext, autoPrev, autoTogglePlay, autoSpeakAnswer, autoRate, buildAutoList, testVoice, saveAutoVoice, expandForSpeech });
+  renderAutoSetup, startAuto, stopAuto, autoNext, autoPrev, autoTogglePlay, autoSpeakAnswer, autoRate, buildAutoList, testVoice, saveAutoVoice, expandForSpeech, estimateSpeechMs, speak });
 
 // Start
 if (!TOTAL) view.innerHTML = '<div class="card">⚠️ Keine Daten geladen (data.js fehlt).</div>';
