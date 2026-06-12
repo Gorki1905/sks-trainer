@@ -92,12 +92,65 @@ function checkAnswer(q, answer) {
   return { results, hits, total, points };
 }
 
+/* ================= STRATEGIE (minimaler Lernpfad) =================
+   Idee: In der Prüfung kommt EIN Bogen (30 Fragen, 60 Punkte). Für 39 Punkte
+   genügen 20 sicher gewusste Fragen (20×2=40). Pro Bogen dürfen also die 10
+   schwersten/längsten wegfallen. Manche Fragen wiederholen sich über Bögen –
+   die lernt man nur einmal. Greedy-Multi-Cover wählt die minimale Menge an
+   einfachsten + am häufigsten vorkommenden Fragen, die JEDEN Bogen ≥39 sichert. */
+const STRAT_NEED = 20;                 // Fragen je Bogen für ≥39 Punkte
+function effortOf(q) { return ((q.kurzantwort || q.antwort) || "").length; }
+// Gruppen identischer Fragen (eine Frage = eine Lern-Einheit, egal in wie vielen Bögen)
+const stratGroups = (() => {
+  const m = new Map();
+  for (const q of DATA) { const k = norm(q.frage); if (!m.has(k)) m.set(k, []); m.get(k).push(q); }
+  return m;
+})();
+const groupRep = {};      // key -> Frage mit kürzester Antwort (die lernen wir)
+const groupBoegen = {};   // key -> Liste der Bögen, die diese Frage abdeckt
+for (const [k, arr] of stratGroups) {
+  groupRep[k] = arr.slice().sort((a, b) => effortOf(a) - effortOf(b))[0];
+  groupBoegen[k] = [...new Set(arr.map(q => q.bogen))];
+}
+function groupMastered(k) { return stratGroups.get(k).some(q => mastered(q.id)); }
+function groupDue(k) { return isDue(groupRep[k].id); }
+// Greedy: wähle Gruppen, bis jeder Bogen STRAT_NEED erreicht – Reihenfolge = Lern-Priorität
+const strategyKeys = (() => {
+  const need = {}; for (const b of boegen) need[b] = STRAT_NEED;
+  const chosen = [], remaining = new Set(stratGroups.keys());
+  while (boegen.some(b => need[b] > 0)) {
+    let best = null, bestScore = -1;
+    for (const k of remaining) {
+      const benefit = groupBoegen[k].reduce((a, b) => a + (need[b] > 0 ? 1 : 0), 0);
+      if (benefit <= 0) continue;
+      const score = benefit / (effortOf(groupRep[k]) + 1);   // viel Nutzen, wenig Aufwand
+      if (score > bestScore) { bestScore = score; best = k; }
+    }
+    if (best == null) break;
+    remaining.delete(best); chosen.push(best);
+    for (const b of groupBoegen[best]) if (need[b] > 0) need[b]--;
+  }
+  return chosen;
+})();
+const STRAT_TOTAL = strategyKeys.length;
+function strategyMastered() { return strategyKeys.filter(groupMastered).length; }
+function safeBoegenCount() {
+  const cnt = {}; for (const b of boegen) cnt[b] = 0;
+  for (const k of strategyKeys) if (groupMastered(k)) for (const b of groupBoegen[k]) cnt[b]++;
+  return boegen.filter(b => cnt[b] >= STRAT_NEED).length;
+}
+
 /* ================= LERNEN ================= */
-let learnMode = 'due';   // 'due' | 'wichtig' | 'schwach'
+let learnMode = 'strategie';   // 'strategie' | 'due' | 'wichtig' | 'schwach'
 let learnQueue = [], learnCur = null, learnRevealed = false;
 function buildQueue() {
   let pool;
-  if (learnMode === 'wichtig') {
+  if (learnMode === 'strategie') {
+    // Erst neue Pflicht-Fragen in optimaler Reihenfolge, dann fällige zur Wiederholung
+    const neu = strategyKeys.filter(k => !groupMastered(k)).map(k => groupRep[k]);
+    const wdh = strategyKeys.filter(k => groupMastered(k) && groupDue(k)).map(k => groupRep[k]);
+    return neu.concat(wdh);
+  } else if (learnMode === 'wichtig') {
     pool = DATA.filter(q => !mastered(q.id));
     pool.sort((a, b) => (b.wichtigkeit - a.wichtigkeit) || ((a.kurzantwort || a.antwort).length - (b.kurzantwort || b.antwort).length));
   } else if (learnMode === 'schwach') {
@@ -114,25 +167,30 @@ function renderLearn() {
   setTab('learn');
   if (!learnQueue.length) learnQueue = buildQueue();
   view.innerHTML = '';
+  if (learnMode === 'strategie') view.append(strategyDashboard());
   view.append(el(`<div class="card">
     <div class="qmeta">Lernmodus</div>
     <div class="row">
+      <button class="${learnMode === 'strategie' ? 'btn-primary' : ''}" onclick="setLearnMode('strategie')">🎯 Strategie</button>
       <button class="${learnMode === 'due' ? 'btn-primary' : ''}" onclick="setLearnMode('due')">Fällig</button>
       <button class="${learnMode === 'wichtig' ? 'btn-primary' : ''}" onclick="setLearnMode('wichtig')">Wichtigste</button>
       <button class="${learnMode === 'schwach' ? 'btn-primary' : ''}" onclick="setLearnMode('schwach')">Schwächen</button>
     </div></div>`));
   if (!learnQueue.length) {
-    view.append(el(`<div class="card center"><div class="big">🎉</div>
-      <div class="verdict v-good">Nichts offen in diesem Modus!</div>
-      <p class="muted">Wechsle den Modus oder mach eine Prüfungssimulation.</p></div>`));
+    const allDone = learnMode === 'strategie' && strategyMastered() >= STRAT_TOTAL;
+    view.append(el(`<div class="card center"><div class="big">${allDone ? '🏆' : '🎉'}</div>
+      <div class="verdict v-good">${allDone ? 'Strategie komplett – du bestehst jeden Bogen!' : 'Nichts offen in diesem Modus!'}</div>
+      <p class="muted">${allDone ? 'Mach eine Prüfungssimulation zur Bestätigung.' : 'Wechsle den Modus oder mach eine Prüfungssimulation.'}</p></div>`));
     return;
   }
   learnCur = learnQueue[0]; learnRevealed = false;
   const q = learnCur, c = card(q.id);
+  const nBoegen = (groupBoegen[norm(q.frage)] || [q.bogen]).length;
+  const hebel = learnMode === 'strategie' && nBoegen > 1 ? ` · 🔗 zählt in ${nBoegen} Bögen` : '';
   view.append(el(`
     <div class="progress"><i style="width:${100 * DATA.filter(x => mastered(x.id)).length / TOTAL}%"></i></div>
     <div class="card">
-      <div class="qmeta">Bogen ${q.bogen} · Frage ${q.num} · Box ${c.box}/5 ${q.wichtigkeit >= 3 ? '· ⭐ wichtig' : ''} · noch ${learnQueue.length}</div>
+      <div class="qmeta">Bogen ${q.bogen} · Frage ${q.num} · Box ${c.box}/5 ${q.wichtigkeit >= 3 ? '· ⭐ wichtig' : ''}${hebel} · noch ${learnQueue.length}</div>
       <div class="qtext">${esc(q.frage)}</div>
       <div id="ansArea" class="hidden">
         <div class="label">Kurzantwort (das Wichtigste)</div>
@@ -144,8 +202,23 @@ function renderLearn() {
       </div>
     </div>
     <div id="learnCtl"></div>
-    <div class="kbd">Leertaste = aufdecken · 1 nicht · 2 fast · 3 gewusst</div>`));
+    <div class="kbd">Leertaste = aufdecken · 1 nicht · 2 fast · 3 gewusst · (Return tut nichts)</div>`));
   renderLearnCtl();
+}
+function strategyDashboard() {
+  const done = strategyMastered(), safe = safeBoegenCount();
+  const pct = STRAT_TOTAL ? Math.round(100 * done / STRAT_TOTAL) : 0;
+  const safePct = Math.round(100 * safe / boegen.length);
+  return el(`<div class="card">
+    <div class="qmeta">🎯 Strategie – minimaler Weg zum Bestehen</div>
+    <p class="muted" style="margin:4px 0 12px">Lerne nur <b>${STRAT_TOTAL}</b> statt ${TOTAL} Fragen (einfachste + häufigste zuerst) → ≥39 Punkte in <b>jedem</b> Bogen.</p>
+    <div class="label">Strategie-Fragen beherrscht</div>
+    <div class="progress"><i style="width:${pct}%"></i></div>
+    <div style="margin:4px 0 12px"><b>${done}</b> / ${STRAT_TOTAL} &nbsp;(${pct}%)</div>
+    <div class="label">Bögen schon sicher bestanden (≥39 P)</div>
+    <div class="progress"><i style="width:${safePct}%;background:#3ecf8e"></i></div>
+    <div style="margin-top:4px"><b>${safe}</b> / ${boegen.length} Bögen</div>
+  </div>`);
 }
 function setLearnMode(m) { learnMode = m; learnQueue = []; renderLearn(); }
 function toggleMuster() { document.getElementById('muster').classList.toggle('hidden'); }
@@ -740,7 +813,7 @@ document.querySelectorAll('.nav button').forEach(b => {
 document.addEventListener('keydown', e => {
   if (!document.querySelector('.nav button[data-tab="learn"]').classList.contains('active')) return;
   if (e.target.tagName === 'TEXTAREA' || e.target.tagName === 'INPUT') return;
-  if (e.code === 'Space' || e.code === 'Enter') { if (!learnRevealed) { e.preventDefault(); revealLearn(); } }
+  if (e.code === 'Space') { if (!learnRevealed) { e.preventDefault(); revealLearn(); } }
   else if (learnRevealed && ['1', '2', '3'].includes(e.key)) rate({ '1': 'bad', '2': 'fast', '3': 'good' }[e.key]);
 });
 
