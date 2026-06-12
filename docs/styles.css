@@ -59,6 +59,7 @@ input,select{font:inherit;background:var(--panel2);color:var(--txt);border:1px s
 .scorebtns{display:flex;gap:8px;margin-top:10px}
 .scorebtns button{flex:1;padding:10px}
 .scorebtns button.sel{outline:2px solid var(--accent)}
+.btn-row button.sel{outline:3px solid #fff;outline-offset:-1px}
 .toast{position:fixed;left:50%;bottom:84px;transform:translateX(-50%);background:#0b1018;border:1px solid var(--line);
   color:var(--txt);padding:10px 16px;border-radius:99px;font-size:14px;opacity:0;transition:opacity .25s;z-index:50;pointer-events:none}
 .toast.show{opacity:1}

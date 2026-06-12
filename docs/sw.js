@@ -1,5 +1,5 @@
 /* SKS Trainer Service Worker – App-Shell offline cachen */
-const CACHE = "sks-trainer-v5";
+const CACHE = "sks-trainer-v6";
 const ASSETS = [
   "./",
   "./index.html",

@@ -142,7 +142,7 @@ function safeBoegenCount() {
 
 /* ================= LERNEN ================= */
 let learnMode = 'strategie';   // 'strategie' | 'due' | 'wichtig' | 'schwach'
-let learnQueue = [], learnCur = null, learnRevealed = false;
+let learnQueue = [], learnCur = null, learnRevealed = false, learnCheck = null, learnRating = null;
 function buildQueue() {
   let pool;
   if (learnMode === 'strategie') {
@@ -183,7 +183,7 @@ function renderLearn() {
       <p class="muted">${allDone ? 'Mach eine Prüfungssimulation zur Bestätigung.' : 'Wechsle den Modus oder mach eine Prüfungssimulation.'}</p></div>`));
     return;
   }
-  learnCur = learnQueue[0]; learnRevealed = false;
+  learnCur = learnQueue[0]; learnRevealed = false; learnCheck = null; learnRating = null;
   const q = learnCur, c = card(q.id);
   const nBoegen = (groupBoegen[norm(q.frage)] || [q.bogen]).length;
   const hebel = learnMode === 'strategie' && nBoegen > 1 ? ` · 🔗 zählt in ${nBoegen} Bögen` : '';
@@ -192,6 +192,8 @@ function renderLearn() {
     <div class="card">
       <div class="qmeta">Bogen ${q.bogen} · Frage ${q.num} · Box ${c.box}/5 ${q.wichtigkeit >= 3 ? '· ⭐ wichtig' : ''}${hebel} · noch ${learnQueue.length}</div>
       <div class="qtext">${esc(q.frage)}</div>
+      <textarea id="learnInput" placeholder="Deine Antwort eintippen (optional)…"></textarea>
+      <div id="learnResult"></div>
       <div id="ansArea" class="hidden">
         <div class="label">Kurzantwort (das Wichtigste)</div>
         <div class="kurz">${esc(q.kurzantwort || q.antwort)}</div>
@@ -202,7 +204,7 @@ function renderLearn() {
       </div>
     </div>
     <div id="learnCtl"></div>
-    <div class="kbd">Leertaste = aufdecken · 1 nicht · 2 fast · 3 gewusst · (Return tut nichts)</div>`));
+    <div class="kbd">Tippen ist optional · Leertaste = nur aufdecken · 1/2/3 = bewerten &amp; weiter · (Return tut nichts)</div>`));
   renderLearnCtl();
 }
 function strategyDashboard() {
@@ -223,24 +225,52 @@ function strategyDashboard() {
 function setLearnMode(m) { learnMode = m; learnQueue = []; renderLearn(); }
 function toggleMuster() { document.getElementById('muster').classList.toggle('hidden'); }
 function toggleErkl() { document.getElementById('erkl').classList.toggle('hidden'); }
+const PTS2RATE = { 0: 'bad', 1: 'fast', 2: 'good' };
 function renderLearnCtl() {
   const ctl = document.getElementById('learnCtl'); ctl.innerHTML = '';
-  if (!learnRevealed) ctl.append(el(`<button class="btn-primary" onclick="revealLearn()">Antwort zeigen</button>`));
-  else {
-    document.getElementById('ansArea').classList.remove('hidden');
+  if (!learnRevealed) {
     ctl.append(el(`<div class="btn-row">
-      <button class="btn-bad" onclick="rate('bad')">Nicht&nbsp;gewusst</button>
-      <button class="btn-warn" onclick="rate('fast')">Fast</button>
-      <button class="btn-good" onclick="rate('good')">Gewusst</button></div>`));
+      <button class="btn-primary" onclick="checkLearn()">Antwort prüfen</button>
+      <button class="btn-ghost" onclick="revealLearn()">Nur aufdecken</button></div>`));
+    return;
   }
+  document.getElementById('ansArea').classList.remove('hidden');
+  // Auto-Bewertung anzeigen (falls getippt + geprüft)
+  const res = document.getElementById('learnResult'); res.innerHTML = '';
+  if (learnCheck) {
+    res.append(el(`<div class="result">
+      <div class="label">Auto-Bewertung – Vorschlag: <b>${learnCheck.points} P</b> (${learnCheck.hits}/${learnCheck.total} Kernpunkte)</div>
+      ${learnCheck.results.map(x => `<div class="kp ${x.hit ? 'hit' : 'miss'}"><span class="dot">${x.hit ? '✓' : '✗'}</span><span>${esc(x.kp.punkt)}</span></div>`).join('')}
+    </div>`));
+  }
+  const sel = r => learnRating === r ? ' sel' : '';
+  ctl.append(el(`<div class="label">Wie gut wusstest du es?</div>
+    <div class="btn-row">
+      <button class="btn-bad${sel('bad')}" onclick="setLearnRating('bad')">Nicht&nbsp;gewusst</button>
+      <button class="btn-warn${sel('fast')}" onclick="setLearnRating('fast')">Fast</button>
+      <button class="btn-good${sel('good')}" onclick="setLearnRating('good')">Gewusst</button>
+    </div>`));
+  const next = el(`<button class="btn-primary" style="margin-top:10px" ${learnRating ? '' : 'disabled'}>Weiter&nbsp;▶</button>`);
+  next.onclick = () => { if (learnRating) confirmLearn(); };
+  ctl.append(next);
+  if (!learnRating) ctl.append(el(`<p class="muted center" style="margin-top:6px">Bewertung wählen (oder Taste 1/2/3), dann „Weiter".</p>`));
 }
-function revealLearn() { learnRevealed = true; renderLearnCtl(); }
-function rate(r) {
-  applyRating(learnCur.id, r);
+function checkLearn() {
+  const ta = document.getElementById('learnInput');
+  learnCheck = checkAnswer(learnCur, ta ? ta.value : '');
+  learnRating = PTS2RATE[learnCheck.points];   // Vorschlag – überschreibbar
+  learnRevealed = true; renderLearnCtl();
+}
+function revealLearn() { learnCheck = null; learnRating = null; learnRevealed = true; renderLearnCtl(); }
+function setLearnRating(r) { learnRating = r; renderLearnCtl(); }
+function confirmLearn() {
+  applyRating(learnCur.id, learnRating);
   learnQueue.shift();
-  if (r === 'bad') learnQueue.push(learnCur);
+  if (learnRating === 'bad') learnQueue.push(learnCur);
   updateHeader(); renderLearn();
 }
+// Tastatur: 1/2/3 = bewerten + direkt weiter
+function rate(r) { learnRating = r; confirmLearn(); }
 
 /* ================= PRÜFUNG ================= */
 let exam = null;
@@ -823,7 +853,7 @@ if ('serviceWorker' in navigator && location.protocol.startsWith('http')) {
 }
 
 // expose für inline-onclick
-Object.assign(window, { setLearnMode, revealLearn, rate, toggleMuster, toggleErkl, renderExamSetup, startExam, checkChunk, setScore, renderExamResult, reviewExam, renderBrowse, syncPush, syncPull, saveSettings, resetProg, chunkQs, totalChunks, checkAnswer,
+Object.assign(window, { setLearnMode, revealLearn, checkLearn, setLearnRating, confirmLearn, rate, toggleMuster, toggleErkl, renderExamSetup, startExam, checkChunk, setScore, renderExamResult, reviewExam, renderBrowse, syncPush, syncPull, saveSettings, resetProg, chunkQs, totalChunks, checkAnswer,
   renderAutoSetup, startAuto, stopAuto, autoNext, autoPrev, autoTogglePlay, autoSpeakAnswer, autoRate, buildAutoList, testVoice, saveAutoVoice, expandForSpeech, estimateSpeechMs, speak });
 
 // Start
