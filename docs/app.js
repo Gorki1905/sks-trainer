@@ -847,9 +847,21 @@ document.addEventListener('keydown', e => {
   else if (learnRevealed && ['1', '2', '3'].includes(e.key)) rate({ '1': 'bad', '2': 'fast', '3': 'good' }[e.key]);
 });
 
-// Service Worker (nur über http/https)
+// Service Worker (nur über http/https) – mit Auto-Update + einmaligem Reload
 if ('serviceWorker' in navigator && location.protocol.startsWith('http')) {
-  navigator.serviceWorker.register('sw.js').catch(() => { });
+  let reloaded = false;
+  navigator.serviceWorker.addEventListener('controllerchange', () => {
+    if (reloaded) return; reloaded = true; location.reload();
+  });
+  navigator.serviceWorker.register('sw.js').then(reg => {
+    reg.update();
+    reg.addEventListener('updatefound', () => {
+      const nw = reg.installing;
+      if (nw) nw.addEventListener('statechange', () => {
+        if (nw.state === 'installed' && navigator.serviceWorker.controller) nw.postMessage('skipWaiting');
+      });
+    });
+  }).catch(() => { });
 }
 
 // expose für inline-onclick
